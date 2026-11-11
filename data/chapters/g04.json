@@ -1,0 +1,386 @@
+{
+  "course": "grammaire",
+  "seq": 4,
+  "title_fr": "LE NOM et L'ARTICLE",
+  "page_start": 22,
+  "page_end": 31,
+  "pdf_start": 24,
+  "pdf_end": 33,
+  "sections": [
+    { "title_fr": "MASCULIN et FÉMININ des NOMS de PERSONNES", "page_no": 22 },
+    { "title_fr": "MASCULIN et FÉMININ des NOMS de CHOSES", "page_no": 24 },
+    { "title_fr": "LES NOMS D'ANIMAUX ont souvent un genre unique :", "page_no": 24 },
+    { "title_fr": "SINGULIER et PLURIEL des NOMS", "page_no": 26 },
+    { "title_fr": "L'ARTICLE", "page_no": 28 },
+    { "title_fr": "L'ARTICLE CONTRACTÉ", "page_no": 30 }
+  ],
+  "blocks": [
+    { "page_no": 22, "seq": 1, "type": "chapter_title", "body_html": "<span class='ch-no'>4</span> LE NOM et L'ARTICLE" },
+    { "page_no": 22, "seq": 2, "type": "para", "body_html": "En français, le nom est toujours masculin ou féminin, singulier ou pluriel ; il est, en général, précédé d'un article défini ou indéfini.<br><em>La Suède et la Norvège sont <strong>des</strong> pays voisins.</em>" },
+    { "page_no": 22, "seq": 3, "type": "section_title", "body_html": "MASCULIN et <strong>FÉMININ</strong> des <strong>NOMS</strong> de <strong>PERSONNES</strong>" },
+    { "page_no": 22, "seq": 4, "type": "keypoint", "body_html": "<strong>Un étudiant</strong> anglais parle avec <strong>une étudiante</strong> anglaise.<br><strong>Le garçon</strong> est blond et <strong>la fille</strong> est brune." },
+    { "page_no": 22, "seq": 5, "type": "para", "body_html": "Pour les <strong>personnes</strong>, le genre des noms correspond au sexe :" },
+    { "page_no": 22, "seq": 6, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>masculin</span><span class='wordlist'><em>un étudiant</em></span></div><div><span class='lead'>féminin</span><span class='wordlist'><em>une étudiante</em></span></div></div>" },
+    { "page_no": 22, "seq": 7, "type": "subhead", "body_html": "Pour former le féminin, on ajoute « -e » au masculin :" },
+    { "page_no": 22, "seq": 8, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>un étudiant blond</em><br><em>un ami adoré</em></span></div><div><span class='wordlist'><em>une étudiante blonde</em><br><em>une amie adorée</em></span></div></div><div class='annotation'>Règle générale :<br>masculin + -e</div>" },
+    { "page_no": 22, "seq": 9, "type": "para", "body_html": "<p class='bullet'>Quand le masculin se termine par « -e », on change seulement l'article :</p><p class='sample'><em>un concierge</em>&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>une</strong> concierge</em></p>" },
+    { "page_no": 22, "seq": 10, "type": "subhead", "body_html": "Parfois, toute la terminaison du mot change :" },
+    { "page_no": 22, "seq": 11, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>un musicien italien</em><br><em>un champion breton</em><br><em>un serveur rêveur</em><br><em>un acteur séducteur</em></span></div><div><span class='wordlist'><em>une musicienne italienne</em><br><em>une championne bretonne</em><br><em>une serveuse rêveuse</em><br><em>une actrice séductrice</em></span></div></div><div class='annotation'>-en/-enne<br>-on/-onne<br>-eur/-euse<br>-teur/-trice</div>" },
+    { "page_no": 22, "seq": 12, "type": "warning", "body_html": "« -teur » devient « -teuse » dans quelques cas :<br><span class='example-line'><em>une chanteuse – une menteuse – une conteuse – une monteuse.</em></span>" },
+    { "page_no": 22, "seq": 13, "type": "subhead", "body_html": "Cas particuliers :" },
+    { "page_no": 22, "seq": 14, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>un garçon, un fils/une fille</em><br><em>un homme, un mari/une femme</em><br><em>un monsieur/une dame</em></span></div><div><span class='wordlist'><em>un copain/une copine</em><br><em>un roi/une reine</em><br><em>un prince/une princesse</em></span></div></div>" },
+    { "page_no": 22, "seq": 15, "type": "warning", "body_html": "<em>Madame, Mademoiselle, Monsieur</em> (titres) s'utilisent sans article." },
+    { "page_no": 22, "seq": 16, "type": "xref", "body_html": "Noms d'animaux, p. 24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professions, p. 34&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Villes et pays, p. 44&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parenté, p. 38" },
+
+    { "page_no": 24, "seq": 17, "type": "running_head", "body_html": "LE NOM et L'ARTICLE" },
+    { "page_no": 24, "seq": 18, "type": "section_title", "body_html": "MASCULIN et <strong>FÉMININ</strong> des <strong>NOMS</strong> de <strong>CHOSES</strong>" },
+    { "page_no": 24, "seq": 19, "type": "keypoint", "body_html": "<strong>un</strong> placard&nbsp;&nbsp;&nbsp;&nbsp;<strong>une</strong> armoire<br><strong>un</strong> problème&nbsp;&nbsp;&nbsp;&nbsp;<strong>une</strong> solution" },
+    { "page_no": 24, "seq": 20, "type": "para", "body_html": "Pour les <strong>objets</strong> et les <strong>notions</strong>, le genre est arbitraire." },
+    { "page_no": 24, "seq": 21, "type": "subhead", "body_html": "La terminaison des noms peut parfois indiquer le genre :" },
+    { "page_no": 24, "seq": 22, "type": "table", "body_html": "<p><strong>Masculin :</strong></p><div class='two-col'><div><span class='wordlist'><em>-age</em><br><br><em>-ment</em><br><em>-eau</em><br><em>-phone/-scope</em><br><em>-isme</em></span></div><div><span class='wordlist'><em>le garage, le fromage, le ménage…</em><br><em>(Mais : la plage, la cage, la page, la nage, l'image, la rage)</em><br><em>le gouvernement, le monument, le médicament…</em><br><em>le bureau, le couteau, le carreau…</em><br><em>un téléphone, un interphone, un microscope…</em><br><em>le réalisme, le socialisme…</em></span></div></div><p><strong>Féminin :</strong></p><div class='two-col'><div><span class='wordlist'><em>-tion</em><br><em>-sion</em><br><em>-té</em><br><br><em>-ette</em><br><br><em>-ance</em><br><em>-ence</em><br><br><em>-ure</em><br><br><em>-ode/-ade/-ude</em></span></div><div><span class='wordlist'><em>la situation, la solution, la réalisation…</em><br><em>la décision, la télévision…</em><br><em>la société, la réalité, la bonté, la beauté…</em><br><em>(Mais : le côté, l'été, le comité, le député, le pâté)</em><br><em>la bicyclette, la trompette, la cigarette…</em><br><em>(Mais : le squelette)</em><br><em>la connaissance, la dépendance, la ressemblance…</em><br><em>la référence, la différence, la présence…</em><br><em>(Mais : le silence)</em><br><em>la culture, la peinture, la nourriture…</em><br><em>(Mais : le mercure, le cyanure…)</em><br><em>la méthode, la salade, la certitude…</em></span></div></div>" },
+    { "page_no": 24, "seq": 23, "type": "warning", "body_html": "<p class='bullet'><strong>Sont masculins</strong> un grand nombre de noms terminés par « e » :</p><p class='sample'><em>un problème</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>un système</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>un programme</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>un volume</em><br><em>un modèle</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>un groupe</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>un domaine</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>un rôle</em></p>" },
+    { "page_no": 24, "seq": 24, "type": "para", "body_html": "<p class='bullet'><strong>Sont féminins</strong> quelques noms en « -eur » :</p><p class='sample'><em>la couleur</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>l'odeur</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>la saveur</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>la peur</em><br><em>la douleur</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>la fleur</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>l'erreur</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>la valeur</em></p>" },
+    { "page_no": 24, "seq": 25, "type": "section_title", "body_html": "LES <strong>NOMS D'ANIMAUX</strong> ont souvent un genre unique :" },
+    { "page_no": 24, "seq": 26, "type": "list", "body_html": "<em>la mouche</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>la souris</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>la tortue</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>le poisson</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>le pigeon</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>le moineau</em><br>Mais : <em>le chat/la chatte</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>le coq/la poule</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>le cheval/la jument</em>" },
+
+    { "page_no": 26, "seq": 27, "type": "running_head", "body_html": "LE NOM et L'ARTICLE" },
+    { "page_no": 26, "seq": 28, "type": "section_title", "body_html": "SINGULIER et <strong>PLURIEL</strong> des <strong>NOMS</strong>" },
+    { "page_no": 26, "seq": 29, "type": "keypoint", "body_html": "un étudiant espagnol&nbsp;&nbsp;&nbsp;&nbsp;des étudiant<strong>s</strong> <strong>espagnols</strong><br>une étudiante espagnole&nbsp;&nbsp;&nbsp;&nbsp;des étudiante<strong>s</strong> <strong>espagnoles</strong>" },
+    { "page_no": 26, "seq": 30, "type": "subhead", "body_html": "Pour former le pluriel, on ajoute « -s » au singulier :" },
+    { "page_no": 26, "seq": 31, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>un livre bleu</em><br><em>une table basse</em></span></div><div><span class='wordlist'><em>des livre<strong>s</strong> bleus</em><br><em>des table<strong>s</strong> basses</em></span></div></div><div class='annotation'>Règle générale :<br>singulier + -s</div>" },
+    { "page_no": 26, "seq": 32, "type": "para", "body_html": "<p class='bullet'>Quand le singulier se termine par « -s », « -x » ou « -z », le pluriel est identique :</p><p class='sample'><em>un cas précis</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des cas précis</em><br><em>un choix malheureux</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des choix malheureux</em><br><em>un gaz dangereux</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des gaz dangereux</em></p>" },
+    { "page_no": 26, "seq": 33, "type": "subhead", "body_html": "« -al »/« -au » deviennent « -aux » :" },
+    { "page_no": 26, "seq": 34, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>un journal original</em><br><em>un tableau génial</em></span></div><div><span class='wordlist'><em>des journ<strong>aux</strong> origin<strong>aux</strong></em><br><em>des table<strong>aux</strong> gén<strong>iaux</strong></em></span></div></div><div class='annotation'>-al/-aux<br>-au/-aux</div>" },
+    { "page_no": 26, "seq": 35, "type": "list", "body_html": "Mais : <em>des festivals</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des carnavals</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des bals</em>" },
+    { "page_no": 26, "seq": 36, "type": "para", "body_html": "<p class='bullet'>Le pluriel de « -ail » est régulier :</p><p class='sample'><em>des rails</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des éventails</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des portails</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des détails</em></p>" },
+    { "page_no": 26, "seq": 37, "type": "list", "body_html": "Mais : <em>des travau<strong>x</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des vitrau<strong>x</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des émau<strong>x</strong></em>" },
+    { "page_no": 26, "seq": 38, "type": "subhead", "body_html": "« -eu » devient « -eux » :" },
+    { "page_no": 26, "seq": 39, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>un cheveu soyeux</em><br><em>un jeu dangereux</em></span></div><div><span class='wordlist'><em>des cheveu<strong>x</strong> soyeu<strong>x</strong></em><br><em>des jeu<strong>x</strong> dangereu<strong>x</strong></em></span></div></div><div class='annotation'>-eu/-eux</div>" },
+    { "page_no": 26, "seq": 40, "type": "list", "body_html": "Mais : <em>des bleus</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des pneus</em>" },
+    { "page_no": 26, "seq": 41, "type": "subhead", "body_html": "Quelques noms terminés par « -ou » prennent un « -x » au pluriel :" },
+    { "page_no": 26, "seq": 42, "type": "list", "body_html": "<em>des bijou<strong>x</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des caillou<strong>x</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des chou<strong>x</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des genou<strong>x</strong></em><br><em>des hibou<strong>x</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des joujou<strong>x</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des pou<strong>x</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des bisous</em>" },
+    { "page_no": 26, "seq": 43, "type": "subhead", "body_html": "Cas particuliers :" },
+    { "page_no": 26, "seq": 44, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>un œil/des yeux</em><br><em>Madame/Mesdames</em></span></div><div><span class='wordlist'><em>un ciel/des cieux</em><br><em>Monsieur/Messieurs</em></span></div><div><span class='wordlist'>&nbsp;<br><em>Mademoiselle/Mesdemoiselles</em></span></div></div>" },
+    { "page_no": 26, "seq": 45, "type": "phonetic", "body_html": "<p class='bullet'>On prononce le « -f » des noms suivants au singulier mais pas au pluriel :</p><span class='example-line'><em>un œuf/des œufs</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>un bœuf/des bœufs</em></span>" },
+
+    { "page_no": 28, "seq": 46, "type": "running_head", "body_html": "LE NOM et L'ARTICLE" },
+    { "page_no": 28, "seq": 47, "type": "section_title", "body_html": "L'<strong>ARTICLE</strong>" },
+    { "page_no": 28, "seq": 48, "type": "keypoint", "body_html": "<strong>La</strong> tour Eiffel est <strong>une</strong> tour immense.<br><strong>Les</strong> hommes sont <strong>des</strong> bipèdes particuliers." },
+    { "page_no": 28, "seq": 49, "type": "para", "body_html": "L'article est masculin ou féminin, singulier ou pluriel, indéfini ou défini." },
+    { "page_no": 28, "seq": 50, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>&nbsp;</span><span class='wordlist'>Masculin singulier<br>Féminin singulier<br>Pluriel</span></div><div><span class='lead'>Indéfini</span><span class='wordlist'><strong>un</strong> garçon<br><strong>une</strong> fille<br><strong>des</strong> enfants</span></div><div><span class='lead'>Défini</span><span class='wordlist'><strong>le</strong> garçon<br><strong>la</strong> fille<br><strong>les</strong> enfants</span></div></div>" },
+    { "page_no": 28, "seq": 51, "type": "subhead", "body_html": "<strong>L'ARTICLE INDÉFINI</strong> désigne <strong>une catégorie</strong> de choses ou de personnes :" },
+    { "page_no": 28, "seq": 52, "type": "example", "body_html": "<em>une tour moderne</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>un boulanger</em>" },
+    { "page_no": 28, "seq": 53, "type": "para", "body_html": "<p class='bullet'>« Un/une » exprime aussi l'unité. (= 1) :</p><p class='sample'><em>J'ai <strong>un</strong> chien, <strong>une</strong> chatte (et deux canaris).</em></p>" },
+    { "page_no": 28, "seq": 54, "type": "subhead", "body_html": "<strong>L'ARTICLE DÉFINI</strong> désigne une chose ou une personne <strong>en particulier</strong> :" },
+    { "page_no": 28, "seq": 55, "type": "example", "body_html": "<em>la tour Eiffel</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>le boulanger de ma rue</em>" },
+    { "page_no": 28, "seq": 56, "type": "para", "body_html": "<p class='bullet'>L'article défini exprime aussi une <strong>généralité</strong> :</p><p class='sample'><em>la liberté,&nbsp;&nbsp;le bonheur,&nbsp;&nbsp;l'amour</em></p>" },
+    { "page_no": 28, "seq": 57, "type": "para", "body_html": "<p class='bullet'>L'article défini reprend un nom déjà mentionné :</p><p class='sample'><em>J'ai un chien et un chat.&nbsp;&nbsp;&nbsp;&nbsp;<strong>Le</strong> chat est noir,&nbsp;&nbsp;&nbsp;&nbsp;<strong>le</strong> chien est blanc.</em></p>" },
+    { "page_no": 28, "seq": 58, "type": "warning", "body_html": "Avec les verbes de <strong>goût</strong> (aimer, détester, etc.), on utilise un article <strong>défini</strong> :<br><span class='example-line'><em>J'aime <strong>la</strong> laine.&nbsp;&nbsp;&nbsp;&nbsp;Je déteste <strong>le</strong> polyester.&nbsp;&nbsp;&nbsp;&nbsp;J'adore <strong>les</strong> couleurs gaies.</em></span>" },
+    { "page_no": 28, "seq": 59, "type": "phonetic", "body_html": "<p class='bullet'><strong>La liaison</strong> avec voyelle ou « h » muet est obligatoire :</p><span class='example-line'><em>un</em><span class='liaison'>n</span><em>étudiant</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>un</em><span class='liaison'>n</span><em>homme</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>les</em><span class='liaison'>z</span><em>étudiants</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>des</em><span class='liaison'>z</span><em>hommes</em><br>Mais : <em>les|héros</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>les|Hollandais</em> (« h » aspiré)</span>" },
+    { "page_no": 28, "seq": 60, "type": "phonetic", "body_html": "<p class='bullet'><strong>L'élision</strong> de « le » et « la » devant voyelle ou « h » muet est obligatoire :</p><span class='example-line'><s>le</s> école → <strong>l'</strong>école&nbsp;&nbsp;&nbsp;&nbsp;<s>le</s> homme → <strong>l'</strong>homme<br>Mais : <em>le|hasard</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>la|Hollande</em> (« h » aspiré)</span>" },
+    { "page_no": 28, "seq": 61, "type": "xref", "body_html": "Parties du corps, p. 36&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date, p. 64&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pays, p. 44&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Négation de l'article, p. 50" },
+
+    { "page_no": 30, "seq": 62, "type": "running_head", "body_html": "LE NOM et L'ARTICLE" },
+    { "page_no": 30, "seq": 63, "type": "section_title", "body_html": "L'<strong>ARTICLE CONTRACTÉ</strong>" },
+    { "page_no": 30, "seq": 64, "type": "keypoint", "body_html": "– Je vais <strong>au</strong> cinéma avec la fille <strong>des</strong> voisins.<br>– Moi, je pars <strong>aux</strong> sports d'hiver avec la femme <strong>du</strong> boulanger." },
+    { "page_no": 30, "seq": 65, "type": "para", "body_html": "Les prépositions « <strong>de</strong> » et « <strong>à</strong> » se contractent avec « <strong>le</strong> » ou « <strong>les</strong> »." },
+    { "page_no": 30, "seq": 66, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'>« <strong>DU</strong> » = « de » + « le »</p><p class='sample'><em>C'est la voiture <strong>du</strong> directeur.</em><br><em>C'est le vélo <strong>du</strong> professeur.</em></p><p class='sample'><s>de le</s></p></div><div><p class='bullet'>« <strong>AU</strong> » = « à » + « le »</p><p class='sample'><em>Il est <strong>au</strong> bureau.</em><br><em>Il va <strong>au</strong> lycée.</em></p><p class='sample'><s>à le</s></p></div><div><p class='bullet'>« <strong>DES</strong> » = « de » + « les »</p><p class='sample'><em>C'est le chien <strong>des</strong> voisins.</em><br><em>Ce sont les skis <strong>des</strong> enfants.</em></p><p class='sample'><s>de les</s></p></div><div><p class='bullet'>« <strong>AUX</strong> » = « à » + « les »</p><p class='sample'><em>Ils sont <strong>aux</strong> sports d'hiver.</em><br><em>Ils vont <strong>aux</strong> sports d'hiver.</em></p><p class='sample'><s>à les</s></p></div></div>" },
+    { "page_no": 30, "seq": 67, "type": "subhead", "body_html": "« <strong>À la</strong> », « <strong>à l'</strong> » et « <strong>de la</strong> », « <strong>de l'</strong> » ne se contractent pas :" },
+    { "page_no": 30, "seq": 68, "type": "example", "body_html": "– <em>Tu vas <strong>à la</strong> gare ou <strong>à l'</strong>aéroport ?</em><br>– <em>Tu pars <strong>de la</strong> gare ou <strong>de l'</strong>aéroport ?</em>" },
+    { "page_no": 30, "seq": 69, "type": "warning", "body_html": "<p class='bullet'>Il faut distinguer « <strong>des</strong> » contracté (« de » + « les ») et « <strong>des</strong> » indéfini :</p><p class='sample'><em>Je parle <strong>des</strong> Français.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Je connais <strong>des</strong> Français.</em><br>« de » + « les » (= tous)&nbsp;&nbsp;&nbsp;&nbsp;pluriel de « un » (= quelques)</p>" },
+    { "page_no": 30, "seq": 70, "type": "subhead", "body_html": "Constructions courantes avec « <strong>de</strong> » ou « <strong>à</strong> » + article :" },
+    { "page_no": 30, "seq": 71, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>Le vélo <strong>du</strong> professeur.</em><br><em>La couleur <strong>de la</strong> mer.</em><br><br><em>Je suis à côté <strong>du</strong> métro, près <strong>de la</strong> poste.</em><br><em>Je suis <strong>au</strong> bureau. Je vais <strong>au</strong> café.</em><br><br><em>Une pizza <strong>au</strong> jambon.</em><br><em>Un homme <strong>aux</strong> yeux bleus.</em></span></div><div><span class='wordlist'>(appartenance)<br><br><br>(lieu)<br><br><br><br>(= avec)</span></div></div>" },
+    { "page_no": 30, "seq": 72, "type": "xref", "body_html": "Partitifs, p. 86&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Verbes avec « à » et « de », p. 160" }
+  ],
+  "exercises": [
+    {
+      "page_no": 23, "seq": 1,
+      "instruction_fr": "Complétez, selon le modèle.",
+      "label": "", "note_html": "Un étudiant chinois et <em class='model'>une étudiante chinoise.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Un homme seul et {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Un homme élancé et {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Un chanteur grec et {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Un garçon sportif et {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Un joli garçon et {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Un chat roux et {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Un mari jaloux et {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Un serveur rêveur et {{L}}" }
+      ]
+    },
+    {
+      "page_no": 23, "seq": 2,
+      "instruction_fr": "Complétez les phrases suivantes.",
+      "label": "", "note_html": "Marc est un directeur compétent. Michèle <em class='model'>est une directrice compétente.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Monsieur Yamamoto est un client important. Madame Lauder {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Gérard est un acteur français. Sophie {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Paolo est un champion de ski italien. Anna {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Daniel est un chanteur canadien. Alanis {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Yannick est un sportif émotif. Surya {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Monsieur Leroy est un électeur conservateur. {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Léonard est un créatif imaginatif. Sonia {{L}}" }
+      ]
+    },
+    {
+      "page_no": 23, "seq": 3,
+      "instruction_fr": "Mettez tout le texte au féminin.",
+      "label": "C'est ma vie", "note_html": "<em class='model'>J'ai une fille adolescente,</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "J'ai un fils adolescent,<br>un mari toujours absent,<br>un voisin envahissant,<br>un copain américain,<br>un chien végétarien,<br>un arrière-grand-père normand<br>et un cousin germain allemand.<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 23, "seq": 4,
+      "instruction_fr": "Cochez et complétez au masculin ou au féminin.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "Êtes-vous un {{c:g}}&nbsp;&nbsp;&nbsp;&nbsp;une {{c:g}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "<div class='two-col'><div><span class='wordlist'>étudian{{b}}&nbsp;&nbsp;&nbsp;bavar{{b}}<br>gran{{b}}&nbsp;&nbsp;&nbsp;lect{{b}}<br>séduc{{b}}&nbsp;&nbsp;&nbsp;discr{{b}}<br>conduc{{b}}&nbsp;&nbsp;&nbsp;agress{{b}}</span></div><div><span class='wordlist'>consomma{{b}}&nbsp;&nbsp;&nbsp;compuls{{b}}<br>écologis{{b}}&nbsp;&nbsp;&nbsp;act{{b}}<br>amour{{b}}&nbsp;&nbsp;&nbsp;jal{{b}}<br>utilisat{{b}} d'Internet</span></div><div><span class='wordlist'>citoy{{b}}&nbsp;&nbsp;&nbsp;engag{{b}}<br>élec{{b}}&nbsp;&nbsp;&nbsp;fid{{b}}<br>specta{{b}}&nbsp;&nbsp;&nbsp;exigean{{b}}<br>ment{{b}}&nbsp;&nbsp;&nbsp;occasion{{b}}</span></div></div>" }
+      ]
+    },
+    {
+      "page_no": 25, "seq": 5,
+      "instruction_fr": "Complétez avec « un » ou « une » (observez l'adjectif).",
+      "label": "", "note_html": "1. <em class='model'>une</em> voiture performante.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. <em class='model'>une</em> voiture performante." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. {{b}} situation gênante." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. {{b}} événement important." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. {{b}} attitude prudente." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. {{b}} dosage précis." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. {{b}} médicament dangereux." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. {{b}} sculpture originale." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. {{b}} fromage piquant." },
+        { "seq": 9, "type": "cloze", "stem_html": "9. {{b}} beauté éclatante." },
+        { "seq": 10, "type": "cloze", "stem_html": "10. {{b}} voyage intéressant." },
+        { "seq": 11, "type": "cloze", "stem_html": "11. {{b}} équipement complet." },
+        { "seq": 12, "type": "cloze", "stem_html": "12. {{b}} traduction précise." },
+        { "seq": 13, "type": "cloze", "stem_html": "13. {{b}} émotion forte." },
+        { "seq": 14, "type": "cloze", "stem_html": "14. {{b}} société imparfaite." },
+        { "seq": 15, "type": "cloze", "stem_html": "15. {{b}} problème permanent." }
+      ]
+    },
+    {
+      "page_no": 25, "seq": 6,
+      "instruction_fr": "Complétez avec « un » ou « une ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<em class='model'>Un</em> garçon, {{b}} dame, {{b}} garage,<br>{{b}} télévision, {{b}} ordinateur, {{b}} tablette,<br>{{b}} bateau, {{b}} voyage, {{b}} aventure,<br>{{b}} voiture, {{b}} bicyclette, {{b}} virage,<br>{{b}} assiette, {{b}} couteau, {{b}} fourchette,<br>{{b}} pharmacienne, {{b}} nuage, {{b}} télescope,<br>{{b}} chienne, {{b}} lionne, {{b}} cage, {{b}} souris,<br>{{b}} image, {{b}} fleur, {{b}} couleur." }
+      ]
+    },
+    {
+      "page_no": 25, "seq": 7,
+      "instruction_fr": "Complétez avec « le » ou « la ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<em class='model'>La</em> société, {{b}} solution, {{b}} santé,<br>{{b}} nature, {{b}} modèle, {{b}} sondage,<br>{{b}} réalité, {{b}} publicité, {{b}} caution,<br>{{b}} confiance, {{b}} culture, {{b}} système,<br>{{b}} programme, {{b}} groupe, {{b}} différence,<br>{{b}} courage, {{b}} révolution, {{b}} rangement,<br>{{b}} jardinage, {{b}} sculpture, {{b}} côté,<br>{{b}} domaine, {{b}} peinture, {{b}} peur." }
+      ]
+    },
+    {
+      "page_no": 25, "seq": 8,
+      "instruction_fr": "Complétez avec « le » ou « la ».",
+      "label": "Quel désordre !", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Où est <em class='model'>le</em> téléphone?<br>– Sur {{b}} commode, sous {{b}} chapeau !<br>– Et {{b}} caméscope ?<br>– Sur {{b}} moquette, sous {{b}} télévision." },
+        { "seq": 2, "type": "cloze", "stem_html": "– Où est {{b}} tablette de Léo ?<br>– Dans {{b}} voiture, sur {{b}} banquette.<br>– Et {{b}} voiture : elle est dans {{b}} garage, j'espère !" }
+      ]
+    },
+    {
+      "page_no": 25, "seq": 9,
+      "instruction_fr": "Complétez avec « le » ou « la ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. <em class='model'>La</em> maisonnette est sur {{L}} plage près de {{L}} pension Beausoleil." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. {{L}} problème est à {{L}} page 8 et {{L}} solution à {{L}} page 10." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. {{L}} poussette et {{L}} bicyclette sont dans {{L}} garage." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. {{L}} nourriture des bébés est importante dès {{L}} naissance." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. {{L}} fiction est souvent plus banale que {{L}} réalité." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Marcher dans {{L}} nature est bon pour {{L}} santé." }
+      ]
+    },
+    {
+      "page_no": 25, "seq": 10,
+      "instruction_fr": "Décrivez le contenu de votre sac.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 27, "seq": 11,
+      "instruction_fr": "Mettez les noms et les adjectifs au pluriel.",
+      "label": "", "note_html": "Une pomme verte, <em class='model'>des pommes vertes.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Un costume noir, {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Une rose rouge, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Un organisme international, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Un homme précis, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Un métal précieux, {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Un journal espagnol, {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Un bas gris, {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Un comportement anormal, {{L}}" },
+        { "seq": 9, "type": "cloze", "stem_html": "9. Un jeu dangereux, {{L}}" },
+        { "seq": 10, "type": "cloze", "stem_html": "10. Un tableau original, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 27, "seq": 12,
+      "instruction_fr": "Complétez au pluriel.",
+      "label": "Brunch", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Alors nous avons :<br>1 café allongé et 2 <em class='model'>cafés</em> serrés,<br>1 salade verte et 2 {{L}} niçoises,<br>1 œuf au plat et 2 {{L}} à la coque," },
+        { "seq": 2, "type": "cloze", "stem_html": "1 jus d'orange et 2 {{L}} de pomme<br>1 gâteau au chocolat et 2 {{L}} au citron.<br>Et voilà 3 fourchette{{b}}, 3 cuillère{{b}} et<br>3 couteau{{b}}. Bon appétit !" }
+      ]
+    },
+    {
+      "page_no": 27, "seq": 13,
+      "instruction_fr": "Mettez les noms et les adjectifs au pluriel.",
+      "label": "", "note_html": "Un voisin amical, <em class='model'>des voisins amicaux.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Un cheveu blond, {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Un caillou bleu, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Un bureau spacieux, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Un couteau pointu, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Un animal domestique, {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Un œil noir, {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Un œuf dur, {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Un bœuf normand, {{L}}" },
+        { "seq": 9, "type": "cloze", "stem_html": "9. Un pneu crevé, {{L}}" },
+        { "seq": 10, "type": "cloze", "stem_html": "10. Un monsieur poli, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 27, "seq": 14,
+      "instruction_fr": "Mettez les phrases au pluriel.",
+      "label": "", "note_html": "L'homme est un animal très spécial. <em class='model'>Les hommes sont des animaux très spéciaux.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Le saphir est un bijou merveilleux. {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. La rose est une fleur ornementale. {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le chien est un animal amical. {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Le chou est un légume indigeste. {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Le zèbre est un cheval sauvage. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 27, "seq": 15,
+      "instruction_fr": "Vous partez à la montagne pour un mois. Qu'est-ce que vous emportez ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "<em class='model'>Des pulls,</em> {{L}}, {{L}}, {{L}}, {{L}}." }
+      ]
+    },
+    {
+      "page_no": 29, "seq": 16,
+      "instruction_fr": "Complétez avec « un », « une », « des » ou « le », « l' », « la », « les ».",
+      "label": "Chez « Adonis »", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Je cherche <em class='model'>un</em> restaurant, sur {{L}} petite place avec {{L}} église, {{L}} fontaine et {{L}} arbres...<br>– C'est {{L}} restaurant français?<br>– Non, c'est {{L}} restaurant grec." },
+        { "seq": 2, "type": "cloze", "stem_html": "– Ah oui, je vois : c'est {{L}} restaurant « Adonis », sur {{L}} place Abélard!<br>– C'est loin ?<br>– Non, c'est là : juste derrière {{L}} arbres, à côté de {{L}} église !" }
+      ]
+    },
+    {
+      "page_no": 29, "seq": 17,
+      "instruction_fr": "Complétez et associez, selon le modèle.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [29],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "J'ai acheté <em class='model'>une</em> lampe.&nbsp;&nbsp;&nbsp;&nbsp;J'ai mis <em class='model'>la lampe</em> sur <em class='model'>la table.</em>" },
+        { "seq": 2, "type": "assoc", "stem_html": "J'ai acheté {{b}} couverture.<br>{{b}} tapis.<br>{{b}} plantes vertes.<br>{{b}} livres." },
+        { "seq": 3, "type": "assoc", "stem_html": "sur {{b}} lit.<br>sur {{b}} balcon.<br>sur {{b}} étagère.<br>sur {{b}} sol." }
+      ]
+    },
+    {
+      "page_no": 29, "seq": 18,
+      "instruction_fr": "Complétez avec un article défini ou indéfini (faites l'élision si c'est nécessaire).",
+      "label": "", "note_html": "<em class='model'>La</em> tour de Pise est <em class='model'>une</em> tour du XII<sup>e</sup> siècle.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. {{b}} pyramide du Louvre est {{b}} grande pyramide de verre." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Pour {{b}} gouvernement, {{b}} chômage est {{b}} problème numéro un." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Selon moi, {{b}} téléphone est {{b}} invention diabolique !" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. À Paris, {{b}} stationnement est {{b}} problème permanent." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. J'aime {{b}} fruits et {{b}} légumes, et je déteste {{b}} fromage et {{b}} poisson." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Quelle est {{b}} hauteur de {{b}} tour Eiffel ? Qui est {{b}} auteur des <em>Noces de Figaro</em> ?" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Chaque fois que je vais à Paris, j'achète {{b}} tour Eiffel pour mon neveu." }
+      ]
+    },
+    {
+      "page_no": 29, "seq": 19,
+      "instruction_fr": "Complétez avec les articles manquants. Imaginez une suite.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Je regarde <em class='model'>un</em> film à {{b}} télévision. {{b}} homme et {{b}} femme entrent dans {{b}} café. {{b}} homme est barbu, {{b}} femme est très jeune et elle porte {{b}} bébé dans les bras. Au fond du café, {{b}} autre femme lit {{b}} journal étranger. Sur {{b}} photo, dans {{b}} journal, on voit {{b}} homme, {{b}} femme et {{b}} bébé qui viennent d'entrer... {{T}}" }
+      ]
+    },
+    {
+      "page_no": 29, "seq": 20,
+      "instruction_fr": "Trouvez les noms.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Véhicule privé à moteur : <em class='model'>une voiture</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "– Brille pour tous : {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "– Égale 60 secondes : {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "– Monument parisien en fer : {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "– Circule sous terre : {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "– Égale 7 jours : {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "– Tourne autour de la terre : {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "– Individu né en France : {{L}}" },
+        { "seq": 9, "type": "cloze", "stem_html": "– Langue parlée en France : {{L}}" }
+      ]
+    },
+    {
+      "page_no": 31, "seq": 21,
+      "instruction_fr": "Associez et complétez, selon le modèle.",
+      "label": "", "note_html": "<s>train</s>&nbsp;&nbsp;&nbsp;&nbsp;bateau&nbsp;&nbsp;&nbsp;&nbsp;bus&nbsp;&nbsp;&nbsp;&nbsp;avion<br>l'aéroport&nbsp;&nbsp;&nbsp;&nbsp;la station de bus&nbsp;&nbsp;&nbsp;&nbsp;le port&nbsp;&nbsp;&nbsp;&nbsp;<s>la gare</s>", "has_image": true, "scan_pages": [31],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "1. Pour prendre <em class='model'>le train</em>, je vais <em class='model'>à la gare.</em>" },
+        { "seq": 2, "type": "assoc", "stem_html": "2. Pour prendre {{L}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "3. Pour prendre {{L}}" },
+        { "seq": 4, "type": "assoc", "stem_html": "4. Pour prendre {{L}}" }
+      ]
+    },
+    {
+      "page_no": 31, "seq": 22,
+      "instruction_fr": "Complétez, selon le modèle.",
+      "label": "", "note_html": "<s>le déjeuner</s>&nbsp;&nbsp;&nbsp;&nbsp;le dîner<br>l'apéritif&nbsp;&nbsp;&nbsp;&nbsp;la sieste", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. 12 h : <em class='model'>C'est l'heure du déjeuner.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. 15 h : {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. 19 h : {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. 20 h : {{L}}" }
+      ]
+    },
+    {
+      "page_no": 31, "seq": 23,
+      "instruction_fr": "Complétez avec les articles contractés manquants.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Je suis <em class='model'>au</em> restaurant, près {{L}} bureau. Je mange une quiche {{L}} fromage et un gâteau {{L}} chocolat. La pâte {{L}} quiche est très légère, mais le goût {{L}} fromage est un peu fort. Le gâteau {{L}} chocolat et {{L}} amandes est une merveille : c'est une spécialité {{L}} chef." }
+      ]
+    },
+    {
+      "page_no": 31, "seq": 24,
+      "instruction_fr": "Complétez avec des articles définis ou contractés.",
+      "label": "Lisez « Global »", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– <em class='model'>La</em> mode, {{b}} informatique, {{b}} sport, {{b}} cinéma, {{b}} voyages, {{b}} sciences : qu'est-ce qui vous intéresse?<br>– Je m'intéresse surtout {{b}} informatique, {{b}} cinéma et {{b}} sciences." },
+        { "seq": 2, "type": "cloze", "stem_html": "– Alors, pour tout savoir sur le monde {{b}} informatique, {{b}} cinéma et {{b}} sciences (et sur le reste) : lisez <em>Global!</em><br>– C'est nouveau? Et ça coûte combien?<br>– Un euro : c'est le prix {{b}} papier !" }
+      ]
+    },
+    {
+      "page_no": 31, "seq": 25,
+      "instruction_fr": "Complétez avec les éléments manquants. Faites l'élision si c'est nécessaire.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<em class='model'>L'</em>appartement de Chloé est vraiment {{b}} appartement extraordinaire : {{b}} éclairage {{b}} couloir est vert fluorescent. {{b}} milieu {{b}} salon, il y a {{b}} petit lac. {{b}} eau {{b}} lac est chaude en hiver et froide en été. {{b}} plafond {{b}} salle de bains est ouvert sur {{b}} étoiles. {{b}} placards {{b}} cuisine sont transparents. {{b}} lit {{b}} fils de Chloé est {{b}} hamac pendu aux branches de {{b}} arbre. {{b}} hamac est jaune d'or, {{b}} arbre est {{b}} palmier véritable. Tout est parfait à mon avis, sauf {{b}} couleur beige {{b}} moquette !" }
+      ]
+    },
+    {
+      "page_no": 31, "seq": 26,
+      "instruction_fr": "Imaginez des plats.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Une pizza <em class='model'>aux champignons</em><br>Un sandwich {{L}}<br>Un gâteau {{L}}<br>Une glace {{L}}<br>Une tarte {{L}}<br>Des pâtes {{L}}" }
+      ]
+    }
+  ]
+}
