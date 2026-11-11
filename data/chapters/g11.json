@@ -1,0 +1,267 @@
+{
+  "course": "grammaire",
+  "seq": 11,
+  "title_fr": "LE VERBE « AVOIR »",
+  "page_start": 48,
+  "page_end": 53,
+  "pdf_start": 50,
+  "pdf_end": 55,
+  "sections": [
+    { "title_fr": "L'ÂGE", "page_no": 48 },
+    { "title_fr": "« AVOIR FAIM », « AVOIR FROID », etc.", "page_no": 48 },
+    { "title_fr": "« AVOIR LES YEUX BLEUS », etc.", "page_no": 50 },
+    { "title_fr": "« AVOIR LE TEMPS », « AVOIR L'HABITUDE », etc.", "page_no": 50 },
+    { "title_fr": "« AVOIR » et la NÉGATION de L'ARTICLE", "page_no": 50 }
+  ],
+  "blocks": [
+    { "page_no": 48, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">11</span> LE VERBE « AVOIR »" },
+    { "page_no": 48, "seq": 2, "type": "keypoint", "body_html": "<table class='conj'><tr><td>J'</td><td><strong>ai</strong></td><td>un passeport.</td></tr><tr><td>Tu</td><td><strong>as</strong></td><td>une carte d'identité.</td></tr><tr><td>Il / Elle / On</td><td><strong>a</strong></td><td>vingt ans.</td></tr><tr><td>Nous</td><td><strong>avons</strong></td><td>un garçon et une fille.</td></tr><tr><td>Vous</td><td><strong>avez</strong></td><td>des enfants ?</td></tr><tr><td>Ils / Elles</td><td><strong>ont</strong></td><td>froid.</td></tr></table>" },
+    { "page_no": 48, "seq": 3, "type": "para", "body_html": "Après le verbe « <strong>avoir</strong> », on utilise en général un <strong>nom</strong> :<br><em>J'ai une moto.</em>&nbsp;&nbsp;<em>Vous avez un vélo.</em>" },
+    { "page_no": 48, "seq": 4, "type": "section_title", "body_html": "L'ÂGE" },
+    { "page_no": 48, "seq": 5, "type": "para", "body_html": "Pour indiquer l'âge, on utilise le verbe « <strong>avoir</strong> » :" },
+    { "page_no": 48, "seq": 6, "type": "list", "body_html": "<em>Mon fils <strong>a</strong> 3 mois.</em><br><em>J'<strong>ai</strong> trente ans.</em> — Ne dites pas : <em><s>Je suis trente</s></em>" },
+    { "page_no": 48, "seq": 7, "type": "warning", "body_html": "<em><strong>Il est</strong> jeune.</em> (« être » + adjectif)&nbsp;&nbsp;&nbsp;<em><strong>Il a</strong> vingt ans.</em> (« avoir » + nom)" },
+    { "page_no": 48, "seq": 8, "type": "section_title", "body_html": "« AVOIR FAIM », « AVOIR FROID », etc." },
+    { "page_no": 48, "seq": 9, "type": "para", "body_html": "Pour exprimer une sensation de manque ou de douleur, on utilise « <strong>avoir</strong> » suivi d'un <strong>nom sans article</strong> :" },
+    { "page_no": 48, "seq": 10, "type": "list", "body_html": "<em>J'ai</em> chaud. / froid. / faim. / soif. / sommeil. / peur (de)<br><em>J'ai</em> besoin de… / envie de…<br><em>J'ai mal</em> à la tête. / au dos. / aux dents." },
+    { "page_no": 48, "seq": 11, "type": "warning", "body_html": "Avec ces expressions, on utilise « <strong>très</strong> » pour exprimer l'intensité.<br><em>Dites : J'<strong>ai très</strong> faim.</em> — <em>Ne dites pas : J'<strong>ai</strong> <s>beaucoup</s> faim.</em><br>Mais, avec « besoin », on dit : <em>J'<strong>ai vraiment</strong> besoin de repos.</em>" },
+    { "page_no": 48, "seq": 12, "type": "xref", "body_html": "« Avoir beau », p. 254&nbsp;&nbsp;&nbsp;Besoin/Envie et les partitifs, p. 88" },
+
+    { "page_no": 50, "seq": 13, "type": "running_head", "body_html": "LE VERBE « AVOIR »" },
+    { "page_no": 50, "seq": 14, "type": "example", "body_html": "<em>Elle <strong>a</strong> les yeux bleus, <strong>les</strong> cheveux bruns et <strong>un</strong> petit nez.</em><br><em>Elle a l'air sympathique. Elle n'a <strong>pas d'</strong>enfant.</em>" },
+    { "page_no": 50, "seq": 15, "type": "section_title", "body_html": "« AVOIR LES YEUX BLEUS », etc." },
+    { "page_no": 50, "seq": 16, "type": "subhead", "body_html": "Pour indiquer une <strong>caractéristique physique</strong>, on utilise « avoir » + article <strong>défini</strong> :" },
+    { "page_no": 50, "seq": 17, "type": "example", "body_html": "<em>Lola a <strong>les</strong> yeux bleus et <strong>les</strong> cheveux bruns.</em><br><em>Elle a <strong>la</strong> peau douce et <strong>la</strong> taille fine.</em>" },
+    { "page_no": 50, "seq": 18, "type": "para", "body_html": "Quand l'adjectif est placé devant le nom, on utilise un <strong>indéfini</strong> :" },
+    { "page_no": 50, "seq": 19, "type": "example", "body_html": "<em>Elle a <strong>un</strong> petit nez et <strong>une</strong> jolie bouche.</em>" },
+    { "page_no": 50, "seq": 20, "type": "section_title", "body_html": "« AVOIR LE TEMPS », « AVOIR L'HABITUDE », etc." },
+    { "page_no": 50, "seq": 21, "type": "subhead", "body_html": "Pour exprimer une <strong>disposition</strong>, on utilise généralement « avoir » + article :" },
+    { "page_no": 50, "seq": 22, "type": "list", "body_html": "<em>avoir <strong>le</strong> temps de</em> — <em>avoir l'intention de</em> — <em>avoir <strong>du</strong> mal à</em><br><em>avoir l'habitude de</em> — <em>avoir l'occasion de</em>" },
+    { "page_no": 50, "seq": 23, "type": "para", "body_html": "Autres expressions avec « avoir » :" },
+    { "page_no": 50, "seq": 24, "type": "list", "body_html": "<em>avoir l'air en forme/fatigué</em> — <em>avoir de la chance</em><br><em>avoir bon/mauvais caractère</em> — <em>avoir raison/tort</em><br><em>avoir lieu</em> : Le spectacle a lieu le 3 mars. La réunion a lieu salle 5." },
+    { "page_no": 50, "seq": 25, "type": "section_title", "body_html": "« AVOIR » et la NÉGATION de L'ARTICLE" },
+    { "page_no": 50, "seq": 26, "type": "para", "body_html": "La négation de l'article <strong>indéfini</strong> est « <strong>de</strong> » :" },
+    { "page_no": 50, "seq": 27, "type": "example", "body_html": "– Vous avez [un / une / des] chien ? voiture ? enfants ?<br>– Non, je n'ai [pas de chien. / pas de voiture. / pas d' enfants.]<br><em>Il y a <strong>un</strong> tableau sur le mur.</em> — <em>Il n'y a <strong>pas de</strong> miroir.</em><br><em>Il y a <strong>des</strong> chaises dans la salle.</em> — <em>Il n'y a <strong>pas de</strong> canapé.</em>" },
+    { "page_no": 50, "seq": 28, "type": "para", "body_html": "Quand on apporte une <strong>précision</strong>, on conserve l'article indéfini :" },
+    { "page_no": 50, "seq": 29, "type": "example", "body_html": "– Vous avez une moto ? – <em>Pas une moto, un scooter.</em>" },
+    { "page_no": 50, "seq": 30, "type": "para", "body_html": "La négation de l'article <strong>défini</strong> est régulière :" },
+    { "page_no": 50, "seq": 31, "type": "example", "body_html": "– Vous avez le permis de conduire ? – <em>Non, je n'ai <strong>pas le</strong> permis de conduire.</em>" },
+    { "page_no": 50, "seq": 32, "type": "xref", "body_html": "Articles, p. 30&nbsp;&nbsp;&nbsp;Place de l'adjectif, p. 54" }
+  ],
+  "exercises": [
+    {
+      "page_no": 49, "seq": 1,
+      "instruction_fr": "Répondez aux questions, selon le modèle.",
+      "label": "Sondage : le logement", "note_html": "– J'ai un appartement.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Vous avez une, deux ou trois chambres ?<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "– Vous avez des meubles anciens ou modernes ?<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "– Vous avez un grand ou un petit salon ?<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "– Vous avez un chauffage électrique ou au gaz ?<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "– Vous avez des voisins calmes ou bruyants ?<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 49, "seq": 2,
+      "instruction_fr": "Complétez les phrases avec « avoir », les pronoms sujets et les articles manquants.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Vous avez un stylo bleu ? – Non, j'ai un stylo noir.<br>2. Cathy {{b}} moto ? – Oui, {{b}} Yamaha.<br>3. Les voisins {{b}} chien ? – Oui, {{b}} chien et deux chats.<br>4. Paul et toi, {{b}} diplômes ? – Oui, tous les deux {{b}} licence d'histoire." }
+      ]
+    },
+    {
+      "page_no": 49, "seq": 3,
+      "instruction_fr": "Complétez avec les verbes ci-dessous.",
+      "label": "", "note_html": "avoir peur — avoir sommeil", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Il est tard, le bébé est fatigué : il a sommeil." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Il est midi : nous {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Mon chien n'est pas courageux : il {{b}} des souris !" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Mon mari est chez le kiné : il {{b}} au dos." }
+      ]
+    },
+    {
+      "page_no": 49, "seq": 4,
+      "instruction_fr": "Complétez les dialogues.",
+      "label": "", "note_html": "– Oui, j'ai besoin d'un café ! Pas vous ?", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous avez besoin d'un café ? – Oui, j'ai besoin d'un café ! Pas vous ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous avez envie d'une glace ?<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous avez peur des serpents ?<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 49, "seq": 5,
+      "instruction_fr": "Posez des questions oralement avec « avoir besoin de », selon le modèle.",
+      "label": "", "note_html": "– Pour voyager en Europe, vous avez besoin d'un visa ?", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Pour voyager en Europe, vous avez besoin d'un visa ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "écrire en français / dictionnaire<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "rester en forme / faire du sport<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "travailler en France / parler français<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 49, "seq": 6,
+      "instruction_fr": "»» Faites des phrases oralement avec « avoir envie de ». Continuez librement.",
+      "label": "", "note_html": "– J'ai envie d'un thé. Mon mari a envie d'un café.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<em class='model'>J'ai envie d'un thé. Mon mari a envie d'un café.</em> Les enfants {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "Avec : thé/café/glace – manger au restaurant/chez sa mère/au McDo – lire/dormir/sortir – un chien/un chat/un lapin<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 49, "seq": 7,
+      "instruction_fr": "»» Exprimez vos envies et vos peurs, en vous inspirant des exemples.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "envies : vacances au bord de la mer / nouvelle voiture / animal domestique / appartement plus grand<br>{{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "peurs : chômage / krach boursier / futur / solitude / insectes / chiens / obscurité<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 51, "seq": 8,
+      "instruction_fr": "Décrivez le personnage. ➾ Décrivez-vous.",
+      "label": "Portrait de Jules", "note_html": "Il a quarante-cinq ans. Il a les cheveux châtains.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Portrait de Jules :<br>âge : 45 ans<br>cheveux : bruns / blonds / châtains / blancs<br>yeux : bleus / noirs / verts / marron<br>visage : rond / carré / allongé / ovale<br>particularités : gros nez / longue barbe / grand front<br>{{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "Décrivez-vous.<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 51, "seq": 9,
+      "instruction_fr": "Répondez aux questions, à la forme affirmative ou négative.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Cet été, vous avez l'intention de partir ? – Oui, {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous avez l'intention de partir en charter ? – Non, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous avez l'habitude de voyager seul ? – Oui, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous avez le temps de lire des guides ? – Non, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous avez souvent l'occasion de voyager ? – Oui, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 51, "seq": 10,
+      "instruction_fr": "Répondez à la forme positive ou négative.",
+      "label": "", "note_html": "– Vous avez une voiture ? – Non, je n'ai pas de voiture.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous avez un chien ? – Oui, {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous avez des enfants ? – Non, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous avez une piscine ? – Non, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous avez un garage ? – Non, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous avez la télé ? – Oui, {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Vous avez le satellite ? – Non, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 51, "seq": 11,
+      "instruction_fr": "Posez des questions selon le modèle.",
+      "label": "", "note_html": "avoir froid – avoir faim – avoir chaud – avoir soif – avoir peur – avoir sommeil<br>– Il fait 15° ! Vous n'avez pas froid ?", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Il fait 15° ! Vous n'avez pas froid ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Il est midi passé ! {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Ce plat est trop salé ! {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Il est 2 heures du matin. {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Cette rue est très sombre ! {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Il fait plus de 30° ! {{L}}" }
+      ]
+    },
+    {
+      "page_no": 51, "seq": 12,
+      "instruction_fr": "Répondez affirmativement ou négativement. Dans la salle de classe, est-ce qu'il y a :",
+      "label": "", "note_html": "– Non, il n'y a pas de rideaux.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Des rideaux ? – Non, il n'y a pas de rideaux." },
+        { "seq": 2, "type": "cloze", "stem_html": "– Des chaises ? – Oui, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "– Un canapé ? – Non, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "– Une télévision ? – Oui, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "– Un miroir ? – Non, {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "– Des placards ? – Oui, {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "– Des plantes vertes ? – Non, {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "– Des posters ? – Oui, {{L}}" },
+        { "seq": 9, "type": "cloze", "stem_html": "– Un ordinateur ? – Non, {{L}}" },
+        { "seq": 10, "type": "cloze", "stem_html": "– Un fauteuil ? – Non, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 52, "seq": 13,
+      "instruction_fr": "Complétez avec « avoir » et répondez aux questions.",
+      "label": "Mes voisins", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Franck et Brigitte sont mes voisins. Ils ont deux enfants : Lou et Marcus. Marcus {{b}} huit ans, comme mon fils Antoine. Il {{b}} les yeux bleus et les cheveux noirs, comme lui. Lou {{b}} trois ans. Elle {{b}} aussi les yeux bleus, mais elle {{b}} les cheveux blonds. Brigitte et moi, nous {{b}} la même baby-sitter, Jouba. Elle {{b}} seulement dix-neuf ans, mais elle {{b}} beaucoup d'expérience, car elle {{b}} cinq frères et sœurs. Mon fils {{b}} un petit chien, Bill. Les enfants de Brigitte {{b}} un chat, un singe et un perroquet. Ça fait beaucoup de monde, mais Jouba {{b}} beaucoup de patience et elle {{b}} bon caractère." },
+        { "seq": 2, "type": "cloze", "stem_html": "1. – Est-ce que Franck et Brigitte ont des enfants ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "2. – Quel âge ont Antoine et Marcus ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "3. – Quel âge a la baby-sitter ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "4. – Les enfants ont-ils des animaux domestiques ? – {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "5. – Est-ce que la baby-sitter a mauvais caractère ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 52, "seq": 14,
+      "instruction_fr": "Répondez selon le modèle en utilisant « être » et « avoir ».",
+      "label": "", "note_html": "– En général, vous êtes nerveux/nerveuse, avant un examen ? – Oui, quand j'ai un examen, je suis nerveux/nerveuse.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous êtes à l'heure, en général, quand vous avez un rendez-vous ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Quand vous êtes en retard, vous avez toujours une bonne excuse ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Est-ce que vous êtes de mauvaise humeur, quand vous êtes fatigué(e) ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous avez de la température, quand vous êtes enrhumé(e) ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 52, "seq": 15,
+      "instruction_fr": "Complétez avec « être », « avoir » et les pronoms manquants.",
+      "label": "", "note_html": "Paul est blond, il est grand et il a les yeux bleus.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je {{b}} marié, {{b}} trente ans et {{b}} deux enfants." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Mon fils et ma fille {{b}} à la maison : {{b}} la grippe." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Eva {{b}} très riche ; {{b}} une Rolls et un chauffeur." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Je {{b}} pressée : {{b}} rendez-vous à 10 heures chez le dentiste." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Il {{b}} minuit, je {{b}} fatiguée et {{b}} sommeil." }
+      ]
+    },
+    {
+      "page_no": 53, "seq": 16,
+      "instruction_fr": "Mettez le texte à la forme affirmative puis négative, selon le modèle.",
+      "label": "", "note_html": "Franck a un petit studio. / Il n'a pas de maison de campagne.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "un petit studio / une maison de campagne<br>{{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "une vieille voiture / un garage<br>{{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "des jeans / un costume<br>{{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "des écharpes / une cravate<br>{{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "des meubles en pin / des meubles en acajou<br>{{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "le temps de lire / le temps de répondre à ses mails<br>{{T}}" },
+        { "seq": 7, "type": "open", "stem_html": "envie de voyager / envie de travailler dans un bureau<br>{{T}}" },
+        { "seq": 8, "type": "open", "stem_html": "besoin de faire du sport / besoin de maigrir<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 53, "seq": 17,
+      "instruction_fr": "D'après ces offres d'emploi, faites des phrases en utilisant « être » et « avoir ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Secrétaire commerciale — Bilingue, 30 ans environ. 5 ans minimum d'expérience en entreprise. Organisée. Sens des responsabilités. Autonome. Disponible.<br>Vous êtes secrétaire commerciale, vous êtes bilingue, vous {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Directeur des ventes — 40 ans environ. Expérience internationale dans le domaine de la vente. Dynamique. Goût des relations humaines.<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Comédien — 25 ans environ. Petit. Brun. Yeux clairs. Cheveux longs. Athlétique.<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 53, "seq": 18,
+      "instruction_fr": "Trouvez les questions et répondez personnellement.",
+      "label": "", "note_html": "– Qu'est-ce que vous avez comme stylo ?", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "– J'ai un roller {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "{{L}} – J'ai un fox-terrier {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "{{L}} – J'ai un PC portable {{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "{{L}} – J'ai un 4 X 4 gris métallisé {{L}}" }
+      ]
+    },
+    {
+      "page_no": 53, "seq": 19,
+      "instruction_fr": "Sur le modèle de l'exercice 2, rédigez l'offre d'emploi qui correspondrait parfaitement à votre profil. Rédigez d'abord en style télégraphique, puis avec des phrases complètes.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}

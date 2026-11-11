@@ -1,0 +1,143 @@
+{
+  "course": "grammaire",
+  "seq": 10,
+  "title_fr": "LA SITUATION dans l'ESPACE (1)",
+  "page_start": 44,
+  "page_end": 47,
+  "pdf_start": 46,
+  "pdf_end": 49,
+  "sections": [
+    { "title_fr": "LES VILLES, LES PAYS, LES CONTINENTS", "page_no": 44 },
+    { "title_fr": "QUELQUES EXPRESSIONS de LIEU", "page_no": 46 }
+  ],
+  "blocks": [
+    { "page_no": 44, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">10</span> LA SITUATION dans L'ESPACE (1)" },
+    { "page_no": 44, "seq": 2, "type": "keypoint", "body_html": "Je suis <strong>à</strong> Madrid, <strong>en</strong> Espagne. Vous êtes <strong>à</strong> Tokyo, <strong>au</strong> Japon." },
+    { "page_no": 44, "seq": 3, "type": "section_title", "body_html": "LES VILLES, LES PAYS, LES CONTINENTS" },
+    { "page_no": 44, "seq": 4, "type": "subhead", "body_html": "Les <strong>villes</strong> n'ont en général <strong>pas d'article</strong> :" },
+    { "page_no": 44, "seq": 5, "type": "list", "body_html": "<em>Paris</em><br><em>Vienne</em> — Mais : <em>Le Havre, Le Caire, La Haye…</em><br><em>Tokyo</em>" },
+    { "page_no": 44, "seq": 6, "type": "subhead", "body_html": "Les <strong>pays et les continents</strong> ont en général <strong>un article</strong> :" },
+    { "page_no": 44, "seq": 7, "type": "list", "body_html": "<em><strong>la</strong> France</em><br><em><strong>le</strong> Japon</em> — Mais : <em>Chypre, Haïti, Israël, Cuba…</em><br><em><strong>les</strong> États-Unis</em><br><em><strong>l'</strong> Afrique</em>" },
+    { "page_no": 44, "seq": 8, "type": "subhead", "body_html": "En général, les pays qui se terminent par « <strong>-e</strong> » sont <strong>féminins</strong> :" },
+    { "page_no": 44, "seq": 9, "type": "list", "body_html": "<em><strong>la</strong> Suisse</em> — <em>le Japon</em> — Mais : <em>le Mexique</em><br><em><strong>la</strong> Russie</em> — <em>le Canada</em> — <em>le Cambodge</em><br><em><strong>la</strong> Hollande</em> — <em>le Brésil</em> — <em>le Mozambique</em>" },
+    { "page_no": 44, "seq": 10, "type": "table", "body_html": "<table class='data-table'><tr><th>« <strong>à</strong> » + ville ou pays sans article</th><th>« <strong>en</strong> » + pays féminin ou continent</th><th>« <strong>au</strong> » + pays masculin « <strong>aux</strong> » + pays pluriel</th></tr><tr><td><em>Je suis <strong>à</strong> Paris.</em> <strong>à</strong> <em>Madrid.</em></td><td><em>Je suis <strong>en</strong> France.</em> <strong>en</strong> <em>Russie.</em></td><td><em>Je suis <strong>au</strong> Brésil.</em> <strong>au</strong> <em>Canada.</em></td></tr><tr><td><em>Je vais <strong>à</strong> Cuba.</em> <strong>à</strong> <em>Hawaï.</em></td><td><em>Je vais <strong>en</strong> Europe.</em> <strong>en</strong> <em>Afrique.</em></td><td><em>Je vais <strong>aux</strong> États-Unis.</em> <strong>aux</strong> <em>Pays-Bas.</em></td></tr></table>" },
+    { "page_no": 44, "seq": 11, "type": "phonetic", "body_html": "• On utilise « <strong>en</strong> » devant tout pays singulier qui commence par une <strong>voyelle</strong> :<br>∅ Iran → <em>en</em><span class='liaison'>n</span><em>Iran</em> (m)&nbsp;&nbsp;&nbsp;∅ Angola → <em>en</em><span class='liaison'>n</span><em>Angola</em> (m)" },
+
+    { "page_no": 46, "seq": 12, "type": "running_head", "body_html": "LA SITUATION DANS L'ESPACE (1)" },
+    { "page_no": 46, "seq": 13, "type": "keypoint", "body_html": "Dans le bus, il y a des enfants. Sur le bus, il y a des affiches.<br>Un avion passe au-dessus de la ville. Sous le pont coule la Seine." },
+    { "page_no": 46, "seq": 14, "type": "section_title", "body_html": "QUELQUES EXPRESSIONS de LIEU" },
+    { "page_no": 46, "seq": 15, "type": "subhead", "body_html": "« <strong>DANS</strong> » + un espace fermé :" },
+    { "page_no": 46, "seq": 16, "type": "list", "body_html": "<em>dans la maison</em><br><em>dans le tiroir</em>" },
+    { "page_no": 46, "seq": 17, "type": "subhead", "body_html": "« <strong>SUR</strong> » + une surface :" },
+    { "page_no": 46, "seq": 18, "type": "list", "body_html": "<em>sur le toit</em><br><em>sur la photo</em>" },
+    { "page_no": 46, "seq": 19, "type": "para", "body_html": "<p class='bullet'><strong>« à l'extérieur de »</strong> ≠ « dans »</p><p class='sample'><em>à l'extérieur de la maison</em></p>" },
+    { "page_no": 46, "seq": 20, "type": "para", "body_html": "<p class='bullet'><strong>« sous »</strong> ≠ « sur »</p><p class='sample'><em>sous le parapluie</em></p>" },
+    { "page_no": 46, "seq": 21, "type": "subhead", "body_html": "Cas particuliers :" },
+    { "page_no": 46, "seq": 22, "type": "list", "body_html": "<em>dans la rue</em>&nbsp;&nbsp;<em>dans le journal</em>&nbsp;&nbsp;<em>sur la place</em>&nbsp;&nbsp;<em>à la radio</em><br><em>sur le boulevard</em>&nbsp;&nbsp;<em>à la télévision</em>&nbsp;&nbsp;<em>dans un fauteuil</em>&nbsp;&nbsp;<em>sur Internet</em><br><em>sur une chaise</em>" },
+    { "page_no": 46, "seq": 23, "type": "warning", "body_html": "– Dites :<br><em>Je suis <strong>dans</strong> le train.</em><br><em>À <strong>la</strong> télévision, il y a Lady Gaga.</em><br>– Ne dites pas :<br><em>Je suis <s>sur</s> le train.</em><br><em><s>Sur</s> la télévision, il y a Lady Gaga.</em>" },
+    { "page_no": 46, "seq": 24, "type": "subhead", "body_html": "« <strong>AU-DESSUS (de)</strong> »<br>= un niveau plus haut :" },
+    { "page_no": 46, "seq": 25, "type": "example", "body_html": "<em>Au-dessus du 5<sup>e</sup> étage : au 6<sup>e</sup>.</em><br><em>Nous volons au-dessus de l'Atlantique.</em>" },
+    { "page_no": 46, "seq": 26, "type": "subhead", "body_html": "« <strong>AU-DESSOUS (de)</strong> »<br>= un niveau plus bas :" },
+    { "page_no": 46, "seq": 27, "type": "example", "body_html": "<em>Au-dessous du 5<sup>e</sup> étage : au 4<sup>e</sup>.</em><br><em>Au-dessous de nos pieds coule la Seine.</em>" },
+    { "page_no": 46, "seq": 28, "type": "para", "body_html": "<p class='bullet'>« Sous » peut signifier aussi « au-dessous de » : <em>Le chat est sous la table.</em></p>" },
+    { "page_no": 46, "seq": 29, "type": "para", "body_html": "« Dessus » ≠ « dessous »<br>– <em>Le chat est sur le lit ?</em> – <em>Oui, il est dessus.</em>/<em>Non, il est dessous.</em>" },
+    { "page_no": 46, "seq": 30, "type": "para", "body_html": "« Dedans » ≠ « dehors »<br>– <em>Le chat est dans la maison ?</em> – <em>Oui, il est dedans.</em>/<em>Non, il est dehors.</em>" },
+    { "page_no": 46, "seq": 31, "type": "subhead", "body_html": "« <strong>À CÔTÉ (de)</strong> » / « <strong>PRÈS (de)</strong> »<br>= proximité" },
+    { "page_no": 46, "seq": 32, "type": "example", "body_html": "<em>Versailles est près de Paris. (10 km)</em>" },
+    { "page_no": 46, "seq": 33, "type": "subhead", "body_html": "« <strong>LOIN (de)</strong> »<br>= éloignement" },
+    { "page_no": 46, "seq": 34, "type": "example", "body_html": "<em>Moscou est loin de Paris. (2 500 km)</em>" },
+    { "page_no": 46, "seq": 35, "type": "xref", "body_html": "« À », « de », « chez », p. 8&nbsp;&nbsp;&nbsp;&nbsp;« Ici/Là », « là-bas », p. 40, 84&nbsp;&nbsp;&nbsp;&nbsp;Adverbes de lieu, p. 84" }
+  ],
+  "exercises": [
+    {
+      "page_no": 45, "seq": 1,
+      "instruction_fr": "Complétez, si c'est nécessaire. ➤ Citez des pays que vous connaissez et où vous êtes allé(e).",
+      "label": "Un grand voyageur", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Quels pays connaissez-vous ?<br>– Je connais {{b}} Japon, {{b}} Chine, {{b}} Russie, {{b}} Finlande, {{b}} Chili, {{b}} États-Unis, {{b}} Canada, {{b}} Mexique et {{b}} Cuba.<br>– C'est vrai ? Vous êtes allé {{b}} Japon, {{b}} Chine, {{b}} Russie, {{b}} Finlande, {{b}} Chili, {{b}} États-Unis, {{b}} Canada, {{b}} Mexique et {{b}} Cuba !<br>– Oui, et je repars demain." }
+      ]
+    },
+    {
+      "page_no": 45, "seq": 2,
+      "instruction_fr": "Situez les lieux avec « à », « en » ou « au(x) », selon le modèle.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. La tour Eiffel ? — {{b}} Paris, {{b}} France, {{b}} Europe." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Les chutes du Niagara ? — {{b}} Amérique du Nord, {{b}} États-Unis et {{b}} Canada." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le Kilimandjaro ? — {{b}} Afrique, {{b}} Kenya et {{b}} Tanzanie." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Le canal de Suez ? — {{b}} Égypte, {{b}} Afrique du Nord." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Le « Pain de sucre » ? — {{b}} Rio, {{b}} Brésil, {{b}} Amérique du Sud." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Le Colisée ? — {{b}} Rome, {{b}} Italie, {{b}} Europe." }
+      ]
+    },
+    {
+      "page_no": 45, "seq": 3,
+      "instruction_fr": "Complétez avec « être », les possessifs, et « à », « en », « au(x) ».",
+      "label": "Une famille cosmopolite", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<em>Mon grand-père est à Berlin, en Allemagne.</em> {{b}} frère {{b}} Caire, {{b}} Égypte. {{b}} sœur et moi, nous {{b}} {{b}} Rotterdam, {{b}} Pays-Bas. {{b}} oncle {{b}} {{b}} La Havane, {{b}} Cuba. {{b}} cousine Beth {{b}} {{b}} Nicosie, {{b}} Chypre, {{b}} cousins {{b}} {{b}} Téhéran {{b}} Iran et mes parents {{b}} Madrid {{b}} Espagne." }
+      ]
+    },
+    {
+      "page_no": 45, "seq": 4,
+      "instruction_fr": "Faites des phrases selon le modèle. @ Situez l'Himalaya, Topkapı, l'Etna, etc.",
+      "label": "", "note_html": "En Inde, il y a un tombeau célèbre : c'est le Taj Mahal.", "has_image": true, "scan_pages": [45],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Pérou : Machu Picchu (site archéologique inca)<br>{{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "Japon : Fuji Yama (grand volcan sacré)<br>{{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "Écosse : Loch Ness (lac mystérieux)<br>{{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "Dans mon pays {{T}}" }
+      ]
+    },
+    {
+      "page_no": 47, "seq": 5,
+      "instruction_fr": "Complétez en utilisant « dans », « sur » ou « sous », selon le modèle.",
+      "label": "Déjeuner au soleil", "note_html": "– Les assiettes sont dans le placard ?", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Les assiettes sont dans le placard ? — On mange {{b}} la cuisine ?<br>– Non, elles sont {{b}} le lave-vaisselle. — Non, {{b}} la terrasse, il fait beau !<br>– Les verres sont {{b}} la table ? — Il y a des tas de journaux {{b}} la table...<br>– Non, ils sont {{b}} l'étagère. — Jette-les {{b}} la poubelle, {{b}} l'évier." }
+      ]
+    },
+    {
+      "page_no": 47, "seq": 6,
+      "instruction_fr": "Complétez avec « dans », « sur », « sous » et « à la ».",
+      "label": "", "note_html": "Enveloppe (adresse, lettre) Sur l'enveloppe, il y a une adresse. Dans l'enveloppe, il y a une lettre.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Bouteille (étiquette, cognac)<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Lac (bateaux, poissons)<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Télévision (table basse, reportage)<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Avion (voyageurs, James Bond)<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Radio (autocollant, concert de jazz)<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 47, "seq": 7,
+      "instruction_fr": "Complétez avec « dans », « sur », « sous » et « à la ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Le chat est dans la cuisine ou {{b}} le balcon ? – 2. Il y a beaucoup de monde {{b}} la rue. – 3. Le père de Charlie est toujours assis {{b}} un gros fauteuil en cuir jaune et sa mère {{b}} une petite chaise en paille. – 4. Regarde, il y a Sharon Stone {{b}} télévision. – 5. Le cinéma Le Champo est {{b}} la rue des Écoles ou {{b}} le boulevard Saint-Michel ? – 6. Nous déjeunons souvent {{b}} l'herbe, {{b}} les arbres. – 7. Ce soir, il y a un bon concert {{b}} radio et un bon film {{b}} télé." }
+      ]
+    },
+    {
+      "page_no": 47, "seq": 8,
+      "instruction_fr": "Complétez avec « dessus », « dessous », « dedans » et « dehors ».",
+      "label": "", "note_html": "– Les enfants sont dans la maison ? – Oui, ils sont dedans.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Le prix est marqué sous le vase : regarde, il est collé {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Ma veste n'est pas dans l'armoire ! – Mais si, regarde bien, elle est {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Il y a une étiquette sur ta valise ? – Oui, regarde, elle est collée {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Le chien n'a pas le droit d'entrer dans ce restaurant, laissez-le {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Un cadeau est caché sous ta serviette : regarde vite {{b}}" }
+      ]
+    },
+    {
+      "page_no": 47, "seq": 9,
+      "instruction_fr": "Faites des phrases en utilisant « dans », « sur », « sous », « au-dessus », « au-dessous ».",
+      "label": "", "note_html": "Le vase est sur la table.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Table (Vase / Lustre / Tapis / Chat)<br><em class='model'>Le vase est sur la table.</em><br>Le lustre {{L}}<br>Le tapis {{L}}<br>Le chat {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "Miroir (Lampe / Photo / Lavabo)<br>La lampe {{L}}<br>La photo {{L}}<br>Le lavabo {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "Lit (Balle / Couverture / Pantoufles)<br>La balle {{L}}<br>La couverture {{L}}<br>Les pantoufles {{L}}" }
+      ]
+    }
+  ]
+}

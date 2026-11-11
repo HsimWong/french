@@ -1,0 +1,101 @@
+{
+  "course": "grammaire",
+  "seq": 8,
+  "title_fr": "LES DÉMONSTRATIFS",
+  "page_start": 40,
+  "page_end": 41,
+  "pdf_start": 42,
+  "pdf_end": 43,
+  "sections": [
+    { "title_fr": "L'ADJECTIF DÉMONSTRATIF s'accorde avec le nom.", "page_no": 40 },
+    { "title_fr": "LE PRONOM DÉMONSTRATIF permet d'éviter la répétition et s'utilise surtout composé avec « -ci » et « -là » :", "page_no": 40 }
+  ],
+  "blocks": [
+    { "page_no": 40, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">8</span> LES DÉMONSTRATIFS" },
+    { "page_no": 40, "seq": 2, "type": "keypoint", "body_html": "– Je voudrais <strong>ce</strong> gâteau, <strong>cette</strong> brioche et <strong>ces</strong> croissants.<br>– Moi, je voudrais <strong>celui-ci</strong>, <strong>celle-ci</strong> et <strong>ceux-ci</strong>." },
+    { "page_no": 40, "seq": 3, "type": "section_title", "body_html": "L'ADJECTIF DÉMONSTRATIF <em>s'accorde avec le nom.</em>" },
+    { "page_no": 40, "seq": 4, "type": "para", "body_html": "■ Il désigne des choses ou des personnes <strong>présentes</strong>, proches ou lointaines :<br>– Regarde. <strong>ce</strong> pont ! <strong>cette</strong> église ! <strong>ces</strong> statues !" },
+    { "page_no": 40, "seq": 5, "type": "para", "body_html": "• Pour marquer l'éloignement, on ajoute « là-bas » :<br>– <em>Ce monument</em>, <strong>là-bas</strong>, c'est l'Opéra." },
+    { "page_no": 40, "seq": 6, "type": "para", "body_html": "■ Il désigne une période de <strong>temps</strong> proche ou en cours :<br><em>ce</em> <strong>matin</strong> &nbsp;&nbsp; <em>cette</em> <strong>semaine</strong> &nbsp;&nbsp; <em><strong>cet</strong> été</em>" },
+    { "page_no": 40, "seq": 7, "type": "para", "body_html": "• Avec « jours » et « mois », on ajoute « -ci » : <em><strong>ce</strong> mois-ci</em>.<br>• Pour marquer l'éloignement, on ajoute « -là » : <em><strong>ce</strong> mois-là</em>." },
+    { "page_no": 40, "seq": 8, "type": "phonetic", "body_html": "♪ • La liaison avec voyelle ou « h » muet est obligatoire :<br><em><strong>ces</strong></em> amis&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>ces</strong></em> étudiants&nbsp;&nbsp;&nbsp;&nbsp;Mais : ce│<strong>héros</strong> (« h » aspiré)<br><span class='liaison'>z</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class='liaison'>z</span>" },
+    { "page_no": 40, "seq": 9, "type": "phonetic", "body_html": "• « Ce » devant voyelle ou « h » muet devient « <strong>cet</strong> » :<br>✗ ami → <strong>cet</strong> ami&nbsp;&nbsp;&nbsp;&nbsp;✗ homme → <strong>cet</strong> homme&nbsp;&nbsp;&nbsp;&nbsp;Mais : ce│<strong>héros</strong> (« h » aspiré)" },
+    { "page_no": 40, "seq": 10, "type": "section_title", "body_html": "LE PRONOM DÉMONSTRATIF <em>permet d'éviter la répétition et s'utilise surtout composé avec « -ci » et « -là » :</em>" },
+    { "page_no": 40, "seq": 11, "type": "table", "body_html": "<table class='vocab'><tbody><tr><th></th><th>Adjectifs démonstratifs</th><th></th><th>Pronoms démonstratifs</th><th>-ci/-là</th><th></th></tr><tr><td>masculin</td><td><strong>Ce</strong></td><td><em>vélo</em> est à Paul.</td><td><strong>Celui</strong></td><td>-ci/-là</td><td>est à Léa.</td></tr><tr><td>féminin</td><td><strong>Cette</strong></td><td><em>moto</em> est à Paul.</td><td><strong>Celle</strong></td><td>-ci/-là</td><td>est à Léa.</td></tr><tr><td>pluriel</td><td><strong>Ces</strong></td><td><em>vélos</em> sont à Paul.</td><td><strong>Ceux</strong></td><td>-ci/-là</td><td>sont à Léa.</td></tr><tr><td></td><td><strong>Ces</strong></td><td><em>motos</em> sont à Paul.</td><td><strong>Celles</strong></td><td>-ci/-là</td><td>sont à Léa.</td></tr></tbody></table>" },
+    { "page_no": 40, "seq": 12, "type": "para", "body_html": "■ « <strong>Celui de</strong> », « <strong>celle de</strong> », etc., expriment la possession :<br>– À qui est ce <em>vélo</em> ? – C'est <strong>celui de</strong> Léa." }
+  ],
+  "exercises": [
+    {
+      "page_no": 41, "seq": 1,
+      "instruction_fr": "Complétez avec un démonstratif.",
+      "label": "", "note_html": "Ce café est excellent !", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. {{b}} problème est complexe." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. {{b}} poires sont trop mûres." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. {{b}} acteur est insupportable." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. {{b}} bijoux sont très beaux." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. {{b}} histoire est terrible !" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. {{b}} homme est dangereux." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. {{b}} alcool est trop fort." }
+      ]
+    },
+    {
+      "page_no": 41, "seq": 2,
+      "instruction_fr": "Complétez avec un démonstratif.",
+      "label": "Paysage tropical", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Regarde <em>ce</em> paysage : {{b}} ciel, {{b}} mer, {{b}} palmiers, {{b}} fleurs !<br>– C'est magnifique ! Mais {{b}} animal horrible, là-bas, qu'est-ce que c'est ?<br>– C'est un iguane. Il est magnifique !<br>– Regarde {{b}} oiseau vert et bleu !<br>– Et sens {{b}} odeur de jasmin…" }
+      ]
+    },
+    {
+      "page_no": 41, "seq": 3,
+      "instruction_fr": "Complétez avec un adjectif ou un pronom, selon le modèle.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. J'adore <em>cette</em> maison, mais j'aime bien aussi {{b}}, à droite, la bleue." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. N'achète pas {{b}} vin, il est trop fort. Achète {{b}}, il est meilleur." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Ne prenez pas {{b}} chaise. Prenez {{b}}, elle est plus confortable." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Faites tirer {{b}} photos, mais pas {{b}}. Elles sont floues." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Ne mets pas {{b}} robe, je préfère {{b}}. Elle est plus gaie." }
+      ]
+    },
+    {
+      "page_no": 41, "seq": 4,
+      "instruction_fr": "Complétez avec des démonstratifs et des possessifs, selon le modèle.",
+      "label": "", "note_html": "1. – <em class='model'>Ce</em> vélo est à vous ? – <em class='model'>Non, ce n'est pas le mien. C'est celui de mon voisin.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – <em class='model'>Ce</em> vélo est à vous ? – <em class='model'>Non, ce n'est pas le mien. C'est celui de mon voisin.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – {{b}} voiture est à vous ? – {{b}} mari." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – {{b}} clés sont à vous ? – {{b}} enfants." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – {{b}} anorak est à vous ? – {{b}} fils." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – {{b}} gants sont à vous ? – {{b}} amie." }
+      ]
+    },
+    {
+      "page_no": 41, "seq": 5,
+      "instruction_fr": "Répondez selon le modèle.",
+      "label": "", "note_html": "1. – <em class='model'>Vous partez la semaine prochaine ?</em> – <em class='model'>Non, cette semaine.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – <em class='model'>Vous partez la semaine prochaine ?</em> – <em class='model'>Non, cette semaine.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous fêtez vos 30 ans l'année prochaine ? – Non, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous entrez à la fac le mois prochain ? – Non, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 41, "seq": 6,
+      "instruction_fr": "Complétez avec des démonstratifs.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Tu as vu <em>cette</em> voiture de sport ?<br>– {{b}} qui est garée sur le trottoir ?<br>– Oui, c'est {{b}} de mon voisin, {{b}} qui est acteur.<br>– Et {{b}} vieux vélo, là : ce n'est pas {{b}} du prof de français ?" }
+      ]
+    },
+    {
+      "page_no": 41, "seq": 7,
+      "instruction_fr": "⏩ Vous achetez un gâteau, une brioche, une baguette, etc. Imaginez des dialogues.",
+      "label": "", "note_html": "– Je voudrais <em class='model'>ce gâteau</em>. – <em class='model'>Celui-ci ?</em> – <em class='model'>Non, pas celui-ci, celui-là…</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "course": "grammaire",
+  "seq": 14,
+  "title_fr": "LE TEMPS (1)",
+  "page_start": 64,
+  "page_end": 67,
+  "pdf_start": 66,
+  "pdf_end": 69,
+  "sections": [
+    { "title_fr": "LE JOUR, LA DATE et LES SAISONS", "page_no": 64 },
+    { "title_fr": "L'HEURE et LE TEMPS (la météo)", "page_no": 66 }
+  ],
+  "blocks": [
+    { "page_no": 64, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">14</span> LE TEMPS (1)" },
+    { "page_no": 64, "seq": 2, "type": "keypoint", "body_html": "Aujourd'hui, <strong>nous sommes</strong> le 3 février. <strong>C'est</strong> l'hiver." },
+    { "page_no": 64, "seq": 3, "type": "section_title", "body_html": "LE JOUR, LA DATE et LES SAISONS" },
+    { "page_no": 64, "seq": 4, "type": "subhead", "body_html": "LA DATE : pour indiquer une date, on utilise « <strong>nous sommes</strong> »/« <strong>on est</strong> » + jour :" },
+    { "page_no": 64, "seq": 5, "type": "example", "body_html": "<em><strong>Nous sommes</strong> le 21 juin.</em><br><em><strong>On est</strong> lundi. / <strong>C'est</strong> lundi. (à l'oral)</em>" },
+    { "page_no": 64, "seq": 6, "type": "para", "body_html": "L'article précède toujours la date : <em>Paris, <strong>le</strong> 8 novembre 1988.</em>" },
+    { "page_no": 64, "seq": 7, "type": "para", "body_html": "Quand on précise le jour et la date, l'article se place avant le jour :<br><em>Nous sommes <strong>le</strong> mercredi 18 août.</em>" },
+    { "page_no": 64, "seq": 8, "type": "para", "body_html": "On dit « <strong>le premier</strong> », mais « <strong>le deux</strong> », « <strong>le trois</strong> », etc. :<br><em>Nous sommes <strong>le premier</strong> ou <strong>le deux</strong> ?</em>" },
+    { "page_no": 64, "seq": 9, "type": "subhead", "body_html": "LES JOURS" },
+    { "page_no": 64, "seq": 10, "type": "list", "body_html": "lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche." },
+    { "page_no": 64, "seq": 11, "type": "para", "body_html": "<div class='two-col'><div><p class='bullet'><strong>Lundi</strong> = ce lundi :</p><p class='sample'><em><strong>Lundi</strong>, je suis à Berlin.</em></p></div><div><p class='bullet'><strong>Le</strong> lundi = tous les lundis :</p><p class='sample'><em><strong>Le</strong> lundi et <strong>le</strong> jeudi, je suis à Lyon.</em></p></div></div>" },
+    { "page_no": 64, "seq": 12, "type": "para", "body_html": "« <strong>Le</strong> » + matin/après-midi/soir = pendant :<br><em>Je dors <strong>le</strong> matin. Je travaille <strong>l'</strong>après-midi. Je sors <strong>le</strong> soir.</em>" },
+    { "page_no": 64, "seq": 13, "type": "subhead", "body_html": "LES MOIS" },
+    { "page_no": 64, "seq": 14, "type": "list", "body_html": "janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre." },
+    { "page_no": 64, "seq": 15, "type": "example", "body_html": "<em>Nous sommes <strong>en</strong> mars.</em> — <em>Nous sommes <strong>au mois</strong> de mars.</em><br><em>Nous sommes <strong>début</strong> mars/<strong>mi</strong>-mars/<strong>fin</strong> mars.</em> (sans article)" },
+    { "page_no": 64, "seq": 16, "type": "subhead", "body_html": "LES SAISONS" },
+    { "page_no": 64, "seq": 17, "type": "para", "body_html": "le printemps, l'été, l'automne, l'hiver.<br>On utilise « <strong>au</strong> » devant consonne, « <strong>en</strong> » devant voyelle ou « h » muet :" },
+    { "page_no": 64, "seq": 18, "type": "example", "body_html": "<em>Nous sommes <strong>au</strong> printemps, <strong>en</strong> été, <strong>en</strong> automne, <strong>en</strong> hiver.</em>" },
+    { "page_no": 64, "seq": 19, "type": "subhead", "body_html": "Pour les années, on utilise « <strong>en</strong> » ; pour les siècles, on utilise « <strong>au</strong> » :" },
+    { "page_no": 64, "seq": 20, "type": "example", "body_html": "<em>Nous sommes <strong>en</strong> 2017, <strong>au</strong> xxe siècle/<strong>en</strong> 1789, <strong>au</strong> xviiie siècle.</em>" },
+    { "page_no": 64, "seq": 21, "type": "xref", "body_html": "An/Année, p. 62" },
+
+    { "page_no": 66, "seq": 22, "type": "running_head", "body_html": "LE TEMPS (1)" },
+    { "page_no": 66, "seq": 23, "type": "section_title", "body_html": "L'HEURE et LE TEMPS (la météo)" },
+    { "page_no": 66, "seq": 24, "type": "keypoint", "body_html": "– Quelle heure <strong>est-il</strong> ? – <strong>Il est</strong> 10 heures.<br>– Quel temps <strong>fait-il</strong> ? – <strong>Il fait</strong> beau." },
+    { "page_no": 66, "seq": 25, "type": "subhead", "body_html": "L'HEURE" },
+    { "page_no": 66, "seq": 26, "type": "para", "body_html": "Pour dire l'heure, on utilise « <strong>il est</strong> », toujours au singulier, + heure :<br><em>– <strong>Il est</strong> une heure.</em><br><em>– <strong>Il est</strong> dix heures.</em>" },
+    { "page_no": 66, "seq": 27, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>8h00 huit heures</em><br><em>8h05 huit heures cinq</em><br><em>8h10 huit heures dix</em><br><em>8h15 huit heures <strong>et</strong> quart</em><br><em>8h30 huit heures <strong>et</strong> demie</em><br><em>12 h = midi</em></span></div><div><span class='wordlist'><em>9h00 neuf heures</em><br><em>8h55 neuf heures moins cinq</em><br><em>8h50 neuf heures moins dix</em><br><em>8h45 neuf heures moins <strong>le</strong> quart</em><br><em>9h45 dix heures moins <strong>le</strong> quart</em><br><em>24 h = minuit</em></span></div></div>" },
+    { "page_no": 66, "seq": 28, "type": "para", "body_html": "« <strong>Demi</strong> » s'accorde <strong>après</strong> le nom : <em>une <strong>demi</strong>-heure/une heure et <strong>demie</strong>.</em>" },
+    { "page_no": 66, "seq": 29, "type": "para", "body_html": "Pour les horaires officiels, on dit :<br>20h25 : <em>vingt heures vingt-cinq</em>&nbsp;&nbsp;&nbsp;&nbsp;17 h 15 : <em>dix-sept heures quinze</em>" },
+    { "page_no": 66, "seq": 30, "type": "subhead", "body_html": "Expressions utiles :" },
+    { "page_no": 66, "seq": 31, "type": "example", "body_html": "– Quelle heure <strong>est-il ?</strong> / <strong>Vous avez</strong> l'heure ? – <em>Il est 7 h.</em>" },
+    { "page_no": 66, "seq": 32, "type": "example", "body_html": "– <em>Tu as rendez-vous <strong>à</strong> quelle heure ?</em> – <strong>À</strong> 8 h (du matin/du soir)." },
+    { "page_no": 66, "seq": 33, "type": "example", "body_html": "<em>J'ai rendez-vous à 8 h.</em> ⟶ <em>Il est 7 h 45 : je suis <strong>en avance</strong>.</em><br>⟶ <em>Il est 8 h : je suis <strong>à l'heure</strong>.</em><br>⟶ <em>Il est 8 h 15 : je suis <strong>en retard</strong>.</em>" },
+    { "page_no": 66, "seq": 34, "type": "example", "body_html": "<em>Il est 5 h du matin : il est <strong>tôt</strong>.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Il est minuit : il est <strong>tard</strong>.</em>" },
+    { "page_no": 66, "seq": 35, "type": "subhead", "body_html": "LE TEMPS (la météo)" },
+    { "page_no": 66, "seq": 36, "type": "para", "body_html": "Pour décrire le temps, on utilise les constructions impersonnelles :" },
+    { "page_no": 66, "seq": 37, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>Il fait</span><span class='wordlist'>+ adjectif : <em>chaud.</em> <em>froid.</em> <em>beau.</em> <em>mauvais.</em></span></div><div><span class='lead'>Il y a</span><span class='wordlist'>+ nom : <em>du soleil.</em> <em>du vent.</em> <em>des nuages.</em> <em>du brouillard.</em></span></div><div><span class='lead'>Il</span><span class='wordlist'>+ verbe : <em>pleut.</em> <em>neige.</em> <em>fait 10°.</em></span></div></div>" },
+    { "page_no": 66, "seq": 38, "type": "warning", "body_html": "Dites : <em>Aujourd'hui, il fait froid.</em><br>Ne dites pas : <s>il est</s> froid. Il <s>fait</s> froid." },
+    { "page_no": 66, "seq": 39, "type": "xref", "body_html": "Partitif, p. 86" }
+  ],
+  "exercises": [
+    {
+      "page_no": 65, "seq": 1,
+      "instruction_fr": "Écrivez la date selon le modèle.",
+      "label": "", "note_html": "1. mardi 25/06 — Aujourd'hui, c'est mardi. Nous sommes le 25. Nous sommes en juin.", "has_image": true, "scan_pages": [65],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. jeudi 21/01 — {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. dimanche 15/08 — {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. vendredi 12/12 — {{L}}" }
+      ]
+    },
+    {
+      "page_no": 65, "seq": 2,
+      "instruction_fr": "Complétez le texte avec « le », « en », « au », si c'est nécessaire.",
+      "label": "De bonnes nageuses", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Ma mère n'est pas jeune (elle est née {{b}} 31 août 1950), mais c'est une excellente nageuse et, {{b}} été, nous passons {{b}} dimanche au bord de la mer. En Bretagne, {{b}} août, il y a beaucoup de monde, surtout {{b}} week-end : nous partons {{b}} matin et nous rentrons {{b}} soir après la chaleur. En revanche, {{b}} printemps et {{b}} automne, nous sommes seules sur la plage. Nous prenons le dernier bain {{b}} septembre ou même, parfois, {{b}} début octobre et nous recommençons {{b}} mois de mai." }
+      ]
+    },
+    {
+      "page_no": 65, "seq": 3,
+      "instruction_fr": "Écrivez en lettres, selon le modèle.",
+      "label": "", "note_html": "Simone de Beauvoir (09/01/1908). Elle est née en janvier, au vingtième siècle.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Marcel Proust (10/07/1871) : {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Marilyn Monroe (01/06/1926) : {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Albert Einstein (14/03/1879) : {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Napoléon 1er (15/08/1769) : {{L}}" }
+      ]
+    },
+    {
+      "page_no": 65, "seq": 4,
+      "instruction_fr": "Datez les événements. Trouvez la date d'autres inventions ou d'autres événements.",
+      "label": "", "note_html": "– 1er timbre (1850) Mille huit cent cinquante", "has_image": true, "scan_pages": [65],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– 1re bicyclette (1872) {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "– 1er piano (1698) {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "– 1ères lunettes (1300) {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "– 1er pistolet (1480) {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "– 1er appareil photo (1839) {{L}}" }
+      ]
+    },
+    {
+      "page_no": 65, "seq": 5,
+      "instruction_fr": "Répondez librement aux questions.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "– Quel jour êtes-vous né(e) ? {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "– Sommes-nous au début ou à la fin du mois ? {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "– Quel jour sommes-nous ? {{L}}" }
+      ]
+    },
+    {
+      "page_no": 67, "seq": 6,
+      "instruction_fr": "Transcrivez l'heure. Donnez l'horaire usuel, puis l'horaire officiel.",
+      "label": "", "note_html": "19h45 : Il est huit heures moins le quart. Il est dix-neuf heures quarante-cinq.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "14h15 : {{L}} — 15h45 : {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "16h30 : {{L}} — 20h50 : {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "19h10 : {{L}} — 22 h : {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "12h25 : {{L}} — 24h00 : {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "13h55 : {{L}} — 10h15 : {{L}}" }
+      ]
+    },
+    {
+      "page_no": 67, "seq": 7,
+      "instruction_fr": "Complétez en utilisant « tard » ou « tôt », « en retard » ou « en avance ».",
+      "label": "", "note_html": "Il est une heure et demie du matin, viens te coucher : il est tard.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. – Pierre n'est pas encore arrivé ? – Non, il {{L}} comme d'habitude." },
+        { "seq": 2, "type": "cloze", "stem_html": "3. Le film commence à dix heures : c'est {{L}} pour les enfants." },
+        { "seq": 3, "type": "cloze", "stem_html": "4. – Nous sommes en retard, Paul ? – Non, au contraire, vous {{L}} !" },
+        { "seq": 4, "type": "cloze", "stem_html": "5. Le bébé se réveille toujours très {{L}} : à cinq heures du matin !" },
+        { "seq": 5, "type": "cloze", "stem_html": "6. Il est dix heures et le facteur n'est pas passé : il {{L}} ce matin !" }
+      ]
+    },
+    {
+      "page_no": 67, "seq": 8,
+      "instruction_fr": "Complétez les phrases avec « il y a », « il fait », « il est », etc.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Quand {{L}} 8 heures à Paris, {{L}} 4 heures à São Paulo." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Aujourd'hui, {{L}} très froid et {{L}} du brouillard." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Dans les îles grecques, en été, {{L}} chaud, mais {{L}} toujours du vent." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. C'est l'heure du journal télévisé : {{L}} huit heures." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. C'est le premier jour du printemps : {{L}} pleut, mais {{L}} très doux." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Couvrez-vous bien : dehors {{L}} froid et {{L}} du vent." }
+      ]
+    },
+    {
+      "page_no": 67, "seq": 9,
+      "instruction_fr": "Répondez librement aux questions.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Quelle heure est-il ? {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Quel temps fait-il ? {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Nous sommes en quelle saison ? {{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Nous sommes en quelle année ? {{L}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Il fait froid ou il fait chaud dans votre pays en janvier ? {{L}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. Il fait froid au Brésil, en février ? {{L}}" },
+        { "seq": 7, "type": "open", "stem_html": "7. En août dans votre pays, quel temps fait-il ? {{L}}" },
+        { "seq": 8, "type": "open", "stem_html": "8. Quelle est la température de la salle où vous êtes actuellement ? {{L}}" }
+      ]
+    }
+  ]
+}

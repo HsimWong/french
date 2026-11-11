@@ -1,0 +1,148 @@
+{
+  "course": "grammaire",
+  "seq": 12,
+  "title_fr": "L'ADJECTIF (2)",
+  "page_start": 54,
+  "page_end": 57,
+  "pdf_start": 56,
+  "pdf_end": 59,
+  "sections": [
+    { "title_fr": "LA PLACE de L'ADJECTIF", "page_no": 54 },
+    { "title_fr": "ADJECTIFS PARTICULIERS", "page_no": 56 }
+  ],
+  "blocks": [
+    { "page_no": 54, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">12</span> L'ADJECTIF (2)" },
+    { "page_no": 54, "seq": 2, "type": "section_title", "body_html": "LA PLACE de L'ADJECTIF" },
+    { "page_no": 54, "seq": 3, "type": "keypoint", "body_html": "un jeune homme brun avec une bicyclette verte" },
+    { "page_no": 54, "seq": 4, "type": "subhead", "body_html": "On place en général l'adjectif <strong>après</strong> le nom :" },
+    { "page_no": 54, "seq": 5, "type": "list", "body_html": "<em>une chemise <strong>blanche</strong></em>&nbsp;&nbsp;<em>un livre <strong>intéressant</strong></em>&nbsp;&nbsp;<em>un exercice <strong>difficile</strong></em>" },
+    { "page_no": 54, "seq": 6, "type": "subhead", "body_html": "Quelques adjectifs fréquents et assez courts se placent <strong>devant</strong> le nom :" },
+    { "page_no": 54, "seq": 7, "type": "list", "body_html": "beau/joli&nbsp;&nbsp;bon/mauvais&nbsp;&nbsp;petit/grand/gros&nbsp;&nbsp;nouveau/jeune/vieux&nbsp;&nbsp;double/demi&nbsp;&nbsp;autre/même" },
+    { "page_no": 54, "seq": 8, "type": "example", "body_html": "<em>une <strong>petite</strong> maison</em>&nbsp;&nbsp;<em>une <strong>jolie</strong> robe</em>&nbsp;&nbsp;<em>un <strong>gros</strong> livre</em>" },
+    { "page_no": 54, "seq": 9, "type": "para", "body_html": "<p class='bullet'>Les nombres se placent toujours <strong>devant</strong> le nom :</p><p class='sample'><em>les <strong>trois</strong> mousquetaires</em>&nbsp;&nbsp;<em>les <strong>sept</strong> nains</em>&nbsp;&nbsp;<em>le <strong>septième</strong> art</em></p>" },
+    { "page_no": 54, "seq": 10, "type": "para", "body_html": "<p class='bullet'>Quand il y a plusieurs adjectifs, les nombres se placent <strong>devant</strong> les autres :</p><p class='sample'><em>les <strong>trois</strong> petits cochons</em>&nbsp;&nbsp;<em>les <strong>dix</strong> dernières années</em></p>" },
+    { "page_no": 54, "seq": 11, "type": "subhead", "body_html": "« Premier », « dernier », « prochain » se placent <strong>devant</strong> le nom pour les <strong>séries</strong> :" },
+    { "page_no": 54, "seq": 12, "type": "example", "body_html": "<em>le <strong>premier</strong> candidat</em>&nbsp;&nbsp;<em>le <strong>prochain</strong> candidat</em>&nbsp;&nbsp;<em>le <strong>dernier</strong> candidat</em>" },
+    { "page_no": 54, "seq": 13, "type": "warning", "body_html": "• « Dernier » et « prochain » se placent <strong>après</strong> le nom pour les <strong>dates</strong> :<br><em>mardi <strong>dernier</strong> / <strong>prochain</strong></em>&nbsp;&nbsp;<em>le mois <strong>dernier</strong> / <strong>prochain</strong></em>" },
+    { "page_no": 54, "seq": 14, "type": "phonetic", "body_html": "• « Beau », « vieux », « nouveau » deviennent « bel », « vieil », « nouvel » devant voyelle ou « h » muet :<br><em>un <strong>bel</strong> acteur</em>&nbsp;&nbsp;<em>un <strong>vieil</strong> homme</em>&nbsp;&nbsp;<em>un <strong>nouvel</strong> ordinateur</em><br><em>un <s>beau</s> acteur</em>&nbsp;&nbsp;<em>un <s>vieux</s> homme</em>&nbsp;&nbsp;<em>un <s>nouveau</s> ordinateur</em>" },
+    { "page_no": 54, "seq": 15, "type": "para", "body_html": "<p class='bullet'>En général, devant un adjectif, « des » devient « <strong>de</strong> » :</p><p class='sample'><em><strong>de</strong> bons amis</em> (<s>des</s>)&nbsp;&nbsp;<em><strong>de</strong> beaux livres</em> (<s>des</s>)</p>" },
+    { "page_no": 54, "seq": 16, "type": "para", "body_html": "<p class='bullet'>Quand l'adjectif est placé <strong>devant</strong> le nom, on fait la liaison :</p><span class='example-line'><em>un petit<span class='liaison'>t</span>enfant</em> (t)&nbsp;&nbsp;<em>un bon<span class='liaison'>n</span>acteur</em> (n)&nbsp;&nbsp;<em>de grands<span class='liaison'>z</span>amis</em> (z)</span>" },
+    { "page_no": 54, "seq": 17, "type": "xref", "body_html": "« Demi », p. 66" },
+
+    { "page_no": 56, "seq": 18, "type": "running_head", "body_html": "L'ADJECTIF (2)" },
+    { "page_no": 56, "seq": 19, "type": "section_title", "body_html": "ADJECTIFS PARTICULIERS" },
+    { "page_no": 56, "seq": 20, "type": "subhead", "body_html": "Certaines adjectifs changent de sens selon leur place. Les adjectifs placés devant le nom sont en général plus subjectifs :" },
+    { "page_no": 56, "seq": 21, "type": "table", "body_html": "<table class='data-table'><tr><th>(de haute taille)</th><th>un homme très <strong>grand</strong></th><th>un <strong>grand</strong> homme</th><th>(remarquable)</th></tr><tr><td>(indiscret)</td><td>un voisin <strong>curieux</strong></td><td>un <strong>curieux</strong> voisin</td><td>(bizarre)</td></tr><tr><td>(sans argent)</td><td>un homme <strong>pauvre</strong></td><td>un <strong>pauvre</strong> homme</td><td>(malheureux)</td></tr><tr><td>(sans amis)</td><td>une femme <strong>seule</strong></td><td>une <strong>seule</strong> femme</td><td>(unique)</td></tr><tr><td>(prix élevé)</td><td>une maison <strong>chère</strong></td><td>ma <strong>chère</strong> maison</td><td>(valeur affective)</td></tr><tr><td>(pas sale)</td><td>une chambre <strong>propre</strong></td><td>ma <strong>propre</strong> chambre</td><td>(la mienne)</td></tr><tr><td>(époque passée)</td><td>un immeuble <strong>ancien</strong></td><td>mon <strong>ancien</strong> immeuble</td><td>(précédente adresse)</td></tr><tr><td>(variés)</td><td>des livres <strong>différents</strong></td><td><strong>différents</strong> livres</td><td>(plusieurs)</td></tr></table>" },
+    { "page_no": 56, "seq": 22, "type": "subhead", "body_html": "Parfois, « grand », « petit », « vieux » ont une valeur quantitative :" },
+    { "page_no": 56, "seq": 23, "type": "list", "body_html": "<em>un <strong>grand</strong> voyageur</em> (qui voyage beaucoup) — <em>un <strong>petit</strong> consommateur</em> (qui consomme peu) — <em>un <strong>vieux</strong> client</em> (de longue date)" },
+    { "page_no": 56, "seq": 24, "type": "subhead", "body_html": "« NEUF » OU « NOUVEAU » ?" },
+    { "page_no": 56, "seq": 25, "type": "para", "body_html": "<p class='bullet'>« <strong>Neuf</strong> » = de fabrication récente : (se place après le nom)</p><p class='sample'><em>Paul a une voiture <strong>neuve</strong> ?</em><br><em>Oui, c'est la dernière Citroën.</em></p>" },
+    { "page_no": 56, "seq": 26, "type": "para", "body_html": "<p class='bullet'>« <strong>Nouveau</strong> » = différent d'avant : (se place avant le nom)</p><p class='sample'><em>Paul a une <strong>nouvelle</strong> voiture ?</em><br><em>Oui, c'est une vieille Jaguar magnifique.</em></p>" },
+    { "page_no": 56, "seq": 27, "type": "para", "body_html": "<p class='bullet'>On utilise « <strong>neuf</strong> » pour les <strong>objets</strong> :</p><p class='sample'><em>un style <strong>neuf</strong></em><br><em>des chaussures <strong>neuves</strong></em></p>" },
+    { "page_no": 56, "seq": 28, "type": "para", "body_html": "<p class='bullet'>On utilise « <strong>nouveau</strong> » pour tout <strong>changement</strong> :</p><p class='sample'><em>une <strong>nouvelle</strong> adresse</em><br><em>un <strong>nouveau</strong> mari</em></p>" },
+    { "page_no": 56, "seq": 29, "type": "list", "body_html": "<em><strong>neuf</strong>/<strong>neuve</strong> ≠ <strong>vieux</strong>/<strong>vieille</strong></em> : <em>une <strong>vieille</strong> voiture</em>&nbsp;&nbsp;<em>de <strong>vieilles</strong> chaussures</em>" },
+    { "page_no": 56, "seq": 30, "type": "list", "body_html": "<em><strong>nouveau</strong>/<strong>nouvelle</strong> ≠ <strong>ancien</strong>/<strong>ancienne</strong></em> : <em>un <strong>ancien</strong> professeur</em>&nbsp;&nbsp;<em>une <strong>ancienne</strong> adresse</em>" },
+    { "page_no": 56, "seq": 31, "type": "warning", "body_html": "• Mais pour avoir des « nouvelles », on dit :<br><em>Quoi de <strong>neuf</strong> ?</em> = <em>Qu'est-ce qui est nouveau dans votre vie ?</em>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 55, "seq": 1,
+      "instruction_fr": "Décrivez, selon le modèle.",
+      "label": "", "note_html": "Un petit garçon avec des yeux immenses.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. monsieur (vieux) barbe (blanche) {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. homme (sportif) visage (carré) {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. dame (brune) lunettes (noires) {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. poisson (gros) ventre (jaune) {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. fille (belle) jambes (longues) {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. voiture (grosse) coffre (grand) {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. livre (précieux) illustrations (belles) {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. whisky (double) glaçons (deux) {{L}}" },
+        { "seq": 9, "type": "cloze", "stem_html": "9. appartement (beau) terrasse (petite) {{L}}" },
+        { "seq": 10, "type": "cloze", "stem_html": "10. soirée (bonne) amis (vieux) {{L}}" }
+      ]
+    },
+    {
+      "page_no": 55, "seq": 2,
+      "instruction_fr": "Transformez, selon le modèle.",
+      "label": "", "note_html": "– Oui, c'est un vieil immeuble.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "1. – Cet immeuble est très vieux ! – Oui, c'est un vieil immeuble." },
+        { "seq": 2, "type": "transform", "stem_html": "2. – Cet acteur est très beau ! {{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "3. – Cet ordinateur est nouveau ? {{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "4. – Cet avion est très vieux ! {{L}}" }
+      ]
+    },
+    {
+      "page_no": 55, "seq": 3,
+      "instruction_fr": "Transformez, selon le modèle.",
+      "label": "", "note_html": "– Les deux premiers jours.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "1. – Le premier jour (2) – Les deux premiers jours." },
+        { "seq": 2, "type": "transform", "stem_html": "2. – La dernière année (10) {{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "3. – Le prochain cours (2) {{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "4. – Le dernier concurrent. (3) {{L}}" }
+      ]
+    },
+    {
+      "page_no": 55, "seq": 4,
+      "instruction_fr": "Complétez avec « des », « de » ou « d' ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. La styliste Emmanuelle Kahn a toujours {{b}} grosses lunettes. – 2. Les contes de Leo Perutz sont {{b}} histoires étranges. – 3. Les contes de Perrault sont {{b}} belles histoires. – 4. Apportez-moi {{b}} autres photos de votre famille. – 5. Les vieux bistrots de Paris sont {{b}} endroits magnifiques." }
+      ]
+    },
+    {
+      "page_no": 55, "seq": 5,
+      "instruction_fr": "Transformez en accordant les adjectifs. ➤➤ Dites ce que vous préférez.",
+      "label": "", "note_html": "Vous préférez les grosses lunettes ou les lunettes invisibles ?", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "lunettes : Vous préférez les grosses lunettes ou les lunettes invisibles ? (gros/invisible)" },
+        { "seq": 2, "type": "transform", "stem_html": "appartements : {{L}} (vieux/moderne)" },
+        { "seq": 3, "type": "transform", "stem_html": "plats : {{L}} (salé/sucré)" },
+        { "seq": 4, "type": "transform", "stem_html": "voitures : {{L}} (petit/gros)" },
+        { "seq": 5, "type": "transform", "stem_html": "couleurs : {{L}} (clair/sombre)" }
+      ]
+    },
+    {
+      "page_no": 57, "seq": 6,
+      "instruction_fr": "Faites l'exercice selon le modèle.",
+      "label": "", "note_html": "Médor est un gros chien, mais c'est un animal très doux.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Dustin Hoffman (homme, acteur) (petit, grand) {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Alexandre (enfant, écolier) (agité, studieux) {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Madame Claude (femme, voisine) (seule, bruyante) {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Les ordinateurs portables (appareils, objets) (pratiques, chers) {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Le mari de Nadia (mari, sculpteur) (mauvais, bon) {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Kitty (femme, actrice) (belle, mauvaise) {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Monsieur Barlou (maire, voyou) (respecté, ancien) {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Monsieur Hire (voisin, personnage) (réservé, curieux) {{L}}" }
+      ]
+    },
+    {
+      "page_no": 57, "seq": 7,
+      "instruction_fr": "Complétez les phrases avec « neuf »/« nouveau », « vieux »/« ancien ».",
+      "label": "", "note_html": "Ma voiture est une Peugeot de 1962 : c'est une vieille voiture !", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je dois vous donner mon {{b}} numéro de téléphone." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. J'ai mal aux pieds parce que mes chaussures sont {{b}}." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je connais Patricia depuis hier, c'est ma {{b}} copine !" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Ma grand-mère est une {{b}} dame de quatre-vingt-dix ans." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Paul a vingt-cinq ans. On se connaît depuis 15 ans : c'est un {{b}} copain !" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Je n'aime pas les meubles {{b}} : ils brillent trop !" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Je regrette souvent mon {{b}} travail, si agréable." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. – Quoi de {{b}} aujourd'hui, monsieur Durantont ?" }
+      ]
+    },
+    {
+      "page_no": 57, "seq": 8,
+      "instruction_fr": "Décrivez les appartements à partir de la fiche de l'agence immobilière. ➤➤ Décrivez le vôtre.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. appartement : 250 m² — immeuble : 1800 — ascenseur : non — terrasse : oui<br>{{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. studio : 30 m² — immeuble : 2017 — ascenseur : oui — terrasse : non<br>{{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "Décrivez le vôtre.<br>{{T}}" }
+      ]
+    }
+  ]
+}

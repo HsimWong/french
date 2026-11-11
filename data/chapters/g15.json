@@ -1,0 +1,171 @@
+{
+  "course": "grammaire",
+  "seq": 15,
+  "title_fr": "LES INDÉFINIS",
+  "page_start": 68,
+  "page_end": 71,
+  "pdf_start": 70,
+  "pdf_end": 73,
+  "sections": [
+    { "title_fr": "L'ADJECTIF INDÉFINI", "page_no": 68 },
+    { "title_fr": "LE PRONOM INDÉFINI", "page_no": 70 }
+  ],
+  "blocks": [
+    { "page_no": 68, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">15</span> LES INDÉFINIS" },
+    { "page_no": 68, "seq": 2, "type": "keypoint", "body_html": "J'ai lu <strong>plusieurs</strong> romans de Duras, <strong>quelques</strong> romans de Camus, <strong>tous les</strong> romans de Modiano. Je n'ai lu <strong>aucun</strong> roman de Zola." },
+    { "page_no": 68, "seq": 3, "type": "subhead", "body_html": "L'ADJECTIF INDÉFINI exprime souvent une quantité :" },
+    { "page_no": 68, "seq": 4, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>Je connais</span><span class='wordlist'><em><strong>quelques</strong> étudiant(e)s.</em><br><em><strong>plusieurs</strong> étudiant(e)s.</em><br><em><strong>chaque</strong> étudiant(e).</em><br><em><strong>tous les</strong> étudiants / <strong>toutes</strong> les étudiantes.</em><br><em><strong>tout</strong> le groupe / <strong>toute</strong> la classe.</em><br><em><strong>certain(e)s</strong> étudiant(e)s / <strong>d'autres</strong> étudiant(e)s</em></span></div><div><span class='lead'>&nbsp;</span><span class='wordlist'>petit nombre<br>nombre plus important<br>individué en particulier<br>totalité des éléments<br>totalité de l'ensemble<br>partie de l'ensemble</span></div></div><br><em>Je <strong>ne</strong> connais <strong>aucun(e)</strong> étudiant(e).</em> — quantité zéro" },
+    { "page_no": 68, "seq": 5, "type": "subhead", "body_html": "« <strong>Chaque</strong> » = tous les éléments d'un ensemble, pris séparément :" },
+    { "page_no": 68, "seq": 6, "type": "example", "body_html": "<em><strong>Chaque</strong> étudiant <strong>a un livre</strong>.</em> (= Tous les étudiants ont un livre.)" },
+    { "page_no": 68, "seq": 7, "type": "subhead", "body_html": "« <strong>Tout</strong> » s'accorde avec le nom :" },
+    { "page_no": 68, "seq": 8, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>singulier</span><span class='wordlist'><em><strong>tout</strong> le groupe</em> (masculin)<br><em><strong>toute</strong> la classe</em> (féminin)</span></div><div><span class='lead'>pluriel</span><span class='wordlist'><em><strong>tous les</strong> étudiants</em> (masculin)<br><em><strong>toutes les</strong> étudiantes</em> (féminin)</span></div></div>" },
+    { "page_no": 68, "seq": 9, "type": "para", "body_html": "« <strong>Tous</strong> »/« <strong>toutes</strong> » + expression de temps = « <strong>chaque</strong> » :<br><em>tous les jours</em> (= chaque jour) — <em>toutes les nuits</em> (= chaque nuit)" },
+    { "page_no": 68, "seq": 10, "type": "warning", "body_html": "Dites : <em>tous les deux jours.</em>&nbsp;&nbsp;&nbsp;&nbsp;Ne dites pas : <s>chaque</s> deux jours." },
+    { "page_no": 68, "seq": 11, "type": "subhead", "body_html": "« <strong>Aucun</strong> » (= « pas un seul ») ne peut pas s'utiliser avec « pas » :" },
+    { "page_no": 68, "seq": 12, "type": "example", "body_html": "<em>Je <strong>ne</strong> connais <strong>aucun</strong> étudiant.</em><br><em><strong>Aucun</strong> étudiant <strong>n'</strong>est venu.</em>" },
+    { "page_no": 68, "seq": 13, "type": "subhead", "body_html": "« <strong>Quelques</strong> » (adjectif) est toujours au pluriel : <em>quelques amis</em> (liaison « z »)" },
+    { "page_no": 68, "seq": 14, "type": "subhead", "body_html": "« <strong>D'autres</strong> » est le pluriel de « un(e) autre » :" },
+    { "page_no": 68, "seq": 15, "type": "warning", "body_html": "Dites : <em>J'attends <strong>d'autres</strong> étudiants.</em>&nbsp;&nbsp;&nbsp;&nbsp;Ne dites pas : <em>J'attends</em> <s>des autres</s> <em>étudiants.</em>" },
+
+    { "page_no": 70, "seq": 16, "type": "running_head", "body_html": "LES INDÉFINIS" },
+    { "page_no": 70, "seq": 17, "type": "keypoint", "body_html": "Les étudiants sont <strong>tous</strong> sympathiques. <strong>Certains</strong> sont très jeunes, <strong>d'autres</strong> plus âgés. <strong>Quelques-uns</strong> sont bilingues." },
+    { "page_no": 70, "seq": 18, "type": "section_title", "body_html": "LE PRONOM INDÉFINI de quantité est identique à l'adjectif, sauf « quelqu'un(e)s » et « chacun(e) » :" },
+    { "page_no": 70, "seq": 19, "type": "example", "body_html": "<em>Parmi les étudiant(e)s,</em> <strong>plusieurs</strong> <em>sont scandinaves,</em> <strong>certain(e)s</strong> <em>sont danois(e)s,</strong> <strong>d'autres</strong> <em>sont suédois(e)s,</strong> <strong>aucun(e) n'</strong> <em>est français(e).</em> <strong>quelques-un(e)s</strong> <em>sont bilingues,</em> <strong>chacun(e)</strong> <em>est intéressant(e),</em>" },
+    { "page_no": 70, "seq": 20, "type": "subhead", "body_html": "« <strong>Tous</strong> »/« <strong>toutes</strong> » se placent le plus souvent après le verbe :" },
+    { "page_no": 70, "seq": 21, "type": "example", "body_html": "<em>Ils sont <strong>tous</strong> sympathiques. Elles sont <strong>toutes</strong> sympathiques.</em>" },
+    { "page_no": 70, "seq": 22, "type": "phonetic", "body_html": "On prononce le « s » du pronom « tous », mais pas le « s » de l'adjectif :<br><em>Tous les étudiants sont là.</em> <em>Ils sont <strong>tous</strong> là.</em><br><span class='liaison'>/tou/ adjectif — /tous/ pronom</span>" },
+    { "page_no": 70, "seq": 23, "type": "warning", "body_html": "« <strong>Tout</strong> » pronom neutre renvoie à des <strong>choses</strong> :<br><em><strong>Tout</strong> va bien. Je comprends <strong>tout.</strong></em>" },
+    { "page_no": 70, "seq": 24, "type": "para", "body_html": "On dit : <em>Merci pour <strong>tout</strong>.</em> (toutes les choses)<br><em>Merci à <strong>tous</strong>.</em> (toutes les personnes)" },
+    { "page_no": 70, "seq": 25, "type": "section_title", "body_html": "« QUELQU'UN », « QUELQUE CHOSE », « QUELQUE PART »" },
+    { "page_no": 70, "seq": 26, "type": "para", "body_html": "indiquent une personne, une chose, un lieu non identifiés :" },
+    { "page_no": 70, "seq": 27, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>pronoms</span><span class='wordlist'><em>J'attends <strong>quelqu'un</strong>.</em><br><em>Je cherche <strong>quelque chose</strong>.</em><br><em>Je vais <strong>quelque part</strong>.</em></span></div><div><span class='lead'>questions</span><span class='wordlist'>Qui ?<br>Quoi ?<br>Où ?</span></div><div><span class='lead'>contraires</span><span class='wordlist'>Personne<br>Rien<br>Nulle part</span></div></div>" },
+    { "page_no": 70, "seq": 28, "type": "para", "body_html": "Quand ces pronoms sont suivis d'un adjectif, on ajoute « <strong>de</strong> » :<br><em>quelqu'un</em> — <em>quelque chose</em> — <em>rien</em> <strong>de</strong> <em>bien</em> — <strong>de</strong> <em>nouveau</em> — <strong>de</strong> <em>spécial</em>" },
+    { "page_no": 70, "seq": 29, "type": "warning", "body_html": "Ces pronoms sont invariables :<br><em>Paul est <strong>quelqu'un</strong> d'intelligent.</em> (Paul = homme)<br><em>Marie est <strong>quelqu'un</strong> d'intelligent.</em> (Marie = femme)" },
+    { "page_no": 70, "seq": 30, "type": "xref", "body_html": "« Beaucoup »/« Peu », p. 82&nbsp;&nbsp;&nbsp;&nbsp;« En », p. 90&nbsp;&nbsp;&nbsp;&nbsp;Négation, p. 152" }
+  ],
+  "exercises": [
+    {
+      "page_no": 69, "seq": 1,
+      "instruction_fr": "Commentez le sondage en utilisant « plusieurs », « quelques », « tous » et « aucun ». Logement — Sur 30 étudiants : habitent chez leurs parents (12), à la cité universitaire (4), cohabitent avec des amis (14), dans le centre (30), à l'hôtel (0). Distinguez des groupes en utilisant « certains » et « d'autres » : habiter dans un studio / un deux-pièces, vivre seul(s) / en couple, être propriétaires / locataires.",
+      "label": "Logement", "note_html": "Dans la classe, plusieurs étudiants habitent chez leurs parents.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "Certains étudiants habitent dans un studio, d'autres habitent {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "{{L}}" }
+      ]
+    },
+    {
+      "page_no": 69, "seq": 2,
+      "instruction_fr": "Complétez, selon le modèle.",
+      "label": "J'aime", "note_html": "J'aime toutes les couleurs, mais surtout", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "{{L}} les pêches," },
+        { "seq": 2, "type": "cloze", "stem_html": "{{L}} les asperges," },
+        { "seq": 3, "type": "cloze", "stem_html": "{{L}} l'automne," },
+        { "seq": 4, "type": "cloze", "stem_html": "{{L}} les tulipes," },
+        { "seq": 5, "type": "cloze", "stem_html": "{{L}} les chiens," },
+        { "seq": 6, "type": "cloze", "stem_html": "{{L}} le football," },
+        { "seq": 7, "type": "cloze", "stem_html": "{{L}} le jazz." }
+      ]
+    },
+    {
+      "page_no": 69, "seq": 3,
+      "instruction_fr": "Complétez avec « chaque »/« tous »/« toutes ».",
+      "label": "", "note_html": "1. – Vous vous lavez les cheveux chaque jour ? – Non, tous les deux jours.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. – Vous changez de voiture {{b}} année ? – Non, {{b}} trois ans environ." },
+        { "seq": 2, "type": "cloze", "stem_html": "3. – Vous allez chez le coiffeur {{b}} mois ? – Non, {{b}} deux semaines." }
+      ]
+    },
+    {
+      "page_no": 69, "seq": 4,
+      "instruction_fr": "Complétez.",
+      "label": "", "note_html": "Tout le groupe. Tous les étudiants.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Tou{{b}} le temps." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Tou{{b}} les nuits." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Tou{{b}} les jours." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Tou{{b}} la vie." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Tou{{b}} les habitants." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Tou{{b}} la région." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Tou{{b}} le pays." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Tou{{b}} les villes." }
+      ]
+    },
+    {
+      "page_no": 69, "seq": 5,
+      "instruction_fr": "Trouvez les indéfinis correspondants, puis continuez librement sur le même modèle.",
+      "label": "", "note_html": "– Je connais plusieurs acteurs américains (une dizaine) et {{b}} acteurs français (2 ou 3).", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Je connais {{b}} chansons françaises (3 ou 4) et {{b}} chansons anglaises (une vingtaine)." },
+        { "seq": 2, "type": "cloze", "stem_html": "– Je ne connais {{b}} poème de Baudelaire (0) et {{b}} pièce de Marivaux. (0)." },
+        { "seq": 3, "type": "cloze", "stem_html": "Et vous ? Je connais {{L}}" }
+      ]
+    },
+    {
+      "page_no": 71, "seq": 6,
+      "instruction_fr": "Transformez avec des pronoms, selon le modèle.",
+      "label": "Photos de vacances", "note_html": "Regarde mes photos : plusieurs photos sont ratées, quelques photos sont réussies, certaines photos sont originales, d'autres photos sont bizarres, aucune photo n'est banale, chaque photo a une histoire. Voilà vos photos : plusieurs sont ratées,", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "{{L}} réussies," },
+        { "seq": 2, "type": "cloze", "stem_html": "{{L}} originales," },
+        { "seq": 3, "type": "cloze", "stem_html": "{{L}} bizarres," },
+        { "seq": 4, "type": "cloze", "stem_html": "{{L}} banale," },
+        { "seq": 5, "type": "cloze", "stem_html": "{{L}} a une histoire." }
+      ]
+    },
+    {
+      "page_no": 71, "seq": 7,
+      "instruction_fr": "Complétez avec « quelques » ou « quelques-uns », « chaque » ou « chacun ».",
+      "label": "", "note_html": "1. Voici quelques nouveaux produits. Quelques-uns sont révolutionnaires.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. {{L}} produit de cette gamme est garanti sans OGM." },
+        { "seq": 2, "type": "cloze", "stem_html": "1. {{L}} a un label de qualité." },
+        { "seq": 3, "type": "cloze", "stem_html": "2. J'ai {{L}} timbres anciens." },
+        { "seq": 4, "type": "cloze", "stem_html": "2. {{L}} datent de 1850 !" },
+        { "seq": 5, "type": "cloze", "stem_html": "3. Vos enfants ont {{L}} leur chambre ?" },
+        { "seq": 6, "type": "cloze", "stem_html": "4. Attendez ! {{L}} son tour !" },
+        { "seq": 7, "type": "cloze", "stem_html": "4. {{L}} passager a un ticket avec un numéro." },
+        { "seq": 8, "type": "cloze", "stem_html": "5. Je ne connais pas tous les étudiants, je connais seulement {{L}} d'entre eux." }
+      ]
+    },
+    {
+      "page_no": 71, "seq": 8,
+      "instruction_fr": "Répondez en utilisant « tous »/« toutes » ou « aucun(e) ».",
+      "label": "", "note_html": "1. – Tous les étudiants sont arrivés ? – Oui, ils sont tous arrivés. – Non, aucun n'est arrivé !", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. – {{L}} dossiers sont complets ? – Oui, {{L}} – Non, {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. – {{L}} salles sont occupées ? – Oui, {{L}} – Non, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. – {{L}} tests sont corrigés ? – Oui, {{L}} – Non, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 71, "seq": 9,
+      "instruction_fr": "Complétez avec « quelqu'un », « quelque chose » ou « quelque part ».",
+      "label": "", "note_html": "1. Il y a quelqu'un à côté de vous ? –", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. – Vous avez soif ? Vous voulez boire {{L}} ? –" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. Si {{L}} appelle, dites-lui de laisser un message. –" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. Qu'est-ce que vous cherchez ? Vous avez perdu {{L}} ? –" },
+        { "seq": 4, "type": "cloze", "stem_html": "5. Je ne trouve plus mes clés ; j'ai dû les oublier {{L}}." }
+      ]
+    },
+    {
+      "page_no": 71, "seq": 10,
+      "instruction_fr": "Complétez avec « quelque chose de », « quelqu'un de ». Continuez librement.",
+      "label": "", "note_html": "– Un sac, c'est quelque chose d'utile.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Un revolver, {{L}} dangereux." },
+        { "seq": 2, "type": "cloze", "stem_html": "– Charlie Chaplin, {{L}} amusant." },
+        { "seq": 3, "type": "cloze", "stem_html": "– Ma tante, {{L}} spécial." },
+        { "seq": 4, "type": "cloze", "stem_html": "– La liberté, {{L}}." },
+        { "seq": 5, "type": "cloze", "stem_html": "– Un milliardaire, {{L}}." },
+        { "seq": 6, "type": "cloze", "stem_html": "– Une star, {{L}}." },
+        { "seq": 7, "type": "cloze", "stem_html": "– L'argent, {{L}}." }
+      ]
+    }
+  ]
+}

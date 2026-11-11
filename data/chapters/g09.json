@@ -1,0 +1,79 @@
+{
+  "course": "grammaire",
+  "seq": 9,
+  "title_fr": "« IL Y A » et « C'EST »",
+  "page_start": 42,
+  "page_end": 43,
+  "pdf_start": 44,
+  "pdf_end": 45,
+  "sections": [
+    { "title_fr": "L'EXISTENCE et L'IDENTIFICATION", "page_no": 42 }
+  ],
+  "blocks": [
+    { "page_no": 42, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">9</span> « IL Y A » et « C'EST »" },
+    { "page_no": 42, "seq": 2, "type": "keypoint", "body_html": "Dans la rue, <strong>il y a</strong> une voiture verte. <strong>C'est</strong> une Jaguar." },
+    { "page_no": 42, "seq": 3, "type": "para", "body_html": "Alors que de nombreuses langues (comme l'anglais, l'italien, etc.) utilisent le verbe « être » pour signaler l'existence d'une chose ou d'une personne, le français utilise la construction impersonnelle « il y a »." },
+    { "page_no": 42, "seq": 4, "type": "section_title", "body_html": "L'EXISTENCE et L'IDENTIFICATION" },
+    { "page_no": 42, "seq": 5, "type": "para", "body_html": "■ <strong>« IL Y A »</strong> signale l'existence d'une personne ou d'une chose <strong>dans un lieu</strong> :" },
+    { "page_no": 42, "seq": 6, "type": "table", "body_html": "<table class='vocab'><tbody><tr><td><em>Dans la rue,</em></td><td><strong>il y a</strong> <em>des arbres en fleurs.</em></td></tr><tr><td><em>Sur la place,</em></td><td></td></tr><tr><td><em>Dans mon jardin,</em></td><td></td></tr></tbody></table>" },
+    { "page_no": 42, "seq": 7, "type": "warning", "body_html": "⚠ • <strong>Dites :</strong> <em>Dans la rue, il y a</em> un… &nbsp;&nbsp;&nbsp; <strong>Ne dites pas :</strong> <s><em>Dans la rue,</em> un…</s>" },
+    { "page_no": 42, "seq": 8, "type": "para", "body_html": "• « <strong>Il y a</strong> » + nom est une construction impersonnelle toujours au <strong>singulier</strong> :" },
+    { "page_no": 42, "seq": 9, "type": "table", "body_html": "<table class='vocab'><tbody><tr><td><em>Dans la rue, il y a</em></td><td><em>un</em> <strong>homme.</strong></td></tr><tr><td></td><td><em>dix</em> <strong>hommes.</strong></td></tr></tbody></table>" },
+    { "page_no": 42, "seq": 10, "type": "para", "body_html": "• Le lieu n'est pas nécessairement exprimé :<br>À huit heures, <em><strong>il y a</strong></em> <em>un match de football.</em> (à la télévision/au stade, etc.)" },
+    { "page_no": 42, "seq": 11, "type": "para", "body_html": "■ <strong>« C'EST »</strong> (singulier) et <strong>« CE SONT »</strong> (pluriel) identifient une chose ou une personne présente ou déjà présentée par le discours :" },
+    { "page_no": 42, "seq": 12, "type": "table", "body_html": "<table class='vocab'><tbody><tr><td><em>– Regarde,</em></td><td><strong>c'est un</strong> <em>cerisier du Japon.</em></td></tr><tr><td></td><td><strong>ce sont des</strong> <em>cerisiers du Japon.</em></td></tr></tbody></table>" },
+    { "page_no": 42, "seq": 13, "type": "para", "body_html": "À Budapest, il y a un fleuve : <em><strong>c'est</strong></em> <em>le Danube.</em><br>Dans le bureau, il y a une dame blonde : <em><strong>c'est</strong></em> <em>la secrétaire.</em>" },
+    { "page_no": 42, "seq": 14, "type": "xref", "body_html": "« C'est »/« Ce sont », p. 32 &nbsp;&nbsp;&nbsp;&nbsp;« Il y a » et la négation, p. 50" }
+  ],
+  "exercises": [
+    {
+      "page_no": 43, "seq": 1,
+      "instruction_fr": "Complétez par « il y a » ou « c'est »/« ce sont », selon le modèle.",
+      "label": "", "note_html": "Dans le journal, <em class='model'>il y a</em> la photo d'une très belle femme : <em class='model'>c'est</em> une actrice américaine.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Dans la cour, {{b}} deux enfants, {{b}} les enfants de la concierge." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Dans mon quartier, {{b}} un restaurant très connu : {{b}} un restaurant russe." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Au musée d'Art moderne, {{b}} une très belle exposition : {{b}} une exposition sur les impressionnistes allemands." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Devant l'hôtel, {{b}} une dizaine de personnes : {{b}} des touristes italiens." }
+      ]
+    },
+    {
+      "page_no": 43, "seq": 2,
+      "instruction_fr": "➤➤ Complétez les phrases, selon le modèle.",
+      "label": "", "note_html": "Dans mon portefeuille, <em class='model'>il y a une photo : c'est la photo de ma fille.</em><br><em class='model'>il y a des photos : ce sont les photos de mes enfants.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Sur mon bureau, {{L}}<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "Dans ma chambre, {{L}}<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Dans mon sac, {{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 43, "seq": 3,
+      "instruction_fr": "Complétez les phrases, selon le modèle.",
+      "label": "", "note_html": "Au centre de Londres, <em class='model'>il y a</em> un très grand parc : <em class='model'>c'est</em> Hyde Park.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. À New York, {{b}} un musée important : {{b}} le musée Guggenheim." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. En Grèce, {{b}} des trésors archéologiques : {{b}} des monuments de l'époque classique." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. En Suisse, {{b}} beaucoup de stations de ski : {{b}} des stations très animées en hiver." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Sur la Seine, {{b}} bateaux pour les touristes : {{b}} les bateaux-mouches." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Près de Paris, à Marne-la-Vallée, {{b}} un grand parc d'attractions : {{b}} Euro-Disney." }
+      ]
+    },
+    {
+      "page_no": 43, "seq": 4,
+      "instruction_fr": "Complétez avec « c'est »/« ce sont », « il y a », « il est »/« elle est », selon le cas.",
+      "label": "Un petit hôtel", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Dans ma rue, {{b}} un hôtel. {{b}} un petit hôtel. Il n'est pas très moderne, mais {{b}} vraiment charmant. Dans certaines chambres, {{b}} un balcon, et sur la table {{b}} toujours des fleurs, {{b}} en général des roses. L'hôtel est souvent complet, car {{b}} très connu et {{b}} toujours beaucoup d'étudiants français et étrangers. La propriétaire est une vieille dame, {{b}} un peu bavarde, mais {{b}} très gentille." }
+      ]
+    },
+    {
+      "page_no": 43, "seq": 5,
+      "instruction_fr": "➤➤ @ Donnez des informations sur votre ville, votre région, votre pays.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}

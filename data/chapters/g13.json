@@ -1,0 +1,257 @@
+{
+  "course": "grammaire",
+  "seq": 13,
+  "title_fr": "LES NOMBRES",
+  "page_start": 58,
+  "page_end": 63,
+  "pdf_start": 60,
+  "pdf_end": 65,
+  "sections": [
+    { "title_fr": "LES NOMBRES CARDINAUX", "page_no": 58 },
+    { "title_fr": "LES NOMBRES ORDINAUX", "page_no": 62 }
+  ],
+  "blocks": [
+    { "page_no": 58, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">13</span> LES NOMBRES" },
+    { "page_no": 58, "seq": 2, "type": "section_title", "body_html": "LES NOMBRES CARDINAUX" },
+    { "page_no": 58, "seq": 3, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>0 zéro</em><br><em>1 un</em><br><em>2 deux</em><br><em>3 trois</em><br><em>4 quatre</em><br><em>5 cinq</em><br><em>6 six</em><br><em>7 sept</em><br><em>8 huit</em><br><em>9 neuf</em></span></div><div><span class='wordlist'><em>10 dix</em><br><em>11 onze</em><br><em>12 douze</em><br><em>13 treize</em><br><em>14 quatorze</em><br><em>15 quinze</em><br><em>16 seize</em><br><em>17 dix-sept</em><br><em>18 dix-huit</em><br><em>19 dix-neuf</em></span></div></div>" },
+    { "page_no": 58, "seq": 4, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>20 vingt</em><br><em>30 trente</em><br><em>40 quarante</em><br><em>50 cinquante</em><br><em>60 soixante</em><br><em>70 soixante-dix</em><br><em>80 quatre-vingts</em><br><em>90 quatre-vingt-dix</em></span></div><div><span class='wordlist'><em>21 vingt <strong>et</strong> un</em><br><em>31 trente <strong>et</strong> un</em><br><em>41 quarante <strong>et</strong> un</em><br><em>51 cinquante <strong>et</strong> un</em><br><em>61 soixante <strong>et</strong> un</em><br><em>71 soixante <strong>et onze</strong></em><br><em>81 quatre-vingt-un</em><br><em>91 quatre-vingt-<strong>onze</strong></em></span></div><div><span class='wordlist'><em>22 vingt-deux</em><br><em>32 trente-deux</em><br><em>42 quarante-deux</em><br><em>52 cinquante-deux</em><br><em>62 soixante-deux</em><br><em>72 soixante-<strong>douze</strong></em><br><em>82 quatre-vingt-deux</em><br><em>92 quatre-vingt-<strong>douze</strong></em></span></div></div>" },
+    { "page_no": 58, "seq": 5, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>100 cent</em><br><em>200 deux cent<strong>s</strong></em><br><em>300 trois cent<strong>s</strong></em></span></div><div><span class='wordlist'><em>101 cent un</em><br><em>201 deux cent un</em><br><em>301 trois cent un</em></span></div><div><span class='wordlist'><em>110 cent dix</em><br><em>250 deux cent cinquante</em><br><em>320 trois cent vingt</em></span></div></div>" },
+    { "page_no": 58, "seq": 6, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>1 000 mille</em><br><em>10 000 dix mille</em><br><em>100 000 cent mille</em><br><em>200 000 deux cent mille</em></span></div><div><span class='wordlist'><em>1 000 000 un million</em><br><em>10 000 000 dix million<strong>s</strong></em><br><em>1 000 000 000 un milliard</em><br><em>10 000 000 000 dix milliard<strong>s</strong></em></span></div></div>" },
+    { "page_no": 58, "seq": 7, "type": "para", "body_html": "En Suisse romande et en Belgique, on dit septante (70), octante (80) et nonante (90). En Suisse romande, on dit aussi huitante (80)." },
+
+    { "page_no": 60, "seq": 8, "type": "running_head", "body_html": "LES NOMBRES" },
+    { "page_no": 60, "seq": 9, "type": "subhead", "body_html": "À L'ÉCRIT" },
+    { "page_no": 60, "seq": 10, "type": "para", "body_html": "Les nombres cardinaux sont en général invariables :<br><em>« Les <strong>Quatre</strong> Saisons »</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>« Les <strong>Sept</strong> Samouraïs »</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>« Les <strong>Cent</strong> Familles »</em>" },
+    { "page_no": 60, "seq": 11, "type": "subhead", "body_html": "« VINGT » et « CENT » prennent un « -s » quand ils sont <strong>multipliés</strong> :" },
+    { "page_no": 60, "seq": 12, "type": "para", "body_html": "<em>quatre-vingts</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>trois cents</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>huit cents</em>" },
+    { "page_no": 60, "seq": 13, "type": "phonetic", "body_html": "La liaison met en évidence le pluriel :<br><span class='example-line'><em>quatre-vingts ans</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>trois cents heures</em>&nbsp;&nbsp;&nbsp;&nbsp;Mais : <em>cent ans</em></span><br><span class='liaison'>z&nbsp;&nbsp;&nbsp;&nbsp;z&nbsp;&nbsp;&nbsp;&nbsp;t</span>" },
+    { "page_no": 60, "seq": 14, "type": "subhead", "body_html": "Jusqu'à cent, les nombres composés sont reliés par un <strong>tiret</strong> :" },
+    { "page_no": 60, "seq": 15, "type": "para", "body_html": "<em>dix-sept</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>cinquante-cinq</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>soixante-douze</em>" },
+    { "page_no": 60, "seq": 16, "type": "para", "body_html": "21, 31, 41, 51, 61, 71 sont reliés par « <strong>et</strong> » :<br><em>vingt <strong>et</strong> un</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>trente <strong>et</strong> un</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>soixante <strong>et</strong> onze</em>" },
+    { "page_no": 60, "seq": 17, "type": "subhead", "body_html": "« MILLE » est toujours <strong>invariable</strong>, « MILLION » et « MILLIARD » s'accordent :" },
+    { "page_no": 60, "seq": 18, "type": "para", "body_html": "<em>trois mille</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>trois millions</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>dix milliards</em>" },
+    { "page_no": 60, "seq": 19, "type": "warning", "body_html": "On dit : <em>mille euros.</em>&nbsp;&nbsp;&nbsp;&nbsp;Mais : <em>un milliard <strong>d'</strong>euros.</em>" },
+    { "page_no": 60, "seq": 20, "type": "subhead", "body_html": "À L'ORAL" },
+    { "page_no": 60, "seq": 21, "type": "phonetic", "body_html": "On prononce la finale de « cinq », « sept », « huit », « neuf ». Le « x » de « six » et « dix » se prononce « s ».<br>5 <em>cinq</em>&nbsp;&nbsp;7 <em>sept</em>&nbsp;&nbsp;8 <em>huit</em>&nbsp;&nbsp;9 <em>neuf</em>&nbsp;&nbsp;6 <em>six</em> [sis]&nbsp;&nbsp;10 <em>dix</em> [dis]" },
+    { "page_no": 60, "seq": 22, "type": "para", "body_html": "Le « x » de « six » et « dix » se prononce « z » devant voyelle ou « h » muet :<br><em>six adultes</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>dix amis</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>dix-huit jours</em><br><span class='liaison'>z&nbsp;&nbsp;&nbsp;&nbsp;z&nbsp;&nbsp;&nbsp;&nbsp;z</span>" },
+    { "page_no": 60, "seq": 23, "type": "para", "body_html": "La finale de « huit », « six » et « dix » est muette devant consonne :<br><em>huit jours</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>six livres</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>dix personnes</em>&nbsp;&nbsp;&nbsp;&nbsp;Mais : <em>dix-neuf</em> [diz neuf]" },
+    { "page_no": 60, "seq": 24, "type": "para", "body_html": "« Neuf » se prononce « neuf » devant « heures » et « ans » :<br><em>neuf heures</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>neuf ans</em><br><span class='liaison'>v&nbsp;&nbsp;&nbsp;&nbsp;v</span>" },
+    { "page_no": 60, "seq": 25, "type": "phonetic", "body_html": "La consonne finale de « vingt » est muette, sauf de 21 à 29 :<br><em>vingt</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>quatre-vingt-onze</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>cent quatre-vingt-un</em>&nbsp;&nbsp;&nbsp;&nbsp;Mais : <em>vingt-sept</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>cent vingt-quatre</em>" },
+
+    { "page_no": 62, "seq": 26, "type": "running_head", "body_html": "LES NOMBRES" },
+    { "page_no": 62, "seq": 27, "type": "section_title", "body_html": "LES NOMBRES ORDINAUX" },
+    { "page_no": 62, "seq": 28, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>1<strong>er</strong> Premier</em><br><em>2<strong>e</strong> Deuxième/second</em><br><em>3<strong>e</strong> Troisième</em><br><em>4<strong>e</strong> Quatrième</em><br><em>5<strong>e</strong> Cinquième</em><br><em>6<strong>e</strong> Sixième</em><br><em>7<strong>e</strong> Septième</em><br><em>8<strong>e</strong> Huitième</em><br><em>9<strong>e</strong> Neuvième</em><br><em>10<strong>e</strong> Dixième</em><br><em>100<strong>e</strong> : centième</em><br><em>1 000<strong>e</strong> : millième</em><br><em>1 000 000<strong>e</strong> : millionième</em></span></div><div><span class='wordlist'><em>11<strong>e</strong> Onzième</em><br><em>12<strong>e</strong> Douzième</em><br><em>13<strong>e</strong> Treizième</em><br><em>14<strong>e</strong> Quatorzième</em><br><em>15<strong>e</strong> Quinzième</em><br><em>16<strong>e</strong> Seizième</em><br><em>17<strong>e</strong> Dix-septième</em><br><em>18<strong>e</strong> Dix-huitième</em><br><em>19<strong>e</strong> Dix-neuvième</em><br><em>20<strong>e</strong> Vingtième</em></span></div><div><span class='wordlist'><em>21<strong>e</strong> Vingt <strong>et</strong> unième</em><br><em>30<strong>e</strong> Trentième</em><br><em>31<strong>er</strong> Trente <strong>et</strong> unième</em><br><em>40<strong>e</strong> Quarantième</em><br><em>50<strong>e</strong> Cinquantième</em><br><em>60<strong>e</strong> Soixantième</em><br><em>70<strong>e</strong> Soixante-dixième</em><br><em>71<strong>e</strong> Soixante <strong>et</strong> onzième</em><br><em>80<strong>e</strong> Quatre-vingtième</em><br><em>91<strong>er</strong> Quatre-vingt-onzième</em></span></div></div>" },
+    { "page_no": 62, "seq": 29, "type": "list", "body_html": "une diz<strong>aine</strong> = environ 10 — une douz<strong>aine</strong> = douze — une cent<strong>aine</strong> = environ 100<br>1/2 = un demi — 1/3 = un tiers — 1/4 = un quart — 1/5 = un cinquième<br>10 % : dix pour cent — 50 % : cinquante pour cent" },
+    { "page_no": 62, "seq": 30, "type": "subhead", "body_html": "NOMBRE et NUMÉRO" },
+    { "page_no": 62, "seq": 31, "type": "para", "body_html": "<strong>Nombre</strong> = quantité comptable :<br><em>– Quel est le <strong>nombre</strong> d'abonnés ?</em><br><em>– Quel est le <strong>nombre</strong> de joueurs ?</em><br><em>« <strong>Numéro</strong> » = élément d'une <strong>série</strong> :</em><br><em>– <strong>Quel</strong> est votre <strong>numéro</strong> de téléphone ?</em><br><em>– <strong>Quel</strong> est le <strong>numéro</strong> du gardien de but ?</em>" },
+    { "page_no": 62, "seq": 32, "type": "subhead", "body_html": "AN et ANNÉE" },
+    { "page_no": 62, "seq": 33, "type": "para", "body_html": "<em>« <strong>An</strong> » :</em> <strong>unité</strong> de temps (+ <strong>nombres</strong> cardinaux)<br><em>Il a <strong>vingt</strong> ans.</em><br><em>Cette église a deux cents <strong>ans</strong>.</em><br><em>Je vais à Londres <strong>deux</strong> fois par <strong>an</strong>.</em><br><em>« <strong>Année</strong> » :</em> <strong>durée</strong> (+ <strong>ordinaux</strong> ou <strong>adjectifs</strong>)<br><em>Il est en <strong>deuxième</strong> année.</em><br><em>C'est une <strong>bonne</strong> année pour le vin.</em><br><em>Je suis là <strong>toute l'</strong>année.</em><br>• On dit aussi :<br>trois <strong>jours</strong> — toute la <strong>journée</strong> — <em>une belle</em> <strong>journée</strong><br><em>ce</em> <strong>soir</strong> — toute la <strong>soirée</strong> — <em>une bonne</em> <strong>soirée</strong>" },
+    { "page_no": 62, "seq": 34, "type": "warning", "body_html": "Avec des quantités indéfinies, on utilise « <strong>année</strong> » :<br><em>Combien d'<strong>années</strong> ? Des millions d'<strong>années</strong>.</em><br><em>Chaque <strong>année</strong>. Plusieurs <strong>années</strong>.</em>" },
+    { "page_no": 62, "seq": 35, "type": "para", "body_html": "Pour exprimer la fréquence, on dit :<br><em>tous les ans</em> / <em>tous les quatre ans</em> — <em>tous les jours</em> / <em>tous les deux jours</em>" },
+    { "page_no": 62, "seq": 36, "type": "xref", "body_html": "Date, p. 64&nbsp;&nbsp;&nbsp;&nbsp;Indéfinis, p. 68" }
+  ],
+  "exercises": [
+    {
+      "page_no": 59, "seq": 1,
+      "instruction_fr": "Répondez, à l'oral, selon le modèle.",
+      "label": "", "note_html": "Quel est le numéro de l'aéroport de Roissy ? – C'est le zéro un, soixante-dix, {{L}}", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Aéroports de Paris : 01 70 36 39 50<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "Police : 17<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Pompiers : 18<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Pharmacies de garde : 3237<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "Urgences médicales (SAMU) : 15<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 59, "seq": 2,
+      "instruction_fr": "Transcrivez en chiffres les résultats du jeu de cartes.",
+      "label": "Qui a gagné ?", "note_html": "Paul : Trois cent cinquante-neuf → = 359 points", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Max : Cinq cent quarante-trois → = {{L}} points" },
+        { "seq": 2, "type": "cloze", "stem_html": "Jules : Mille cent dix-huit → = {{L}} points" },
+        { "seq": 3, "type": "cloze", "stem_html": "Pierre : Sept cent cinquante-cinq → = {{L}} points" },
+        { "seq": 4, "type": "cloze", "stem_html": "Ivan : Quatre-vingt-quinze → = {{L}} points" }
+      ]
+    },
+    {
+      "page_no": 59, "seq": 3,
+      "instruction_fr": "Complétez les phrases selon le modèle.",
+      "label": "", "note_html": "Dans une année, il y a douze mois.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. Dans un mois, {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. Dans une semaine, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. Dans une journée, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "5. Dans une heure, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "6. Dans une minute, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 59, "seq": 4,
+      "instruction_fr": "Répondez oralement, selon le modèle.",
+      "label": "", "note_html": "– Quel est l'indicatif téléphonique de la France ? – C'est le zéro zéro trente-trois.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Suisse : +41<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "Cameroun : +237<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Luxembourg : +352<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Belgique : +32<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "Danemark : +45<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 59, "seq": 5,
+      "instruction_fr": "Faites les opérations (addition, soustraction, multiplication et division) à l'oral.",
+      "label": "", "note_html": "6 + 25 = 31  →  six, plus vingt-cinq, égale trente et un", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "6&nbsp;&nbsp;<em class='model'>six</em><br>+ 25&nbsp;&nbsp;<em class='model'>plus vingt-cinq</em><br>= 31&nbsp;&nbsp;<em class='model'>égale trente et un</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "125<br>+ 51<br>= 176<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "75&nbsp;&nbsp;<em class='model'>soixante-quinze</em><br>x 2&nbsp;&nbsp;<em class='model'>multiplié par deux</em><br>= 150&nbsp;&nbsp;<em class='model'>ça fait cent cinquante</em>" },
+        { "seq": 4, "type": "cloze", "stem_html": "26<br>x 3<br>= 78<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "45&nbsp;&nbsp;<em class='model'>quarante-cinq</em><br>– 15&nbsp;&nbsp;<em class='model'>moins quinze</em><br>= 30&nbsp;&nbsp;<em class='model'>égale trente</em>" },
+        { "seq": 6, "type": "cloze", "stem_html": "69<br>– 18<br>= 51<br>{{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "44&nbsp;&nbsp;<em class='model'>quarante-quatre</em><br>: 4&nbsp;&nbsp;<em class='model'>divisé par quatre</em><br>= 11&nbsp;&nbsp;<em class='model'>ça fait onze</em>" },
+        { "seq": 8, "type": "cloze", "stem_html": "72<br>: 6<br>= 12<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 59, "seq": 6,
+      "instruction_fr": "Donnez vos numéros de téléphone (fixe, portable, bureau) et l'indicatif téléphonique de votre pays.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 61, "seq": 7,
+      "instruction_fr": "Complétez le chèque. Rédigez d'autres chèques avec d'autres bénéficiaires.",
+      "label": "", "note_html": "1. Gants (21 €) Vingt et un euros", "has_image": true, "scan_pages": [61],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. Chaussures (50 €) {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. Pull (41 €) {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. Manteau (200 €) {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "5. Robe (100 €) {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "6. Veste (170 €) {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "7. Ordinateur (2000 €) {{L}}" }
+      ]
+    },
+    {
+      "page_no": 61, "seq": 8,
+      "instruction_fr": "Écrivez en lettres, selon le modèle.",
+      "label": "", "note_html": "« (100) Cent ans de Solitude » : roman", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. (400) « Les {{L}} Coups » : film" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. (24) « Les {{L}} Heures du Mans » : course" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. (4) « Les {{L}} Saisons » : concertos" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. (101) « Les {{L}} Dalmatiens » : dessin animé" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. (24 000) « {{L}} Baisers » : chanson" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. (7) « Les {{L}} Mercenaires » : film" }
+      ]
+    },
+    {
+      "page_no": 61, "seq": 9,
+      "instruction_fr": "Écrivez en lettres, selon le modèle.",
+      "label": "La tour Eiffel", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "La tour Eiffel<br>Elle mesure (300) <em class='model'>trois cents</em> mètres de haut et<br>elle pèse plus de (7000) {{L}} tonnes.<br>Elle se compose de (2,5 millions) {{L}}<br>de rivets que (300) {{L}} monteurs-<br>acrobates ont assemblés de (1887) {{L}}<br>{{L}} à (1889) {{L}} {{L}}." }
+      ]
+    },
+    {
+      "page_no": 61, "seq": 10,
+      "instruction_fr": "Complétez les phrases, selon le modèle. Comparez avec votre pays.",
+      "label": "", "note_html": "En France, il y a environ (65 000 000) soixante-cinq millions de Français.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "En moyenne, les Français partent à la retraite à (62) {{L}} ans." },
+        { "seq": 2, "type": "cloze", "stem_html": "Le salaire minimum est de (1 244) {{L}} euros." },
+        { "seq": 3, "type": "cloze", "stem_html": "Il y a (389) {{L}} cinémas à Paris. Le billet coûte environ (7) {{L}} euros." },
+        { "seq": 4, "type": "cloze", "stem_html": "Un bon repas dans un restaurant parisien coûte autour de (40) {{L}} euros." },
+        { "seq": 5, "type": "cloze", "stem_html": "Le journal le plus lu est le journal sportif l'Équipe avec (2 300 000) {{L}} lecteurs." }
+      ]
+    },
+    {
+      "page_no": 61, "seq": 11,
+      "instruction_fr": "Prononcez les phrases suivantes.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Le 5 et le 9 sont mes numéros fétiches." },
+        { "seq": 2, "type": "open", "stem_html": "2. 10 personnes attendent depuis 10 heures." },
+        { "seq": 3, "type": "open", "stem_html": "3. Le 23, pour mes 21 ans, je reçois 82 personnes à 22 h." },
+        { "seq": 4, "type": "open", "stem_html": "4. J'ai invité 9 enfants de 9 ans, le 9 août à 9 h." },
+        { "seq": 5, "type": "open", "stem_html": "5. Il y a 6 erreurs à la page 6 et 7 à la page 10." },
+        { "seq": 6, "type": "open", "stem_html": "6. J'ai 10 neveux de 19 ans et 6 oncles de 88 ans." }
+      ]
+    },
+    {
+      "page_no": 61, "seq": 12,
+      "instruction_fr": "Indiquez le nombre de jours de congés en France, et dans d'autres pays.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "(ex. : Autriche, Japon, Espagne, Chine, États-Unis)<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 63, "seq": 13,
+      "instruction_fr": "Répondez en toutes lettres, selon le modèle.",
+      "label": "", "note_html": "1. – La concierge est au 1er étage ?... – Oui, elle est au premier.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. – Le docteur est au 2e étage ?<br>– {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. – Les bureaux sont au 32e étage ?<br>– {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. – Le directeur est au 41e étage ?<br>– {{b}}" }
+      ]
+    },
+    {
+      "page_no": 63, "seq": 14,
+      "instruction_fr": "Complétez, selon le modèle.",
+      "label": "", "note_html": "1. – Jeudi est le 3e jour de la semaine ? – Non, c'est le quatrième.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. – Novembre est le 12e mois de l'année ?<br>– Non, c'est la {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. – C'est la 20e page du livre ?<br>– Non, c'est la {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. – C'est le premier exercice ?<br>– Non, c'est le {{b}}" }
+      ]
+    },
+    {
+      "page_no": 63, "seq": 15,
+      "instruction_fr": "Complétez avec « nombre » ou « numéro ».",
+      "label": "", "note_html": "– Quel est le numéro d'immatriculation de votre voiture ? – 345 VX 65.<br>– Quel est le nombre de kilomètres ? – 12 000 kilomètres.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. J'habite au {{b}} 46 de la rue Henri-Barbusse. Et vous ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Quel est le {{b}} de personnes prévu pour le dîner ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Un grand {{b}} d'animaux sauvages est en voie d'extinction." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Quel est le {{b}} de votre passeport ?" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Le {{b}} de naissances diminue en Europe." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. C'est fou le {{b}} de choses qu'il faut emporter en vacances." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Le {{b}} gagnant est le 23 ! Il gagne un million d'euros !" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Nous avons les places {{b}} 12 et 13 en deuxième classe." }
+      ]
+    },
+    {
+      "page_no": 63, "seq": 16,
+      "instruction_fr": "Complétez avec « an » ou « année ».",
+      "label": "", "note_html": "Je vais en Grèce chaque année, depuis dix ans.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je vais en Grèce chaque année, depuis dix {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Je connais Paul depuis plusieurs {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. C'est notre dixième {{b}} de mariage." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. J'ai quarante {{b}} cette {{b}}" }
+      ]
+    },
+    {
+      "page_no": 63, "seq": 17,
+      "instruction_fr": "Choisissez, selon le modèle.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Au mois de juin, il y a trente jours / journées." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Passez me voir dans le soir / la soirée." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Il pleut depuis trois jours / journées." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Tu as vécu combien d'ans / années au Chili ?" }
+      ]
+    },
+    {
+      "page_no": 63, "seq": 18,
+      "instruction_fr": "Complétez avec « an »/« année », « nombre »/« numéro », « il y a »/« c'est ».",
+      "label": "Le numéro 1000", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Le numéro 1000<br>Notre magazine a vingt {{b}} cette {{b}}. Dans le {{b}} 1000 du 6 septembre, {{b}} un supplément de 20 pages : {{b}} notre album souvenir qui commence par la rencontre de trois vieux amis, un 14 juillet, au milieu d'un grand {{b}} d'inconnus. C'est cette {{b}}-là que notre magazine est né... Notre revue en ligne est aujourd'hui consultée par six millions d'internautes." }
+      ]
+    }
+  ]
+}

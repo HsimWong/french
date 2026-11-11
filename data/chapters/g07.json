@@ -1,0 +1,65 @@
+{
+  "course": "grammaire",
+  "seq": 7,
+  "title_fr": "LES NOMS de PARENTÉ et de GROUPE",
+  "page_start": 38,
+  "page_end": 39,
+  "pdf_start": 40,
+  "pdf_end": 41,
+  "sections": [
+    { "title_fr": "LA PARENTÉ", "page_no": 38 },
+    { "title_fr": "LES NOMS DE GROUPE", "page_no": 38 }
+  ],
+  "blocks": [
+    { "page_no": 38, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">7</span> LES NOMS de PARENTÉ et de GROUPE" },
+    { "page_no": 38, "seq": 2, "type": "section_title", "body_html": "LA PARENTÉ" },
+    { "page_no": 38, "seq": 3, "type": "table", "body_html": "<table class='vocab'><tbody><tr><td><em>le père/la mère</em></td><td>=</td><td><em>les parents</em></td></tr><tr><td><em>le fils/la fille</em></td><td>=</td><td><em>les enfants</em></td></tr><tr><td><em>le grand-père/la grand-mère</em></td><td>=</td><td><em>les grands-parents</em></td></tr><tr><td><em>le petit-fils/la petite-fille</em></td><td>=</td><td><em>les petits-enfants</em></td></tr><tr><td><em>l'oncle/la tante</em></td><td></td><td></td></tr><tr><td><em>le neveu/la nièce</em></td><td>=</td><td><em>les neveux</em></td></tr><tr><td><em>le grand-oncle/la grand-tante</em></td><td></td><td></td></tr><tr><td><em>le petit-neveu/la petite-nièce</em></td><td>=</td><td><em>les petits-neveux</em></td></tr></tbody></table>" },
+    { "page_no": 38, "seq": 4, "type": "para", "body_html": "« <strong>Grand</strong> » qualifie les ascendants au deuxième degré, « <strong>petit</strong> » les descendants.<br>« <strong>Les parents</strong> » = le père et la mère, « <strong>des parents</strong> » = autre parenté (cousins, oncles, tantes, etc.)." },
+    { "page_no": 38, "seq": 5, "type": "remark", "body_html": "■ Pour la parenté par alliance, on dit :" },
+    { "page_no": 38, "seq": 6, "type": "table", "body_html": "<table class='vocab'><tbody><tr><th></th><th><em>le mari</em></th><th><em>la femme</em></th><th></th></tr><tr><td>(père du mari/de la femme)</td><td><em>le beau-père</em></td><td><em>la belle-mère</em></td><td>(mère du mari/de la femme)</td></tr><tr><td>(frère du mari/de la femme)</td><td><em>le beau-frère</em></td><td><em>la belle-sœur</em></td><td>(sœur du mari/de la femme)</td></tr><tr><td>(mari de la fille)</td><td><em>le gendre</em></td><td><em>la belle-fille</em></td><td>(femme du fils)</td></tr></tbody></table>" },
+    { "page_no": 38, "seq": 7, "type": "para", "body_html": "La « <strong>belle-mère</strong> » est aussi la femme du père et le « <strong>beau-père</strong> » le mari de la mère en cas de remariage.<br>« <strong>Beau</strong> » est une ancienne marque de respect." },
+    { "page_no": 38, "seq": 8, "type": "warning", "body_html": "⚠ - « <strong>Mon</strong> ami(e) » = compagnon ou compagne ; « <strong>un</strong>(e) ami(e) » = relation amicale." },
+    { "page_no": 38, "seq": 9, "type": "section_title", "body_html": "LES NOMS DE GROUPE" },
+    { "page_no": 38, "seq": 10, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'>« <strong>Des gens</strong> » = nombre indéterminé d'individus (collectif)</p><span class='wordlist'><em>Il y a <strong>des gens</strong> dans la rue.</em><br><em><strong>Les gens</strong> pensent que...</em></span><p class='bullet'>« <strong>Tout le monde</strong> » = « les gens »</p><span class='wordlist'><em><strong>Tout le monde</strong> aime les vacances.</em></span><div class='annotation'>⚠ <em>Les gens <strong>pensent</strong> que...</em><br>verbe au pluriel</div></div><div><p class='bullet'>« <strong>Des personnes</strong> » = nombre déterminé d'individus (= 1, 2, 3...)</p><span class='wordlist'><em>Il y a <strong>dix personnes</strong> dans la rue.</em><br><em><strong>Quelques personnes</strong> pensent que...</em></span><p class='bullet'>« <strong>Le monde entier</strong> » = tous les pays</p><span class='wordlist'><em>Max voyage dans <strong>le monde entier</strong>.</em></span><div class='annotation'>⚠ <em>Tout le monde <strong>pense</strong> que...</em><br>verbe au singulier</div></div></div>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 39, "seq": 1,
+      "instruction_fr": "Observez le tableau. Complétez avec le terme de parenté correspondant.",
+      "label": "", "note_html": "1. – Qui est Élise pour Quentin ? – <em class='model'>C'est sa sœur.</em> – Qui est Léo ? – <em class='model'>C'est son frère.</em>", "has_image": true, "scan_pages": [39],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Qui est Élise pour Quentin ? – <em class='model'>C'est sa sœur.</em> – Qui est Léo ? – <em class='model'>C'est son frère.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Qui est Jean pour Manon ? – {{L}} – Qui est Pierre ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Qui sont Léo, Quentin et Élise pour Catherine ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Qui sont Léo, Quentin et Élise pour Pierre et Marie ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Qui est Élisabeth pour Élise ? – {{L}} – Qui est Jean pour Quentin ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 39, "seq": 2,
+      "instruction_fr": "Complétez avec les relations de parenté et les possessifs manquants.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Qui étaient les {{b}} de Louis XIII ?<br>– Je crois que Marie de Médicis était {{b}} mère et Henri IV était {{b}} père." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Napoléon I<sup>er</sup> n'était pas le père de Napoléon III ?<br>– Non, <em class='model'>c'était le frère de</em> {{b}} <em class='model'>père, c'est-à-dire</em> {{b}}." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Le cinéaste Jean Renoir était le {{b}} du peintre impressionniste Auguste Renoir ?<br>– Oui, Auguste Renoir était {{b}} père." }
+      ]
+    },
+    {
+      "page_no": 39, "seq": 3,
+      "instruction_fr": "Complétez avec « gens », « personnes », « tout le monde » ou « le monde entier ».",
+      "label": "Un grand reporter", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Mon beau-père est un grand journaliste : il voyage dans {{b}}. Il parle souvent à la télévision et, dans la rue, {{b}} le reconnait. Il parle cinq ou six langues couramment et il peut interviewer plusieurs {{b}} à la fois en plusieurs langues.<br>Les {{b}} pensent en général qu'il est français, mais, en réalité, il est roumain. Il connaît très bien plusieurs {{b}} du monde de la politique et du spectacle, et il a des amis dans {{b}}. Il s'appelle Radulescu mais {{b}} l'appelle « Radu »." }
+      ]
+    },
+    {
+      "page_no": 39, "seq": 4,
+      "instruction_fr": "➤➤ Photos de famille. Présentez vos parents et amis, selon le modèle.",
+      "label": "", "note_html": "<em class='model'>C'est Chris : c'est mon frère, il est ingénieur. C'est Anne : c'est ma sœur, elle est lycéenne. Ce sont mes parents, Monique et André. Mon père est assureur. Ma mère est diététicienne.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}
