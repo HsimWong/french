@@ -1,0 +1,143 @@
+{
+  "course": "grammaire",
+  "seq": 20,
+  "title_fr": "LE PRONOM « EN »",
+  "page_start": 90,
+  "page_end": 93,
+  "pdf_start": 92,
+  "pdf_end": 95,
+  "sections": [
+    { "title_fr": "« EN » exprime une quantité indéterminée (partitif)", "page_no": 90 },
+    { "title_fr": "LA NÉGATION", "page_no": 90 },
+    { "title_fr": "« EN » s'utilise avec des constructions avec « de ».", "page_no": 92 }
+  ],
+  "blocks": [
+    { "page_no": 90, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">20</span> LE PRONOM « EN »" },
+    { "page_no": 90, "seq": 2, "type": "keypoint", "body_html": "– <em>Vous avez des disques de jazz ?</em> — Oui, j'<strong>en</strong> ai beaucoup.<br>– <em>Vous avez des disques de Chet Baker ?</em> — J'<strong>en</strong> ai deux." },
+    { "page_no": 90, "seq": 3, "type": "para", "body_html": "« <strong>En</strong> » remplace en général un nom précédé par « <strong>de</strong> »." },
+    { "page_no": 90, "seq": 4, "type": "section_title", "body_html": "« <strong>EN</strong> » exprime une quantité indéterminée (partitif) :" },
+    { "page_no": 90, "seq": 5, "type": "example", "body_html": "– <em>Vous mangez</em> <strong>de la</strong> <em>viande ?</em> — Oui, j'<strong>en</strong> mange.<br>– <em>Vous buvez</em> <strong>du vin</strong> <em>?</em> — Oui, j'<strong>en</strong> bois.<br>– <em>Vous achetez</em> <strong>des</strong> <em>surgelés ?</em> — Oui, j'<strong>en</strong> achète." },
+    { "page_no": 90, "seq": 6, "type": "warning", "body_html": "• À la question :&nbsp;&nbsp;&nbsp;&nbsp;Répondez :&nbsp;&nbsp;&nbsp;&nbsp;Ne répondez pas :<br>— <em>Il y a du pain ?</em> — <em>Oui, il y en a.</em> — <em>Oui,</em> <s>Il y a</s>." },
+    { "page_no": 90, "seq": 7, "type": "subhead", "body_html": "« <strong>En</strong> » est nécessaire même quand la quantité est exprimée :" },
+    { "page_no": 90, "seq": 8, "type": "example", "body_html": "– <em>Vous avez des enfants ?</em> — <em>Oui, j'</em><strong>en</strong> <em>ai</em> <strong>deux.</strong><br>– <em>Il y a vingt étudiants ?</em> — <em>Non, il y</em> <strong>en a</strong> <em>trente.</em><br>– <em>Vous avez combien de télé ?</em> — <strong>J'</strong><em>(en)</em> <strong>ai</strong> <em>une</em> ( <em>deux, trois…</em> )" },
+    { "page_no": 90, "seq": 9, "type": "warning", "body_html": "• « Un(e) » est considéré comme une quantité (= 1).<br>À la question :&nbsp;&nbsp;&nbsp;&nbsp;Répondez :&nbsp;&nbsp;&nbsp;&nbsp;Ne répondez pas :<br>— <em>Vous avez une voiture ?</em> — <em>Oui, j'en ai une.</em> — <em>Oui,</em> <s>J'ai une</s>." },
+    { "page_no": 90, "seq": 10, "type": "section_title", "body_html": "LA NÉGATION" },
+    { "page_no": 90, "seq": 11, "type": "subhead", "body_html": "La négation se place <strong>avant</strong> et <strong>après</strong> le bloc formé par le pronom et le verbe :" },
+    { "page_no": 90, "seq": 12, "type": "example", "body_html": "– <em>Vous avez des broches ?</em> — <em>Non, je</em> <strong>n'</strong> <em>en ai</em> <strong>pas.</strong><br>– <em>Il y a du pain ?</em> — <em>Non, il</em> <strong>n'</strong> <strong>y en a</strong> <strong>plus.</strong>" },
+    { "page_no": 90, "seq": 13, "type": "warning", "body_html": "• « Un(e) » disparaît à la forme négative.<br>À la question :&nbsp;&nbsp;&nbsp;&nbsp;Répondez :&nbsp;&nbsp;&nbsp;&nbsp;Ne répondez pas :<br>— <em>Vous avez un</em> <strong>stylo ?</strong> — <em>Non, je n'en ai pas.</em> — <em>Non, je n'en ai pas</em> <s>un</s>." },
+    { "page_no": 90, "seq": 14, "type": "xref", "body_html": "<em>Partitifs,</em> p. 86" },
+
+    { "page_no": 92, "seq": 15, "type": "running_head", "body_html": "LE PRONOM « EN »" },
+    { "page_no": 92, "seq": 16, "type": "keypoint", "body_html": "– Elle parle souvent <strong>de</strong> son travail ? – Oui, elle <strong>en</strong> parle souvent." },
+    { "page_no": 92, "seq": 17, "type": "section_title", "body_html": "« EN » s'utilise avec des constructions avec « de »." },
+    { "page_no": 92, "seq": 18, "type": "example", "body_html": "– <em>Il parle</em> <strong>de</strong> <em>son projet ?</em> – <em>Oui, il</em> <strong>en</strong> <em>parle souvent.</em> parler de<br>– <em>Il rêve</em> <strong>de</strong> <em>son travail ?</em> – <em>Oui, il</em> <strong>en</strong> <em>rêve la nuit.</em> rêver de<br>– <em>Il s'occupe</em> <strong>de</strong> <em>la gestion ?</em> – <em>Oui, il s'</em><strong>en</strong> <em>occupe.</em> s'occuper de<br>– <em>Il est content</em> <strong>du</strong> <em>produit ?</em> – <em>Oui, il</em> <strong>en</strong> <em>est content.</em> être content de<br>– <em>Il est fier</em> <strong>du</strong> <em>résultat ?</em> – <em>Oui, il</em> <strong>en</strong> <em>est fier.</em> être fier de<br>– <em>Il a besoin</em> <strong>de</strong> <em>repos !</em> – <em>Oui, il</em> <strong>en</strong> <em>a besoin.</em> avoir besoin de<br>– <em>Il a envie</em> <strong>de</strong> <em>partir ?</em> – <em>Oui, il</em> <strong>en</strong> <em>a envie.</em> avoir envie de" },
+    { "page_no": 92, "seq": 19, "type": "para", "body_html": "• Pour les <strong>personnes</strong>, on utilise « de » + <strong>pronom tonique</strong>." },
+    { "page_no": 92, "seq": 20, "type": "example", "body_html": "– <em>Vous parlez</em> <strong>de</strong> <em>votre père ?</em> – <em>Oui, je parle souvent</em> <strong>de lui</strong>.<br>– <em>Tu te souviens</em> <strong>des</strong> <em>Duval ?</em> – <em>Oui, je me souviens</em> <strong>d'eux</strong>." },
+    { "page_no": 92, "seq": 21, "type": "subhead", "body_html": "« En » remplace « de » + nom de lieu :" },
+    { "page_no": 92, "seq": 22, "type": "example", "body_html": "– <em>Tu viens</em> <strong>de</strong> <em>la piscine ?</em> – <em>Oui, j'</em><strong>en</strong> <em>viens, ça se voit ?</em> venir de" },
+    { "page_no": 92, "seq": 23, "type": "warning", "body_html": "• « En » dépend de la construction du verbe :<br><em>J'aime beaucoup le chocolat et j'</em><strong>en</strong> <em>mange souvent.</em><br>(aimer le/la/les…)&nbsp;&nbsp;&nbsp;&nbsp;(manger du/de la/des)" },
+    { "page_no": 92, "seq": 24, "type": "subhead", "body_html": "<strong>Expressions courantes</strong> avec « en » :" },
+    { "page_no": 92, "seq": 25, "type": "example", "body_html": "– <em>Au revoir : je</em> <strong>m'en</strong> <em>vais !</em><br>– <em>Ça suffit !&nbsp; J'</em><strong>en</strong> <em>ai assez !</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>J'</em><strong>en</strong> <em>ai marre !</em> (familier)<br>– <em>Je suis fatigué : je n'</em><strong>en</strong> <em>peux plus.</em><br>– <em>Mon mari est parti. Je ne lui pardonne pas : je</em> <strong>lui en</strong> <em>veux.</em><br>– <em>Ce n'est pas grave, ne vous inquiétez pas, ne vous</em> <strong>en</strong> <em>faites pas.</em><br>– <em>C'est moi qui ferai la vaisselle. Laisse, je</em> <strong>m'en</strong> <em>occupe.</em>" },
+    { "page_no": 92, "seq": 26, "type": "xref", "body_html": "Tableau des pronoms, p. 128&nbsp;&nbsp;&nbsp;&nbsp;Verbes avec « de », p. 160" }
+  ],
+  "exercises": [
+    {
+      "page_no": 91, "seq": 1,
+      "instruction_fr": "Répondez aux questions.",
+      "label": "", "note_html": "– Vous mangez de la viande ? – <em>Oui, j'en mange. Et vous, vous en mangez ?</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous achetez des surgelés ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous mangez des produits bio ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous portez des fibres synthétiques ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous consommez de l'alcool ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous avez du cholestérol ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 91, "seq": 2,
+      "instruction_fr": "Répondez aux questions, selon le modèle.",
+      "label": "", "note_html": "Abondance<br>– Votre mari a neuf sœurs ?<br>– Vos parents ont deux téléviseurs ?<br>– Vos enfants ont un ordinateur ?<br>– Vous avez trois chats ?<br>– Vous avez une carte de crédit ?<br><em>– Non, il en a dix !</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Vos parents ont deux téléviseurs ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "– Vos enfants ont un ordinateur ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "– Vous avez trois chats ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "– Vous avez une carte de crédit ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 91, "seq": 3,
+      "instruction_fr": "Posez la question et répondez selon le modèle.",
+      "label": "", "note_html": "tomates (2) – eau (1 bouteille) – yaourts (quelques-uns) – beurre (un peu)<br>viande (100 grammes) – glaçons (beaucoup) – lait (0) – coca (0)<br><em>– Dans le frigo, il y a des tomates ? – Oui, il y en a deux.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 91, "seq": 4,
+      "instruction_fr": "Complétez à la forme négative.",
+      "label": "", "note_html": "Il y a du pétrole en Norvège, mais en France, <em>il n'y en a pas</em>.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. J'ai des lunettes, mais ma fille {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Léa a une voiture, mais son mari {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Max a de la chance au jeu. Moi, je {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Il y a de l'eau sur la Terre, mais sur Mars, {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Je mange de la viande, mais mes amis {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. J'ai des cheveux blancs, mais vous {{b}}" }
+      ]
+    },
+    {
+      "page_no": 91, "seq": 5,
+      "instruction_fr": "» Devinez de quoi il s'agit. Trouvez d'autres devinettes.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [91],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. J'en bois le matin. <em>Du thé.</em> {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. J'en mets sur mes chaussures. {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. J'en mets sur mes frites. {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. J'en prends à la banque. {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. J'en mets sur mes tartines. {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. J'en prends à la station-service. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 93, "seq": 6,
+      "instruction_fr": "Faites des dialogues, selon le modèle.",
+      "label": "", "note_html": "école/fils – <em>Vous parlez souvent de l'école ? – Oui, j'en parle avec mon fils.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. travail/collègues – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. passé/psychanalyste – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. avenir/astrologue – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 93, "seq": 7,
+      "instruction_fr": "Complétez les phrases, selon le modèle. Faites l'élision si c'est nécessaire.",
+      "label": "", "note_html": "avoir besoin de&nbsp;&nbsp;&nbsp;&nbsp;<s>se souvenir de</s>&nbsp;&nbsp;&nbsp;&nbsp;rêver de&nbsp;&nbsp;&nbsp;&nbsp;avoir peur de&nbsp;&nbsp;&nbsp;&nbsp;être content de", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. – Mes enfants {{b}} avoir un chien !… – Tous les enfants {{b}}, je crois !" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. – Tu {{b}} chômage ? – Bien sûr, je {{b}}, comme tout le monde !" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. – Vous {{b}} la photocopieuse ? – Oui, je {{b}}, je n'ai pas terminé." },
+        { "seq": 4, "type": "cloze", "stem_html": "5. – Paul {{b}} son nouvel ordinateur ? – Oui, il {{b}}, je crois." }
+      ]
+    },
+    {
+      "page_no": 93, "seq": 8,
+      "instruction_fr": "Complétez. Faites des dialogues, selon le modèle.",
+      "label": "", "note_html": "Boire <em>du</em> vin – <em>Vous buvez du vin ?</em> – <em>Oui, j'en bois.</em><br>(à midi) – <em>Vous en buvez à midi ?</em> – <em>Non, je n'en bois pas à midi.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. Manger {{b}} viande – {{L}} – {{L}}<br>(tous les jours) – {{L}} – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. Boire {{b}} café – {{L}} – {{L}}<br>(le soir) – {{L}} – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. Faire {{b}} sport – {{L}} – {{L}}<br>(régulièrement) – {{L}} – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "5. Manger {{b}} bonbons – {{L}} – {{L}}<br>(beaucoup) – {{L}} – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "6. Acheter {{b}} revues – {{L}} – {{L}}<br>(souvent) – {{L}} – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 93, "seq": 9,
+      "instruction_fr": "» Répondez librement.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "– Est-ce que vous avez une voiture ? – {{L}} – Avez-vous un garage ? – {{L}}<br>– Avez-vous une carte de crédit ? – {{L}} – Avez-vous une carte de transport ? – {{L}}<br>– {{L}} –Est-ce que votre professeur a des lunettes ? – {{L}} –Est-ce que vos voisins ont un chien ? – {{L}} –Mangez-vous beaucoup de pâtes ? – {{L}}<br>– Avez-vous un piano ? – {{L}} – Mettez-vous du parfum ? – {{L}}<br>– Portez-vous une montre ? – {{L}}" }
+      ]
+    }
+  ]
+}

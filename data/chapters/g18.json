@@ -1,0 +1,162 @@
+{
+  "course": "grammaire",
+  "seq": 18,
+  "title_fr": "L'ADVERBE",
+  "page_start": 82,
+  "page_end": 85,
+  "pdf_start": 84,
+  "pdf_end": 87,
+  "sections": [
+    { "title_fr": "L'ADVERBE et L'ADJECTIF", "page_no": 82 },
+    { "title_fr": "LES ADVERBES en « -MENT »", "page_no": 84 },
+    { "title_fr": "QUELQUES ADVERBES de TEMPS et de LIEU", "page_no": 84 }
+  ],
+  "blocks": [
+    { "page_no": 82, "seq": 1, "type": "chapter_title", "body_html": "<span class='ch-no'>18</span> L'ADVERBE" },
+    { "page_no": 82, "seq": 2, "type": "section_title", "body_html": "L'ADVERBE et L'ADJECTIF" },
+    { "page_no": 82, "seq": 3, "type": "keypoint", "body_html": "Il comprend <strong>vite</strong>. Il parle <strong>bien</strong>. Il a un <strong>bon</strong> accent.<br>L'adjectif modifie un nom. L'adverbe modifie un verbe, un adjectif ou un adverbe." },
+    { "page_no": 82, "seq": 4, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>« BON » : adjectif</span><span class='wordlist'><em>Alain est un <strong>bon</strong> acteur.</em><br>≠ <em>Lili est une <strong>mauvaise</strong> actrice.</em></span></div><div><span class='lead'>« BIEN » : adverbe</span><span class='wordlist'><em>Il joue <strong>bien</strong>.</em><br>≠ <em>Elle joue <strong>mal</strong>.</em></span></div></div>" },
+    { "page_no": 82, "seq": 5, "type": "warning", "body_html": "« C'est bon » = goût, sensation physique, et « c'est bien » = tout le reste :<br><div class='two-col'><div><span class='wordlist'><em>C'est <strong>bon</strong>,</em> le chocolat. / le soleil.</span></div><div><span class='wordlist'><em>C'est <strong>bien</strong>,</em> le cinéma. / le français.</span></div></div>" },
+    { "page_no": 82, "seq": 6, "type": "warning", "body_html": "« C'est mal » = jugement moral négatif. <em>Mentir, c'est mal.</em>" },
+    { "page_no": 82, "seq": 7, "type": "subhead", "body_html": "Autres sens de « bon » et « bien »" },
+    { "page_no": 82, "seq": 8, "type": "example", "body_html": "– Vous <strong>pouvez</strong> venir le 8 ? – Attendez, je vérifie… Oui, <em>c'est <strong>bon</strong></em> ! (ça va, c'est ok)<br>– Voulez-vous encore un peu de café ? – Non, c'est <strong>bon</strong>. Merci. (= c'est assez)<br>– Ça fait <strong>bien</strong> cinquante-cinq euros ? – Oui, <em>c'est <strong>bien</strong> ça.</em> (= confirmation)" },
+    { "page_no": 82, "seq": 9, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>« RAPIDE » : adjectif</span><span class='wordlist'><em>Ce train est <strong>rapide</strong>.</em><br>≠ <em>Ces trains sont <strong>lents</strong>.</em></span></div><div><span class='lead'>« VITE » : adverbe</span><span class='wordlist'><em>Il roule <strong>vite</strong>.</em><br>≠ <em>Ils roulent <strong>lentement</strong>.</em></span></div></div>" },
+    { "page_no": 82, "seq": 10, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>« TRÈS » modifie un adjectif/un adverbe</span><span class='wordlist'><em>Il est <strong>très</strong> bavard. Il parle <strong>très</strong> bien.</em><br>≠ <em>Il est <strong>peu</strong> bavard.</em></span></div><div><span class='lead'>« BEAUCOUP » modifie un verbe</span><span class='wordlist'><em>Il parle <strong>beaucoup</strong>.</em><br>≠ <em>Il parle <strong>peu</strong>.</em></span></div></div>" },
+    { "page_no": 82, "seq": 11, "type": "warning", "body_html": "<div class='two-col'><div><span class='wordlist'>« Beaucoup » et « très » sont incompatibles.<br>Dites : <em>Il dort beaucoup</em><br>Ne dites pas : <em>Il dort très <s>beaucoup</s></em></span></div><div><span class='wordlist'>Avec « avoir peur/froid/mal », etc., on utilise « très ».<br>Dites : <em>J'ai <strong>très</strong> froid.</em><br>Ne dites pas : <em>J'ai <s>beaucoup</s> froid.</em></span></div></div>" },
+    { "page_no": 82, "seq": 12, "type": "remark", "body_html": "Les adverbes « bien » et « beaucoup » atténuent la valeur du verbe « aimer » :<br><em>J'aime <strong>bien</strong> Marie.</em> — <em>J'aime <strong>beaucoup</strong> Marie.</em> — <em>J'aime Marie.</em><br>(sympathie) — (amitié) — (amour)" },
+
+    { "page_no": 84, "seq": 13, "type": "running_head", "body_html": "L'ADVERBE" },
+    { "page_no": 84, "seq": 14, "type": "keypoint", "body_html": "Je mange <strong>rarement</strong> chez moi. Je travaille <strong>énormément</strong>.<br>Je dîne <strong>souvent dehors</strong>." },
+    { "page_no": 84, "seq": 15, "type": "section_title", "body_html": "LES ADVERBES en « -MENT »" },
+    { "page_no": 84, "seq": 16, "type": "subhead", "body_html": "Un grand nombre d'adverbes se terminent par « -ment » :" },
+    { "page_no": 84, "seq": 17, "type": "para", "body_html": "En général, on ajoute « -ment » au <strong>féminin</strong> de l'adjectif :<br><table class='data-table'><tr><th></th><th></th><th>Adverbe</th></tr><tr><td><em>lent</em></td><td><em>lente</em></td><td><em><strong>lentement</strong></em></td></tr><tr><td><em>doux</em></td><td><em>douce</em></td><td><em><strong>doucement</strong></em></td></tr><tr><td><em>heureux</em></td><td><em>heureuse</em></td><td><em><strong>heureusement</strong></em></td></tr><tr><td><em>sec</em></td><td><em>sèche</em></td><td><em><strong>sèchement</strong></em></td></tr></table>" },
+    { "page_no": 84, "seq": 18, "type": "list", "body_html": "Mais : <em>gentil</em> → <em><strong>gentiment</strong></em>" },
+    { "page_no": 84, "seq": 19, "type": "para", "body_html": "On ajoute « -ment » au <strong>masculin</strong> de l'adjectif terminé par une voyelle :<br><table class='data-table'><tr><td><em>poli</em></td><td><em><strong>poliment</strong></em></td></tr><tr><td><em>absolu</em></td><td><em><strong>absolument</strong></em></td></tr><tr><td><em>modéré</em></td><td><em><strong>modérément</strong></em></td></tr><tr><td><em>vrai</em></td><td><em><strong>vraiment</strong></em></td></tr></table>" },
+    { "page_no": 84, "seq": 20, "type": "list", "body_html": "Mais : <em>gai</em> → <em><strong>gaiement</strong></em>" },
+    { "page_no": 84, "seq": 21, "type": "para", "body_html": "Quand l'adjectif masculin se termine par « <strong>-ent</strong> » ou « <strong>-ant</strong> », l'adverbe se termine par « <strong>-emment</strong> » ou « <strong>-amment</strong> » :<br><table class='data-table'><tr><td><em>récent</em></td><td><em><strong>récémment</strong></em></td></tr><tr><td><em>fréquent</em></td><td><em><strong>fréquemment</strong></em></td></tr><tr><td><em>suffisant</em></td><td><em><strong>suffisamment</strong></em></td></tr></table>" },
+    { "page_no": 84, "seq": 22, "type": "phonetic", "body_html": "♪ On prononce : a-ment." },
+    { "page_no": 84, "seq": 23, "type": "subhead", "body_html": "Cas particuliers :<br><table class='data-table'><tr><td><em>précis</em> — <em><strong>précisément</strong></em></td><td><em>profond</em> — <em><strong>profondément</strong></em></td></tr><tr><td><em>énorme</em> — <em><strong>énormément</strong></em></td><td><em>intense</em> — <em><strong>intensément</strong></em></td></tr></table>" },
+    { "page_no": 84, "seq": 24, "type": "section_title", "body_html": "QUELQUES ADVERBES de TEMPS et de LIEU" },
+    { "page_no": 84, "seq": 25, "type": "subhead", "body_html": "Adverbes de temps :<br><table class='data-table'><tr><td>toujours</td><td>ne … pas toujours</td><td>de temps en temps</td><td>rarement</td><td>ne … jamais</td></tr><tr><td>souvent</td><td>ne … pas souvent</td><td>de temps en temps</td><td>rarement</td><td>ne … jamais</td></tr><tr><td>quelquefois</td><td>ne … pas toujours</td><td>de temps en temps</td><td>rarement</td><td>ne … jamais</td></tr><tr><td>tôt</td><td>assez tôt</td><td>assez tard</td><td>tard</td><td>très tard</td></tr></table>" },
+    { "page_no": 84, "seq": 26, "type": "subhead", "body_html": "Adverbes de lieu :<br>– <em>Il fait chaud <strong>dedans</strong> !</em> — <em>Oui, mais <strong>dehors</strong>, il fait froid.</em><br>– <em>Paul est <strong>ici</strong> ?</em> — <em>Oui, il est <strong>là</strong> !</em> (ici = là)" },
+    { "page_no": 84, "seq": 27, "type": "xref", "body_html": "Adjectifs féminins, p. 12&nbsp;&nbsp;&nbsp;&nbsp;Négation, p. 152&nbsp;&nbsp;&nbsp;&nbsp;Lieu, p. 46" }
+  ],
+  "exercises": [
+    {
+      "page_no": 83, "seq": 1,
+      "instruction_fr": "Complétez avec « bon », « mauvais », « bien » ou « mal ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. J'ai envie d'aller voir un <em>bon</em> film et de dîner dans un {{b}} restaurant." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Gérard est un {{b}} ami, mais il a un {{b}} caractère." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Max danse {{b}} : attention à vos pieds, mademoiselle !" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Jean est un {{b}} plombier ?<br>– Oui : il travaille {{b}} ." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. J'ai passé une {{b}} soirée au théâtre : la pièce était horrible et les acteurs jouaient {{b}} !" }
+      ]
+    },
+    {
+      "page_no": 83, "seq": 2,
+      "instruction_fr": "Répondez avec « c'est bon » ou « c'est bien ».",
+      "label": "", "note_html": "– Vous aimez le tiramisu ?<br>– Oh oui, <em class='model'>c'est bon</em> ! C'est délicieux avec le café.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous aimez le tiramisu ?<br>– Oh oui, <em class='model'>c'est bon</em> ! C'est délicieux avec le café." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Je vous félicite pour vos résultats. Continuez, {{L}} ! Vous avez bien travaillé." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Tu aimes ma coiffure ?<br>– Oui, {{L}} : ça te rajeunit." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Que penses-tu de ma recette de tajine aux abricots ?<br>– Mmmm : {{L}} !" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous avez vos billets ; alors, {{L}}, vous pouvez entrer." }
+      ]
+    },
+    {
+      "page_no": 83, "seq": 3,
+      "instruction_fr": "Complétez avec « vite », « rapide », « lent » ou « lentement ».",
+      "label": "", "note_html": "Ce journaliste parle trop <em>vite</em>, je ne le comprends pas.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Ce journaliste parle trop <em>vite</em>, je ne le comprends pas." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Dans une partie de ping-pong, les joueurs sont très {{b}} ." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Il ne faut pas conduire {{b}} en ville." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Épelez {{b}} votre nom, s'il vous plaît : je vais le noter." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Les trains de campagne sont très {{b}} ." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Communiquer par mail, c'est plus {{b}} que par la poste : ça va beaucoup plus {{b}} !" }
+      ]
+    },
+    {
+      "page_no": 83, "seq": 4,
+      "instruction_fr": "Complétez le dialogue du médecin et de la patiente avec « beaucoup » ou « très ».",
+      "label": "Fatiguée", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Vous êtes <em>très</em> nerveuse en ce moment, vous travaillez {{b}} ?<br>– Oui, je commence {{b}} tôt le matin et je voyage {{b}} à l'étranger.<br><br>– Vous vous couchez {{b}} tard, le soir ? Vous dormez {{b}} ?<br>– Oui, mais la nuit, je rêve {{b}} et le matin, je suis {{b}} fatiguée." }
+      ]
+    },
+    {
+      "page_no": 83, "seq": 5,
+      "instruction_fr": "Complétez avec « bon », « bien », « mal », « vite », « lentement », « beaucoup », « lent », « rapide ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Chers parents,<br><br>Je vais {{b}} et je m'amuse {{b}} . Giorgio a plein de {{b}} copains et de {{b}} idées ! On fait des concours de vélo et de natation : Giorgio nage {{b}} , mais je suis plus {{b}} à vélo (on chronomètre !). La mère de Giorgio est napolitaine : elle parle très {{b}} et je ne comprends presque rien de ce qu'elle dit. Mais elle est gentille et elle cuisine {{b}} : la cuisine italienne, c'est {{b}} ! J'apprends l'italien mais je ne suis pas doué, mes progrès sont {{b}} et je parle très {{b}} . Ce n'est pas grave, tout le reste va {{b}} . Je termine {{b}} ma lettre parce qu'il y a un {{b}} match à la télé !<br><br>Grosses bises. Loulou" }
+      ]
+    },
+    {
+      "page_no": 85, "seq": 6,
+      "instruction_fr": "Transformez les adjectifs en adverbes, selon le modèle.",
+      "label": "", "note_html": "Doux → <em class='model'>doucement</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<table class='data-table'><tr><td>Chaud {{b}}</td><td>Long {{b}}</td><td>Poli {{b}}</td><td>Léger {{b}}</td><td>Fou {{b}}</td></tr><tr><td>Sec {{b}}</td><td>Sincère {{b}}</td><td>Pauvre {{b}}</td><td>Passif {{b}}</td><td>Absolu {{b}}</td></tr><tr><td>Rare {{b}}</td><td>Vrai {{b}}</td><td>Discret {{b}}</td><td>Suffisant {{b}}</td><td>Méchant {{b}}</td></tr><tr><td>Régulier {{b}}</td><td>Mou {{b}}</td><td>Franc {{b}}</td><td>Secret {{b}}</td><td>Récent {{b}}</td></tr><tr><td>Gentil {{b}}</td><td>Énorme {{b}}</td><td>Simple {{b}}</td><td>Fréquent {{b}}</td><td>Rapide {{b}}</td></tr></table>" }
+      ]
+    },
+    {
+      "page_no": 85, "seq": 7,
+      "instruction_fr": "Complétez les phrases selon le modèle.",
+      "label": "", "note_html": "Ce camion est lent. Il roule <em class='model'>lentement</em>.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Cet enfant est bruyant. Il joue {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Cet élève est attentif. Il écoute {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Cette femme est patiente. Elle attend {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Ce garçon est sérieux. Il travaille {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Ce chauffeur est prudent. Il conduit {{b}}" }
+      ]
+    },
+    {
+      "page_no": 85, "seq": 8,
+      "instruction_fr": "Transformez selon le modèle.",
+      "label": "", "note_html": "avec sincérité → <em class='model'>sincèrement</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. avec sincérité → <em class='model'>sincèrement</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. avec douceur → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. avec franchise → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. avec gentillesse → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. avec fermeté → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 85, "seq": 9,
+      "instruction_fr": "Comment terminez-vous votre mail ?",
+      "label": "", "note_html": "Tendrement — Respectueusement — Cordialement — Amicalement<br>Supérieur plus âgé : <em class='model'>Respectueusement</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Supérieur plus âgé : <em class='model'>Respectueusement</em><br>– Ami(e) proche : {{L}}<br>– Relations professionnelles : {{L}}<br>– Mari/femme : {{L}}" }
+      ]
+    },
+    {
+      "page_no": 85, "seq": 10,
+      "instruction_fr": "≫ Donnez les adverbes, puis complétez librement chaque phrase.",
+      "label": "", "note_html": "rare → <em class='model'>rarement</em> — Nous sortons <em class='model'>rarement le soir</em>.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. énorme {{b}} — J'aime {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. fréquent {{b}} — Je téléphone {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. lent {{b}} — Parlez {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. régulier {{b}} — Je vais {{L}}" }
+      ]
+    },
+    {
+      "page_no": 85, "seq": 11,
+      "instruction_fr": "≫ Répondez librement aux questions, en vous inspirant des suggestions ci-dessous.",
+      "label": "tôt — tard — souvent — rarement — de temps en temps — quelquefois", "note_html": "– Vous dînez tard le soir ?<br>– <em class='model'>Non, je dîne tôt. (Oui, je dîne tard.)</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous dînez tard le soir ?<br>– <em class='model'>Non, je dîne tôt. (Oui, je dîne tard.)</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous dansez souvent ?<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous regardez souvent la télévision ?<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous parlez de temps en temps français ?<br>– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous regardez parfois la BBC ?<br>– {{L}}" }
+      ]
+    }
+  ]
+}

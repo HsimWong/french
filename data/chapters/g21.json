@@ -1,0 +1,89 @@
+{
+  "course": "grammaire",
+  "seq": 21,
+  "title_fr": "LA SITUATION dans l'ESPACE (2)",
+  "page_start": 94,
+  "page_end": 95,
+  "pdf_start": 96,
+  "pdf_end": 97,
+  "sections": [
+    { "title_fr": "LES RÉGIONS, LES DÉPARTEMENTS, LES ÉTATS FÉDÉRÉS", "page_no": 94 },
+    { "title_fr": "L'ORIGINE GÉOGRAPHIQUE des pays, régions, États fédérés", "page_no": 94 }
+  ],
+  "blocks": [
+    { "page_no": 94, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">21</span> LA SITUATION dans L'ESPACE (2)" },
+    { "page_no": 94, "seq": 2, "type": "keypoint", "body_html": "Je passe mes vacances <strong>en</strong> Angleterre ou <strong>en</strong> Provence.<br>Je viens <strong>de</strong> Marseille. Mon mari vient <strong>du</strong> Devonshire." },
+    { "page_no": 94, "seq": 3, "type": "section_title", "body_html": "LES RÉGIONS, LES DÉPARTEMENTS, LES ÉTATS FÉDÉRÉS" },
+    { "page_no": 94, "seq": 4, "type": "subhead", "body_html": "« EN », « DANS LE », « DANS LES »" },
+    { "page_no": 94, "seq": 5, "type": "table", "body_html": "<table class='data-table'><tr><th>« En » + nom féminin</th><th>« Dans le » + nom masculin</th><th>« Dans les » + nom pluriel</th></tr><tr><td>en — Bretagne, Bavière, Californie</td><td>dans le — Cantal, Wisconsin, Devonshire</td><td>dans les — Alpes, Abruzzes, Andes</td></tr></table>" },
+    { "page_no": 94, "seq": 6, "type": "section_title", "body_html": "L'ORIGINE GÉOGRAPHIQUE des pays, régions, États fédérés" },
+    { "page_no": 94, "seq": 7, "type": "subhead", "body_html": "« DE » ou « DU » ?" },
+    { "page_no": 94, "seq": 8, "type": "para", "body_html": "« <strong>Du</strong> » + nom <strong>masculin</strong><br>de pays, de région, d'État<br><em>Je viens</em> <strong>du</strong> <em>Maroc. Poitou. Texas.</em>" },
+    { "page_no": 94, "seq": 9, "type": "para", "body_html": "« <strong>De</strong> » + nom <strong>féminin</strong><br>de pays, de région, d'État<br><em>Je viens</em> <strong>de</strong> <em>Belgique. Normandie. Californie.</em>" },
+    { "page_no": 94, "seq": 10, "type": "list", "body_html": "Autres exemples :<br>– <em>le café</em> <strong>du</strong> <em>Brésil</em><br>– <em>le foie gras</em> <strong>du</strong> <em>Périgord</em><br>– <em>le consulat</em> <strong>du</strong> <em>Maroc</em><br>– <em>le café</em> <strong>de</strong> <em>Colombie</em><br>– <em>les fruits</em> <strong>de</strong> <em>Provence</em><br>– <em>le consulat</em> <strong>de</strong> <em>France</em>" },
+    { "page_no": 94, "seq": 11, "type": "phonetic", "body_html": "On utilise « <strong>d'</strong> » devant une voyelle :<br><em>les oranges</em> <strong>d'</strong><em>Espagne</em> — <em>les citrons</em> <strong>d'</strong><em>Israël</em>" },
+    { "page_no": 94, "seq": 12, "type": "para", "body_html": "On ne fait pas d'élision devant « h » aspiré : <em>les tulipes de</em> <strong>H</strong><em>ollande</em>" },
+    { "page_no": 94, "seq": 13, "type": "warning", "body_html": "• Dites : <em>Je viens de Chine.</em><br>Ne dites pas :<br><em>Je viens</em> <s>de la</s> <em>Chine.</em>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 95, "seq": 1,
+      "instruction_fr": "Complétez avec « en », « dans le », « dans les ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Beaucoup d'Anglais ont des résidences secondaires <em>en</em> Normandie, {{b}} Dordogne ou {{b}} Périgord. Les Américains préfèrent s'installer {{b}} Bourgogne ou {{b}} Bretagne. Les Belges, eux, vont {{b}} Provence, {{b}} Var ou {{b}} Bouches-du-Rhône." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Les coureurs du Tour de France sont aujourd'hui {{b}} Cévennes ; ils vont aller aussi {{b}} Alpes, {{b}} Massif central, {{b}} Vosges et {{b}} Alsace." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le Mont-Saint-Michel est {{b}} Bretagne ou {{b}} Normandie ?" }
+      ]
+    },
+    {
+      "page_no": 95, "seq": 2,
+      "instruction_fr": "Répondez selon le modèle.",
+      "label": "", "note_html": "– Vos parents sont suédois ?<br>– Oui, ils viennent <em>de Suède.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Panaït est roumain ?<br>– Oui, il vient {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Votre cousin est espagnol ?<br>– Oui, il vient {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vos amis sont brésiliens ?<br>– Oui, ils viennent {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Michael est australien ?<br>– Oui, il vient {{L}}" }
+      ]
+    },
+    {
+      "page_no": 95, "seq": 3,
+      "instruction_fr": "Indiquez l'origine du produit.",
+      "label": "", "note_html": "Paires (Provence)<br><em>Ce sont des poires de Provence.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Café (Colombie) — {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "– Morue (Portugal) — {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "– Avocats (Israël) — {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "– Oranges (Maroc) — {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "– Riz (Thaïlande) — {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "– Beurre (Normandie) — {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "– Tulipes (Hollande) — {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "– Tabac (Hongrie) — {{L}}" }
+      ]
+    },
+    {
+      "page_no": 95, "seq": 4,
+      "instruction_fr": "Complétez avec « du », « de la », « de l' », « d' » ou « des ».",
+      "label": "", "note_html": "Tu préfères le café <em>de</em> Colombie ou le café <em>du</em> Brésil ?", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Notre société exploite le gaz {{b}} Norvège, {{b}} Nigeria et {{b}} Italie." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. L'ambassade {{b}} Allemagne se trouve près du consulat {{b}} Brésil." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Les oranges {{b}} Maroc coûtent moins cher que les oranges {{b}} Espagne." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. D'après moi, les mangues {{b}} Antilles et {{b}} Brésil sont les meilleures." }
+      ]
+    },
+    {
+      "page_no": 95, "seq": 5,
+      "instruction_fr": "Complétez avec « du », « de », « d' », « des », « à », « en », « au ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je cherche des tapis anciens <em>d'Afghanistan</em>, {{b}} Chine et {{b}} Pakistan." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. L'équipe {{b}} Hongrie doit rencontrer l'équipe {{b}} Brésil {{b}} Rio, dimanche prochain." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Albert est un médecin anglais qui a soigné les Indiens {{b}} Amazonie, les Esquimaux {{b}} Groenland et les Aborigènes {{b}} Australie avant de se retirer {{b}} Californie." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Mes amies japonaises visitent l'Europe : elles sont aujourd'hui {{b}} Angleterre, elles viennent {{b}} Portugal et elles vont aller {{b}} Belgique et {{b}} Danemark." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. L'ambassadeur {{b}} États-Unis a rencontré l'ambassadeur {{b}} Russie {{b}} Helsinki." }
+      ]
+    }
+  ]
+}

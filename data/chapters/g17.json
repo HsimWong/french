@@ -1,0 +1,98 @@
+{
+  "course": "grammaire",
+  "seq": 17,
+  "title_fr": "LE TEMPS (2)",
+  "page_start": 80,
+  "page_end": 81,
+  "pdf_start": 82,
+  "pdf_end": 83,
+  "sections": [
+    { "title_fr": "LA DURÉE au PRÉSENT", "page_no": 80 }
+  ],
+  "blocks": [
+    { "page_no": 80, "seq": 1, "type": "chapter_title", "body_html": "<span class='ch-no'>17</span> LE TEMPS (2)" },
+    { "page_no": 80, "seq": 2, "type": "section_title", "body_html": "LA DURÉE au PRÉSENT" },
+    { "page_no": 80, "seq": 3, "type": "keypoint", "body_html": "Je travaille <strong>depuis</strong> 1982.&nbsp;&nbsp;&nbsp;&nbsp;Je suis à Paris <strong>pour</strong> trois mois." },
+    { "page_no": 80, "seq": 4, "type": "subhead", "body_html": "« DEPUIS » : origine d'une action ou d'une situation toujours actuelle." },
+    { "page_no": 80, "seq": 5, "type": "example", "body_html": "<div class='two-col'><div><span class='wordlist'><em>Je suis professeur</em></span></div><div><span class='wordlist'><strong>depuis 1981</strong>.<br><strong>depuis 15 ans</strong>.<br>(avec une date ou une durée)</span></div></div>" },
+    { "page_no": 80, "seq": 6, "type": "subhead", "body_html": "En début de phrase, on dit :" },
+    { "page_no": 80, "seq": 7, "type": "example", "body_html": "<div class='two-col'><div><span class='wordlist'><em>Il y a 15 ans que</em><br><em>Ça fait 15 ans que</em></span></div><div><span class='wordlist'><em>je suis professeur.</em></span></div></div>" },
+    { "page_no": 80, "seq": 8, "type": "subhead", "body_html": "Devant un verbe, on dit « depuis que » :" },
+    { "page_no": 80, "seq": 9, "type": "example", "body_html": "<em>Depuis que je fais du sport, je dors mieux.</em>" },
+    { "page_no": 80, "seq": 10, "type": "subhead", "body_html": "« POUR » : durée prévue." },
+    { "page_no": 80, "seq": 11, "type": "example", "body_html": "<em>Je suis en stage <strong>pour</strong> trois jours.</em><br><em>J'ai un traitement <strong>pour</strong> six mois.</em>" },
+    { "page_no": 80, "seq": 12, "type": "subhead", "body_html": "« PENDANT » : durée de développement d'une action." },
+    { "page_no": 80, "seq": 13, "type": "example", "body_html": "<em>Le matin, je me brosse les cheveux <strong>pendant</strong> cinq minutes.</em>" },
+    { "page_no": 80, "seq": 14, "type": "para", "body_html": "« Pendant » est souvent supprimé, sauf en début de phrase :<br><em>Je dors huit heures, je me repose deux heures.</em><br><em><strong>Pendant</strong> deux heures, je ne pense à rien.</em>" },
+    { "page_no": 80, "seq": 15, "type": "subhead", "body_html": "« EN » : quantité de temps nécessaire pour faire quelque chose." },
+    { "page_no": 80, "seq": 16, "type": "example", "body_html": "<em>Je fais huit kilomètres <strong>en</strong> une heure.</em><br><em>En général, je déjeune <strong>en</strong> 10 minutes.</em>" },
+    { "page_no": 80, "seq": 17, "type": "warning", "body_html": "« Pendant » met l'accent sur l'action, « en » sur le temps nécessaire à l'action :<br><em>Tous les jours, je nage <strong>pendant</strong> 1 h.</em> <em>(Je nage et je nage et je nage…)</em><br><em>Je fais 3 km <strong>en</strong> 1 h.</em> <em>(Je mets 1 h pour faire 3 km.)</em>" },
+    { "page_no": 80, "seq": 18, "type": "xref", "body_html": "Voir aussi p. 198" }
+  ],
+  "exercises": [
+    {
+      "page_no": 81, "seq": 1,
+      "instruction_fr": "« Depuis » + durée. Répondez librement aux questions.",
+      "label": "", "note_html": "– Vous êtes en France depuis un mois, six mois, un an ?<br>– <em class='model'>Je suis en France depuis trois mois.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous habitez à la même adresse depuis dix ans, cinq ans, trois ans ?<br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous êtes dans cette salle depuis dix minutes, deux heures, une demi-heure ?<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous connaissez votre professeur depuis un mois, deux mois, un an ?<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous étudiez le français depuis combien de temps ? Vous avez ce livre depuis longtemps ?<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 81, "seq": 2,
+      "instruction_fr": "Refaites l'exercice 1 oralement avec « Ça fait… que »/« Il y a… que » :",
+      "label": "", "note_html": "<em class='model'>Ça fait trois mois que…</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 81, "seq": 3,
+      "instruction_fr": "Complétez avec une date et une durée.<br>2002&nbsp;&nbsp;1994&nbsp;&nbsp;1889&nbsp;&nbsp;1945",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. La tour Eiffel existe depuis 1889, c'est-à-dire {{b}} ans." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. En France, les femmes votent {{b}} {{b}} ans." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le tunnel sous la Manche existe {{b}} {{b}} ans." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. L'euro est une monnaie européenne {{b}} {{b}} ans." }
+      ]
+    },
+    {
+      "page_no": 81, "seq": 4,
+      "instruction_fr": "Choisissez l'expression de la durée.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Tous les jours, les étudiants font une pause <em>pendant / pour / en</em> 30 minutes." },
+        { "seq": 2, "type": "choice", "stem_html": "2. « Déménageur express » vide votre appartement <em>pendant / pour / en</em> 3 heures." },
+        { "seq": 3, "type": "choice", "stem_html": "3. En France, le président de la République est élu <em>pendant / pour / en</em> 5 ans." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Avec cette imprimante, on peut imprimer 300 pages <em>pendant / pour / en</em> 5 minutes." },
+        { "seq": 5, "type": "choice", "stem_html": "5. J'ai signé un contrat <em>pendant / pour / en</em> 6 mois." }
+      ]
+    },
+    {
+      "page_no": 81, "seq": 5,
+      "instruction_fr": "Complétez avec « depuis (que) », « pour », « pendant » ou « en ».",
+      "label": "", "note_html": "Ma mère cuisine pendant cinq heures et elle fait à manger pour trois jours.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Ma mère cuisine <em class='model'>pendant</em> cinq heures et elle fait à manger <em class='model'>pour</em> trois jours." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Mon mari ne fume plus {{b}} trois semaines, et il a pris un abonnement à la piscine {{b}} un an !" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. On fait Paris-New York {{b}} huit heures, mais on doit attendre un visa {{b}} six mois." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Mon fils travaille comme serveur {{b}} huit jours et il est déjà fatigué." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. J'ai fait des progrès {{b}} j'étudie le français." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Le taxi a traversé tout Paris {{b}} vingt minutes." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. {{b}} je suis ici, il pleut !" }
+      ]
+    },
+    {
+      "page_no": 81, "seq": 6,
+      "instruction_fr": "➤ Faites des phrases en utilisant les expressions de temps étudiées.<br>trois exercices (5 minutes) – de la gymnastique (2 heures) – du rock acrobatique (2010) – le lit (3 minutes) – du jogging (1 heure) – du piano (20 ans) – du yoga (une demi-heure)",
+      "label": "", "note_html": "<em class='model'>Je fais trois exercices</em> …", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}

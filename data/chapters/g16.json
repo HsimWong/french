@@ -1,0 +1,226 @@
+{
+  "course": "grammaire",
+  "seq": 16,
+  "title_fr": "LES VERBES en « -ER » au PRÉSENT",
+  "page_start": 74,
+  "page_end": 79,
+  "pdf_start": 76,
+  "pdf_end": 81,
+  "sections": [
+    { "title_fr": "CONJUGAISON", "page_no": 74 },
+    { "title_fr": "PRONONCIATION", "page_no": 74 },
+    { "title_fr": "LES VERBES en « -ER » : ÉCRIT et PRONONCIATION", "page_no": 76 }
+  ],
+  "blocks": [
+    { "page_no": 74, "seq": 1, "type": "chapter_title", "body_html": "<span class='ch-no'>16</span> LES VERBES en « -ER » au PRÉSENT" },
+    { "page_no": 74, "seq": 2, "type": "keypoint", "body_html": "Je dîn<strong>-e</strong> tôt.<br>Tu dîn<strong>-es</strong> tard.<br>Il — Elle — On dîn<strong>-e</strong> à neuf heures.<br>Nous dîn<strong>-ons</strong> au restaurant.<br>Vous dîn<strong>-ez</strong> chez Pierre.<br>Ils — Elles dîn<strong>-ent</strong> à dix heures." },
+    { "page_no": 74, "seq": 3, "type": "para", "body_html": "Les verbes en « -er » sont très nombreux en français. (La plupart des verbes « récents » appartiennent à ce groupe : <em>télécharger</em>, <em>faxer</em>, <em>photocopier</em>, etc.)" },
+    { "page_no": 74, "seq": 4, "type": "section_title", "body_html": "CONJUGAISON" },
+    { "page_no": 74, "seq": 5, "type": "subhead", "body_html": "La conjugaison des verbes du premier groupe est très régulière.<br>Elle se forme à partir d'un seul <strong>radical</strong> : l'infinitif sans « <strong>-er</strong> »." },
+    { "page_no": 74, "seq": 6, "type": "example", "body_html": "<strong>Parl-</strong>er : <em>je parl-e</em> — <em>vous parl-ez</em><br><strong>Dîn-</strong>er : <em>je dîn-e</em> — <em>vous dîn-ez</em>" },
+    { "page_no": 74, "seq": 7, "type": "para", "body_html": "Négation : <em>Je <strong>ne</strong> parle <strong>pas</strong>.</em> — <em>Vous <strong>ne</strong> parlez <strong>pas</strong>.</em>" },
+    { "page_no": 74, "seq": 8, "type": "section_title", "body_html": "PRONONCIATION" },
+    { "page_no": 74, "seq": 9, "type": "phonetic", "body_html": "♪ Pour toutes les personnes, sauf « nous » et « vous », la finale est muette et on prononce seulement le radical :<br><em>Je parl-∅</em>&nbsp;&nbsp;<em>Tu parl-∅</em>&nbsp;&nbsp;<em>Il parl-∅</em>&nbsp;&nbsp;<em>Ils parl-∅</em>" },
+    { "page_no": 74, "seq": 10, "type": "phonetic", "body_html": "Pour « nous » et « vous », la finale est sonore :<br><em>Nous <strong>parl-ons</strong></em> — <em>Vous <strong>parl-ez</strong></em>" },
+    { "page_no": 74, "seq": 11, "type": "phonetic", "body_html": "♪ Attention à ne pas oublier le « i » des verbes qui se terminent par « -ier » :<br><strong>Étudi-</strong>er : <em>j'étudi-e</em> — <strong>Appréci-</strong>er : <em>j'appréci-e</em>" },
+    { "page_no": 74, "seq": 12, "type": "phonetic", "body_html": "« Je » devient « j' » devant une voyelle ou un « h » muet :<br><s>Je</s> arrive → <em>J'arrive</em> — <s>Je</s> habite → <em>J'habite</em>" },
+
+    { "page_no": 76, "seq": 13, "type": "running_head", "body_html": "LES VERBES EN « -ER » AU PRÉSENT" },
+    { "page_no": 76, "seq": 14, "type": "section_title", "body_html": "<strong>LES VERBES</strong> en « -ER » : <strong>ÉCRIT</strong> et <strong>PRONONCIATION</strong>" },
+    { "page_no": 76, "seq": 15, "type": "keypoint", "body_html": "Je <strong>jette</strong> tout et je recommence à zéro.<br>Nous <strong>jetons</strong> tout et nous recommençons à zéro." },
+    { "page_no": 76, "seq": 16, "type": "subhead", "body_html": "À L'ÉCRIT, les finales muettes varient, alors que la prononciation est identique :" },
+    { "page_no": 76, "seq": 17, "type": "example", "body_html": "– Je parle mal français, et toi, tu parles bien ?<br>– Je parle assez bien, mais mes parents parlent très bien." },
+    { "page_no": 76, "seq": 18, "type": "subhead", "body_html": "Quand un radical se termine par « -g » ou « -c », il s'écrit « -ge » ou « -ç » devant « -o » :" },
+    { "page_no": 76, "seq": 19, "type": "table", "body_html": "<table class='data-table'><tr><td><em>Voyag-</em>er :</td><td>Nous voyageons</td><td><strong>g</strong> → <strong>ge</strong></td></tr><tr><td><em>Commenc-</em>er :</td><td>Nous commençons</td><td><strong>c</strong> → <strong>ç</strong></td></tr></table>" },
+    { "page_no": 76, "seq": 20, "type": "subhead", "body_html": "LA PRONONCIATION et L'ÉCRIT peuvent varier selon les finales :" },
+    { "page_no": 76, "seq": 21, "type": "table", "body_html": "<table class='data-table'><tr><th>Infinitif</th><th>Finales sonores<br>« nous », « vous »</th><th>Finales muettes<br>« je », « tu », « il(s) », « elle(s) », « on »</th></tr><tr><td>Acheter<br>Lever</td><td>Nous achetons<br>Nous levons</td><td>J'achète<br>Elle lève<br>Il préfère<br>Elle espère<br>⟨ <strong>e/é</strong> → <strong>è</strong></td></tr><tr><td>Préférer<br>Espérer</td><td>Vous préférez<br>Nous espérons</td><td></td></tr><tr><td>Appeler</td><td>Vous appelez</td><td>J'appelle — <strong>l</strong> → <strong>ll</strong></td></tr><tr><td>Jeter</td><td>Nous jetons</td><td>Je jette — <strong>t</strong> → <strong>tt</strong></td></tr><tr><td>Envoyer<br>Essuyer</td><td>Vous envoyez<br>Nous essuyons</td><td>J'envoie<br>On essuie — <strong>y</strong> → <strong>i</strong></td></tr><tr><td>Verbes en « -ayer »</td><td>Nous payons<br>Vous essayez</td><td>Je paie / Je paye<br>J'essaie / J'essaye<br>(deux formes possibles)</td></tr></table>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 75, "seq": 1,
+      "instruction_fr": "Répondez personnellement aux questions, selon le modèle.",
+      "label": "", "note_html": "– Vous parlez français, anglais, espagnol, grec ?<br>– <em class='model'>Je parle allemand.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – En général, vous déjeunez à midi, à une heure, à deux heures ?<br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – En général, vous dînez à sept heures et demie, à huit heures, à neuf heures ?<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous habitez à Paris, à Londres, à Amsterdam ?<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous habitez dans le centre, en banlieue, à la campagne ?<br>– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous étudiez le français seul, dans une école, avec un professeur particulier ?<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 75, "seq": 2,
+      "instruction_fr": "Posez les questions, selon le modèle.",
+      "label": "", "note_html": "– En général, je marche beaucoup, et vous, <em class='model'>vous marchez beaucoup ?</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – En général, je commence le travail à 9 heures, et vous {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Normalement, je termine à 18 heures, et vous, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – En général, je dîne pendant le journal télévisé, et vous {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – D'habitude, je mange peu le soir, et vous {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – En général, je regarde la télévision après le dîner, et vous {{L}}" }
+      ]
+    },
+    {
+      "page_no": 75, "seq": 3,
+      "instruction_fr": "Commentez à la forme affirmative ou négative.",
+      "label": "Quiz", "note_html": "<em class='model'>C'est vrai. Ils parlent espagnol.</em><br><em class='model'>C'est faux. Elle ne mesure pas 50 mètres.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Les Colombiens parlent espagnol.<br><em class='model'>C'est vrai. Ils parlent espagnol.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. La tour Eiffel mesure 50 mètres.<br><em class='model'>C'est faux. Elle ne mesure pas 50 mètres.</em>" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le printemps commence le 21 mars.<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. La Terre tourne autour de la Lune.<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Les enfants marchent à 6 mois.<br>{{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Les Brésiliens parlent espagnol.<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 75, "seq": 4,
+      "instruction_fr": "✍ Écrivez un blog. Dites quels sont :",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "– les activités que vous aimez / les chanteurs que vous écoutez / les séries que vous regardez ;<br>– les couleurs que vous portez / les plats que vous cuisinez / les aliments que vous détestez.<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 77, "seq": 5,
+      "instruction_fr": "Complétez avec les terminaisons manquantes.",
+      "label": "", "note_html": "Ils dinent et tu travailles.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Ils din<em class='model'>ent</em> et tu travailles." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Tu fum{{b}} et il bavard{{b}}." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Elle étud{{b}} et tu chant{{b}}." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Elles dans{{b}} et tu pleur{{b}}." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. On jou{{b}}, tu gagn{{b}} et on continu{{b}}." }
+      ]
+    },
+    {
+      "page_no": 77, "seq": 6,
+      "instruction_fr": "Mettez le texte au pluriel.",
+      "label": "Mélomane(s)", "note_html": "<em class='model'>Mes enfants aiment beaucoup la musique.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Mon fils aime beaucoup la musique.<br>Il achète plusieurs disques par mois.<br>Il mange et il travaille avec la radio allumée.<br>Il chante des airs d'opéra sous la douche<br>et il joue du rock dans le garage.<br><br>→ Mes enfants aiment beaucoup la musique.<br>{{L}}<br>{{L}}<br>{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 77, "seq": 7,
+      "instruction_fr": "Remplacez « je » par « nous » et « nous » par « je ».",
+      "label": "", "note_html": "Je commence un roman. Je change d'adresse. J'espère avoir du succès. → <em class='model'>Nous commençons un roman. Nous changeons d'adresse. Nous espérons avoir du succès.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je partage un appartement. Je nettoie la cuisine. J'essuie la vaisselle. Je jette les vieux papiers.<br>Nous {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Nous rejetons ces propositions. Nous suggérons des modifications. Nous appelons un juriste.<br>Je {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je dirige une entreprise. J'engage des employés. Je place de l'argent.<br>Nous {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Nous essayons un nouvel ordinateur. Nous changeons de matériel. Nous payons par chèque.<br>J' {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Nous voyageons. Nous emmenons des amis. Nous envoyons des cartes postales.<br>Je {{L}}" }
+      ]
+    },
+    {
+      "page_no": 77, "seq": 8,
+      "instruction_fr": "Complétez avec les verbes manquants.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Vous commencez le travail à 9 heures, mais nous, nous {{L}} à 7h30." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Nous achetons souvent des roses et vous, vous {{L}} parfois des fleurs ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Ma cousine et moi, nous avons le même prénom, nous nous {{L}} « Éléonore »." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Max change de voiture chaque année. Nous, nous {{L}} de voiture tous les cinq ans." }
+      ]
+    },
+    {
+      "page_no": 77, "seq": 9,
+      "instruction_fr": "➤ Complétez avec les terminaisons manquantes et répondez personnellement.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je préf{{b}} le thé au café. Et vous ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Les jeunes env{{b}} beaucoup de SMS. Et vous ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Nous chang{{b}} de portable tous les ans. Et vous ?" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Je pa{{b}} 800 € de loyer. Et vous ?" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Je voyage beaucoup. Et vous ?" }
+      ]
+    },
+    {
+      "page_no": 78, "seq": 10,
+      "instruction_fr": "Répondez aux questions selon le modèle.",
+      "label": "", "note_html": "– Vous travaillez le samedi, en ce moment, Lola ?<br>– <em class='model'>Oui, en ce moment, je travaille le samedi.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous aimez la cuisine chinoise, Max ?<br>– Oui, {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous cherchez un appartement dans le centre, Julie ?<br>– Oui, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous restez deux mois à Paris, Lucas ?<br>– Oui, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous jouez aux échecs, Antoine ?<br>– Oui, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous fumez beaucoup, Zoé ?<br>– Oui, {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Vous étudiez le chinois, John ?<br>– Oui, {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – Vous parlez italien, Emma ?<br>– Oui, {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. – Vous recopiez vos notes, Caroline ?<br>– Oui, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 78, "seq": 11,
+      "instruction_fr": "Ajoutez les terminaisons manquantes.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Je regard{{b}} rarement la télévision ; je préfér{{b}} écouter la radio." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Mes enfants ador{{b}} jouer au tennis et parfois ils jou{{b}} tout le week-end." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Tu travaill{{b}} beaucoup trop et tu ne mang{{b}} pas assez." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Les voisins parl{{b}} fort et ils cri{{b}} beaucoup." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – À midi, nous mang{{b}} souvent à la cantine et nous bavard{{b}} entre amis." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Mon mari fum{{b}} le cigare et moi, je fum{{b}} des cigarillos." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – Tu regard{{b}} les petites annonces ? Tu cherch{{b}} un appartement ?" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. – Je parl{{b}} avec des amis français et ils me corrig{{b}} quand je prononc{{b}} mal." },
+        { "seq": 9, "type": "cloze", "stem_html": "9. – Vous pass{{b}} vos vacances à Moscou ou vous rest{{b}} à Paris ?" },
+        { "seq": 10, "type": "cloze", "stem_html": "10. – Nous étud{{b}} la règle de grammaire et nous recommen{{b}} les exercices." }
+      ]
+    },
+    {
+      "page_no": 78, "seq": 12,
+      "instruction_fr": "Répondez librement aux questions.",
+      "label": "Vie quotidienne", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "– Où habitez-vous actuellement ?<br>– Vous travaillez ou vous étudiez ?<br>– Quelle langue parlez-vous en classe ?<br>– Quel journal achetez-vous, le plus souvent ?<br>– Où passez-vous vos vacances habituellement ?<br>– En général, où dînez-vous le soir ?<br>– Où déjeunez-vous à midi ?<br>– Vous étudiez des langues étrangères ?<br><br><em>J'habite</em> {{L}}<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 79, "seq": 13,
+      "instruction_fr": "Complétez les phrases avec les verbes manquants.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je joue mal au tennis, mais toi, tu {{b}} bien." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Mon mari travaille dans le centre, mais moi, je {{b}} en banlieue." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Mes amis apprécient le calme de la campagne, mais moi, {{b}} l'animation de la ville." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Vous étudiez le japonais ? Mon fils {{b}} le chinois !" }
+      ]
+    },
+    {
+      "page_no": 79, "seq": 14,
+      "instruction_fr": "Complétez le texte avec les verbes manquants. Faites l'élision si c'est nécessaire.",
+      "label": "dîner — écouter — téléphoner — regarder — jouer — rentrer — préférer — préparer — aimer — enlever", "note_html": "<s>rentrer</s>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<strong>Le soir</strong><br>Le soir, quand je rentre à la maison, je {{b}} mon manteau et mes chaussures et je {{b}} mon répondeur téléphonique. Ensuite, je {{b}} à un ou deux amis, puis je {{b}} quelque chose pour le dîner. Mon mari et mes enfants {{b}} les pâtes, moi, je {{b}} la soupe. Nous {{b}} rapidement, puis nous {{b}} la télévision quand il y a quelque chose d'intéressant ou nous {{b}} au scrabble en famille." }
+      ]
+    },
+    {
+      "page_no": 79, "seq": 15,
+      "instruction_fr": "Répondez aux questions. Continuez le dialogue sur le même modèle.",
+      "label": "", "note_html": "Pharmacie : 9 h 15/20 h — Bus : 6 h 15/23 h 45 — Film : 20 h 30/22 h 15 — Musée : 10 h/18 h 45<br>– <em class='model'>Elle ouvre à neuf heures et quart.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – La pharmacie ouvre à quelle heure ?<br>– Elle ferme à quelle heure ?<br>– <em class='model'>Elle ouvre à neuf heures et quart.</em><br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Le premier bus passe à quelle heure ?<br>– Le dernier bus passe à quelle heure ?<br>– {{L}}<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Le film commence à quelle heure ?<br>– Il se termine à quelle heure ?<br>– {{L}}<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – {{L}}<br>– {{L}}<br>– {{L}}<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 79, "seq": 16,
+      "instruction_fr": "Commentez ce sondage (Sofres) sur les préférences alimentaires des Français en écrivant les pourcentages.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "<table class='data-table'><tr><th></th><th>Côte de bœuf</th><th>Magret de canard</th><th>Moules – frites</th><th>Couscous</th></tr><tr><td><strong>Hommes</strong></td><td>22 %</td><td>22 %</td><td>20 %</td><td>18 %</td></tr><tr><td><strong>Femmes</strong></td><td>Magret de canard 20 %</td><td>Pavé de saumon 19 %</td><td>Tomates farcies 19 %</td><td>Blanquette de veau 18 %</td></tr></table><br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 79, "seq": 17,
+      "instruction_fr": "@ Recherchez les goûts alimentaires de vos compatriotes. Comparez selon les âges. Comparez le budget alimentation chez les hommes et les femmes (ex. : vin, alcool, poisson, fruits…).",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}

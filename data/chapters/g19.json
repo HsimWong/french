@@ -1,0 +1,161 @@
+{
+  "course": "grammaire",
+  "seq": 19,
+  "title_fr": "L'EXPRESSION de la QUANTITÉ",
+  "page_start": 86,
+  "page_end": 89,
+  "pdf_start": 88,
+  "pdf_end": 91,
+  "sections": [
+    { "title_fr": "LES QUANTITÉS INDÉTERMINÉES (ou non exprimées)", "page_no": 86 },
+    { "title_fr": "LES PARTITIFS", "page_no": 86 },
+    { "title_fr": "LES QUANTITÉS DETERMINÉES (ou exprimées)", "page_no": 88 },
+    { "title_fr": "LA NÉGATION", "page_no": 88 },
+    { "title_fr": "RÉSUMÉ", "page_no": 88 }
+  ],
+  "blocks": [
+    { "page_no": 86, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">19</span> L'EXPRESSION de LA QUANTITÉ" },
+    { "page_no": 86, "seq": 2, "type": "section_title", "body_html": "LES QUANTITÉS INDÉTERMINÉES (ou non exprimées)" },
+    { "page_no": 86, "seq": 3, "type": "keypoint", "body_html": "Je mange <strong>du</strong> poisson avec <strong>de la</strong> salade et <strong>des</strong> légumes." },
+    { "page_no": 86, "seq": 4, "type": "section_title", "body_html": "LES PARTITIFS" },
+    { "page_no": 86, "seq": 5, "type": "subhead", "body_html": "Pour indiquer une <strong>quantité</strong> indéterminée, on utilise :" },
+    { "page_no": 86, "seq": 6, "type": "para", "body_html": "<p class='bullet'>« de » + article défini</p>" },
+    { "page_no": 86, "seq": 7, "type": "example", "body_html": "<em>J'achète</em><br><strong>de la</strong> viande.<br><strong>de l'</strong> huile.<br><strong>du</strong> poisson. (de + le &rarr; du)<br><strong>des</strong> fruits. (de + les &rarr; des)" },
+    { "page_no": 86, "seq": 8, "type": "para", "body_html": "L'article défini désigne un ensemble, le partitif une <strong>partie</strong> de cet ensemble :<br><em><strong>Le</strong> lait est bon pour la santé.</em> (= tout)<br>Buvez <strong>du</strong> lait. (= partie)" },
+    { "page_no": 86, "seq": 9, "type": "warning", "body_html": "– Dites :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne dites pas :<br><em>Le matin, je bois</em> <strong>du</strong> <em>thé.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Le matin, je bois</em> <s>le</s> <em>thé.</em><br><em>À midi, je mange</em> <strong>des</strong> <em>pâtes.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>À midi, je mange</em> <s>des</s> <em>pâtes.</em>" },
+    { "page_no": 86, "seq": 10, "type": "para", "body_html": "Le partitif s'utilise avec toutes les quantités globales non comptables :<br><em>Quand j'ai</em> <strong>de la</strong> <em>fièvre, je bois</em> <strong>de l'</strong><em>eau.</em><br><em>Dans la rue, il y a</em> <strong>des</strong> <em>gens,</em> <strong>du</strong> <em>bruit et</em> <strong>de la</strong> <em>musique.</em><br><em>Aujourd'hui, il y a</em> <strong>du</strong> <em>soleil et</em> <strong>du</strong> <em>vent.</em>" },
+    { "page_no": 86, "seq": 11, "type": "para", "body_html": "« <strong>Des</strong> » peut être un article indéfini (pl. de « un ») ou un partitif (« de » + « les ») :<br><em>Il y a</em> <strong>des</strong> <em>tomates dans le frigo.</em>&nbsp;&nbsp;&nbsp;&nbsp;(deux, trois)<br><em>Il y a</em> <strong>des</strong> <em>rillettes dans le frigo.</em>&nbsp;&nbsp;&nbsp;&nbsp;(« de » + « les » rillettes)" },
+    { "page_no": 86, "seq": 12, "type": "phonetic", "body_html": "« De » se contracte avec « le » et « les », mais pas avec « la » et « l' » :<br><em>Je mange</em> <strong>de la</strong> <em>salade avec</em> <strong>de l'</strong><em>huile,</em> <strong>du</strong> <em>vinaigre et</em> <strong>des</strong> <em>épices.</em><br>d<strong>é</strong>lé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d<strong>é</strong>lés" },
+    { "page_no": 86, "seq": 13, "type": "warning", "body_html": "Dites : <em>Je mange</em> <strong>de la</strong> <em>salade</em> <strong><em>sans</em></strong> <em>huile/</em> <strong><em>sans</em></strong> <em>vinaigre.</em><br>= pas de partitif après « sans »" },
+    { "page_no": 86, "seq": 14, "type": "xref", "body_html": "« En », p. 90&nbsp;&nbsp;&nbsp;&nbsp;Météo, p. 66&nbsp;&nbsp;&nbsp;&nbsp;Indéfinis, p. 68" },
+
+    { "page_no": 88, "seq": 15, "type": "running_head", "body_html": "L'EXPRESSION DE LA QUANTITÉ" },
+    { "page_no": 88, "seq": 16, "type": "section_title", "body_html": "LES QUANTITÉS DETERMINÉES (ou exprimées)" },
+    { "page_no": 88, "seq": 17, "type": "keypoint", "body_html": "Je mange <strong>beaucoup de</strong> viande. Je bois <strong>un peu de</strong> vin.<br>Je ne mange <strong>pas de</strong> gâteaux. Je ne bois <strong>jamais de</strong> café." },
+    { "page_no": 88, "seq": 18, "type": "subhead", "body_html": "« <strong>DE</strong> » remplace « du », « de la », « des » quand la quantité est <strong>exprimée</strong> :" },
+    { "page_no": 88, "seq": 19, "type": "table", "body_html": "<table class='data-table'><tr><td>un kilo / cent grammes / un demi-kilo</td><td>de sucre</td><td>beaucoup / un peu / assez</td><td>de sucre</td><td>un morceau / une cuillérée / un paquet</td><td>de sucre</td></tr><tr><td>= quantité précise</td><td></td><td>= quantité globale</td><td></td><td>= quantité-forme</td><td></td></tr></table>" },
+    { "page_no": 88, "seq": 20, "type": "warning", "body_html": "• Dites : <em>Paul a beaucoup</em> <strong>d'</strong><em>amis.</em> — Ne dites pas : <em>Il a beaucoup</em> <s>des</s> <em>amis.</em>" },
+    { "page_no": 88, "seq": 21, "type": "section_title", "body_html": "LA NÉGATION" },
+    { "page_no": 88, "seq": 22, "type": "subhead", "body_html": "« <strong>DE</strong> » remplace « du », « de la », « des » quand il y a une négation :" },
+    { "page_no": 88, "seq": 23, "type": "example", "body_html": "<em>Je n'achète</em><br><strong>pas de</strong> viande.<br><strong>jamais de</strong> poisson. = quantité zéro<br><strong>plus de</strong> fruits." },
+    { "page_no": 88, "seq": 24, "type": "warning", "body_html": "• Mais on conserve le partitif quand il y a une opposition :<br>– <em>C'est du</em> <strong>miel</strong> <em>? – Non, ce n'est</em> <strong>pas du</strong> <em>miel, c'est</em> <strong>de la</strong> <em>confiture.</em>" },
+    { "page_no": 88, "seq": 25, "type": "section_title", "body_html": "RÉSUMÉ" },
+    { "page_no": 88, "seq": 26, "type": "table", "body_html": "<table class='data-table'><tr><td>– Est-ce qu'il y a</td><td>de la / du / des</td><td>viande ? / café ? / pommes ?</td><td>Quantité non <strong>exprimée</strong></td></tr><tr><td>– Oui, il y a un kilo / un paquet / beaucoup</td><td>de / de / de</td><td>viande. / café. / pommes.</td><td>Quantité <strong>exprimée</strong> ou négative</td></tr><tr><td>– Non, il n'y a pas / plus</td><td>de / de / de</td><td>viande. / café. / pommes.</td><td>Quantité <strong>exprimée</strong> ou négative</td></tr></table>" },
+    { "page_no": 88, "seq": 27, "type": "warning", "body_html": "• « Besoin » et « envie » ne sont jamais suivis d'un partitif :<br><em>J'ai besoin</em> <strong>de</strong> <em>vacances. J'ai envie</em> <strong>de</strong> <em>soleil.</em>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 87, "seq": 1,
+      "instruction_fr": "Complétez le texte avec les partitifs manquants.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Le matin, je mange <em>du</em> pain avec {{b}} beurre et {{b}} confiture. Mon mari boit {{b}} café et mange {{b}} fromage ! Ma fille mange {{b}} biscuits et boit {{b}} Coca. Le soir, nous mangeons {{b}} riz, {{b}} pâtes ou {{b}} soupe. Ma fille mange {{b}} frites avec {{b}} ketchup, ou {{b}} crêpes avec {{b}} chocolat et {{b}} bananes. D'après elle, il y a {{b}} magnésium dans le chocolat, {{b}} calcium dans les crêpes et {{b}} potassium dans les bananes. Ça donne {{b}} force et {{b}} tonus (mais aussi {{b}} kilos) !" }
+      ]
+    },
+    {
+      "page_no": 87, "seq": 2,
+      "instruction_fr": "Faites des dialogues, selon le modèle. Imaginez la composition des plats.",
+      "label": "", "note_html": "<strong>MENU</strong><br>Entrées : Potage / Salade<br>Plats : Thon grillé / Poulet basquaise<br>Desserts : Crème caramel / Salade de fruits<br><em>– Qu'est-ce que vous avez comme entrées ?</em><br><em>– Nous avons du potage ou de la salade.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Qu'est-ce que {{L}}<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 87, "seq": 3,
+      "instruction_fr": "Complétez les phrases, selon le modèle.",
+      "label": "", "note_html": "air&nbsp;&nbsp;&nbsp;&nbsp;lait&nbsp;&nbsp;&nbsp;&nbsp;eau&nbsp;&nbsp;&nbsp;&nbsp;essence", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Dans le biberon, <em>il y a du lait.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Dans le ballon, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Dans l'aquarium, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Dans le réservoir, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 87, "seq": 4,
+      "instruction_fr": "Transformez avec des partitifs.",
+      "label": "", "note_html": "énergie&nbsp;&nbsp;&nbsp;&nbsp;ambition&nbsp;&nbsp;&nbsp;&nbsp;argent&nbsp;&nbsp;&nbsp;&nbsp;goût", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Il est ambitieux. <em>Il a de l'ambition.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "Il est riche. {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Il est élégant. {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Il est dynamique. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 87, "seq": 5,
+      "instruction_fr": "Complétez les informations météo.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [87],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Il fait froid, <em>il y a du vent.</em><br>On peut skier, {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "Le temps est gris, {{L}}<br>Il fait chaud, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 87, "seq": 6,
+      "instruction_fr": "Décrivez les ressources agricoles de différents pays. ⓐ Recherchez les ressources minières.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "France : blé, orge, raisins – Brésil : sucre, café, maïs, bananes – Grèce : raisins, olives, tabac…<br>Japon : riz, sucre, mandarines – Togo : manioc, coton, cacao – Dans mon pays : {{L}}<br><em>En France, on produit</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 89, "seq": 7,
+      "instruction_fr": "Complétez avec « du », « de la » ou « de ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Le panaché, c'est <em>de la</em> bière, avec un peu {{b}} limonade. Le café liégeois, c'est {{b}} café avec {{b}} glace au café et un peu {{b}} chantilly. La mauresque, c'est {{b}} pastis avec un peu {{b}} sirop d'orgeat et beaucoup {{b}} eau." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Dans la soupe au pistou, il y a un demi-kilo {{b}} courgettes, quatre cents grammes {{b}} haricots verts, trois cents grammes {{b}} haricots blancs et rouges, deux cents grammes {{b}} carottes, six cuillerées {{b}} huile d'olive, {{b}} sel, {{b}} poivre, {{b}} basilic et quatre gousses {{b}} ail ; dans ma recette, il n'y a pas {{b}} pommes de terre." }
+      ]
+    },
+    {
+      "page_no": 89, "seq": 8,
+      "instruction_fr": "Complétez avec « du », « de la », « de l' », « des ». Répondez avec « beaucoup de » (+++), « un peu de » (+) ou « pas de » (0).",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Vous avez <em>du</em> travail ? (+++) – Oui, j'ai <em>beaucoup</em> <em>de</em> travail…" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Vous avez {{b}} argent de côté ? (+) – Oui, j'ai {{b}} argent, pour partir en vacances." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Vous avez {{b}} chance au jeu ? (0) – Non, je n'ai {{b}} chance, je perds toujours." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Vous avez fait {{b}} progrès en français ? (+) – Oui, je crois que j'ai fait {{b}} progrès." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Votre professeur a {{b}} patience ? (+++) – Oui, il a {{b}} patience." }
+      ]
+    },
+    {
+      "page_no": 89, "seq": 9,
+      "instruction_fr": "Quels sont les ingrédients des salades ? Continuez les dialogues, selon le modèle.",
+      "label": "", "note_html": "Sandwichs et salades<br>Salade « Niçoise » : Tomates, thon, olives, huile d'olive<br>Salade « Indienne » : Poulet, maïs, soja, salade, curry<br>Salade du Chef : Avocats, carottes, vinaigrette", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Qu'est-ce qu'il y a dans la salade « Niçoise » ?<br>– {{L}}<br>– Il y a de la mayonnaise dans la « Niçoise » ?<br>– {{L}}<br>– Est-ce qu'il y a du fromage ?<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 89, "seq": 10,
+      "instruction_fr": "Complétez et précisez, selon le modèle.",
+      "label": "", "note_html": "boîte&nbsp;&nbsp;&nbsp;&nbsp;paquet&nbsp;&nbsp;&nbsp;&nbsp;tube&nbsp;&nbsp;&nbsp;&nbsp;pot&nbsp;&nbsp;&nbsp;&nbsp;bouteille<br><em>Achète :</em> <em>de la</em> moutarde&nbsp;&nbsp;&nbsp;&nbsp;<em>un pot de moutarde</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "{{b}} dentifrice&nbsp;&nbsp;&nbsp;&nbsp;{{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "{{b}} eau&nbsp;&nbsp;&nbsp;&nbsp;{{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "{{b}} petits pois&nbsp;&nbsp;&nbsp;&nbsp;{{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "{{b}} biscuits&nbsp;&nbsp;&nbsp;&nbsp;{{b}}" }
+      ]
+    },
+    {
+      "page_no": 89, "seq": 11,
+      "instruction_fr": "Complétez avec « beaucoup de »/« peu de ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Un bon régime, c'est <em>beaucoup</em> <em>de</em> légumes, {{L}} fruits et {{L}} graisses." },
+        { "seq": 2, "type": "cloze", "stem_html": "Une ville agréable c'est {{L}} pollution et {{L}} espaces verts." },
+        { "seq": 3, "type": "cloze", "stem_html": "Un bon couple, c'est {{L}} amour, {{L}} complicité et {{L}} agressivité." }
+      ]
+    },
+    {
+      "page_no": 89, "seq": 12,
+      "instruction_fr": "» Dites ce que vous aimez, ce que vous mangez dans la journée et en quelle quantité.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}
