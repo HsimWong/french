@@ -1,0 +1,146 @@
+{
+  "course": "grammaire",
+  "seq": 5,
+  "title_fr": "« C'EST » et « IL EST »",
+  "page_start": 32,
+  "page_end": 35,
+  "pdf_start": 34,
+  "pdf_end": 37,
+  "sections": [
+    { "title_fr": "L'IDENTIFICATION et LA PRÉSENTATION", "page_no": 32 },
+    { "title_fr": "LA DESCRIPTION", "page_no": 32 },
+    { "title_fr": "LA PROFESSION", "page_no": 34 }
+  ],
+  "blocks": [
+    { "page_no": 32, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">5</span> « C'EST » et « IL EST »" },
+    { "page_no": 32, "seq": 2, "type": "keypoint", "body_html": "– C'est Paul Mazot. C'est mon voisin.<br>– Il est sympathique." },
+    { "page_no": 32, "seq": 3, "type": "section_title", "body_html": "L'<strong>IDENTIFICATION</strong> et LA <strong>PRÉSENTATION</strong>" },
+    { "page_no": 32, "seq": 4, "type": "para", "body_html": "Pour <strong>identifier</strong> ou <strong>présenter</strong> une chose ou une personne, on utilise :" },
+    { "page_no": 32, "seq": 5, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>« C'est » + nom singulier</span><span class='wordlist'><em>C'est un fruit.</em><br><em>C'est mon voisin.</em></span></div><div><span class='lead'>« Ce sont » + nom pluriel</span><span class='wordlist'><em>Ce sont des fruits.</em><br><em>Ce sont mes voisins.</em></span></div></div>" },
+    { "page_no": 32, "seq": 6, "type": "para", "body_html": "La question portant sur l'identification est toujours au singulier :" },
+    { "page_no": 32, "seq": 7, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>– Qu'est-ce que c'est ?</span><span class='wordlist'>(pour identifier une ou plusieurs choses)<br><em>– C'est un dessin de ma fille.</em><br><em>– Ce sont des dessins de ma fille.</em></span></div><div><span class='lead'>– Qui est-ce ?</span><span class='wordlist'>(pour identifier une ou plusieurs personnes)<br><em>– C'est mon cousin.</em><br><em>– Ce sont mes cousins.</em></span></div></div>" },
+    { "page_no": 32, "seq": 8, "type": "warning", "body_html": "Dites :<br>– <em>Qui est-ce ?</em><br>– <em>C'est Peter Kirov.</em><br>Ne dites pas :<br>– <em>Qui est-ce ?</em><br>– <s>C'est Peter Kirov.</s>" },
+    { "page_no": 32, "seq": 9, "type": "para", "body_html": "On utilise « <strong>c'est</strong> » (toujours au singulier) pour s'annoncer, par exemple à l'interphone :<br>– <em>Qui est-ce ?</em> – <em>C'est nous ! C'est Anna et Peter !</em>" },
+    { "page_no": 32, "seq": 10, "type": "para", "body_html": "La négation se place avant et après le verbe :<br>– <em>Ce <strong>n'est pas</strong> Max. Ce <strong>n'est pas</strong> mon livre.</em>" },
+    { "page_no": 32, "seq": 11, "type": "section_title", "body_html": "LA <strong>DESCRIPTION</strong>" },
+    { "page_no": 32, "seq": 12, "type": "para", "body_html": "Pour <strong>décrire</strong> une chose ou une personne <strong>en particulier</strong>, on utilise <strong>Il/Elle est</strong> + adjectif :" },
+    { "page_no": 32, "seq": 13, "type": "example", "body_html": "<em>C'est mon livre. <strong>Il est</strong> bleu.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>C'est une rose. <strong>Elle est</strong> belle.</em><br><em>C'est Peter. <strong>Il est</strong> blond.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>C'est Anna. <strong>Elle est</strong> brune.</em>" },
+    { "page_no": 32, "seq": 14, "type": "para", "body_html": "Pour faire un <strong>commentaire général</strong>, on utilise « <strong>c'est</strong> » + adjectif neutre." },
+    { "page_no": 32, "seq": 15, "type": "example", "body_html": "– Oh, <strong>c'est</strong> beau !&nbsp;&nbsp;&nbsp;&nbsp;– Mmm, <strong>c'est</strong> bon.&nbsp;&nbsp;&nbsp;&nbsp;– Oh là là, <strong>c'est</strong> cher." },
+    { "page_no": 32, "seq": 16, "type": "warning", "body_html": "Dites : <em>La mer, <strong>c'est</strong> beau.</em>" },
+
+    { "page_no": 34, "seq": 17, "type": "running_head", "body_html": "« C'EST » ET « IL EST »" },
+    { "page_no": 34, "seq": 18, "type": "section_title", "body_html": "LA <strong>PROFESSION</strong>" },
+    { "page_no": 34, "seq": 19, "type": "keypoint", "body_html": "Paul est médecin. <strong>Il est</strong> pédiatre.<br><strong>C'est un</strong> pédiatre renommé." },
+    { "page_no": 34, "seq": 20, "type": "para", "body_html": "Dans certains cas, on ne met <strong>pas d'article</strong> devant les noms de profession :" },
+    { "page_no": 34, "seq": 21, "type": "example", "body_html": "<em>Je suis <strong>secrétaire</strong>.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Tu es <strong>ingénieur</strong>.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Vous êtes <strong>professeur</strong>.</em>" },
+    { "page_no": 34, "seq": 22, "type": "para", "body_html": "L'absence d'article concerne la nationalité, la religion, la profession, etc., qui sont traitées comme des adjectifs :" },
+    { "page_no": 34, "seq": 23, "type": "example", "body_html": "<em>Paul est <strong>professeur</strong>.</em><br><em>Il est <strong>anglais</strong>. Il est <strong>protestant</strong>. Il est <strong>marié</strong>.</em>" },
+    { "page_no": 34, "seq": 24, "type": "para", "body_html": "On met un article pour apporter une <strong>précision</strong> :" },
+    { "page_no": 34, "seq": 25, "type": "example", "body_html": "<em>Paul est <strong>un</strong> professeur <strong>exceptionnel</strong>.</em><br><em>Paul est <strong>un bon</strong> professeur.</em>" },
+    { "page_no": 34, "seq": 26, "type": "para", "body_html": "On ne met pas d'article quand la précision indique une <strong>catégorie professionnelle</strong> :" },
+    { "page_no": 34, "seq": 27, "type": "example", "body_html": "<em>Paul est <strong>médecin généraliste</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Paul est <strong>un bon</strong> médecin.</em><br><em>(« Médecin généraliste » est une catégorie professionnelle, mais pas « un bon médecin ».)</em>" },
+    { "page_no": 34, "seq": 28, "type": "para", "body_html": "On utilise « <strong>c'est</strong> » au lieu de « <strong>il est</strong> » devant un <strong>nom déterminé</strong> :" },
+    { "page_no": 34, "seq": 29, "type": "example", "body_html": "– <strong>C'est mon</strong> voisin.&nbsp;&nbsp;&nbsp;&nbsp;– <strong>Il est</strong> sympathique ?<br>– <strong>C'est un</strong> professeur.&nbsp;&nbsp;&nbsp;&nbsp;– <strong>Il est</strong> professeur de quoi ?<br>– <strong>C'est un</strong> jeune professeur d'anglais.&nbsp;&nbsp;&nbsp;&nbsp;– Ah, <strong>il est</strong> prof d'anglais !<br><strong>C'est</strong> + <strong>nom</strong> déterminé&nbsp;&nbsp;&nbsp;&nbsp;<strong>Il est</strong> + <strong>adjectif</strong> ou profession" },
+    { "page_no": 34, "seq": 30, "type": "warning", "body_html": "Dites :<br><em><strong>C'est un</strong> bon professeur.</em><br><em><strong>C'est mon</strong> voisin.</em><br>Ne dites pas :<br><em>Il est <s>un</s>...</em><br><em>Il est <s>mon</s>...</em>" },
+    { "page_no": 34, "seq": 31, "type": "para", "body_html": "Certains noms de profession qui n'avaient pas de féminin ont aujourd'hui deux formes." },
+    { "page_no": 34, "seq": 32, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>Paul est</span><span class='wordlist'><em>professeur.</em><br><em>écrivain.</em><br><em>auteur.</em></span></div><div><span class='lead'>Marie est</span><span class='wordlist'><em>professeur/professeure.</em><br><em>écrivain/écrivaine.</em><br><em>auteur/auteure.</em></span></div></div>" },
+    { "page_no": 34, "seq": 33, "type": "warning", "body_html": "À la question :<br><em>– Quelle est votre profession ?</em><br><em>– Qu'est-ce que vous faites (comme travail/dans la vie) ?</em><br>Répondez :<br><em>– Je suis professeur/comptable...</em><br><em>– Je travaille dans une école/banque...</em><br><s>Ma profession est comptable.</s>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 33, "seq": 1,
+      "instruction_fr": "Complétez avec « c'est » ou « ce sont ».",
+      "label": "", "note_html": "– Ouvrez votre cadeau ! Qu'est-ce que c'est ? – C'est un stylo ! – Ce sont des stylos !", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – {{b}} un téléphone ! – {{b}} des livres ! – {{b}} des gants ! – {{b}} un sac !" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – {{b}} une montre ! – {{b}} un parfum ! – {{b}} des DVD ! – {{b}} des rollers !" }
+      ]
+    },
+    {
+      "page_no": 33, "seq": 2,
+      "instruction_fr": "Associez les objets et les personnes, selon le modèle.",
+      "label": "", "note_html": "1. livre de grammaire / professeur → C'est un livre de grammaire. Je crois que c'est le livre du <em class='model'>professeur.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – C'est un livre de grammaire. Je crois que c'est le livre du <em class='model'>professeur.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 33, "seq": 3,
+      "instruction_fr": "Posez des questions avec « Qui est-ce ? » ou « Qu'est-ce que c'est ? ».",
+      "label": "Album de photos", "note_html": "– Qui est-ce ? – C'est ma grand-mère. / – Qu'est-ce que c'est ? – C'est un éléphant, c'est une sculpture de Calder.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– <em class='model'>Qui est-ce ?</em> – C'est ma grand-mère.<br>– <em class='model'>Qu'est-ce que c'est ?</em> – C'est un éléphant, c'est une sculpture de Calder.<br>– {{L}} – C'est ma cousine Juliette.<br>– {{L}} – C'est moi à 20 ans...<br>– {{L}} – C'est un ticket de train, c'est un souvenir !<br>– {{L}} – Ce sont des copains : Yorgos et Elena.<br>– {{L}} – C'est un coquillage." }
+      ]
+    },
+    {
+      "page_no": 33, "seq": 4,
+      "instruction_fr": "Donnez votre avis, selon le modèle.",
+      "label": "", "note_html": "reposant, compliqué, beau, simple, stressant, nécessaire, ennuyeux, passionnant, fatigant, difficile", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Les femmes, <em class='model'>c'est compliqué !</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. La mer, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. La gymnastique, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Les exercices, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Le football, {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. L'argent, {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Les embouteillages, {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Les hommes, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 33, "seq": 5,
+      "instruction_fr": "Donnez votre avis avec « C'est » ou « Ce n'est pas ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Le bruit, {{L}} agréable." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. La grammaire, {{L}} passionnant." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le vin rouge, {{L}} bon pour la santé." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Les langues étrangères, {{L}} utile." }
+      ]
+    },
+    {
+      "page_no": 35, "seq": 6,
+      "instruction_fr": "Répondez aux questions, selon le modèle.",
+      "label": "", "note_html": "– Quelle est la profession de monsieur Dupond ? (chirurgien compétent)<br>– <em class='model'>Il est chirurgien. C'est un chirurgien compétent.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Quelle est la profession de monsieur Dupond ? (chirurgien compétent)<br>– <em class='model'>Il est chirurgien. C'est un chirurgien compétent.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Quelle est la profession de monsieur Bocus ? (cuisinier renommé)<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Quelle est la profession de madame Beretta ? (styliste originale)<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Quelle est la profession de monsieur Holmes ? (détective perspicace)<br>– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Quelle est la profession de monsieur Livingstone ? (explorateur imprudent)<br>– {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Quelle est la profession de monsieur et madame Verdon ? (comptables précis)<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 35, "seq": 7,
+      "instruction_fr": "Complétez avec « il est »/« elle est » ou « c'est », selon le modèle.",
+      "label": "Vous connaissez ?", "note_html": "1. Robert Doisneau ? – Oui, il est photographe. C'est un très grand photographe.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Robert Doisneau ? – Oui, <em class='model'>il est</em> photographe. <em class='model'>C'est</em> un très grand photographe." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Marie Ravel ? – Oui, {{b}} architecte d'intérieur. {{b}} notre architecte." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Céline Dion ? – Oui, {{b}} une chanteuse. {{b}} canadienne." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Monsieur Jones ? – Oui, {{b}} le chat du voisin. {{b}} adorable." }
+      ]
+    },
+    {
+      "page_no": 35, "seq": 8,
+      "instruction_fr": "Complétez le dialogue avec « il est »/« elle est » ou « c'est ». Continuez librement.",
+      "label": "Mondanités", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Qui est cet homme ?<br>– <em class='model'>C'est</em> Paul Marat. {{b}} un ami de Julie.<br>– Qu'est-ce qu'il fait ?<br>– {{b}} journaliste : {{b}} un journaliste très connu.<br>– Et cette femme : qui est-ce ?<br>– {{b}} la mère de Julie.<br>– {{b}} jeune ! Qu'est-ce qu'elle fait ?<br>– {{b}} pédiatre.<br>– Julie est mariée ?<br>– Non, {{b}} célibataire.<br>– Qu'est-ce qu'elle fait maintenant ?<br>– Maintenant, {{b}} professeur de yoga.<br>– Ah oui, {{b}} bouddhiste, je crois.<br>– Oui, et {{b}} une végétarienne convaincue.<br>– Et la jolie brune là-bas, qui est-ce ?<br>– {{b}} ma femme." }
+      ]
+    },
+    {
+      "page_no": 35, "seq": 9,
+      "instruction_fr": "Donnez les noms de deux personnalités de votre pays. Faites deviner leur profession.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}
