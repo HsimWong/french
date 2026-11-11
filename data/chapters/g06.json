@@ -1,0 +1,105 @@
+{
+  "course": "grammaire",
+  "seq": 6,
+  "title_fr": "LES POSSESSIFS",
+  "page_start": 36,
+  "page_end": 37,
+  "pdf_start": 38,
+  "pdf_end": 39,
+  "sections": [
+    { "title_fr": "L'ADJECTIF POSSESSIF", "page_no": 36 },
+    { "title_fr": "LE PRONOM POSSESSIF", "page_no": 36 }
+  ],
+  "blocks": [
+    { "page_no": 36, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">6</span> LES POSSESSIFS" },
+    { "page_no": 36, "seq": 2, "type": "keypoint", "body_html": "– C'est <strong>mon</strong> sac.&nbsp;&nbsp;&nbsp;&nbsp;C'est <strong>ma</strong> montre.&nbsp;&nbsp;&nbsp;&nbsp;Ce sont <strong>mes</strong> livres.<br>– C'est <strong>le mien</strong>.&nbsp;&nbsp;&nbsp;&nbsp;C'est <strong>la mienne</strong>.&nbsp;&nbsp;&nbsp;&nbsp;Ce sont <strong>les miens</strong>." },
+    { "page_no": 36, "seq": 3, "type": "section_title", "body_html": "L'ADJECTIF POSSESSIF" },
+    { "page_no": 36, "seq": 4, "type": "para", "body_html": "s'accorde avec le <strong>nom</strong> possédé et change avec le <strong>possesseur</strong> :" },
+    { "page_no": 36, "seq": 5, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>&nbsp;</span><span class='wordlist'>Je<br>Tu<br>Il/Elle<br>Nous<br>Vous<br>Ils/Elles</span></div><div><span class='lead'>nom masculin</span><span class='wordlist'><em><strong>mon</strong> père</em><br><em><strong>ton</strong> fils</em><br><em><strong>son</strong> cousin</em><br><em><strong>notre</strong> père</em><br><em><strong>votre</strong> fils</em><br><em><strong>leur</strong> cousin</em></span></div><div><span class='lead'>nom féminin</span><span class='wordlist'><em><strong>ma</strong> mère</em><br><em><strong>ta</strong> fille</em><br><em><strong>sa</strong> cousine</em><br><em><strong>notre</strong> mère</em><br><em><strong>votre</strong> fille</em><br><em><strong>leur</strong> cousine</em></span></div><div><span class='lead'>nom pluriel</span><span class='wordlist'><em><strong>mes</strong> parents</em><br><em><strong>tes</strong> enfants</em><br><em><strong>ses</strong> cousin(e)s</em><br><em><strong>nos</strong> parents</em><br><em><strong>vos</strong> enfants</em><br><em><strong>leurs</strong> cousin(e)s</em></span></div></div>" },
+    { "page_no": 36, "seq": 6, "type": "warning", "body_html": "<p class='bullet'><em><strong>On</strong> est chez <strong>notre</strong> grand-mère.</em>&nbsp;&nbsp;&nbsp;&nbsp;(« on » = « nous »)<br><em>Quand <strong>on</strong> est vieux, on parle de <strong>son</strong> passé.</em>&nbsp;&nbsp;&nbsp;&nbsp;(« on » = « tout le monde »)</p>" },
+    { "page_no": 36, "seq": 7, "type": "para", "body_html": "<p class='bullet'>Pour les parties du corps, on remplace le possessif par l'article défini quand il est évident que le possesseur est le sujet de la phrase :</p><p class='sample'><em><strong>Ma</strong> tête est brûlante.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>J'ai mal à <strong>la</strong> tête. (à la tête)</em></p>" },
+    { "page_no": 36, "seq": 8, "type": "phonetic", "body_html": "<p class='bullet'><strong>La liaison</strong> avec une voyelle est obligatoire, sauf devant « <strong>h</strong> » aspiré :</p><span class='example-line'><em>mon</em><span class='liaison'>n</span><em>ami</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>mes</em><span class='liaison'>z</span><em>idées</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>mes | héros préférés</em></span>" },
+    { "page_no": 36, "seq": 9, "type": "phonetic", "body_html": "<p class='bullet'>« <strong>Ma, ta, sa</strong> » deviennent « <strong>mon, ton, son</strong> » devant voyelle ou « <strong>h</strong> » muet :</p><p class='sample'><em><strong>mon</strong> amie</em>&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>ton</strong> erreur</em>&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>son</strong> hésitation</em></p>" },
+    { "page_no": 36, "seq": 10, "type": "section_title", "body_html": "LE PRONOM POSSESSIF" },
+    { "page_no": 36, "seq": 11, "type": "para", "body_html": "change selon le nom qu'il remplace." },
+    { "page_no": 36, "seq": 12, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>masc. sing.</span><span class='wordlist'><em>le mien</em><br><em>le tien</em><br><em>le sien</em><br><em>le nôtre</em><br><em>le vôtre</em><br><em>le leur</em></span></div><div><span class='lead'>fém. sing.</span><span class='wordlist'><em>la mienne</em><br><em>la tienne</em><br><em>la sienne</em><br><em>la nôtre</em><br><em>la vôtre</em><br><em>la leur</em></span></div><div><span class='lead'>masc. plur.</span><span class='wordlist'><em>les miens</em><br><em>les tiens</em><br><em>les siens</em><br><em>les nôtres</em><br><em>les vôtres</em><br><em>les leurs</em></span></div><div><span class='lead'>fém. plur.</span><span class='wordlist'><em>les miennes</em><br><em>les tiennes</em><br><em>les siennes</em><br><em>les nôtres</em><br><em>les vôtres</em><br><em>les leurs</em></span></div></div>" },
+    { "page_no": 36, "seq": 13, "type": "warning", "body_html": "<p class='bullet'><em>notre</em> : adjectif&nbsp;&nbsp;&nbsp;&nbsp;<em>le nôtre</em> : pronom</p>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 37, "seq": 1,
+      "instruction_fr": "Complétez avec « mon », « ma », « mes ».",
+      "label": "Distraite", "note_html": "", "has_image": true, "scan_pages": [37],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– J'ai trouvé un sac, un stylo, des clés, des lu-<br>nettes et une écharpe !<br>– Oh ! <em class='model'>c'est mon sac ! C'est</em> {{L}}<br>{{L}}<br>{{L}}<br>– Tu es vraiment trop distraite !" }
+      ]
+    },
+    {
+      "page_no": 37, "seq": 2,
+      "instruction_fr": "Complétez avec « mon », « ma », « mes ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. <em class='model'>Ma</em> mère est à Paris." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. {{b}} frère est aux Bahamas." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. {{b}} sœur est dentiste." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. {{b}} enfants sont à la plage." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. {{b}} école est fermée." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. {{b}} ami Pierre est en voyage." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. {{b}} amie Lola est malade." }
+      ]
+    },
+    {
+      "page_no": 37, "seq": 3,
+      "instruction_fr": "Complétez en utilisant « son », « sa », « ses ».",
+      "label": "", "note_html": "beauté&nbsp;&nbsp;&nbsp;&nbsp;humour&nbsp;&nbsp;&nbsp;&nbsp;musique&nbsp;&nbsp;&nbsp;&nbsp;sourire&nbsp;&nbsp;&nbsp;&nbsp;romans", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. La Joconde est célèbre pour <em class='model'>son sourire.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Apollon est célèbre pour {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Woody Allen est célèbre pour {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Mozart est célèbre pour {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Balzac est célèbre pour {{L}}" }
+      ]
+    },
+    {
+      "page_no": 37, "seq": 4,
+      "instruction_fr": "Complétez avec « votre » ou « vos ».",
+      "label": "", "note_html": "chien&nbsp;&nbsp;&nbsp;&nbsp;enfants&nbsp;&nbsp;&nbsp;&nbsp;plantes&nbsp;&nbsp;&nbsp;&nbsp;linge&nbsp;&nbsp;&nbsp;&nbsp;papiers", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je garde <em class='model'>vos enfants.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. J'arrose {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je repasse {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Je promène {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Je range {{L}}" }
+      ]
+    },
+    {
+      "page_no": 37, "seq": 5,
+      "instruction_fr": "Complétez avec « son », « sa », « ses », « leur(s) » ou « le », « la », « les ».",
+      "label": "Voyage de noces", "note_html": "", "has_image": true, "scan_pages": [37],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Marc et Sylvie sont prêts à partir en voyage de noces : <em class='model'>leurs</em> places d'avion sont réservées, {{b}} valises<br>sont faites. {{b}} arrivée à Venise est prévue pour le 15 février. Sylvie est nerveuse parce que {{b}}<br>cheveux sont trop longs ( {{b}} coiffeur est malade), {{b}} habits sont trop grands (depuis<br>{{b}} régime) et {{b}} amie Nathalie n'est pas à Paris. Elle a mal à {{b}} tête et à {{b}}<br>estomac, et {{b}} anxiété est terrible. Marc lui prend {{b}} main. Il trouve {{b}} attitude un<br>peu enfantine, mais si charmante…" }
+      ]
+    },
+    {
+      "page_no": 37, "seq": 6,
+      "instruction_fr": "Complétez avec les possessifs manquants. Continuez librement.",
+      "label": "", "note_html": "Prête-moi <em class='model'>ton stylo, le mien</em> est cassé.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Prête-moi {{b}} moto, {{b}} est en panne." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Prête-moi {{b}} briquet, {{b}} est vide." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Prête-moi {{b}} portable, j'ai oublié {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Prête-moi {{b}} veste, {{b}} est au pressing." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Prête-moi {{b}} notes, je ne trouve plus {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Prête-moi {{L}}" }
+      ]
+    },
+    {
+      "page_no": 37, "seq": 7,
+      "instruction_fr": "Au café. Imaginez des questions (et des réponses).",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– C'est ton verre ou <em class='model'>c'est le mien</em> ? – C'est ma serviette ou {{L}} ? – C'est ton couteau ou<br>{{L}} ? – C'est mon portable ou {{L}} ? – Ce sont mes lunettes ou {{L}} ?" }
+      ]
+    }
+  ]
+}

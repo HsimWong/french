@@ -1,0 +1,208 @@
+{
+  "course": "grammaire",
+  "seq": 3,
+  "title_fr": "LA NÉGATION et L'INTERROGATION (1)",
+  "page_start": 18,
+  "page_end": 21,
+  "pdf_start": 20,
+  "pdf_end": 23,
+  "sections": [
+    { "title_fr": "LA NÉGATION SIMPLE", "page_no": 18 },
+    { "title_fr": "LA QUESTION SIMPLE", "page_no": 18 },
+    { "title_fr": "LA RÉPONSE", "page_no": 18 }
+  ],
+  "blocks": [
+    { "page_no": 18, "seq": 1, "type": "chapter_title", "body_html": "<span class='ch-no'>3</span> LA NÉGATION et L'INTERROGATION (1)" },
+    { "page_no": 18, "seq": 2, "type": "keypoint", "body_html": "– Vous êtes de Paris ?<br>– Non, je <strong>ne</strong> suis <strong>pas</strong> de Paris." },
+    { "page_no": 18, "seq": 3, "type": "section_title", "body_html": "LA <strong>NÉGATION SIMPLE</strong> se compose de deux éléments :" },
+    { "page_no": 18, "seq": 4, "type": "table", "body_html": "<div class='annotation'><strong>ne</strong> + <em>verbe</em> + <strong>pas</strong></div><p class='sample'><em>Je <strong>ne</strong> suis <strong>pas</strong> en vacances.</em><br><em>Nous <strong>ne</strong> sommes <strong>pas</strong> en juillet.</em></p>" },
+    { "page_no": 18, "seq": 5, "type": "phonetic", "body_html": "<p class='bullet'>« <strong>ne</strong> » devient « <strong>n'</strong> » devant une voyelle.</p><span class='example-line'><em>Vous <s>n'</s> êtes pas fatigué ? → Vous <strong>n'</strong>êtes pas fatigué ?</em></span>" },
+    { "page_no": 18, "seq": 6, "type": "section_title", "body_html": "LA <strong>QUESTION SIMPLE</strong> (réponse « oui » ou « non ») se forme avec :" },
+    { "page_no": 18, "seq": 7, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'><strong>Intonation</strong> montante :<br>(forme la plus courante)</p><p class='sample'>– <em>Vous êtes irlandais ?</em><br>– <em>Patrick est irlandais ?</em></p><p class='bullet'><strong>Inversion</strong> du verbe et du pronom :<br>(surtout avec « vous »)</p><p class='sample'>– <em><strong>Êtes-vous</strong> irlandais ?</em></p></div><div><p class='bullet'>« <strong>Est-ce que</strong> » en début de phrase :<br>(forme bien marquée, utile au téléphone)</p><p class='sample'>– <em><strong>Est-ce que</strong> vous êtes irlandais ?</em><br>– <em><strong>Est-ce que</strong> Patrick est irlandais ?</em></p><p class='bullet'>Reprise du nom par un <strong>pronom</strong> :<br>(langage formel)</p><p class='sample'>– <em>Patrick <strong>est-il</strong> irlandais ?</em></p></div></div>" },
+    { "page_no": 18, "seq": 8, "type": "section_title", "body_html": "LA <strong>RÉPONSE</strong> affirmative ou négative" },
+    { "page_no": 18, "seq": 9, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'>« <strong>Oui</strong> » : réponse affirmative.</p><p class='sample'>– <em>Vous êtes marié ? – <strong>Oui</strong>, je suis marié.</em></p><p class='bullet'>« <strong>Non</strong> » nie toute la question :</p><p class='sample'>– <em>Tu travailles le samedi ? – <strong>Non</strong>.</em></p><p class='bullet'>« <strong>Moi aussi</strong> » confirme une affirmation :</p><p class='sample'>– <em>Je suis marié. – <strong>Moi aussi</strong>.</em></p></div><div><p class='bullet'>« <strong>Si</strong> » = « oui » après une négation :</p><p class='sample'>– <em>Vous n'êtes pas marié ? – <strong>Si</strong>, je suis marié.</em></p><p class='bullet'>« <strong>Pas</strong> » nie une partie de la question :</p><p class='sample'>– <em>Tu travailles le samedi ? – <strong>Pas</strong> le matin.</em></p><p class='bullet'>« <strong>Moi non plus</strong> » confirme une négation :</p><p class='sample'>– <em>Je ne suis pas marié. – <strong>Moi non plus</strong>.</em></p></div></div>" },
+    { "page_no": 18, "seq": 10, "type": "xref", "body_html": "Autres négations, p. 152&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Autres questions, p. 148" }
+  ],
+  "exercises": [
+    {
+      "page_no": 19, "seq": 1,
+      "instruction_fr": "Complétez négativement.",
+      "label": "", "note_html": "1. – Le mardi, le Louvre est fermé.<br>– Le lundi, <em class='model'>il n'est pas fermé.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Le mardi, le Louvre est fermé.<br>– Le lundi, <em class='model'>il n'est pas fermé.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – À midi, les magasins sont ouverts.<br>– Le dimanche, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – En août, nous sommes en vacances.<br>– En janvier, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – En été, les jours sont longs.<br>– En hiver, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 19, "seq": 2,
+      "instruction_fr": "Reposez les questions.",
+      "label": "", "note_html": "1. – Vous êtes fatigué(e) ? / <em class='model'>Êtes-vous fatigué(e) ?</em><br>– Non, <em class='model'>et vous, est-ce que vous êtes fatigué(e) ?</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous êtes fatigué(e) ? / <em class='model'>Êtes-vous fatigué(e) ?</em><br>– Non, <em class='model'>et vous, est-ce que vous êtes fatigué(e) ?</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous êtes pressé(e) ? / {{L}}<br>– Non, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous êtes triste ? / {{L}}<br>– Non, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous êtes fâché(e) ? / {{L}}<br>– Non, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 19, "seq": 3,
+      "instruction_fr": "« Moi aussi » / « moi non plus ». Répondez.",
+      "label": "Affinités", "note_html": "– Je suis en vacances, et vous ? – <em class='model'>Moi aussi.</em><br>– Je ne suis pas français, et vous ? – <em class='model'>Moi non plus.</em>", "has_image": true, "scan_pages": [19],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Je suis célibataire, et vous ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "– Je suis fou de musique, et vous ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "– Je suis très romantique, et vous ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "– Je ne suis pas jaloux, et vous ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 19, "seq": 4,
+      "instruction_fr": "Répondez avec « oui » ou « si ».",
+      "label": "Repas de fête", "note_html": "– Le dîner est prêt ? – <em class='model'>Oui.</em><br>– Le vin n'est pas ouvert ? – <em class='model'>Si.</em>", "has_image": true, "scan_pages": [19],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Il est bon ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "– La salade est lavée ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "– Le pain n'est pas coupé ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "– Le champagne est au frais ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 19, "seq": 5,
+      "instruction_fr": "Complétez en utilisant « non » ou « pas ».",
+      "label": "", "note_html": "1. – Vous êtes belge ? – <em class='model'>Non</em>, je suis français.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous êtes belge ? – <em class='model'>Non</em>, je suis français." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous êtes de Paris ? – {{L}} de Paris, de Lyon." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous êtes à Bruxelles avec votre femme ? – {{L}} avec ma femme, avec ma fille." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous rentrez bien lundi ? – {{L}} lundi, mardi." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous êtes libre ce soir ? – {{L}}, je suis occupé." }
+      ]
+    },
+    {
+      "page_no": 19, "seq": 6,
+      "instruction_fr": "Reposez les questions, selon le modèle. Répondez librement.",
+      "label": "", "note_html": "1. – Le directeur est là ? – Pardon ? – <em class='model'>Le directeur est-il là ? – Oui, il est là./Non, il n'est pas là.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Le directeur est là ? – Pardon ? – <em class='model'>Le directeur est-il là ? – Oui, il est là./Non, il n'est pas là.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – La salle est prête ? – Pardon ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Les clients sont arrivés ? – Pardon ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Le chauffage est allumé ? – Pardon ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 19, "seq": 7,
+      "instruction_fr": "Répondez librement.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. – Vous êtes professeur de français ? {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. – Nous sommes en hiver ? {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Vous êtes à Paris, actuellement ? {{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Les exercices sont difficiles ? {{L}}" }
+      ]
+    },
+    {
+      "page_no": 20, "seq": 8,
+      "instruction_fr": "Répondez négativement, selon le modèle.",
+      "label": "", "note_html": "1. – Est-ce que Paul est là ? – Non, il <em class='model'>n'est pas là.</em> Il est sorti.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Est-ce que Paul est là ? – Non, il <em class='model'>n'est pas là.</em> Il est sorti." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Je suis bien au 01 40 30 50 50 ? – Non, vous {{L}} au bon numéro. C'est une erreur." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Ce pull est en laine ? – Non, il {{L}}. Il est en viscose." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous êtes en colère, monsieur Valois ? – Non, je {{L}}. Je suis déçu." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Nous sommes en retard, maman ? – Non, nous {{L}}. On est juste à l'heure." }
+      ]
+    },
+    {
+      "page_no": 20, "seq": 9,
+      "instruction_fr": "Posez des questions compatibles avec les réponses, selon le modèle.",
+      "label": "", "note_html": "1. – <em class='model'>Est-ce que vous êtes de Chicago ?</em><br>– Oui, je suis de Chicago.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. – <em class='model'>Est-ce que vous êtes de Chicago ?</em><br>– Oui, je suis de Chicago." },
+        { "seq": 2, "type": "open", "stem_html": "2. – {{L}}<br>– Si, elle est là." },
+        { "seq": 3, "type": "open", "stem_html": "3. – {{L}}<br>– Non, nous sommes le 25." },
+        { "seq": 4, "type": "open", "stem_html": "4. – {{L}}<br>– Non, elle est fermée." },
+        { "seq": 5, "type": "open", "stem_html": "5. – {{L}}<br>– Oui, il est en panne !" },
+        { "seq": 6, "type": "open", "stem_html": "6. – {{L}}<br>– Non, ils ne sont pas à Paris." }
+      ]
+    },
+    {
+      "page_no": 20, "seq": 10,
+      "instruction_fr": "Utilisez la forme négative. Accordez les adjectifs.",
+      "label": "", "note_html": "1. Les pâtes sont cuites, mais la viande <em class='model'>n'est pas cuite.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Les pâtes sont cuites, mais la viande <em class='model'>n'est pas cuite.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. La salade est prête, mais le repas {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le restaurant est cher, mais la pizzeria {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Paula est grande, mais son père et sa mère {{L}}" }
+      ]
+    },
+    {
+      "page_no": 20, "seq": 11,
+      "instruction_fr": "Posez une question négative et donnez une réponse affirmative.",
+      "label": "", "note_html": "1. – Je suis surpris par le coût de la vie. <em class='model'>Et vous, vous n'êtes pas surpris ? – Si, je suis surpris, moi aussi.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Je suis surpris par le coût de la vie. <em class='model'>Et vous, vous n'êtes pas surpris ? – Si, je suis surpris, moi aussi.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Je suis déçu par le gouvernement. {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Je suis agacé par les médias. {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Je suis inquiet pour l'avenir. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 20, "seq": 12,
+      "instruction_fr": "Répondez négativement, selon le modèle.",
+      "label": "Insatisfactions", "note_html": "1. – Je suis trop grosse, Paul.<br>– <em class='model'>Mais non, tu n'es pas trop grosse...</em>", "has_image": true, "scan_pages": [20],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Je suis trop grosse, Paul.<br>– <em class='model'>Mais non, tu n'es pas trop grosse...</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Mon nez est trop long.<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Mes cheveux sont horribles.<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Je suis trop petite.<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 21, "seq": 13,
+      "instruction_fr": "Décrivez les personnages féminins.",
+      "label": "Un film", "note_html": "Le jeune homme : il est blond, grand, mince, et très mignon. Il est musicien. Il est à la fois pianiste et violoniste. Il est tendre, rêveur, sentimental et un peu naïf. Il est beau et gentil, mais il est étran-<br>ger dans la ville et il est très seul.<br>Le méchant : il est brun et entièrement tatoué. Il est violent, cruel et insensible. Il est ambitieux et méfiant. Il n'est pas loyal. Il est menteur, jaloux, brutal, manipulateur, asocial et perturbé. Il est fou de pouvoir.", "has_image": true, "scan_pages": [21],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "La jeune fille : <em class='model'>elle est</em> {{L}}<br>{{L}}<br>{{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "La méchante : <em class='model'>elle est</em> {{L}}<br>{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 21, "seq": 14,
+      "instruction_fr": "Attribuez à chaque signe du zodiaque des adjectifs choisis dans la liste ci-dessous. Utilisez des formes affirmatives et négatives.",
+      "label": "Astrologie fantaisiste", "note_html": "timide - courageux - paresseux - romantique - naïf - mystérieux - ambitieux - égoïste - passif -<br>mondain - impatient - agressif - autoritaire - discret - généreux - changeant - têtu - fidèle - lent -<br>froid - chaleureux - sensible - indépendant - désordonné - tolérant - dynamique - créatif<br><br>BÉLIER (21-3/21-4)&nbsp;&nbsp;&nbsp;TAUREAU (22-4/21-5)&nbsp;&nbsp;&nbsp;GÉMEAUX (22-5/21-6)<br>CANCER (22-6/21-7)&nbsp;&nbsp;&nbsp;LION (22-7/21-8)&nbsp;&nbsp;&nbsp;VIERGE (22-8/21-9)<br>BALANCE (22-9/21-10)&nbsp;&nbsp;&nbsp;SCORPION (22-10/21-11)&nbsp;&nbsp;&nbsp;SAGITTAIRE (22-10/21-12)<br>CAPRICORNE (22-12/21-1)&nbsp;&nbsp;&nbsp;VERSEAU (22-1/19-2)&nbsp;&nbsp;&nbsp;POISSONS (20-2/20-3)", "has_image": true, "scan_pages": [21],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Les hommes « Bélier » <em class='model'>sont dynamiques et généreux</em>, mais ils ne sont pas tolérants." },
+        { "seq": 2, "type": "open", "stem_html": "Les femmes « Bélier » <em class='model'>sont dynamiques et</em> {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "Les hommes et les femmes « Bélier » sont {{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "{{L}}" }
+      ]
+    },
+    {
+      "page_no": 21, "seq": 15,
+      "instruction_fr": "Décrivez-vous, selon le modèle.",
+      "label": "", "note_html": "<em class='model'>Je suis français. Je suis célibataire. Je ne suis pas grand. Je suis informaticien.<br>Je suis assez réservé. Je suis passionné de musique classique. Je ne suis pas sportif.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 21, "seq": 16,
+      "instruction_fr": "Sur le même modèle, décrivez deux membres de votre famille (un homme et une femme).",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 21, "seq": 17,
+      "instruction_fr": "Sur le même modèle, décrivez l'homme idéal ou la femme idéale.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}

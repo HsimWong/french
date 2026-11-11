@@ -28,7 +28,10 @@ def check(data, meta_c, errors, warnings, check_scans):
     for k in ("page_start", "page_end", "pdf_start", "pdf_end", "title_fr"):
         if data.get(k) != m[k]:
             errors.append("%s: %s = %r, expected %r" % (tag, k, data.get(k), m[k]))
-    allpages = set(m["lesson_pages"]) | set(m["exercise_pages"])
+    # The book does not follow a strict even=lesson / odd=exercise pattern for
+    # every chapter (e.g. ch.3 = 1 lesson page + 3 exercise pages), so the
+    # authoritative boundary is the chapter's page range; parity is only a hint.
+    allpages = set(range(m["page_start"], m["page_end"] + 1))
     lesson = set(m["lesson_pages"])
     exercise = set(m["exercise_pages"])
 
@@ -44,8 +47,8 @@ def check(data, meta_c, errors, warnings, check_scans):
     if bseq != list(range(1, len(bseq) + 1)):
         errors.append("%s: block seq not contiguous 1..n" % tag)
     for b in data["blocks"]:
-        if b["page_no"] not in lesson:
-            warnings.append("%s: block %d on page %d (not a lesson page)" % (tag, b["seq"], b["page_no"]))
+        if b["page_no"] not in allpages:
+            errors.append("%s: block %d on page %d outside chapter" % (tag, b["seq"], b["page_no"]))
         if not b.get("body_html") or not b.get("type"):
             errors.append("%s: block %d empty body/type" % (tag, b["seq"]))
         if "______" in b["body_html"]:
@@ -58,8 +61,8 @@ def check(data, meta_c, errors, warnings, check_scans):
     nw = 0
     nimg = 0
     for e in data["exercises"]:
-        if e["page_no"] not in exercise:
-            errors.append("%s: exercise %d on page %d (not an exercise page)" % (tag, e["seq"], e["page_no"]))
+        if e["page_no"] not in allpages:
+            errors.append("%s: exercise %d on page %d outside chapter" % (tag, e["seq"], e["page_no"]))
         if not e.get("instruction_fr"):
             errors.append("%s: exercise %d empty instruction" % (tag, e["seq"]))
         qseq = [q["seq"] for q in e["questions"]]
