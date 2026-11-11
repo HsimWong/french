@@ -1,0 +1,14 @@
+# runtime
+francais.exe
+francais.exe~
+*.db
+*.db-shm
+*.db-wal
+server.log
+*.log
+# transient verification artifacts
+_dom-*.html
+web/selftest.html
+# OS
+Thumbs.db
+.DS_Store

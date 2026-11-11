@@ -1,0 +1,231 @@
+{
+  "course": {
+    "id": 2,
+    "code": "vocabulaire_a2b1",
+    "title_fr": "VOCABULAIRE PROGRESSIF DU FRANÇAIS",
+    "level": "A2 B1",
+    "source_book": "Claire Miquel, Anne Goliot-Lété — Vocabulaire progressif du français, A2 B1, 3e édition, CLE International / Sejer, 2017"
+  },
+  "chapters": [
+    {"seq": 1, "title_fr": "PRÉSENTATIONS ET USAGES", "page_start": 6},
+    {"seq": 2, "title_fr": "LA FAMILLE", "page_start": 12},
+    {"seq": 3, "title_fr": "LES RELATIONS – LES SENTIMENTS", "page_start": 16},
+    {"seq": 4, "title_fr": "LE CARACTÈRE – LA PERSONNALITÉ", "page_start": 24},
+    {"seq": 5, "title_fr": "LE TEMPS QUI PASSE", "page_start": 28},
+    {"seq": 6, "title_fr": "LA MÉTÉO – LE CLIMAT", "page_start": 36},
+    {"seq": 7, "title_fr": "NATURE ET ENVIRONNEMENT", "page_start": 42},
+    {"seq": 8, "title_fr": "LE CORPS – LA SANTÉ", "page_start": 48},
+    {"seq": 9, "title_fr": "L'APPARENCE", "page_start": 56},
+    {"seq": 10, "title_fr": "LES VÊTEMENTS – LA MODE", "page_start": 62},
+    {"seq": 11, "title_fr": "LA MAISON – LE LOGEMENT", "page_start": 70},
+    {"seq": 12, "title_fr": "LES ACTIVITÉS QUOTIDIENNES", "page_start": 78},
+    {"seq": 13, "title_fr": "LE COMMERCE", "page_start": 84},
+    {"seq": 14, "title_fr": "CUISINE – RESTAURANT – CAFÉ", "page_start": 92},
+    {"seq": 15, "title_fr": "LOISIRS – JEUX – SPORTS", "page_start": 100},
+    {"seq": 16, "title_fr": "TRANSPORTS – CIRCULATION", "page_start": 108},
+    {"seq": 17, "title_fr": "LE TOURISME – LES VACANCES", "page_start": 116},
+    {"seq": 18, "title_fr": "L'ENSEIGNEMENT", "page_start": 122},
+    {"seq": 19, "title_fr": "LA VIE PROFESSIONNELLE", "page_start": 130},
+    {"seq": 20, "title_fr": "LA TECHNOLOGIE", "page_start": 136},
+    {"seq": 21, "title_fr": "L'ARGENT – LA BANQUE", "page_start": 142},
+    {"seq": 22, "title_fr": "DIVERSITÉ, POLITIQUE ET SOCIÉTÉ", "page_start": 150},
+    {"seq": 23, "title_fr": "LA COMMUNICATION", "page_start": 156},
+    {"seq": 24, "title_fr": "DÉBATS ET OPINIONS", "page_start": 162},
+    {"seq": 25, "title_fr": "L'ART ET LA CULTURE", "page_start": 168}
+  ],
+  "chapter1": {
+    "page_start": 6,
+    "page_end": 11,
+    "pdf_start": 8,
+    "pdf_end": 13,
+    "sections": [
+      {"title_fr": "SE SALUER", "page_no": 6},
+      {"title_fr": "Le vouvoiement et le tutoiement", "page_no": 6},
+      {"title_fr": "JE T'EN PRIE / JE VOUS EN PRIE", "page_no": 8},
+      {"title_fr": "UTILISATION DU VERBE « ALLER »", "page_no": 8},
+      {"title_fr": "DEMANDER DES NOUVELLES", "page_no": 8},
+      {"title_fr": "LES VŒUX ET LES USAGES", "page_no": 10},
+      {"title_fr": "Les fêtes", "page_no": 10},
+      {"title_fr": "Les événements de la vie", "page_no": 10},
+      {"title_fr": "La sociabilité", "page_no": 10}
+    ],
+    "blocks": [
+      {"id": 3001, "page_no": 6, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">1</span> PRÉSENTATIONS ET USAGES"},
+      {"id": 3002, "page_no": 6, "seq": 2, "type": "section_title", "body_html": "SE SALUER"},
+      {"id": 3003, "page_no": 6, "seq": 3, "type": "subhead", "body_html": "Les gestes"},
+      {"id": 3004, "page_no": 6, "seq": 4, "type": "list", "body_html": "<div class=\"bullet\">• <b>On serre la main</b> d'une personne à qui on est <b>présenté</b>, quand on fait <b>sa connaissance</b>, en particulier dans le contexte professionnel.</div>"},
+      {"id": 3005, "page_no": 6, "seq": 5, "type": "list", "body_html": "<div class=\"bullet\">• <b>On serre la main aussi pour saluer</b> (= dire bonjour ou au revoir), surtout entre hommes. Les femmes <b>s'embrassent</b> plus facilement, même dans des situations professionnelles.</div>"},
+      {"id": 3006, "page_no": 6, "seq": 6, "type": "list", "body_html": "<div class=\"bullet\">• Dans une famille, <b>on s'embrasse</b>. Dans tous les cas, le nombre de <b>baisers / bises* / bisous*</b> varie d'une région à l'autre : on fait deux, trois ou quatre baisers sur la joue.</div>"},
+      {"id": 3007, "page_no": 6, "seq": 7, "type": "list", "body_html": "<div class=\"bullet\">• Entre amis ou membres de la famille, on finit souvent une conversation téléphonique ou un mail par : « <b>je t'embrasse !</b> » « <b>bisous !</b> » « <b>gros bisous !</b> », « <b>grosses bises !</b> ».</div>"},
+      {"id": 3008, "page_no": 6, "seq": 8, "type": "speech", "body_html": "<div class=\"speech\"><i>Bonjour, madame, enchanté de vous connaître !</i></div><div class=\"speech\"><i>Bonjour, monsieur, enchantée !</i></div><div class=\"speech\"><i>Au revoir, Julie, à la prochaine !</i> <i>À bientôt, Anaïs !</i></div><div class=\"speech\">Bonjour, maman ! Bonjour, mon chéri !</div>"},
+      {"id": 3009, "page_no": 6, "seq": 9, "type": "remark", "body_html": "<span class=\"remark-label\">Remarque.</span> « Embrasser » signifie maintenant « faire un baiser », « faire la bise* » à quelqu'un <i>(et non plus « prendre dans les bras »).</i>"},
+      {"id": 3010, "page_no": 6, "seq": 10, "type": "subhead", "body_html": "Le vouvoiement et le tutoiement"},
+      {"id": 3011, "page_no": 6, "seq": 11, "type": "list", "body_html": "<div class=\"bullet\">• Le choix est délicat. Il dépend de l'âge, du statut social et du caractère. On <b>se tutoie</b> à l'intérieur de la famille. On <b>tutoie</b> un enfant, même si on ne le connaît pas et aussi… un animal ! On <b>vouvoie</b> une personne qu'on rencontre pour la première fois : la tutoyer peut <b>être impoli</b>, et même <b>insultant</b> dans certains cas. Cependant, les jeunes se tutoient très facilement. Les enfants se tutoient entre eux et apprennent progressivement à vouvoyer les adultes.</div>"},
+      {"id": 3012, "page_no": 6, "seq": 12, "type": "list", "body_html": "<div class=\"bullet\">• Trois formes sont utilisables, selon le contexte :</div><div class=\"form-line\"><i>Bonjour, madame, vous…</i><span class=\"form-note\">(madame / monsieur + vouvoiement)</span></div><div class=\"form-line\"><i>Bonjour, Charlotte, vous…</i><span class=\"form-note\">(prénom + vouvoiement)</span></div><div class=\"form-line\"><i>Bonjour, Charlotte, tu…</i><span class=\"form-note\">(prénom + tutoiement)</span></div>"},
+      {"id": 3013, "page_no": 8, "seq": 1, "type": "running_head", "body_html": "PRÉSENTATIONS ET USAGES"},
+      {"id": 3014, "page_no": 8, "seq": 2, "type": "section_title", "body_html": "JE T'EN PRIE / JE VOUS EN PRIE"},
+      {"id": 3015, "page_no": 8, "seq": 3, "type": "list", "body_html": "<div class=\"bullet\">• Cette locution s'utilise dans de nombreux contextes. Elle permet de <b>répondre au remerciement</b> et <b>à l'excuse</b> :</div><div class=\"dialog-line\">– Je te / vous remercie !<span class=\"dialog-alt\">– Excusez-moi ! Je suis désolé(e) !</span></div><div class=\"dialog-line\">– Je t' / vous en prie !<span class=\"dialog-alt\">– Je vous en prie ! (= Ce n'est pas grave !)</span></div><div class=\"dialog-indent\">(= Il n'y a pas de quoi !)</div>"},
+      {"id": 3016, "page_no": 8, "seq": 4, "type": "list", "body_html": "<div class=\"bullet\">• Elle s'emploie aussi quand on <b>autorise</b> quelqu'un à faire quelque chose, ou pour <b>atténuer la brutalité d'un impératif</b> :</div><div class=\"dialog-line\">– Je peux téléphoner ?</div><div class=\"dialog-line\">– Je t' / vous en prie !</div><div class=\"dialog-line dialog-right\">– Asseyez-vous, je vous en prie !</div>"},
+      {"id": 3017, "page_no": 8, "seq": 5, "type": "list", "body_html": "<div class=\"bullet\">• On l'emploie aussi pour <b>laisser passer</b> une personne :</div><div class=\"dialog-line dialog-center\">– Après vous, je vous en prie !</div>"},
+      {"id": 3018, "page_no": 8, "seq": 6, "type": "section_title", "body_html": "UTILISATION DU VERBE « ALLER »"},
+      {"id": 3019, "page_no": 8, "seq": 7, "type": "list", "body_html": "<div class=\"bullet\">• Ce verbe est utilisé pour <b>demander des nouvelles</b> (de la santé, de l'humeur, du travail…) :</div><div class=\"dialog-line\">– <b>Comment vas-tu ? Comment allez-vous ? Ça va ?*</b></div><div class=\"dialog-line\">– <b>(Très) bien, merci. Et toi / vous ?</b> &gt; <b>Assez bien, merci ! Et toi / vous ?</b> &gt; <b>Pas trop mal*, merci ! Et toi / vous ?</b> &gt; <b>Ça peut aller*, merci ! Et toi / vous ?</b></div><div class=\"dialog-line\">– <b>Vous allez mieux ? Tu vas mieux ? Ça va mieux ?</b> <i>(si quelqu'un a été malade)</i></div><div class=\"dialog-line\">– <b>Oui, je vais mieux, ça va mieux.</b> (≠ Non, pas vraiment, je suis toujours malade.)</div>"},
+      {"id": 3020, "page_no": 8, "seq": 8, "type": "list", "body_html": "<div class=\"bullet\">• Ce verbe permet aussi d'<b>exprimer un espoir</b> :</div><div class=\"dialog-line\">– <b>J'espère que tout ira bien !</b></div><div class=\"dialog-line\">– Mais oui, rassure-toi, <b>tout ira bien !</b></div>"},
+      {"id": 3021, "page_no": 8, "seq": 9, "type": "list", "body_html": "<div class=\"bullet\">• L'expression <b>« ça te va ? »</b>, <b>« ça vous va ? »</b> signifie « <b>vous êtes d'accord ?</b> »</div><div class=\"dialog-line\">– Une réunion mardi à 14 h, <b>ça te / vous va ?</b></div><div class=\"dialog-line\">– <b>Oui, ça me va !</b> Non, désolé(e), <b>ça ne me va pas</b>, je suis pris(e).</div>"},
+      {"id": 3022, "page_no": 8, "seq": 10, "type": "list", "body_html": "<div class=\"bullet\">• L'expression <b>« ça va ? »</b>, familière, signifie aussi : « <b>Tout va bien ? Vous avez compris ?</b> »</div>"},
+      {"id": 3023, "page_no": 8, "seq": 11, "type": "section_title", "body_html": "DEMANDER DES NOUVELLES"},
+      {"id": 3024, "page_no": 8, "seq": 12, "type": "list", "body_html": "<div class=\"dialog-line\">– Alors, <b>comment s'est passé ton examen ?</b> / <b>Comment ça s'est passé ?</b> / <b>Tout s'est bien passé ? Ça a été ?</b></div><div class=\"dialog-line\">– Oui, <b>tout s'est bien passé</b>. Oui, <b>ça a été*</b> ! Oui, <b>ça ne s'est pas trop mal passé</b>.</div><div class=\"dialog-line\">– Non, <b>ça ne s'est pas bien passé</b>. Non, <b>ça s'est mal passé !</b></div>"},
+      {"id": 3025, "page_no": 10, "seq": 1, "type": "running_head", "body_html": "PRÉSENTATIONS ET USAGES"},
+      {"id": 3026, "page_no": 10, "seq": 2, "type": "section_title", "body_html": "LES VŒUX ET LES USAGES"},
+      {"id": 3027, "page_no": 10, "seq": 3, "type": "subhead", "body_html": "Les fêtes"},
+      {"id": 3028, "page_no": 10, "seq": 4, "type": "list", "body_html": "<div class=\"bullet\">• On appelle « <b>les fêtes</b> » la période qui va de Noël au jour de l'an. Avant Noël, on souhaite donc : <b>Joyeux Noël ! Joyeuses fêtes ! Bonnes fêtes de fin d'année !</b> <b>Le Premier de l'an</b>, on souhaite <b>la bonne année</b> : <b>Tous mes vœux ! Tous mes vœux pour la nouvelle année ! Je te / vous souhaite une très bonne et heureuse année !</b></div>"},
+      {"id": 3029, "page_no": 10, "seq": 5, "type": "list", "body_html": "<div class=\"bullet\">• On envoie des <b>cartes de vœux</b> à ce moment-là ; on a tout le mois de janvier pour le faire.</div>"},
+      {"id": 3030, "page_no": 10, "seq": 6, "type": "list", "body_html": "<div class=\"bullet\">• La soirée du 24 décembre s'appelle <b>le réveillon de Noël</b> et la soirée du 31 décembre, <b>le réveillon du Nouvel an</b>. Ces soirs-là, <b>on réveillonne</b> <i>(= on participe à un très bon dîner)</i>.</div>"},
+      {"id": 3031, "page_no": 10, "seq": 7, "type": "list", "body_html": "<div class=\"bullet\">• Dans la tradition catholique, on souhaite « la fête » à ses amis. Par exemple, le jour de la Saint-Marc : <b>Bonne fête, mon cher Marc !</b></div>"},
+      {"id": 3032, "page_no": 10, "seq": 8, "type": "list", "body_html": "<div class=\"bullet\">• Le jour de l'anniversaire : <b>Bon anniversaire / Joyeux anniversaire, Élodie !</b></div>"},
+      {"id": 3033, "page_no": 10, "seq": 9, "type": "subhead", "body_html": "Les événements de la vie"},
+      {"id": 3034, "page_no": 10, "seq": 10, "type": "list", "body_html": "<div class=\"bullet\">• <b>Lors d'un deuil</b>, quand quelqu'un est mort, on <b>présente ses condoléances</b>. Les mots sont délicats, car ils dépendent des relations personnelles. On peut dire : <b>J'ai appris la triste nouvelle / le décès de… Je suis absolument désolé(e) pour toi / vous. Mon / ma pauvre, je suis de tout cœur avec toi / vous. Je pense beaucoup à toi / vous.</b></div>"},
+      {"id": 3035, "page_no": 10, "seq": 11, "type": "list", "body_html": "<div class=\"bullet\">• <b>À l'occasion d'un mariage</b>, plusieurs expressions sont possibles : <b>Tous mes vœux de bonheur ! Toutes mes félicitations ! Je vous souhaite beaucoup de bonheur !</b> Pour <b>la naissance d'un bébé</b> : <b>Toutes mes félicitations aux heureux parents !</b></div>"},
+      {"id": 3036, "page_no": 10, "seq": 12, "type": "subhead", "body_html": "La sociabilité"},
+      {"id": 3037, "page_no": 10, "seq": 13, "type": "list", "body_html": "<div class=\"bullet\">• Avant une compétition, un match, un examen, on souhaite <b>bonne chance</b>. Si le résultat est positif, si la personne <b>a réussi</b> son examen, <b>a gagné</b> le match, on dit : <b>Félicitations ! Toutes mes félicitations ! Je suis très content(e) pour toi / vous ! Bravo ! Chapeau* !</b> <i>(avec une nuance d'admiration)</i></div>"},
+      {"id": 3038, "page_no": 10, "seq": 14, "type": "list", "body_html": "<div class=\"bullet\">• Quand quelqu'un doit faire quelque chose de difficile et / ou désagréable, on l'encourage en disant : <b>Bon courage !</b> Les Français emploient beaucoup cette expression.</div>"},
+      {"id": 3039, "page_no": 10, "seq": 15, "type": "list", "body_html": "<div class=\"bullet\">• Si un(e) inconnu(e) <b>éternue</b>, on ne dit rien. Si on connaît bien la personne, on dit : <b>À tes / vos souhaits !</b></div>"},
+      {"id": 3040, "page_no": 10, "seq": 16, "type": "list", "body_html": "<div class=\"bullet\">• On <b>trinque</b> en disant : <b>À la tienne ! À la vôtre ! À ton / votre succès ! À ton / votre nouveau travail ! Tchin-tchin* !</b></div>"}
+    ],
+    "exercises": [
+      {
+        "id": 4001, "page_no": 7, "seq": 1,
+        "instruction_fr": "Vrai ou faux ? Dites ensuite si les personnes vont se vouvoyer ou se tutoyer.",
+        "label": "", "note_html": "",
+        "questions": [
+          {"id": 5001, "seq": 1, "type": "tf", "stem_html": "1. Ils ne se connaissent pas bien.<br>Vrai {{c:g}} Faux {{c:g}} {{b}}"},
+          {"id": 5002, "seq": 2, "type": "tf", "stem_html": "2. Elles se disent bonjour ou au revoir.<br>Vrai {{c:g}} Faux {{c:g}} {{b}}"},
+          {"id": 5003, "seq": 3, "type": "tf", "stem_html": "3. Ils s'embrassent.<br>Vrai {{c:g}} Faux {{c:g}} {{b}}"},
+          {"id": 5004, "seq": 4, "type": "tf", "stem_html": "4. Ils sont père et fils.<br>Vrai {{c:g}} Faux {{c:g}} {{b}}"},
+          {"id": 5005, "seq": 5, "type": "tf", "stem_html": "5. Elles sont amies.<br>Vrai {{c:g}} Faux {{c:g}} {{b}}"},
+          {"id": 5006, "seq": 6, "type": "tf", "stem_html": "6. Ils font connaissance.<br>Vrai {{c:g}} Faux {{c:g}} {{b}}"}
+        ]
+      },
+      {
+        "id": 4002, "page_no": 7, "seq": 2,
+        "instruction_fr": "Choisissez la ou les bonne(s) réponse(s).",
+        "label": "", "note_html": "",
+        "questions": [
+          {"id": 5007, "seq": 1, "type": "choice", "stem_html": "1. Excusez-moi, {{o:ma chérie|Mathilde|madame}} !"},
+          {"id": 5008, "seq": 2, "type": "choice", "stem_html": "2. Au revoir, {{o:Quentin|monsieur|mon chéri}}, je t'appelle ce soir."},
+          {"id": 5009, "seq": 3, "type": "choice", "stem_html": "3. Pour dire bonjour, je fais {{o:un|deux|dix}} bisous."},
+          {"id": 5010, "seq": 4, "type": "choice", "stem_html": "4. Au revoir : {{o:Bisous|Je vous embrasse|Grosses bises}} !"},
+          {"id": 5011, "seq": 5, "type": "choice", "stem_html": "5. Quand on fait connaissance, {{o:on peut se serrer la main|s'embrasser|se dire au revoir}}."},
+          {"id": 5012, "seq": 6, "type": "choice", "stem_html": "6. Bonjour, monsieur, enchanté de {{o:vous|te|le}} connaître !"}
+        ]
+      },
+      {
+        "id": 4003, "page_no": 7, "seq": 3,
+        "instruction_fr": "Vrai ou faux ?",
+        "label": "",
+        "note_html": "<div class=\"tf-head\"><span>VRAI</span><span>FAUX</span></div>",
+        "questions": [
+          {"id": 5013, "seq": 1, "type": "tf", "stem_html": "1. Embrasser quelqu'un est toujours impoli. <span class=\"tf-cells\">{{c:g}} {{c:g}}</span>"},
+          {"id": 5014, "seq": 2, "type": "tf", "stem_html": "2. On peut se serrer la main pour dire au revoir. <span class=\"tf-cells\">{{c:g}} {{c:g}}</span>"},
+          {"id": 5015, "seq": 3, "type": "tf", "stem_html": "3. Le nombre de baisers n'est pas toujours le même. <span class=\"tf-cells\">{{c:g}} {{c:g}}</span>"},
+          {"id": 5016, "seq": 4, "type": "tf", "stem_html": "4. On peut tutoyer un enfant. <span class=\"tf-cells\">{{c:g}} {{c:g}}</span>"},
+          {"id": 5017, "seq": 5, "type": "tf", "stem_html": "5. On peut vouvoyer quelqu'un et l'appeler par son prénom. <span class=\"tf-cells\">{{c:g}} {{c:g}}</span>"},
+          {"id": 5018, "seq": 6, "type": "tf", "stem_html": "6. Tutoyer est parfois une insulte. <span class=\"tf-cells\">{{c:g}} {{c:g}}</span>"}
+        ]
+      },
+      {
+        "id": 4004, "page_no": 9, "seq": 1,
+        "instruction_fr": "Complétez les bulles suivantes.",
+        "label": "", "note_html": "",
+        "questions": [
+          {"id": 5019, "seq": 1, "type": "bubble", "stem_html": "1. <span class=\"bubble\">Oh, excusez-moi !</span> <span class=\"bubble blank-bubble\">{{L}}</span>"},
+          {"id": 5020, "seq": 2, "type": "bubble", "stem_html": "2. <span class=\"bubble\">Je peux prendre ton stylo ?</span> <span class=\"bubble blank-bubble\">{{L}}</span>"},
+          {"id": 5021, "seq": 3, "type": "bubble", "stem_html": "3. <span class=\"bubble blank-bubble\">{{L}}</span> <span class=\"bubble\">Merci, madame.</span>"},
+          {"id": 5022, "seq": 4, "type": "bubble", "stem_html": "4. <span class=\"bubble blank-bubble\">{{L}}</span> <span class=\"bubble\">Merci, monsieur.</span>"}
+        ]
+      },
+      {
+        "id": 4005, "page_no": 9, "seq": 2,
+        "instruction_fr": "Que pouvez-vous répondre à ces phrases ?",
+        "label": "", "note_html": "",
+        "questions": [
+          {"id": 5023, "seq": 1, "type": "cloze", "stem_html": "1. Karim, s'il te plaît, je peux téléphoner ? – {{L}}"},
+          {"id": 5024, "seq": 2, "type": "cloze", "stem_html": "2. Alors, ça va mieux ? – {{L}}"},
+          {"id": 5025, "seq": 3, "type": "cloze", "stem_html": "3. Monsieur, je suis absolument désolée ! – {{L}}"},
+          {"id": 5026, "seq": 4, "type": "cloze", "stem_html": "4. Vendredi à 10h30 chez moi, ça vous va ? – {{L}}"},
+          {"id": 5027, "seq": 5, "type": "cloze", "stem_html": "5. Comment allez-vous ? – {{L}}"},
+          {"id": 5028, "seq": 6, "type": "cloze", "stem_html": "6. Alors, ça a été ? – {{L}}"},
+          {"id": 5029, "seq": 7, "type": "cloze", "stem_html": "7. Je vous remercie beaucoup ! – {{L}}"},
+          {"id": 5030, "seq": 8, "type": "cloze", "stem_html": "8. J'espère que tout ira bien ! – {{L}}"}
+        ]
+      },
+      {
+        "id": 4006, "page_no": 9, "seq": 3,
+        "instruction_fr": "Associez une situation à une question.",
+        "label": "",
+        "note_html": "<div class=\"assoc-options\">a. Jeudi matin, ça vous va ?<br>b. Comment ça s'est passé ?<br>c. Tu vas mieux ?<br>d. Ça va ?<br>e. Vous allez mieux ?<br>f. Ils vont bien ?<br>g. Il va bien ?</div>",
+        "questions": [
+          {"id": 5031, "seq": 1, "type": "assoc", "stem_html": "1. Deux copains se voient dans la rue. Ils se disent : {{b}}"},
+          {"id": 5032, "seq": 2, "type": "assoc", "stem_html": "2. La vieille dame a été fatiguée. Sa voisine demande : {{b}}"},
+          {"id": 5033, "seq": 3, "type": "assoc", "stem_html": "3. La voisine demande des nouvelles des enfants : {{b}}"},
+          {"id": 5034, "seq": 4, "type": "assoc", "stem_html": "4. Louise a passé un examen. Sa mère lui demande : {{b}}"},
+          {"id": 5035, "seq": 5, "type": "assoc", "stem_html": "5. Je demande des nouvelles du bébé : {{b}}"},
+          {"id": 5036, "seq": 6, "type": "assoc", "stem_html": "6. Ariane a été malade. Son frère lui demande : {{b}}"},
+          {"id": 5037, "seq": 7, "type": "assoc", "stem_html": "7. Philippe organise une réunion. Il demande : {{b}}"}
+        ]
+      },
+      {
+        "id": 4007, "page_no": 11, "seq": 1,
+        "instruction_fr": "Choisissez la ou les bonne(s) réponse(s).",
+        "label": "", "note_html": "",
+        "questions": [
+          {"id": 5038, "seq": 1, "type": "choice", "stem_html": "1. Pour {{o:Noël|mon anniversaire|mon examen}}, nous avons réveillonné."},
+          {"id": 5039, "seq": 2, "type": "choice", "stem_html": "2. Comme elle va se marier, je lui dis : {{o:bon courage|toutes mes félicitations|tous mes vœux de bonheur}} !"},
+          {"id": 5040, "seq": 3, "type": "choice", "stem_html": "3. Ma sœur a éternué, je lui dis : {{o:bravo|à tes souhaits|à la tienne}} !"},
+          {"id": 5041, "seq": 4, "type": "choice", "stem_html": "4. C'est l'anniversaire de Julien. On lui dit : {{o:bonne fête|bonne chance|bon anniversaire}} !"},
+          {"id": 5042, "seq": 5, "type": "choice", "stem_html": "5. Nous sommes le 1<sup>er</sup> janvier, je dis : {{o:tous mes vœux|à vos souhaits|bonne année}} !"},
+          {"id": 5043, "seq": 6, "type": "choice", "stem_html": "6. Léa a eu une promotion, on lui dit : {{o:bravo|toutes mes condoléances|tous mes vœux}} !"},
+          {"id": 5044, "seq": 7, "type": "choice", "stem_html": "7. Léo va passer un examen. Ses parents lui disent : {{o:chapeau|bon courage|bonne chance}} !"}
+        ]
+      },
+      {
+        "id": 4008, "page_no": 11, "seq": 2,
+        "instruction_fr": "Associez une situation et un commentaire.",
+        "label": "",
+        "note_html": "<div class=\"assoc-options\">a. Félicitations !<br>b. À tes souhaits !<br>c. Tous mes vœux de bonheur !<br>d. Bon courage !<br>e. Bonne chance !<br>f. Bon anniversaire !<br>g. Bonne fête !</div>",
+        "questions": [
+          {"id": 5045, "seq": 1, "type": "assoc", "stem_html": "1. Julie va se marier. {{b}}"},
+          {"id": 5046, "seq": 2, "type": "assoc", "stem_html": "2. Barbara va travailler tout le week-end. {{b}}"},
+          {"id": 5047, "seq": 3, "type": "assoc", "stem_html": "3. C'est l'anniversaire de Bruno. {{b}}"},
+          {"id": 5048, "seq": 4, "type": "assoc", "stem_html": "4. Frédéric a éternué. {{b}}"},
+          {"id": 5049, "seq": 5, "type": "assoc", "stem_html": "5. C'est la fête d'Antoine. {{b}}"},
+          {"id": 5050, "seq": 6, "type": "assoc", "stem_html": "6. Romain a eu une promotion. {{b}}"},
+          {"id": 5051, "seq": 7, "type": "assoc", "stem_html": "7. Irène va partir à un jeu télévisé. {{b}}"}
+        ]
+      },
+      {
+        "id": 4009, "page_no": 11, "seq": 3,
+        "instruction_fr": "Que disent-ils ?",
+        "label": "", "note_html": "",
+        "questions": [
+          {"id": 5052, "seq": 1, "type": "cloze", "stem_html": "1. {{L}}"},
+          {"id": 5053, "seq": 2, "type": "cloze", "stem_html": "2. {{L}}"}
+        ]
+      },
+      {
+        "id": 4010, "page_no": 11, "seq": 4,
+        "instruction_fr": "À vous ! Parlez de votre culture et de votre langue.",
+        "label": "", "note_html": "",
+        "questions": [
+          {"id": 5054, "seq": 1, "type": "open", "stem_html": "1. Comment distingue-t-on les niveaux de relation (collègues, amis, famille, voisins, étrangers dans la rue…) ? Par des gestes ? Par des formules de politesse ? Autre chose ?<br>{{T}}"},
+          {"id": 5055, "seq": 2, "type": "open", "stem_html": "2. Le tutoiement et le vouvoiement existent-ils ? Si oui, comment les employez-vous ?<br>{{T}}"},
+          {"id": 5056, "seq": 3, "type": "open", "stem_html": "3. Utilise-t-on de nombreuses formules de politesse ou, au contraire, sont-elles rares ? Ces formules sont-elles en général difficiles pour les étrangers ?<br>{{T}}"},
+          {"id": 5057, "seq": 4, "type": "open", "stem_html": "4. Se serre-t-on la main ? Si oui, dans quelles circonstances ? Si non, quel geste ou quelle attitude seraient un équivalent ?<br>{{T}}"},
+          {"id": 5058, "seq": 5, "type": "open", "stem_html": "5. Que fait-on au moment des anniversaires ? Est-ce une fête importante ?<br>{{T}}"},
+          {"id": 5059, "seq": 6, "type": "open", "stem_html": "6. L'usage existe-t-il de trinquer ? Dans quelles circonstances ?<br>{{T}}"},
+          {"id": 5060, "seq": 7, "type": "open", "stem_html": "7. Si on éternue, doit-on dire quelque chose ou préfère-t-on ignorer la situation ?<br>{{T}}"},
+          {"id": 5061, "seq": 8, "type": "open", "stem_html": "8. Certains gestes français (serrer la main, par exemple) ont-ils un autre sens dans votre culture ?<br>{{T}}"}
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Français progressif — 语法 / 词汇学习平台</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">F</span>
+    <div>
+      <div class="brand-title">Français progressif</div>
+      <div class="brand-sub">A2 · B1 · 语法 / 词汇</div>
+    </div>
+  </div>
+  <nav class="nav" id="nav">
+    <a href="#/" data-route="/">学习台</a>
+    <a href="#/chapters/1" data-route="/chapters">课程目录</a>
+    <a href="#/chapter/1" data-route="/chapter">章节学习</a>
+    <a href="#/exercise/1" data-route="/exercise">在线练习</a>
+    <a href="#/notes" data-route="/notes">笔记汇总</a>
+  </nav>
+  <div class="topbar-right">
+    <select id="course-switch" class="course-switch" aria-label="切换课程"></select>
+    <span id="answer-badge"></span>
+  </div>
+</header>
+
+<main id="app" class="app"></main>
+
+<div id="note-popover" class="note-popover hidden">
+  <div class="popover-head">
+    <span>为选中文本添加笔记</span>
+    <button type="button" class="icon-btn" id="popover-close" aria-label="关闭">×</button>
+  </div>
+  <div class="popover-quote" id="popover-quote"></div>
+  <textarea id="popover-text" rows="3" placeholder="写下你的笔记…"></textarea>
+  <div class="popover-actions">
+    <button type="button" class="btn btn-danger btn-sm hidden" id="popover-delete">删除</button>
+    <button type="button" class="btn btn-primary" id="popover-save">保存笔记</button>
+  </div>
+</div>
+
+<div id="toast" class="toast hidden"></div>
+
+<script type="module" src="/js/app.js"></script>
+</body>
+</html>

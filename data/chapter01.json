@@ -1,0 +1,217 @@
+{
+  "course": {
+    "code": "grammaire_a2b1",
+    "title_fr": "GRAMMAIRE PROGRESSIVE DU FRANÇAIS",
+    "level": "A2 B1",
+    "source_book": "Maïa Grégoire, Odile Thiévenaz — Grammaire progressive du français, A2 B1, 4e édition, CLE International, 2017"
+  },
+  "chapters": [
+    {"seq": 1,  "title_fr": "LE VERBE « ÊTRE »", "page_start": 8},
+    {"seq": 2,  "title_fr": "L'ADJECTIF (1)", "page_start": 12},
+    {"seq": 3,  "title_fr": "LA NÉGATION et L'INTERROGATION (1)", "page_start": 18},
+    {"seq": 4,  "title_fr": "LE NOM et L'ARTICLE", "page_start": 22},
+    {"seq": 5,  "title_fr": "« C'EST » et « IL EST »", "page_start": 32},
+    {"seq": 6,  "title_fr": "LES POSSESSIFS", "page_start": 36},
+    {"seq": 7,  "title_fr": "LES NOMS de PARENTÉ et de GROUPE", "page_start": 38},
+    {"seq": 8,  "title_fr": "LES DÉMONSTRATIFS", "page_start": 40},
+    {"seq": 9,  "title_fr": "« IL Y A » et « C'EST »", "page_start": 42},
+    {"seq": 10, "title_fr": "LA SITUATION dans l'ESPACE (1)", "page_start": 44},
+    {"seq": 11, "title_fr": "LE VERBE « AVOIR »", "page_start": 48},
+    {"seq": 12, "title_fr": "L'ADJECTIF (2)", "page_start": 54},
+    {"seq": 13, "title_fr": "LES NOMBRES", "page_start": 58},
+    {"seq": 14, "title_fr": "LE TEMPS (1)", "page_start": 64},
+    {"seq": 15, "title_fr": "LES INDÉFINIS", "page_start": 68},
+    {"seq": 16, "title_fr": "LES VERBES en « -ER » au PRÉSENT", "page_start": 74},
+    {"seq": 17, "title_fr": "LE TEMPS (2)", "page_start": 80},
+    {"seq": 18, "title_fr": "L'ADVERBE", "page_start": 82},
+    {"seq": 19, "title_fr": "L'EXPRESSION de la QUANTITÉ", "page_start": 86},
+    {"seq": 20, "title_fr": "LE PRONOM « EN »", "page_start": 90},
+    {"seq": 21, "title_fr": "LA SITUATION dans l'ESPACE (2)", "page_start": 94},
+    {"seq": 22, "title_fr": "LE COMPARATIF et LE SUPERLATIF", "page_start": 96},
+    {"seq": 23, "title_fr": "LE VERBE « ALLER »", "page_start": 102},
+    {"seq": 24, "title_fr": "LE PRONOM « Y »", "page_start": 104},
+    {"seq": 25, "title_fr": "LA SITUATION dans l'ESPACE (3)", "page_start": 106},
+    {"seq": 26, "title_fr": "LES VERBES en « -IR », « -OIR » et « -RE » au PRÉSENT", "page_start": 108},
+    {"seq": 27, "title_fr": "LES VERBES PRONOMINAUX", "page_start": 122},
+    {"seq": 28, "title_fr": "LES PRONOMS COMPLÉMENTS", "page_start": 124},
+    {"seq": 29, "title_fr": "LES PRONOMS TONIQUES", "page_start": 132},
+    {"seq": 30, "title_fr": "L'IMPÉRATIF", "page_start": 134},
+    {"seq": 31, "title_fr": "LE CONDITIONNEL (1)", "page_start": 136},
+    {"seq": 32, "title_fr": "LES RELATIFS", "page_start": 140},
+    {"seq": 33, "title_fr": "L'INTERROGATION (2)", "page_start": 148},
+    {"seq": 34, "title_fr": "LA NÉGATION (2)", "page_start": 152},
+    {"seq": 35, "title_fr": "LE DISCOURS INDIRECT au PRÉSENT", "page_start": 156},
+    {"seq": 36, "title_fr": "LE GÉRONDIF", "page_start": 158},
+    {"seq": 37, "title_fr": "LES PRÉPOSITIONS et LES VERBES", "page_start": 160},
+    {"seq": 38, "title_fr": "LES VERBES de DÉPLACEMENT", "page_start": 164},
+    {"seq": 39, "title_fr": "LE FUTUR PROCHE", "page_start": 166},
+    {"seq": 40, "title_fr": "LE PASSÉ COMPOSÉ", "page_start": 174},
+    {"seq": 41, "title_fr": "LE TEMPS (3)", "page_start": 198},
+    {"seq": 42, "title_fr": "LE PASSIF", "page_start": 204},
+    {"seq": 43, "title_fr": "L'IMPARFAIT", "page_start": 206},
+    {"seq": 44, "title_fr": "LE PLUS-QUE-PARFAIT", "page_start": 214},
+    {"seq": 45, "title_fr": "LE DISCOURS INDIRECT au PASSÉ", "page_start": 216},
+    {"seq": 46, "title_fr": "« VENIR de », « ÊTRE EN TRAIN de », « ÊTRE sur LE POINT de »", "page_start": 222},
+    {"seq": 47, "title_fr": "LE FUTUR SIMPLE", "page_start": 224},
+    {"seq": 48, "title_fr": "LE FUTUR ANTÉRIEUR", "page_start": 228},
+    {"seq": 49, "title_fr": "LE CONDITIONNEL (2)", "page_start": 230},
+    {"seq": 50, "title_fr": "LES HYPOTHÈSES", "page_start": 232},
+    {"seq": 51, "title_fr": "LE SUBJONCTIF", "page_start": 238},
+    {"seq": 52, "title_fr": "LES RELATIONS LOGIQUES", "page_start": 250}
+  ],
+  "chapter1": {
+    "page_start": 8,
+    "page_end": 11,
+    "pdf_start": 10,
+    "pdf_end": 13,
+    "sections": [
+      {"title_fr": "Le verbe « être » et le dialogue de base", "page_no": 8},
+      {"title_fr": "Le verbe « être » et les pronoms sujets", "page_no": 10}
+    ],
+    "blocks": [
+      {"id": 1,  "page_no": 8, "seq": 1,  "type": "chapter_title", "body_html": "LE VERBE « ÊTRE »"},
+      {"id": 2,  "page_no": 8, "seq": 2,  "type": "section_title", "body_html": "LE VERBE « ÊTRE » et LE DIALOGUE DE BASE"},
+      {"id": 3,  "page_no": 8, "seq": 3,  "type": "keypoint", "body_html": "– Je suis français.<br>Vous êtes italien ?"},
+      {"id": 4,  "page_no": 8, "seq": 4,  "type": "para", "body_html": "En français, le verbe est en général précédé d'un nom ou d'un <strong>pronom sujet</strong>."},
+      {"id": 5,  "page_no": 8, "seq": 5,  "type": "subhead", "body_html": "« JE » et « VOUS » sont les pronoms de base du dialogue :"},
+      {"id": 6,  "page_no": 8, "seq": 6,  "type": "example", "body_html": "– <em>Vous êtes de Paris, monsieur Ricard ?</em><br>– <em>Non, je suis de Marseille.</em>"},
+      {"id": 7,  "page_no": 8, "seq": 7,  "type": "subhead", "body_html": "QUELQUES NATIONALITÉS"},
+      {"id": 8,  "page_no": 8, "seq": 8,  "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>Je suis</span><span class='wordlist'><em>anglais.</em><br><em>allemand.</em><br><em>grec.</em><br><em>japonais.</em><br><em>brésilien.</em><br><em>suédois.</em></span></div><div><span class='lead'>Vous êtes</span><span class='wordlist'><em>espagnol.</em><br><em>américain.</em><br><em>portugais.</em><br><em>russe.</em><br><em>australien.</em><br><em>hollandais.</em></span></div></div>"},
+      {"id": 9,  "page_no": 8, "seq": 9,  "type": "subhead", "body_html": "« À », « DE », « CHEZ »"},
+      {"id": 10, "page_no": 8, "seq": 10, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'>« À » indique la ville où on est :</p><p class='sample'>Je suis <strong>à</strong><span class='wordlist'><em>Berlin.</em><br><em>Londres.</em><br><em>Moscou.</em></span></p></div><div><p class='bullet'>« De » indique la ville d'origine :</p><p class='sample'>Je suis <strong>de</strong><span class='wordlist'><em>Rome.</em><br><em>Madrid.</em><br><em>Lisbonne.</em></span></p></div></div><p class='bullet'>« Chez » s'utilise avec les personnes :</p><p class='sample'>Je suis <strong>chez</strong><span class='wordlist'><em>Pierre.</em><br><em>des amis.</em><br><em>moi.</em></span></p>"},
+      {"id": 11, "page_no": 8, "seq": 11, "type": "phonetic", "body_html": "« De » + voyelle devient « d' » :<br><span class='example-line'>– Vous êtes d'où ? – Je suis d'Athènes.</span>"},
+      {"id": 12, "page_no": 8, "seq": 12, "type": "xref", "body_html": "Pronoms sujets, p. 10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;« À » « au », etc., p. 30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accord des adjectifs, p. 12-14"},
+
+      {"id": 13, "page_no": 10, "seq": 1,  "type": "running_head", "body_html": "LE VERBE « ÊTRE »"},
+      {"id": 14, "page_no": 10, "seq": 2,  "type": "section_title", "body_html": "LE VERBE « ÊTRE » et LES PRONOMS SUJETS"},
+      {"id": 15, "page_no": 10, "seq": 3,  "type": "keypoint", "body_html": "<table class='conj'><tr><td>Je</td><td></td><td>suis</td><td>italien.</td></tr><tr><td>Tu</td><td></td><td>es</td><td>américain.</td></tr><tr><td>Il</td><td rowspan='3' class='brace'>}</td><td rowspan='3'>est</td><td rowspan='3'>à Paris.</td></tr><tr><td>Elle</td></tr><tr><td>On</td></tr><tr><td>Nous</td><td></td><td>sommes</td><td>en vacances.</td></tr><tr><td>Vous</td><td></td><td>êtes</td><td>de Madrid ?</td></tr><tr><td>Ils</td><td rowspan='2' class='brace'>}</td><td rowspan='2'>sont</td><td rowspan='2'>de Londres.</td></tr><tr><td>Elles</td></tr></table>"},
+      {"id": 16, "page_no": 10, "seq": 4,  "type": "subhead", "body_html": "<div class='two-col'><div>« VOUS » : forme de politesse ou pluriel.</div><div>« TU » : pour les amis, la famille...</div></div>"},
+      {"id": 17, "page_no": 10, "seq": 5,  "type": "example", "body_html": "<div class='two-col'><div>– <em>Vous êtes prêt, monsieur ?</em><br>– <em>Vous êtes prêts, les enfants ?</em></div><div>– <em>Tu es prêt, papa ?</em><br>– <em>Tu es prêt, mon chéri ?</em></div></div>"},
+      {"id": 18, "page_no": 10, "seq": 6,  "type": "para", "body_html": "<p class='bullet'>Avec les pronoms, on utilise « vous » ou « tu » selon le degré de familiarité :</p><p class='sample'>– <em>Vous êtes prêt, Max ?</em> (moins familier)<br>– <em>Tu es prêt, Max ?</em> (plus familier)</p>"},
+      {"id": 19, "page_no": 10, "seq": 7,  "type": "subhead", "body_html": "« IL » et « ELLE » renvoient à une personne ou à une chose :"},
+      {"id": 20, "page_no": 10, "seq": 8,  "type": "example", "body_html": "<div class='two-col'><div><em>Elle est belle, Isabelle.</em><br><em>Elle est belle, la tour Eiffel.</em></div><div><em>Il est beau, Kevin.</em><br><em>Il est beau, le musée d'Orsay.</em></div></div>"},
+      {"id": 21, "page_no": 10, "seq": 9,  "type": "warning", "body_html": "« Ils » renvoie à un groupe masculin ou « mixte » :<br><em>Paul, Marie, Cathy et Julie sont français. Ils sont de Nice.</em>"},
+      {"id": 22, "page_no": 10, "seq": 10, "type": "subhead", "body_html": "« ON » et « NOUS »"},
+      {"id": 23, "page_no": 10, "seq": 11, "type": "list", "body_html": "<p class='bullet'>« On » = « nous », en langage courant :</p><p class='sample'><em>Paul et moi, <u>nous</u> <u>sommes</u> français. <u>On</u> <u>est</u> de Nice.</em><br><span class='annotation'>verbe au pluriel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;verbe au singulier</span></p><p class='bullet'>« On » signifie aussi « tout le monde » (« les gens ») :</p><p class='sample'><em>En France, <strong>on est gourmand</strong> : tout le monde est gourmand.</em></p>"},
+      {"id": 24, "page_no": 10, "seq": 12, "type": "phonetic", "body_html": "La liaison est obligatoire entre le pronom et le verbe :<br><span class='example-line'>Vous<span class='liaison'>z</span>êtes&nbsp;&nbsp;&nbsp;&nbsp;On<span class='liaison'>n</span>est</span>"},
+      {"id": 25, "page_no": 10, "seq": 13, "type": "xref", "body_html": "« C'est/Il est », p. 32&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accords, p. 16"}
+    ],
+    "exercises": [
+      {
+        "id": 1, "page_no": 9, "seq": 1,
+        "instruction_fr": "« Je suis » ou « Vous êtes ». Complétez. Créez d'autres dialogues.",
+        "label": "Présentations",
+        "note_html": "",
+        "questions": [
+          {"id": 1, "seq": 1, "type": "cloze", "stem_html": "– Vous {{b}} d'où ?<br>– {{b}} suis anglais. Je {{b}} de Londres.<br>Et vous, vous {{b}} d'où ?<br>– {{b}} suis d'Athènes, {{b}} {{b}} grec."},
+          {"id": 2, "seq": 2, "type": "cloze", "stem_html": "– Vous {{b}} marié ?<br>– Non, {{b}} {{b}} célibataire.<br>Et vous, {{b}} {{b}} marié ?<br>– Oui, {{b}} {{b}} marié."}
+        ]
+      },
+      {
+        "id": 2, "page_no": 9, "seq": 2,
+        "instruction_fr": "Répondez aux questions au choix.",
+        "label": "",
+        "note_html": "",
+        "questions": [
+          {"id": 3, "seq": 1, "type": "model", "stem_html": "1. – Vous êtes espagnol ou portugais, Luis ? – <em class='model'>Je suis espagnol.</em>"},
+          {"id": 4, "seq": 2, "type": "cloze", "stem_html": "2. – Vous êtes de Madrid ou de Barcelone ? – {{L}}"},
+          {"id": 5, "seq": 3, "type": "cloze", "stem_html": "3. – Vous êtes étudiant ou professeur ? – {{L}}"},
+          {"id": 6, "seq": 4, "type": "cloze", "stem_html": "4. – Vous êtes marié ou célibataire ? – {{L}}"},
+          {"id": 7, "seq": 5, "type": "cloze", "stem_html": "5. – Vous êtes fatigué ou en forme ? – {{L}}"}
+        ]
+      },
+      {
+        "id": 3, "page_no": 9, "seq": 3,
+        "instruction_fr": "Complétez le dialogue avec « à », « de », « chez ».",
+        "label": "",
+        "note_html": "",
+        "questions": [
+          {"id": 8, "seq": 1, "type": "cloze", "stem_html": "Paul : – Je suis en vacances <strong>à</strong> Nice. Et vous, vous êtes {{b}} Nice pour travailler ?<br>Aldo : – Non, je suis en vacances {{b}} ma tante. Vous êtes {{b}} l'hôtel ou {{b}} des amis ?<br>Paul : – Je suis {{b}} un ami d'enfance, Philippe Leroux. Vous êtes {{b}} quelle ville, Aldo ?<br>Aldo : – Je suis {{b}} Naples, mais je suis souvent {{b}} Rome pour mon travail.<br>Paul : – Moi, je suis {{b}} Lyon, mais je suis très souvent {{b}} Paris pour mes affaires."}
+        ]
+      },
+      {
+        "id": 4, "page_no": 9, "seq": 4,
+        "instruction_fr": "Faites l'exercice selon le modèle. Présentez-vous.",
+        "label": "",
+        "note_html": "<table class='data-table'><tr><th>Nom</th><th>Nationalité</th><th>Ville d'origine</th><th>Adresse actuelle</th></tr><tr><td>Per Olsen</td><td>Danois</td><td>Copenhague</td><td>Paris (hôtel Bréa)</td></tr><tr><td>Bruno Maggi</td><td>Italien</td><td>Florence</td><td>Londres (un ami)</td></tr><tr><td>Anne Branda</td><td>Belge</td><td>Bruxelles</td><td>New York (Astoria Hôtel)</td></tr><tr><td>Clément Monier</td><td>Français</td><td>Avignon</td><td>Marseille (des cousins)</td></tr></table><p class='model-line'>1. – <em>Je m'appelle Per. Je suis danois. Je suis de Copenhague. Actuellement, je suis à l'hôtel Bréa, à Paris.</em></p>",
+        "questions": [
+          {"id": 9,  "seq": 1, "type": "cloze", "stem_html": "2. – {{L}}"},
+          {"id": 10, "seq": 2, "type": "cloze", "stem_html": "3. – {{L}}"},
+          {"id": 11, "seq": 3, "type": "cloze", "stem_html": "4. – {{L}}"}
+        ]
+      },
+      {
+        "id": 5, "page_no": 9, "seq": 5,
+        "instruction_fr": "Répondez librement aux questions.",
+        "label": "",
+        "note_html": "",
+        "questions": [
+          {"id": 12, "seq": 1, "type": "cloze", "stem_html": "1. – Vous êtes de Boston ? de Varsovie ? d'Athènes ? – {{L}}"},
+          {"id": 13, "seq": 2, "type": "cloze", "stem_html": "2. – Actuellement, vous êtes à Oslo ? à Londres ? à Vienne ? – {{L}}"},
+          {"id": 14, "seq": 3, "type": "cloze", "stem_html": "3. – Vous êtes chez vous ? au bureau ? à l'université ? au lycée ? – {{L}}"}
+        ]
+      },
+      {
+        "id": 6, "page_no": 11, "seq": 1,
+        "instruction_fr": "Complétez avec le verbe « être » et les pronoms manquants.",
+        "label": "Informations",
+        "note_html": "",
+        "questions": [
+          {"id": 15, "seq": 1, "type": "cloze", "stem_html": "– Tu es célibataire ou tu {{b}} marié ?<br>– Je {{b}} marié.<br>– Ta femme {{b}} française ?<br>– Non, {{b}} {{b}} espagnole, comme moi."},
+          {"id": 16, "seq": 2, "type": "cloze", "stem_html": "– Vous {{b}} espagnols ? De quelle ville ?<br>– Nous {{b}} de Séville.<br>– Mes parents aussi {{b}} espagnols, mais<br>{{b}} {{b}} de Barcelone."}
+        ]
+      },
+      {
+        "id": 7, "page_no": 11, "seq": 2,
+        "instruction_fr": "Complétez avec « tu es » ou « vous êtes ».",
+        "label": "",
+        "note_html": "<em class='model'>– Vous êtes suisse, madame ?</em>",
+        "questions": [
+          {"id": 17, "seq": 1, "type": "cloze", "stem_html": "1. {{b}} {{b}} seule, mademoiselle ?"},
+          {"id": 18, "seq": 2, "type": "cloze", "stem_html": "2. {{b}} {{b}} français, monsieur Dubois ?"},
+          {"id": 19, "seq": 3, "type": "cloze", "stem_html": "3. {{b}} {{b}} là, papa ?"},
+          {"id": 20, "seq": 4, "type": "cloze", "stem_html": "4. {{b}} {{b}} fatigué, mon chéri ?"},
+          {"id": 21, "seq": 5, "type": "cloze", "stem_html": "5. {{b}} {{b}} prêts, les enfants ?"},
+          {"id": 22, "seq": 6, "type": "cloze", "stem_html": "6. {{b}} {{b}} de Prague, madame ?"}
+        ]
+      },
+      {
+        "id": 8, "page_no": 11, "seq": 3,
+        "instruction_fr": "Complétez avec « être » et les pronoms manquants.",
+        "label": "",
+        "note_html": "",
+        "questions": [
+          {"id": 23, "seq": 1, "type": "model", "stem_html": "1. – Le professeur est là ? – <em class='model'>Oui, il est là.</em>"},
+          {"id": 24, "seq": 2, "type": "cloze", "stem_html": "2. – La salle {{b}} grande ? – {{L}}"},
+          {"id": 25, "seq": 3, "type": "cloze", "stem_html": "3. – Les chaises {{b}} en bois ? – {{L}}"},
+          {"id": 26, "seq": 4, "type": "cloze", "stem_html": "4. – Votre livre {{b}} bleu ? – {{L}}"},
+          {"id": 27, "seq": 5, "type": "cloze", "stem_html": "5. – Nous {{b}} mardi ? – {{L}}"},
+          {"id": 28, "seq": 6, "type": "cloze", "stem_html": "6. – On {{b}} le 4 ? – {{L}}"},
+          {"id": 29, "seq": 7, "type": "cloze", "stem_html": "7. – Les étudiants {{b}} en forme ? – {{L}}"}
+        ]
+      },
+      {
+        "id": 9, "page_no": 11, "seq": 4,
+        "instruction_fr": "Complétez avec « nous sommes » ou « on est » (plusieurs possibilités).",
+        "label": "",
+        "note_html": "",
+        "questions": [
+          {"id": 30, "seq": 1, "type": "letter", "stem_html": "Chère Marie,<span class='date'>Cannes, le 15/09/12.</span><br>Jean et moi, {{b}} {{b}} à Cannes.<br>Depuis 10 heures, {{b}} {{b}} sur la plage.<br>Comme {{b}} {{b}} bien au soleil !<br>{{b}} {{b}} en pleine forme. Mais c'est<br>normal : quand {{b}} {{b}} en vacances,<br>{{b}} {{b}} toujours en forme ! À bientôt.<br>Grosses bises ! Léa"}
+        ]
+      },
+      {
+        "id": 10, "page_no": 11, "seq": 5,
+        "instruction_fr": "Répondez aux questions à partir du texte.",
+        "label": "",
+        "note_html": "– Allô ? Danièle ? C'est Martine. Je suis à Paris avec Jean et nos trois filles.<br>Nous sommes à l'hôtel Saint-Michel. Tu es libre aujourd'hui ?<br>– Non ! Quel dommage, je suis occupée toute la journée. Je suis à Versailles, chez un client.<br>Vous êtes à Paris pour combien de temps ?<br>– Nous sommes ici pour une semaine. Les filles sont en vacances : leur lycée est fermé pour travaux.",
+        "questions": [
+          {"id": 31, "seq": 1, "type": "cloze", "stem_html": "1. – Martine et Jean sont à Aix ? – {{L}}"},
+          {"id": 32, "seq": 2, "type": "cloze", "stem_html": "2. – Danièle est libre ou occupée aujourd'hui ? – {{L}}"},
+          {"id": 33, "seq": 3, "type": "cloze", "stem_html": "3. – Martine et Jean sont chez des amis ? – {{L}}"},
+          {"id": 34, "seq": 4, "type": "cloze", "stem_html": "4. – Danièle est à Paris aujourd'hui ? – {{L}}"},
+          {"id": 35, "seq": 5, "type": "cloze", "stem_html": "5. – Les filles sont au lycée ou en vacances ? – {{L}}"}
+        ]
+      }
+    ]
+  }
+}
