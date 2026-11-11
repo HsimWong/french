@@ -1,0 +1,1350 @@
+{
+ "grammaire": {
+  "pdf_offset": 2,
+  "scan_dir": "web/scans/grammaire",
+  "pdf_dir": "C:/Users/WangXin/AppData/Local/Temp/frenchpdf/pages",
+  "chapters": [
+   {
+    "seq": 1,
+    "title_fr": "LE VERBE « ÊTRE »",
+    "page_start": 8,
+    "page_end": 11,
+    "pdf_start": 10,
+    "pdf_end": 13,
+    "lesson_pages": [
+     8,
+     10
+    ],
+    "exercise_pages": [
+     9,
+     11
+    ]
+   },
+   {
+    "seq": 2,
+    "title_fr": "L'ADJECTIF (1)",
+    "page_start": 12,
+    "page_end": 17,
+    "pdf_start": 14,
+    "pdf_end": 19,
+    "lesson_pages": [
+     12,
+     14,
+     16
+    ],
+    "exercise_pages": [
+     13,
+     15,
+     17
+    ]
+   },
+   {
+    "seq": 3,
+    "title_fr": "LA NÉGATION et L'INTERROGATION (1)",
+    "page_start": 18,
+    "page_end": 21,
+    "pdf_start": 20,
+    "pdf_end": 23,
+    "lesson_pages": [
+     18,
+     20
+    ],
+    "exercise_pages": [
+     19,
+     21
+    ]
+   },
+   {
+    "seq": 4,
+    "title_fr": "LE NOM et L'ARTICLE",
+    "page_start": 22,
+    "page_end": 31,
+    "pdf_start": 24,
+    "pdf_end": 33,
+    "lesson_pages": [
+     22,
+     24,
+     26,
+     28,
+     30
+    ],
+    "exercise_pages": [
+     23,
+     25,
+     27,
+     29,
+     31
+    ]
+   },
+   {
+    "seq": 5,
+    "title_fr": "« C'EST » et « IL EST »",
+    "page_start": 32,
+    "page_end": 35,
+    "pdf_start": 34,
+    "pdf_end": 37,
+    "lesson_pages": [
+     32,
+     34
+    ],
+    "exercise_pages": [
+     33,
+     35
+    ]
+   },
+   {
+    "seq": 6,
+    "title_fr": "LES POSSESSIFS",
+    "page_start": 36,
+    "page_end": 37,
+    "pdf_start": 38,
+    "pdf_end": 39,
+    "lesson_pages": [
+     36
+    ],
+    "exercise_pages": [
+     37
+    ]
+   },
+   {
+    "seq": 7,
+    "title_fr": "LES NOMS de PARENTÉ et de GROUPE",
+    "page_start": 38,
+    "page_end": 39,
+    "pdf_start": 40,
+    "pdf_end": 41,
+    "lesson_pages": [
+     38
+    ],
+    "exercise_pages": [
+     39
+    ]
+   },
+   {
+    "seq": 8,
+    "title_fr": "LES DÉMONSTRATIFS",
+    "page_start": 40,
+    "page_end": 41,
+    "pdf_start": 42,
+    "pdf_end": 43,
+    "lesson_pages": [
+     40
+    ],
+    "exercise_pages": [
+     41
+    ]
+   },
+   {
+    "seq": 9,
+    "title_fr": "« IL Y A » et « C'EST »",
+    "page_start": 42,
+    "page_end": 43,
+    "pdf_start": 44,
+    "pdf_end": 45,
+    "lesson_pages": [
+     42
+    ],
+    "exercise_pages": [
+     43
+    ]
+   },
+   {
+    "seq": 10,
+    "title_fr": "LA SITUATION dans l'ESPACE (1)",
+    "page_start": 44,
+    "page_end": 47,
+    "pdf_start": 46,
+    "pdf_end": 49,
+    "lesson_pages": [
+     44,
+     46
+    ],
+    "exercise_pages": [
+     45,
+     47
+    ]
+   },
+   {
+    "seq": 11,
+    "title_fr": "LE VERBE « AVOIR »",
+    "page_start": 48,
+    "page_end": 53,
+    "pdf_start": 50,
+    "pdf_end": 55,
+    "lesson_pages": [
+     48,
+     50,
+     52
+    ],
+    "exercise_pages": [
+     49,
+     51,
+     53
+    ]
+   },
+   {
+    "seq": 12,
+    "title_fr": "L'ADJECTIF (2)",
+    "page_start": 54,
+    "page_end": 57,
+    "pdf_start": 56,
+    "pdf_end": 59,
+    "lesson_pages": [
+     54,
+     56
+    ],
+    "exercise_pages": [
+     55,
+     57
+    ]
+   },
+   {
+    "seq": 13,
+    "title_fr": "LES NOMBRES",
+    "page_start": 58,
+    "page_end": 63,
+    "pdf_start": 60,
+    "pdf_end": 65,
+    "lesson_pages": [
+     58,
+     60,
+     62
+    ],
+    "exercise_pages": [
+     59,
+     61,
+     63
+    ]
+   },
+   {
+    "seq": 14,
+    "title_fr": "LE TEMPS (1)",
+    "page_start": 64,
+    "page_end": 67,
+    "pdf_start": 66,
+    "pdf_end": 69,
+    "lesson_pages": [
+     64,
+     66
+    ],
+    "exercise_pages": [
+     65,
+     67
+    ]
+   },
+   {
+    "seq": 15,
+    "title_fr": "LES INDÉFINIS",
+    "page_start": 68,
+    "page_end": 71,
+    "pdf_start": 70,
+    "pdf_end": 73,
+    "lesson_pages": [
+     68,
+     70
+    ],
+    "exercise_pages": [
+     69,
+     71
+    ]
+   },
+   {
+    "seq": 16,
+    "title_fr": "LES VERBES en « -ER » au PRÉSENT",
+    "page_start": 74,
+    "page_end": 79,
+    "pdf_start": 76,
+    "pdf_end": 81,
+    "lesson_pages": [
+     74,
+     76,
+     78
+    ],
+    "exercise_pages": [
+     75,
+     77,
+     79
+    ]
+   },
+   {
+    "seq": 17,
+    "title_fr": "LE TEMPS (2)",
+    "page_start": 80,
+    "page_end": 81,
+    "pdf_start": 82,
+    "pdf_end": 83,
+    "lesson_pages": [
+     80
+    ],
+    "exercise_pages": [
+     81
+    ]
+   },
+   {
+    "seq": 18,
+    "title_fr": "L'ADVERBE",
+    "page_start": 82,
+    "page_end": 85,
+    "pdf_start": 84,
+    "pdf_end": 87,
+    "lesson_pages": [
+     82,
+     84
+    ],
+    "exercise_pages": [
+     83,
+     85
+    ]
+   },
+   {
+    "seq": 19,
+    "title_fr": "L'EXPRESSION de la QUANTITÉ",
+    "page_start": 86,
+    "page_end": 89,
+    "pdf_start": 88,
+    "pdf_end": 91,
+    "lesson_pages": [
+     86,
+     88
+    ],
+    "exercise_pages": [
+     87,
+     89
+    ]
+   },
+   {
+    "seq": 20,
+    "title_fr": "LE PRONOM « EN »",
+    "page_start": 90,
+    "page_end": 93,
+    "pdf_start": 92,
+    "pdf_end": 95,
+    "lesson_pages": [
+     90,
+     92
+    ],
+    "exercise_pages": [
+     91,
+     93
+    ]
+   },
+   {
+    "seq": 21,
+    "title_fr": "LA SITUATION dans l'ESPACE (2)",
+    "page_start": 94,
+    "page_end": 95,
+    "pdf_start": 96,
+    "pdf_end": 97,
+    "lesson_pages": [
+     94
+    ],
+    "exercise_pages": [
+     95
+    ]
+   },
+   {
+    "seq": 22,
+    "title_fr": "LE COMPARATIF et LE SUPERLATIF",
+    "page_start": 96,
+    "page_end": 101,
+    "pdf_start": 98,
+    "pdf_end": 103,
+    "lesson_pages": [
+     96,
+     98,
+     100
+    ],
+    "exercise_pages": [
+     97,
+     99,
+     101
+    ]
+   },
+   {
+    "seq": 23,
+    "title_fr": "LE VERBE « ALLER »",
+    "page_start": 102,
+    "page_end": 103,
+    "pdf_start": 104,
+    "pdf_end": 105,
+    "lesson_pages": [
+     102
+    ],
+    "exercise_pages": [
+     103
+    ]
+   },
+   {
+    "seq": 24,
+    "title_fr": "LE PRONOM « Y »",
+    "page_start": 104,
+    "page_end": 105,
+    "pdf_start": 106,
+    "pdf_end": 107,
+    "lesson_pages": [
+     104
+    ],
+    "exercise_pages": [
+     105
+    ]
+   },
+   {
+    "seq": 25,
+    "title_fr": "LA SITUATION dans l'ESPACE (3)",
+    "page_start": 106,
+    "page_end": 107,
+    "pdf_start": 108,
+    "pdf_end": 109,
+    "lesson_pages": [
+     106
+    ],
+    "exercise_pages": [
+     107
+    ]
+   },
+   {
+    "seq": 26,
+    "title_fr": "LES VERBES en « -IR », « -OIR » et « -RE » au PRÉSENT",
+    "page_start": 108,
+    "page_end": 121,
+    "pdf_start": 110,
+    "pdf_end": 123,
+    "lesson_pages": [
+     108,
+     110,
+     112,
+     114,
+     116,
+     118,
+     120
+    ],
+    "exercise_pages": [
+     109,
+     111,
+     113,
+     115,
+     117,
+     119,
+     121
+    ]
+   },
+   {
+    "seq": 27,
+    "title_fr": "LES VERBES PRONOMINAUX",
+    "page_start": 122,
+    "page_end": 123,
+    "pdf_start": 124,
+    "pdf_end": 125,
+    "lesson_pages": [
+     122
+    ],
+    "exercise_pages": [
+     123
+    ]
+   },
+   {
+    "seq": 28,
+    "title_fr": "LES PRONOMS COMPLÉMENTS",
+    "page_start": 124,
+    "page_end": 131,
+    "pdf_start": 126,
+    "pdf_end": 133,
+    "lesson_pages": [
+     124,
+     126,
+     128,
+     130
+    ],
+    "exercise_pages": [
+     125,
+     127,
+     129,
+     131
+    ]
+   },
+   {
+    "seq": 29,
+    "title_fr": "LES PRONOMS TONIQUES",
+    "page_start": 132,
+    "page_end": 133,
+    "pdf_start": 134,
+    "pdf_end": 135,
+    "lesson_pages": [
+     132
+    ],
+    "exercise_pages": [
+     133
+    ]
+   },
+   {
+    "seq": 30,
+    "title_fr": "L'IMPÉRATIF",
+    "page_start": 134,
+    "page_end": 135,
+    "pdf_start": 136,
+    "pdf_end": 137,
+    "lesson_pages": [
+     134
+    ],
+    "exercise_pages": [
+     135
+    ]
+   },
+   {
+    "seq": 31,
+    "title_fr": "LE CONDITIONNEL (1)",
+    "page_start": 136,
+    "page_end": 137,
+    "pdf_start": 138,
+    "pdf_end": 139,
+    "lesson_pages": [
+     136
+    ],
+    "exercise_pages": [
+     137
+    ]
+   },
+   {
+    "seq": 32,
+    "title_fr": "LES RELATIFS",
+    "page_start": 140,
+    "page_end": 147,
+    "pdf_start": 142,
+    "pdf_end": 149,
+    "lesson_pages": [
+     140,
+     142,
+     144,
+     146
+    ],
+    "exercise_pages": [
+     141,
+     143,
+     145,
+     147
+    ]
+   },
+   {
+    "seq": 33,
+    "title_fr": "L'INTERROGATION (2)",
+    "page_start": 148,
+    "page_end": 151,
+    "pdf_start": 150,
+    "pdf_end": 153,
+    "lesson_pages": [
+     148,
+     150
+    ],
+    "exercise_pages": [
+     149,
+     151
+    ]
+   },
+   {
+    "seq": 34,
+    "title_fr": "LA NÉGATION (2)",
+    "page_start": 152,
+    "page_end": 155,
+    "pdf_start": 154,
+    "pdf_end": 157,
+    "lesson_pages": [
+     152,
+     154
+    ],
+    "exercise_pages": [
+     153,
+     155
+    ]
+   },
+   {
+    "seq": 35,
+    "title_fr": "LE DISCOURS INDIRECT au PRÉSENT",
+    "page_start": 156,
+    "page_end": 157,
+    "pdf_start": 158,
+    "pdf_end": 159,
+    "lesson_pages": [
+     156
+    ],
+    "exercise_pages": [
+     157
+    ]
+   },
+   {
+    "seq": 36,
+    "title_fr": "LE GÉRONDIF",
+    "page_start": 158,
+    "page_end": 159,
+    "pdf_start": 160,
+    "pdf_end": 161,
+    "lesson_pages": [
+     158
+    ],
+    "exercise_pages": [
+     159
+    ]
+   },
+   {
+    "seq": 37,
+    "title_fr": "LES PRÉPOSITIONS et LES VERBES",
+    "page_start": 160,
+    "page_end": 163,
+    "pdf_start": 162,
+    "pdf_end": 165,
+    "lesson_pages": [
+     160,
+     162
+    ],
+    "exercise_pages": [
+     161,
+     163
+    ]
+   },
+   {
+    "seq": 38,
+    "title_fr": "LES VERBES de DÉPLACEMENT",
+    "page_start": 164,
+    "page_end": 165,
+    "pdf_start": 166,
+    "pdf_end": 167,
+    "lesson_pages": [
+     164
+    ],
+    "exercise_pages": [
+     165
+    ]
+   },
+   {
+    "seq": 39,
+    "title_fr": "LE FUTUR PROCHE",
+    "page_start": 166,
+    "page_end": 173,
+    "pdf_start": 168,
+    "pdf_end": 175,
+    "lesson_pages": [
+     166,
+     168,
+     170,
+     172
+    ],
+    "exercise_pages": [
+     167,
+     169,
+     171,
+     173
+    ]
+   },
+   {
+    "seq": 40,
+    "title_fr": "LE PASSÉ COMPOSÉ",
+    "page_start": 174,
+    "page_end": 197,
+    "pdf_start": 176,
+    "pdf_end": 199,
+    "lesson_pages": [
+     174,
+     176,
+     178,
+     180,
+     182,
+     184,
+     186,
+     188,
+     190,
+     192,
+     194,
+     196
+    ],
+    "exercise_pages": [
+     175,
+     177,
+     179,
+     181,
+     183,
+     185,
+     187,
+     189,
+     191,
+     193,
+     195,
+     197
+    ]
+   },
+   {
+    "seq": 41,
+    "title_fr": "LE TEMPS (3)",
+    "page_start": 198,
+    "page_end": 203,
+    "pdf_start": 200,
+    "pdf_end": 205,
+    "lesson_pages": [
+     198,
+     200,
+     202
+    ],
+    "exercise_pages": [
+     199,
+     201,
+     203
+    ]
+   },
+   {
+    "seq": 42,
+    "title_fr": "LE PASSIF",
+    "page_start": 204,
+    "page_end": 205,
+    "pdf_start": 206,
+    "pdf_end": 207,
+    "lesson_pages": [
+     204
+    ],
+    "exercise_pages": [
+     205
+    ]
+   },
+   {
+    "seq": 43,
+    "title_fr": "L'IMPARFAIT",
+    "page_start": 206,
+    "page_end": 213,
+    "pdf_start": 208,
+    "pdf_end": 215,
+    "lesson_pages": [
+     206,
+     208,
+     210,
+     212
+    ],
+    "exercise_pages": [
+     207,
+     209,
+     211,
+     213
+    ]
+   },
+   {
+    "seq": 44,
+    "title_fr": "LE PLUS-QUE-PARFAIT",
+    "page_start": 214,
+    "page_end": 215,
+    "pdf_start": 216,
+    "pdf_end": 217,
+    "lesson_pages": [
+     214
+    ],
+    "exercise_pages": [
+     215
+    ]
+   },
+   {
+    "seq": 45,
+    "title_fr": "LE DISCOURS INDIRECT au PASSÉ",
+    "page_start": 216,
+    "page_end": 219,
+    "pdf_start": 218,
+    "pdf_end": 221,
+    "lesson_pages": [
+     216,
+     218
+    ],
+    "exercise_pages": [
+     217,
+     219
+    ]
+   },
+   {
+    "seq": 46,
+    "title_fr": "« VENIR de », « ÊTRE EN TRAIN de », « ÊTRE sur LE POINT de »",
+    "page_start": 222,
+    "page_end": 223,
+    "pdf_start": 224,
+    "pdf_end": 225,
+    "lesson_pages": [
+     222
+    ],
+    "exercise_pages": [
+     223
+    ]
+   },
+   {
+    "seq": 47,
+    "title_fr": "LE FUTUR SIMPLE",
+    "page_start": 224,
+    "page_end": 227,
+    "pdf_start": 226,
+    "pdf_end": 229,
+    "lesson_pages": [
+     224,
+     226
+    ],
+    "exercise_pages": [
+     225,
+     227
+    ]
+   },
+   {
+    "seq": 48,
+    "title_fr": "LE FUTUR ANTÉRIEUR",
+    "page_start": 228,
+    "page_end": 229,
+    "pdf_start": 230,
+    "pdf_end": 231,
+    "lesson_pages": [
+     228
+    ],
+    "exercise_pages": [
+     229
+    ]
+   },
+   {
+    "seq": 49,
+    "title_fr": "LE CONDITIONNEL (2)",
+    "page_start": 230,
+    "page_end": 231,
+    "pdf_start": 232,
+    "pdf_end": 233,
+    "lesson_pages": [
+     230
+    ],
+    "exercise_pages": [
+     231
+    ]
+   },
+   {
+    "seq": 50,
+    "title_fr": "LES HYPOTHÈSES",
+    "page_start": 232,
+    "page_end": 237,
+    "pdf_start": 234,
+    "pdf_end": 239,
+    "lesson_pages": [
+     232,
+     234,
+     236
+    ],
+    "exercise_pages": [
+     233,
+     235,
+     237
+    ]
+   },
+   {
+    "seq": 51,
+    "title_fr": "LE SUBJONCTIF",
+    "page_start": 238,
+    "page_end": 249,
+    "pdf_start": 240,
+    "pdf_end": 251,
+    "lesson_pages": [
+     238,
+     240,
+     242,
+     244,
+     246,
+     248
+    ],
+    "exercise_pages": [
+     239,
+     241,
+     243,
+     245,
+     247,
+     249
+    ]
+   },
+   {
+    "seq": 52,
+    "title_fr": "LES RELATIONS LOGIQUES",
+    "page_start": 250,
+    "page_end": 255,
+    "pdf_start": 252,
+    "pdf_end": 257,
+    "lesson_pages": [
+     250,
+     252,
+     254
+    ],
+    "exercise_pages": [
+     251,
+     253,
+     255
+    ]
+   }
+  ]
+ },
+ "vocabulaire": {
+  "pdf_offset": 2,
+  "scan_dir": "web/scans/vocab",
+  "pdf_dir": "C:/Users/WangXin/AppData/Local/Temp/frenchpdf/vocab/pages",
+  "chapters": [
+   {
+    "seq": 1,
+    "title_fr": "PRÉSENTATIONS ET USAGES",
+    "page_start": 6,
+    "page_end": 11,
+    "pdf_start": 8,
+    "pdf_end": 13,
+    "lesson_pages": [
+     6,
+     8,
+     10
+    ],
+    "exercise_pages": [
+     7,
+     9,
+     11
+    ]
+   },
+   {
+    "seq": 2,
+    "title_fr": "LA FAMILLE",
+    "page_start": 12,
+    "page_end": 15,
+    "pdf_start": 14,
+    "pdf_end": 17,
+    "lesson_pages": [
+     12,
+     14
+    ],
+    "exercise_pages": [
+     13,
+     15
+    ]
+   },
+   {
+    "seq": 3,
+    "title_fr": "LES RELATIONS – LES SENTIMENTS",
+    "page_start": 16,
+    "page_end": 23,
+    "pdf_start": 18,
+    "pdf_end": 25,
+    "lesson_pages": [
+     16,
+     18,
+     20,
+     22
+    ],
+    "exercise_pages": [
+     17,
+     19,
+     21,
+     23
+    ]
+   },
+   {
+    "seq": 4,
+    "title_fr": "LE CARACTÈRE – LA PERSONNALITÉ",
+    "page_start": 24,
+    "page_end": 27,
+    "pdf_start": 26,
+    "pdf_end": 29,
+    "lesson_pages": [
+     24,
+     26
+    ],
+    "exercise_pages": [
+     25,
+     27
+    ]
+   },
+   {
+    "seq": 5,
+    "title_fr": "LE TEMPS QUI PASSE",
+    "page_start": 28,
+    "page_end": 35,
+    "pdf_start": 30,
+    "pdf_end": 37,
+    "lesson_pages": [
+     28,
+     30,
+     32,
+     34
+    ],
+    "exercise_pages": [
+     29,
+     31,
+     33,
+     35
+    ]
+   },
+   {
+    "seq": 6,
+    "title_fr": "LA MÉTÉO – LE CLIMAT",
+    "page_start": 36,
+    "page_end": 41,
+    "pdf_start": 38,
+    "pdf_end": 43,
+    "lesson_pages": [
+     36,
+     38,
+     40
+    ],
+    "exercise_pages": [
+     37,
+     39,
+     41
+    ]
+   },
+   {
+    "seq": 7,
+    "title_fr": "NATURE ET ENVIRONNEMENT",
+    "page_start": 42,
+    "page_end": 47,
+    "pdf_start": 44,
+    "pdf_end": 49,
+    "lesson_pages": [
+     42,
+     44,
+     46
+    ],
+    "exercise_pages": [
+     43,
+     45,
+     47
+    ]
+   },
+   {
+    "seq": 8,
+    "title_fr": "LE CORPS – LA SANTÉ",
+    "page_start": 48,
+    "page_end": 55,
+    "pdf_start": 50,
+    "pdf_end": 57,
+    "lesson_pages": [
+     48,
+     50,
+     52,
+     54
+    ],
+    "exercise_pages": [
+     49,
+     51,
+     53,
+     55
+    ]
+   },
+   {
+    "seq": 9,
+    "title_fr": "L'APPARENCE",
+    "page_start": 56,
+    "page_end": 61,
+    "pdf_start": 58,
+    "pdf_end": 63,
+    "lesson_pages": [
+     56,
+     58,
+     60
+    ],
+    "exercise_pages": [
+     57,
+     59,
+     61
+    ]
+   },
+   {
+    "seq": 10,
+    "title_fr": "LES VÊTEMENTS – LA MODE",
+    "page_start": 62,
+    "page_end": 69,
+    "pdf_start": 64,
+    "pdf_end": 71,
+    "lesson_pages": [
+     62,
+     64,
+     66,
+     68
+    ],
+    "exercise_pages": [
+     63,
+     65,
+     67,
+     69
+    ]
+   },
+   {
+    "seq": 11,
+    "title_fr": "LA MAISON – LE LOGEMENT",
+    "page_start": 70,
+    "page_end": 77,
+    "pdf_start": 72,
+    "pdf_end": 79,
+    "lesson_pages": [
+     70,
+     72,
+     74,
+     76
+    ],
+    "exercise_pages": [
+     71,
+     73,
+     75,
+     77
+    ]
+   },
+   {
+    "seq": 12,
+    "title_fr": "LES ACTIVITÉS QUOTIDIENNES",
+    "page_start": 78,
+    "page_end": 83,
+    "pdf_start": 80,
+    "pdf_end": 85,
+    "lesson_pages": [
+     78,
+     80,
+     82
+    ],
+    "exercise_pages": [
+     79,
+     81,
+     83
+    ]
+   },
+   {
+    "seq": 13,
+    "title_fr": "LE COMMERCE",
+    "page_start": 84,
+    "page_end": 91,
+    "pdf_start": 86,
+    "pdf_end": 93,
+    "lesson_pages": [
+     84,
+     86,
+     88,
+     90
+    ],
+    "exercise_pages": [
+     85,
+     87,
+     89,
+     91
+    ]
+   },
+   {
+    "seq": 14,
+    "title_fr": "CUISINE – RESTAURANT – CAFÉ",
+    "page_start": 92,
+    "page_end": 99,
+    "pdf_start": 94,
+    "pdf_end": 101,
+    "lesson_pages": [
+     92,
+     94,
+     96,
+     98
+    ],
+    "exercise_pages": [
+     93,
+     95,
+     97,
+     99
+    ]
+   },
+   {
+    "seq": 15,
+    "title_fr": "LOISIRS – JEUX – SPORTS",
+    "page_start": 100,
+    "page_end": 107,
+    "pdf_start": 102,
+    "pdf_end": 109,
+    "lesson_pages": [
+     100,
+     102,
+     104,
+     106
+    ],
+    "exercise_pages": [
+     101,
+     103,
+     105,
+     107
+    ]
+   },
+   {
+    "seq": 16,
+    "title_fr": "TRANSPORTS – CIRCULATION",
+    "page_start": 108,
+    "page_end": 115,
+    "pdf_start": 110,
+    "pdf_end": 117,
+    "lesson_pages": [
+     108,
+     110,
+     112,
+     114
+    ],
+    "exercise_pages": [
+     109,
+     111,
+     113,
+     115
+    ]
+   },
+   {
+    "seq": 17,
+    "title_fr": "LE TOURISME – LES VACANCES",
+    "page_start": 116,
+    "page_end": 121,
+    "pdf_start": 118,
+    "pdf_end": 123,
+    "lesson_pages": [
+     116,
+     118,
+     120
+    ],
+    "exercise_pages": [
+     117,
+     119,
+     121
+    ]
+   },
+   {
+    "seq": 18,
+    "title_fr": "L'ENSEIGNEMENT",
+    "page_start": 122,
+    "page_end": 129,
+    "pdf_start": 124,
+    "pdf_end": 131,
+    "lesson_pages": [
+     122,
+     124,
+     126,
+     128
+    ],
+    "exercise_pages": [
+     123,
+     125,
+     127,
+     129
+    ]
+   },
+   {
+    "seq": 19,
+    "title_fr": "LA VIE PROFESSIONNELLE",
+    "page_start": 130,
+    "page_end": 135,
+    "pdf_start": 132,
+    "pdf_end": 137,
+    "lesson_pages": [
+     130,
+     132,
+     134
+    ],
+    "exercise_pages": [
+     131,
+     133,
+     135
+    ]
+   },
+   {
+    "seq": 20,
+    "title_fr": "LA TECHNOLOGIE",
+    "page_start": 136,
+    "page_end": 141,
+    "pdf_start": 138,
+    "pdf_end": 143,
+    "lesson_pages": [
+     136,
+     138,
+     140
+    ],
+    "exercise_pages": [
+     137,
+     139,
+     141
+    ]
+   },
+   {
+    "seq": 21,
+    "title_fr": "L'ARGENT – LA BANQUE",
+    "page_start": 142,
+    "page_end": 149,
+    "pdf_start": 144,
+    "pdf_end": 151,
+    "lesson_pages": [
+     142,
+     144,
+     146,
+     148
+    ],
+    "exercise_pages": [
+     143,
+     145,
+     147,
+     149
+    ]
+   },
+   {
+    "seq": 22,
+    "title_fr": "DIVERSITÉ, POLITIQUE ET SOCIÉTÉ",
+    "page_start": 150,
+    "page_end": 155,
+    "pdf_start": 152,
+    "pdf_end": 157,
+    "lesson_pages": [
+     150,
+     152,
+     154
+    ],
+    "exercise_pages": [
+     151,
+     153,
+     155
+    ]
+   },
+   {
+    "seq": 23,
+    "title_fr": "LA COMMUNICATION",
+    "page_start": 156,
+    "page_end": 161,
+    "pdf_start": 158,
+    "pdf_end": 163,
+    "lesson_pages": [
+     156,
+     158,
+     160
+    ],
+    "exercise_pages": [
+     157,
+     159,
+     161
+    ]
+   },
+   {
+    "seq": 24,
+    "title_fr": "DÉBATS ET OPINIONS",
+    "page_start": 162,
+    "page_end": 167,
+    "pdf_start": 164,
+    "pdf_end": 169,
+    "lesson_pages": [
+     162,
+     164,
+     166
+    ],
+    "exercise_pages": [
+     163,
+     165,
+     167
+    ]
+   },
+   {
+    "seq": 25,
+    "title_fr": "L'ART ET LA CULTURE",
+    "page_start": 168,
+    "page_end": 173,
+    "pdf_start": 170,
+    "pdf_end": 175,
+    "lesson_pages": [
+     168,
+     170,
+     172
+    ],
+    "exercise_pages": [
+     169,
+     171,
+     173
+    ]
+   }
+  ]
+ }
+}

@@ -235,7 +235,8 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 			writeErr(w, 404, "chapter not found")
 			return
 		}
-		erows, err := db.Query(`SELECT id, page_no, seq, instruction_fr, label, note_html, source_ref FROM exercise WHERE chapter_id=? ORDER BY page_no, seq, id`, id)
+		erows, err := db.Query(`SELECT id, page_no, seq, instruction_fr, label, note_html, source_ref,
+			has_image, scan_pages FROM exercise WHERE chapter_id=? ORDER BY page_no, seq, id`, id)
 		if err != nil {
 			writeErr(w, 500, err.Error())
 			return
@@ -247,13 +248,22 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 		var list []ex
 		for erows.Next() {
 			var eid, page, seq int64
-			var instr, label, noteHTML, ref string
-			_ = erows.Scan(&eid, &page, &seq, &instr, &label, &noteHTML, &ref)
+			var instr, label, noteHTML, ref, scanPages string
+			var hasImage int
+			_ = erows.Scan(&eid, &page, &seq, &instr, &label, &noteHTML, &ref, &hasImage, &scanPages)
+			pages := []int{}
+			for _, part := range strings.Split(scanPages, ",") {
+				if n, e := strconv.Atoi(strings.TrimSpace(part)); e == nil && n > 0 {
+					pages = append(pages, n)
+				}
+			}
 			list = append(list, ex{
 				id: eid,
 				m: map[string]any{
 					"id": eid, "page_no": page, "seq": seq, "instruction_fr": instr,
-					"label": label, "note_html": noteHTML, "source_ref": ref, "questions": []map[string]any{},
+					"label": label, "note_html": noteHTML, "source_ref": ref,
+					"has_image": hasImage != 0, "scan_pages": pages,
+					"questions": []map[string]any{},
 				},
 			})
 		}
@@ -648,12 +658,15 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 	})
 }
 
-// scanBase maps a course to its scanned-page image prefix, when the book has
-// one. The vocabulary book is illustration-heavy, so the original page is kept
-// alongside the transcribed text.
+// scanBase maps a course to its scanned-page image prefix. Both books are
+// illustration-heavy, so original exercise pages are kept alongside the
+// transcribed text; exercises flagged has_image show them inline.
 func scanBase(code string) string {
-	if strings.HasPrefix(code, "vocabulaire") {
+	switch {
+	case strings.HasPrefix(code, "vocabulaire"):
 		return "/scans/vocab/p"
+	case strings.HasPrefix(code, "grammaire"):
+		return "/scans/grammaire/p"
 	}
 	return ""
 }

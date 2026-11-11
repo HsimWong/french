@@ -280,6 +280,10 @@ table.data-table th{font-weight:600}
 .scan-toggle{font-size:12px}
 .scan-frame{margin:10px 0 4px;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#fff;max-width:620px}
 .scan-frame img{display:block;width:100%;height:auto}
+/* inline original illustration for picture-based exercises */
+.ex-figure{margin:12px 0 16px;padding:10px;border:1px solid var(--line);border-radius:8px;background:#fff}
+.ex-figure img{display:block;width:100%;max-width:640px;height:auto;margin:0 auto 8px;border-radius:4px}
+.ex-figure figcaption{font-size:11px;color:var(--muted);text-align:center;line-height:1.6}
 .page-group{margin-bottom:18px}
 .page-group-body{border:1px solid var(--line);border-top:0;border-radius:0 0 8px 8px;padding:8px 0 4px;background:#fff}
 .page-group .scan-wrap{padding:2px 20px 0}

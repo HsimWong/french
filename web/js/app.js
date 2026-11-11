@@ -530,7 +530,17 @@ function questionHTML(q) {
   </div>`;
 }
 
-function exerciseHTML(ex) {
+/* An exercise whose questions refer to drawings / photos / cartoons shows the
+   original printed page inline, not hidden behind a toggle. */
+function inlineScan(scanBase, pages) {
+  if (!scanBase || !pages || !pages.length) return '';
+  return `<figure class="ex-figure">
+    ${pages.map(p => `<img src="${scanBase}${p}.jpg" alt="原书印刷第 ${p} 页的插图" loading="lazy">`).join('')}
+    <figcaption>原书插图 · 印刷页 ${pages.join(' / ')}（题目中的图画、表格与照片以原书为准）</figcaption>
+  </figure>`;
+}
+
+function exerciseHTML(ex, scanBase) {
   const twoCols = ex.label && ex.questions.length === 2;
   let inner;
   if (twoCols) {
@@ -555,6 +565,7 @@ function exerciseHTML(ex) {
         </div>
       </div>
       ${note}
+      ${ex.has_image ? inlineScan(scanBase, ex.scan_pages) : ''}
       ${inner}
     </section>`;
 }
@@ -581,7 +592,7 @@ async function viewExercise(id) {
         <div class="sheet-head" style="border-radius:8px 8px 0 0"><span>${esc(d.chapter_title_fr)} · EXERCICES</span><span class="folio">${p} • ${FOLIO[p] || ''}</span></div>
         <div class="page-group-body">
           ${scanBlock(d.scan_base, p)}
-          ${byPage[p].map(exerciseHTML).join('')}
+          ${byPage[p].map(e => exerciseHTML(e, d.scan_base)).join('')}
         </div>
       </div>`).join('')}
     <div class="submit-bar">

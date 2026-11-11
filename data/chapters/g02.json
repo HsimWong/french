@@ -1,0 +1,233 @@
+{
+  "course": "grammaire",
+  "seq": 2,
+  "title_fr": "L'ADJECTIF (1)",
+  "page_start": 12,
+  "page_end": 17,
+  "pdf_start": 14,
+  "pdf_end": 19,
+  "sections": [
+    { "title_fr": "MASCULIN et FÉMININ des ADJECTIFS", "page_no": 12 },
+    { "title_fr": "SINGULIER et PLURIEL des ADJECTIFS", "page_no": 14 },
+    { "title_fr": "L'ACCORD de L'ADJECTIF avec les PRONOMS SUJETS", "page_no": 16 }
+  ],
+  "blocks": [
+    { "page_no": 12, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">2</span> L'ADJECTIF (1)" },
+    { "page_no": 12, "seq": 2, "type": "section_title", "body_html": "MASCULIN et <strong>FÉMININ</strong> des <strong>ADJECTIFS</strong>" },
+    { "page_no": 12, "seq": 3, "type": "keypoint", "body_html": "Paul est grand, blond et frisé.<br>Anne est grande, blonde et frisée." },
+    { "page_no": 12, "seq": 4, "type": "subhead", "body_html": "En général, pour former le féminin des adjectifs, on ajoute « -e » au masculin :" },
+    { "page_no": 12, "seq": 5, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>masculin</span><span class='wordlist'><em>Paul est grand.</em><br><em>Il est original.</em><br><em>Il est marié.</em></span></div><div><span class='lead'>féminin</span><span class='wordlist'><em>Anne est grande.</em><br><em>Elle est originale.</em><br><em>Elle est mariée.</em></span></div></div><div class='annotation'>Règle générale :<br>masculin + -e</div>" },
+    { "page_no": 12, "seq": 6, "type": "para", "body_html": "<p class='bullet'>Si le masculin se termine par « -e », le féminin est identique :</p><p class='sample'><em>Il est sympathique.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Elle est sympathique.</em></p>" },
+    { "page_no": 12, "seq": 7, "type": "phonetic", "body_html": "Les finales « -s », « -d », « -t » sont muettes au masculin mais sonores au féminin, à cause du « -e » :<br><span class='example-line'><em>François est grand, blond et intelligent</em><br><em>Françoise est grande, blonde et intelligente.</em></span>" },
+    { "page_no": 12, "seq": 8, "type": "subhead", "body_html": "Parfois, on double la consonne finale au féminin :" },
+    { "page_no": 12, "seq": 9, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>Giorgio est italien.</em><br><em>Il est mignon.</em><br><em>Il est ponctuel.</em></span></div><div><span class='wordlist'><em>Bruna est italienne.</em><br><em>Elle est mignonne.</em><br><em>Elle est ponctuelle.</em></span></div></div><div class='annotation'>-en/-enne<br>-on/-onne<br>-el/-elle</div>" },
+    { "page_no": 12, "seq": 10, "type": "subhead", "body_html": "Parfois, toute la finale change au féminin :" },
+    { "page_no": 12, "seq": 11, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>Marc est sportif.</em><br><em>Il est sérieux.</em><br><em>Il est rêveur.</em><br><em>Il est calculateur.</em><br><em>Il est étranger.</em><br><em>Il est discret.</em></span></div><div><span class='wordlist'><em>Cathy est sportive.</em><br><em>Elle est sérieuse.</em><br><em>Elle est rêveuse.</em><br><em>Elle est calculatrice.</em><br><em>Elle est étrangère.</em><br><em>Elle est discrète.</em></span></div></div><div class='annotation'>-f/-ve<br>-eux/-euse<br>-eur/-euse<br>-teur/-trice<br>-er/-ère<br>-et/-ète</div>" },
+    { "page_no": 12, "seq": 12, "type": "subhead", "body_html": "Cas particuliers :" },
+    { "page_no": 12, "seq": 13, "type": "list", "body_html": "<em>beau/belle&nbsp;&nbsp;&nbsp; nouveau/nouvelle&nbsp;&nbsp;&nbsp; faux/fausse&nbsp;&nbsp;&nbsp; doux/douce&nbsp;&nbsp;&nbsp; roux/rousse&nbsp;&nbsp;&nbsp; jaloux/jalouse</em><br><em>gentil/gentille&nbsp;&nbsp;&nbsp; vieux/vieille&nbsp;&nbsp;&nbsp; gros/grosse&nbsp;&nbsp;&nbsp; bas/basse&nbsp;&nbsp;&nbsp; fou/folle&nbsp;&nbsp;&nbsp; long/longue</em><br><em>frais/fraîche&nbsp;&nbsp;&nbsp; sec/sèche&nbsp;&nbsp;&nbsp; blanc/blanche&nbsp;&nbsp;&nbsp; grec/grecque&nbsp;&nbsp;&nbsp; public/publique</em>" },
+    { "page_no": 12, "seq": 14, "type": "xref", "body_html": "Adjectifs de couleur, p. 14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professions, p. 34&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Place des adjectifs, p. 54" },
+
+    { "page_no": 14, "seq": 15, "type": "running_head", "body_html": "L'ADJECTIF (1)" },
+    { "page_no": 14, "seq": 16, "type": "section_title", "body_html": "SINGULIER et <strong>PLURIEL</strong> des <strong>ADJECTIFS</strong>" },
+    { "page_no": 14, "seq": 17, "type": "keypoint", "body_html": "Paul et Marc sont <strong>blonds</strong>. Anne et Marie sont <strong>blondes</strong>." },
+    { "page_no": 14, "seq": 18, "type": "subhead", "body_html": "Pour former le pluriel, on ajoute « -s » au singulier :" },
+    { "page_no": 14, "seq": 19, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>singulier</span><span class='wordlist'><em>Paul est grand.</em><br><em>Lou est grande.</em></span></div><div><span class='lead'>pluriel</span><span class='wordlist'><em>Paul et Marc sont grands.</em><br><em>Lou et Léa sont grandes.</em></span></div></div><div class='annotation'>Règle générale :<br>singulier + -s</div>" },
+    { "page_no": 14, "seq": 20, "type": "para", "body_html": "<p class='bullet'>Quand le singulier se termine par « -s » ou « -x », le pluriel est identique :</p><p class='sample'><em>Il est français.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Ils sont français.</em><br><em>Il est roux.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Ils sont roux.</em></p>" },
+    { "page_no": 14, "seq": 21, "type": "phonetic", "body_html": "Le « -s » et le « -x » ne se prononcent pas : <em>Ils sont grands/ et roux/</em>" },
+    { "page_no": 14, "seq": 22, "type": "subhead", "body_html": "« -al »/« -au » deviennent « -aux » :" },
+    { "page_no": 14, "seq": 23, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>Paul est beau.</em><br><em>Il est original.</em><br><em>Il est sentimental.</em></span></div><div><span class='wordlist'><em>Paul et Marc sont beaux.</em><br><em>Ils sont originaux.</em><br><em>Ils sont sentimentaux.</em></span></div></div><div class='annotation'>-eau/-eaux<br>-al/-aux</div>" },
+    { "page_no": 14, "seq": 24, "type": "list", "body_html": "Mais : <em>banal/banal<strong>s</strong>&nbsp;&nbsp;&nbsp; fatal/fatal<strong>s</strong>&nbsp;&nbsp;&nbsp; naval/naval<strong>s</strong>&nbsp;&nbsp;&nbsp; final/final<strong>s</strong></em>" },
+    { "page_no": 14, "seq": 25, "type": "warning", "body_html": "Le féminin pluriel est régulier : « ale » devient « ales »<br><span class='example-line'><em>Elle est originale.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Elles sont originales.</em><br><em>Elle est sentimentale.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Elles sont sentimentales.</em></span>" },
+    { "page_no": 14, "seq": 26, "type": "warning", "body_html": "Les groupes « mixtes » ont un accord masculin :<br><span class='example-line'><em>Paul, Anne et Marie sont <strong>bruns</strong> et ils sont <strong>beaux</strong>.</em></span>" },
+    { "page_no": 14, "seq": 27, "type": "subhead", "body_html": "Les <strong>adjectifs de couleur</strong> s'accordent au pluriel, sauf dans certains cas :" },
+    { "page_no": 14, "seq": 28, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'><strong>Couleurs dérivées d'un objet</strong></p><p class='sample'><em>une robe <strong>orange</strong></em><br><em>des pulls <strong>marron</strong></em><br><em>des yeux <strong>noisette</strong></em></p></div><div><p class='bullet'><strong>Couleurs composées</strong></p><p class='sample'><em>une robe <strong>vert foncé</strong></em><br><em>des pulls <strong>bleu marine</strong></em><br><em>des yeux <strong>gris clair</strong></em></p></div></div>" },
+    { "page_no": 14, "seq": 29, "type": "warning", "body_html": "« Rose », « mauve », « violette » et « châtain » s'accordent :<br><span class='example-line'><em>des robes roses, des chemises violettes, des cheveux châtains</em></span>" },
+
+    { "page_no": 16, "seq": 30, "type": "running_head", "body_html": "L'ADJECTIF (1)" },
+    { "page_no": 16, "seq": 31, "type": "section_title", "body_html": "L'<strong>ACCORD</strong> de L'<strong>ADJECTIF</strong> avec les <strong>PRONOMS SUJETS</strong>" },
+    { "page_no": 16, "seq": 32, "type": "keypoint", "body_html": "– Vous êtes prête, madame, vous êtes prêts, messieurs ?<br>– Oui, on est prêts." },
+    { "page_no": 16, "seq": 33, "type": "para", "body_html": "L'accord des adjectifs varie selon les personnes remplacées par les pronoms." },
+    { "page_no": 16, "seq": 34, "type": "subhead", "body_html": "« JE » et « TU » : accord masculin ou féminin singulier" },
+    { "page_no": 16, "seq": 35, "type": "example", "body_html": "– <em><strong>Tu</strong> es étudiant, Ugo ?</em>&nbsp;&nbsp;&nbsp;&nbsp;– <em>Oui, <strong>je</strong> suis étudiant.</em><br>– <em><strong>Tu</strong> es étudiante, Sylvia ?</em>&nbsp;&nbsp;&nbsp;&nbsp;– <em>Oui, <strong>je</strong> suis étudiante.</em>" },
+    { "page_no": 16, "seq": 36, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'>« VOUS » de politesse : accord masculin ou féminin <strong>singulier</strong></p><p class='sample'><em>– <strong>Vous</strong> êtes prêt, monsieur ?</em><br><em>– <strong>Vous</strong> êtes prête, madame ?</em></p></div><div><p class='bullet'>« VOUS » pluriel : accord masculin ou féminin <strong>pluriel</strong></p><p class='sample'><em>– <strong>Vous</strong> êtes prêts, messieurs ?</em><br><em>– <strong>Vous</strong> êtes prêtes, mesdames ?</em></p></div></div>" },
+    { "page_no": 16, "seq": 37, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'>« ON » = « tout le monde » : accord masculin <strong>singulier</strong></p><p class='sample'><em>En France, <strong>on est</strong> gourmand.</em><br><em>Quand <strong>on est</strong> malade, <strong>on est</strong> fatigué.</em></p></div><div><p class='bullet'>« ON » = « nous » : accord masculin ou féminin <strong>pluriel</strong></p><p class='sample'><em>Paul et moi, <strong>on est</strong> gourmands.</em><br><em>Anna et moi, <strong>on est</strong> fatiguées.</em></p></div></div>" },
+    { "page_no": 16, "seq": 38, "type": "para", "body_html": "<p class='bullet'>Avec « on » = « nous », le verbe est au singulier et l'adjectif au pluriel :</p><p class='sample'><em>Ugo et moi, on <strong>est</strong> grands et blonds.</em><br><em>Patricia et moi, on <strong>est</strong> grandes et blondes.</em></p>" },
+    { "page_no": 16, "seq": 39, "type": "subhead", "body_html": "« ON » = « homme » ou « femme » : accord masculin ou féminin <strong>singulier</strong>" },
+    { "page_no": 16, "seq": 40, "type": "example", "body_html": "<em>Quand <strong>on est</strong> sportif, on est musclé.</em><br><em>Quand <strong>on est</strong> sportive, on est musclée.</em>" },
+    { "page_no": 16, "seq": 41, "type": "xref", "body_html": "Accords des adjectifs, p. 12 et 14" }
+  ],
+  "exercises": [
+    {
+      "page_no": 13, "seq": 1,
+      "instruction_fr": "Mettez au féminin, selon le modèle.",
+      "label": "", "note_html": "Michael est anglais. Cathy <em class='model'>est anglaise.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Franz est allemand.<br>Petra {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Mon père est français.<br>Ma mère {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Mon frère est grand.<br>Ma sœur {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Mon oncle est blond.<br>Ma tante {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Le petit garçon est content.<br>La petite fille {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Monsieur Charlus est élégant.<br>Madame Charlus {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Paul est intelligent.<br>Alice {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Le mari de Zoé est sympathique.<br>La femme de Max {{L}}" }
+      ]
+    },
+    {
+      "page_no": 13, "seq": 2,
+      "instruction_fr": "Mettez au féminin ou au masculin, selon le modèle.",
+      "label": "", "note_html": "Monsieur Daudet est agréable et charmant.&nbsp;&nbsp;&nbsp;&nbsp;Madame Daudet est <em class='model'>agréable et charmante.</em><br>Monsieur Daudet est <em class='model'>sérieux et intelligent.</em>&nbsp;&nbsp;&nbsp;&nbsp;Madame Daudet est sérieuse et intelligente.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Axel est jeune et timide.<br>Joanna est {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Le père de Kevin est {{L}}<br>La mère de Kevin est blonde et frisée." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le frère de Laure est grand et bronzé.<br>La sœur de Kevin est {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. L'infirmier est {{L}}<br>L'infirmière est gentille et compétente." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Le boulanger est souriant et bavard.<br>La boulangère est {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Steve est {{L}}<br>Nancy est intelligente, créative, originale…" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Le serveur est mignon et sympathique.<br>La serveuse est {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Le concierge est paresseux et agressif.<br>La concierge est {{L}}" }
+      ]
+    },
+    {
+      "page_no": 13, "seq": 3,
+      "instruction_fr": "Mettez au féminin, selon le modèle.",
+      "label": "", "note_html": "1. Un sac neuf et une valise <em class='model'>neuve.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Un sac neuf et une valise <em class='model'>neuve.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Un pull bleu et une veste {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Un tapis ancien et une armoire {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Un poisson frais et une viande {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Un projet fou et une idée {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Un chapeau blanc et une robe {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Un virage dangereux et une route {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Un film génial et une pièce {{L}}" }
+      ]
+    },
+    {
+      "page_no": 13, "seq": 4,
+      "instruction_fr": "Classez selon le genre.",
+      "label": "", "note_html": "gentille – gros – folle – stupide – longue – bas – intéressant – chaude – fatigué", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "Masculin : <em class='model'>bas</em><br>{{L}}<br>{{L}}<br>{{L}}" },
+        { "seq": 2, "type": "choice", "stem_html": "Féminin : {{L}}<br>{{L}}<br>{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 13, "seq": 5,
+      "instruction_fr": "Mettez le texte au masculin.",
+      "label": "", "note_html": "Mona est canadienne. Elle est grande, brune et sportive. Elle est belle (mais un peu superficielle).", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<em class='model'>Alain</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 15, "seq": 6,
+      "instruction_fr": "Mettez au pluriel, selon le modèle.",
+      "label": "", "note_html": "1. Pierre est sympathique. Pierre et Alain <em class='model'>sont sympathiques.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Pierre est sympathique. Pierre et Alain <em class='model'>sont sympathiques.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Stephan est réservé. Stephan et William {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Arthur est petit et mince. Arthur et Bruno {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Le père de Jim est roux. Les parents de Jim {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Marcello est jaloux. Marcello et Alberto {{L}}" }
+      ]
+    },
+    {
+      "page_no": 15, "seq": 7,
+      "instruction_fr": "Complétez en mettant au pluriel les adjectifs soulignés.",
+      "label": "C'est la mode !", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– J'aime bien ce pull, il est très doux, mais il est trop <u>court</u> et il est trop <u>serré</u>.<br>– C'est la mode ! Cette année, les pulls sont {{L}} et ils sont très {{L}} !" },
+        { "seq": 2, "type": "cloze", "stem_html": "– Oui, mais moi, je suis <u>classique</u>, <u>ringarde</u> et <u>démodée</u>…<br>– Alors, essayez ces pantalons, ils sont vraiment {{L}}, {{L}} et {{L}} !" }
+      ]
+    },
+    {
+      "page_no": 15, "seq": 8,
+      "instruction_fr": "Mettez au pluriel selon le modèle.",
+      "label": "", "note_html": "1. – Michel est intelligent et sa femme aussi. – <em class='model'>C'est vrai, ils sont intelligents, tous les deux.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Michel est intelligent et sa femme aussi. – <em class='model'>C'est vrai, ils sont intelligents, tous les deux.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Solal est beau et Ariane aussi. – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Paul est enrhumé et Julie aussi. – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – David est original et Luca aussi. – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 15, "seq": 9,
+      "instruction_fr": "Commentez le menu, selon le modèle.",
+      "label": "", "note_html": "1. – Le poisson est frais. Et les crevettes ? – <em class='model'>Elles sont aussi très fraîches !</em>", "has_image": true, "scan_pages": [15],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Le poisson est frais. Et les crevettes ? – <em class='model'>Elles sont aussi très fraîches !</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Le riz est salé. Et les frites ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Le dessert est original. Et les entrées ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Le melon est sucré. Et les pêches ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 15, "seq": 10,
+      "instruction_fr": "Transformez selon le modèle.",
+      "label": "", "note_html": "1. Un pull léger. <em class='model'>Des pulls légers.</em>&nbsp;&nbsp;&nbsp;&nbsp;Une robe légère. <em class='model'>Des robes légères.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Un pull léger. <em class='model'>Des pulls légers.</em><br>Une robe légère. <em class='model'>Des robes légères.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Un plat régional. Des {{b}}<br>Une spécialité {{b}}. Des {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Un poisson grillé. Des {{b}}<br>Une viande {{b}}. Des {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Un sac marron. Des {{b}}<br>Une valise {{b}}. Des {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Un gant vert foncé. Des {{b}}<br>Une veste {{b}}. Des {{b}}" }
+      ]
+    },
+    {
+      "page_no": 15, "seq": 11,
+      "instruction_fr": "Décrivez les vêtements qui sont dans votre armoire.",
+      "label": "", "note_html": "<em class='model'>Des jeans beiges, des pulls bleu marine,</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 17, "seq": 12,
+      "instruction_fr": "Mettez les accords manquants.",
+      "label": "", "note_html": "Vous êtes pressé, madame Doisnel ?", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Tu es prêt{{b}}, ma chérie ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous êtes étudiant{{b}}, mesdemoiselles ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Eduardo et moi, on est napolitain{{b}}." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Olga, Elsa et moi, on est polonais{{b}}." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous êtes satisfait{{b}}, messieurs ?" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Vous êtes seul{{b}}, madame ?" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – Mes frères et moi, on est tous blond{{b}}." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. – Vous êtes américain{{b}}, mesdames ?" },
+        { "seq": 9, "type": "cloze", "stem_html": "9. – Cathy : Linda et moi, on est irlandais{{b}}." },
+        { "seq": 10, "type": "cloze", "stem_html": "10. – Tu es fatigué{{b}}, maman ?" }
+      ]
+    },
+    {
+      "page_no": 17, "seq": 13,
+      "instruction_fr": "Complétez les dialogues. Accordez les adjectifs.",
+      "label": "", "note_html": "– Vous êtes suédois ou norvégien, Ingrmar ? – <em class='model'>Je suis suédois.</em><br>– Et vous, Ingrid, vous <em class='model'>êtes suédoise</em> également ?", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous êtes étudiant ou lycéen, Marc ? – {{L}} lycéen.<br>– Et vous, Anne et Suzy, vous {{L}} également ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous êtes célibataire ou marié, Jean ? – {{L}} marié.<br>– Et vous, Cathy, vous {{L}} également ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous êtes réservé ou bavard, Martin ? – En général, {{L}} réservé.<br>– Et vous, Julie et Nadia, vous {{L}} également ?" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous êtes optimiste ou pessimiste, Veronica ? – En général, {{L}} optimiste.<br>– Et vous, John, vous {{L}} également ?" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous êtes calme ou nerveux, avant un examen, Léo ? – En général, {{L}} nerveux.<br>– Et vous, Paul et Marie, vous {{L}} ? – Non, nous, on {{L}}" }
+      ]
+    },
+    {
+      "page_no": 17, "seq": 14,
+      "instruction_fr": "Associez les adjectifs. Faites des phrases avec « on » (plusieurs possibilités).",
+      "label": "", "note_html": "jeune&nbsp;&nbsp;&nbsp;&nbsp;heureux<br>vieux&nbsp;&nbsp;&nbsp;&nbsp;fatigué<br>enrhumé&nbsp;&nbsp;&nbsp;&nbsp;impatient<br>amoureux&nbsp;&nbsp;&nbsp;&nbsp;prudent", "has_image": true, "scan_pages": [17],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "<em class='model'>Quand on est jeune, on est impatient.</em><br><em class='model'>Quand</em> {{L}}" },
+        { "seq": 2, "type": "assoc", "stem_html": "{{L}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "{{L}}" }
+      ]
+    },
+    {
+      "page_no": 17, "seq": 15,
+      "instruction_fr": "Mettez les accords manquants.",
+      "label": "Une famille européenne", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Parlez-moi de votre famille, mademoiselle Berg…<br>– Eh bien : ma grand-mère est anglais{{b}}, mes parents sont espagnol{{b}}, mes cousines sont ita-<br>lien{{b}} et moi, je suis allemand{{b}}. Dans ma famille, on est tous blond{{b}}, bavard{{b}},<br>optimiste{{b}}, musicien{{b}} et européen{{b}} !" }
+      ]
+    }
+  ]
+}

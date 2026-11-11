@@ -48,7 +48,9 @@ CREATE TABLE IF NOT EXISTS exercise (
   instruction_fr TEXT NOT NULL,
   label          TEXT,
   note_html      TEXT,
-  source_ref     TEXT NOT NULL
+  source_ref     TEXT NOT NULL,
+  has_image      INTEGER NOT NULL DEFAULT 0,
+  scan_pages     TEXT NOT NULL DEFAULT ''
 );
 CREATE INDEX IF NOT EXISTS idx_exercise_chapter ON exercise(chapter_id, page_no, seq);
 
