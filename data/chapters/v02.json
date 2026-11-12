@@ -1,0 +1,115 @@
+{
+  "course": "vocabulaire",
+  "seq": 2,
+  "title_fr": "LA FAMILLE",
+  "page_start": 12,
+  "page_end": 15,
+  "pdf_start": 14,
+  "pdf_end": 17,
+  "sections": [
+    { "title_fr": "LES LIENS FAMILIAUX", "page_no": 12 },
+    { "title_fr": "LA VIE DE FAMILLE", "page_no": 14 }
+  ],
+  "blocks": [
+    { "page_no": 12, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">2</span> LA FAMILLE" },
+    { "page_no": 12, "seq": 2, "type": "section_title", "body_html": "LES LIENS FAMILIAUX" },
+    { "page_no": 12, "seq": 3, "type": "list", "body_html": "<div class='bullet'>Antoine et Rose sont <b>les parents</b> d'Éric, Bruno et Marianne. Antoine est leur <b>père</b>, Rose est leur <b>mère</b>.<br>Rose et Antoine sont <b>mariés</b> : Antoine est le <b>mari</b> de Rose, Rose est la <b>femme</b> d'Antoine.</div>" },
+    { "page_no": 12, "seq": 4, "type": "list", "body_html": "<div class='bullet'>Rose et Antoine ont trois <b>enfants</b> : deux <b>fils</b> (Éric et Bruno) et une <b>fille</b> (Marianne).<br>Éric et Bruno sont les deux <b>frères</b> de Marianne, Marianne est la <b>sœur</b> d'Éric et de Bruno.</div>" },
+    { "page_no": 12, "seq": 5, "type": "list", "body_html": "<div class='bullet'>Antoine et Rose ont six <b>petits-enfants</b> : trois <b>petites-filles</b> et trois <b>petits-fils</b>.<br>Antoine et Rose sont les <b>grands-parents (paternels)</b> de Julie (= les parents de son père).<br>Rose est la <b>grand-mère (maternelle)</b> de Mathias (= la mère de sa mère),<br>Antoine est son <b>grand-père</b> (maternel).</div>" },
+    { "page_no": 12, "seq": 6, "type": "list", "body_html": "<div class='bullet'>Irène est la <b>tante</b> de Mathias, Éric est son <b>oncle</b>.<br>Sarah est la <b>nièce</b> d'Éric, Mathias est le <b>neveu</b> d'Éric.<br>Mathias est le <b>cousin (germain)</b> de Julie, Julie est la <b>cousine (germaine)</b> de Sarah.</div>" },
+    { "page_no": 12, "seq": 7, "type": "list", "body_html": "<div class='bullet'>Éric est le <b>beau-frère</b> de Pierre (= le frère de sa femme).<br>Pierre est aussi le <b>beau-frère</b> d'Éric (= le mari de sa sœur).<br>Marianne est la <b>belle-sœur</b> d'Irène (= la sœur de son mari).<br>Irène est aussi la <b>belle-sœur</b> de Marianne (= la femme de son frère).</div>" },
+    { "page_no": 12, "seq": 8, "type": "list", "body_html": "<div class='bullet'>Antoine et Rose sont les <b>beaux-parents</b> d'Irène (= les parents de son mari).<br>Antoine est son <b>beau-père</b>, Rose est sa <b>belle-mère</b>.<br>Pierre est le <b>gendre</b> d'Antoine (= le mari de sa fille). Irène est la <b>belle-fille</b> d'Antoine (= la femme de son fils).</div>" },
+
+    { "page_no": 14, "seq": 9, "type": "running_head", "body_html": "LA FAMILLE" },
+    { "page_no": 14, "seq": 10, "type": "section_title", "body_html": "LA VIE DE FAMILLE" },
+    { "page_no": 14, "seq": 11, "type": "list", "body_html": "<div class='bullet'>Jean-Louis vit en Australie. Il est marié à Eva. Eva et Jean-Louis n'ont pas pu avoir d'enfant et ont décidé d'<b>adopter</b> une petite fille, Lisa. Lisa est leur <b>fille adoptive</b>. Jean-Louis et Eva sont les <b>parents adoptifs</b> de Lisa. Lisa n'a ni frère ni sœur : elle est <b>fille unique</b>.</div>" },
+    { "page_no": 14, "seq": 12, "type": "list", "body_html": "<div class='bullet'>Jean-Louis n'a pas vu ses parents depuis plusieurs années. Il vient en France à Noël pour <b>passer les fêtes en famille</b>. Éva fera connaissance avec sa <b>belle-famille</b> (= la famille de son mari).</div>" },
+    { "page_no": 14, "seq": 13, "type": "list", "body_html": "<div class='bullet'>Jean-Louis a trois <b>frères aînés</b> (plus âgés que lui) et deux <b>sœurs cadettes</b> (plus jeunes que lui). Six enfants ! En France, c'est une <b>famille nombreuse</b>.</div>" },
+    { "page_no": 14, "seq": 14, "type": "list", "body_html": "<div class='bullet'>Deux frères de Jean-Louis sont <b>jumeaux</b> (ils sont nés le même jour) et ses deux sœurs, les deux <b>petites dernières</b>, sont, elles aussi, des <b>sœurs jumelles</b>.</div>" },
+    { "page_no": 14, "seq": 15, "type": "list", "body_html": "<div class='bullet'>Pour l'occasion, les parents de Jean-Louis ont invité la <b>famille proche</b> (ses oncles, tantes et cousins germains). Ils n'ont pas invité les <b>parents éloignés</b> (les cousins de ses cousins, les parents de son beau-frère, etc.) car ils sont trop nombreux.</div>" },
+    { "page_no": 14, "seq": 16, "type": "list", "body_html": "<div class='bullet'>En arrivant, Jean-Louis prend des nouvelles de chacun : l'un de ses frères, Sébastien, qui avait déjà un fils (Erwan), vient de <b>se remarier</b> avec Agnès, qui avait déjà deux filles (Agathe et Lucie). Ils forment ensemble une <b>famille recomposée</b>. Agnès est la <b>belle-mère</b> d'Erwan, Sébastien est le <b>beau-père</b> d'Agathe et Lucie. Erwan est <b>le beau-fils</b> d'Agnès, Lucie et Agathe sont les <b>belles-filles</b> de Sébastien. Sébastien et Agnès attendent une petite fille qui aura donc deux <b>demi-sœurs</b> et un <b>demi-frère</b> (les demi-frères et les demi-sœurs ont soit le même père, soit la même mère).</div>" },
+    { "page_no": 14, "seq": 17, "type": "list", "body_html": "<div class='bullet'>Jean-Louis fait la connaissance du fils de sa sœur Alice. « Tu <b>ressembles</b> beaucoup à ta maman, il y a vraiment <b>un air de famille</b> ! »</div>" },
+    { "page_no": 14, "seq": 18, "type": "remark", "body_html": "<span class='remark-label'>Remarques.</span> <i>1. Les parents sont « le père et la mère ». Un parent proche peut être un oncle, un parent éloigné, la tante d'un beau-frère. 2. Ma belle-mère signifie la mère de mon mari (ou de ma femme), mais aussi la nouvelle femme de mon père. De même, mon beau-père signifie le père de mon mari (ou de ma femme), mais aussi le nouveau conjoint de ma mère. Enfin, la belle-fille désigne aussi bien la femme du fils que la fille du nouveau conjoint. 3. La famille signifie « le père, la mère et les enfants », mais aussi l'ensemble des parents proches ou éloignés.</i>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 13, "seq": 1,
+      "instruction_fr": "Vrai ou faux ? Reportez-vous aux indications de la page de gauche.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [12],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Anaïs est la cousine de Bruno.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Jérémie et Léo sont deux enfants de Marianne et Pierre.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Bruno est l'oncle de Julie.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Sarah a deux oncles.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Julie est la tante de Bruno.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Bruno est le frère de Pierre.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. Bruno est le beau-frère de Pierre.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 8, "type": "tf", "stem_html": "8. Antoine est le beau-père de Pierre.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 9, "type": "tf", "stem_html": "9. Anaïs et Sarah sont les sœurs de Mathias.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 10, "type": "tf", "stem_html": "10. Rose est la grand-mère maternelle de Julie.<br>Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 13, "seq": 2,
+      "instruction_fr": "Complétez en respectant les indications de la page de gauche.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [12],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Jérémie, Léo, Anaïs, Sarah, Mathias et Julie sont les {{b}} de Bruno." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Anaïs et Sarah sont les {{b}} de Marianne et Pierre." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Marianne et Pierre sont les {{b}} de Mathias." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Léo est le {{b}} de Jérémie." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Anaïs est la {{b}} d'Antoine et Rose." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Anaïs est la {{b}} de Julie." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Pierre est le {{b}} de Bruno." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Antoine et Rose sont les {{b}} de Pierre." },
+        { "seq": 9, "type": "cloze", "stem_html": "9. Marianne est la {{b}} de Julie." },
+        { "seq": 10, "type": "cloze", "stem_html": "10. Irène est la {{b}} de Bruno." }
+      ]
+    },
+    {
+      "page_no": 13, "seq": 3,
+      "instruction_fr": "Complétez l'arbre en respectant les informations suivantes :",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [13],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Juliette a trois enfants.<br>Ariane a un frère et une sœur.<br>Élodie est la fille de Sébastien.<br>Ariane est la petite-fille de Nicole.<br>Gérard est le grand-père paternel de Marie.<br>Laure est la belle-fille de Nicole.<br>Frédéric est l'oncle de Damien.<br>Sébastien est le beau-frère de Frédéric.<br>Élodie et Ariane sont sœurs.<br>Damien est le cousin de Marie.<br>Laure et Frédéric ont une seule fille.<br>Nicole est la belle-mère de Sébastien.<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 15, "seq": 4,
+      "instruction_fr": "Choisissez la bonne réponse.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Romain est le cousin du père de la belle-sœur de Lucie. C'est un {{o:parent proche|parent adoptif|grand-parent|parent éloigné}} de Lucie." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Sophie et son mari aiment les familles nombreuses, ils espèrent avoir beaucoup {{o:de parents proches|de parents éloignés|d'enfants|de petits-enfants}}." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Pierre vit avec sa femme et le fils de sa femme. Ils forment une {{o:famille recomposée|famille nombreuse|belle-famille|famille proche}}." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Miroslav est le mari de la fille de Svitlana : c'est le {{o:fils adoptif|gendre|cousin éloigné|beau-père}} de Svitlana." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Tous les frères et sœurs de René sont plus âgés que lui : René est {{o:l'aîné|le jumeau|le beau-frère|le petit dernier}}." },
+        { "seq": 6, "type": "choice", "stem_html": "6. Fabienne s'est remariée avec Philippe qui avait déjà une fille, Anna. Anna est la {{o:petite-fille|belle-fille|fille|fille unique}} de Fabienne." }
+      ]
+    },
+    {
+      "page_no": 15, "seq": 5,
+      "instruction_fr": "Complétez.",
+      "label": "Chantal Descluse est écrivain. Un journaliste lui pose des questions :", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Le personnage de votre roman, Maxime, a beaucoup de frères et sœurs. Est-ce que vous venez, vous aussi, d'une {{L}} ?<br>– Non, je n'ai qu'une sœur." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Êtes-vous {{b}} ou la {{b}} ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Je suis l'aînée, mais de quelques minutes seulement car nous sommes {{b}}, ma sœur et moi." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Les {{b}}, en général, ont un rapport particulier à la famille." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Oui, il y a d'abord une très forte ressemblance. Croyez-moi, entre ma sœur et moi, c'est plus qu'un {{b}}." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Dans votre roman, Maxime quitte sa femme pour se remarier avec l'ex-femme de son frère, autrement dit, il épouse sa {{b}} !" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – Oui, et c'est difficile, psychologiquement, pour les enfants : leur tante devient leur {{b}} et leurs {{b}} deviennent presque leurs frères et sœurs." }
+      ]
+    },
+    {
+      "page_no": 15, "seq": 6,
+      "instruction_fr": "À vous !",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Parlez de votre famille et des liens familiaux.<br>{{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Connaissez-vous des familles recomposées ? Décrivez-en la structure.<br>{{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Dans votre langue, existe-t-il un équivalent de « belle-mère », de « beau-père » (au sens de nouvelle femme du père ou de nouveau conjoint de la mère) ?<br>{{T}}" }
+      ]
+    }
+  ]
+}
