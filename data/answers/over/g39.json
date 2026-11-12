@@ -1,0 +1,32 @@
+{
+  "pages": {
+    "168": {
+      "1": {
+        "1": "À treize heures, il va déjeuner avec M. Reiser à La Bonne Assiette. Il va discuter avec lui du dossier Samson's. À quinze heures, son avion va partir de l'aéroport de Roissy. Il va arriver à Londres à seize heures quarante-cinq",
+        "2": "Mardi matin, de huit heures trente à treize heures, M. Blanchot va visiter l'usine Samson's et il va passer à la banque Pikslow. Ensuite, il va déjeuner à treize heures avec M. Shark. Ensemble, ils vont signer de nouveaux contrats. De dix-sept à vingt heures, il va étudier le dossier Europa. À vingt heures, il va dîner avec Mme Rover",
+        "3": "Mercredi matin, il va prendre un taxi à sept heures ; son avion va partir pour Paris à huit heures quinze"
+      }
+    },
+    "169": {
+      "2": {
+        "6": "allons rater le dernier métro"
+      }
+    },
+    "171": {
+      "1": {
+        "6": "Oui, je vais leur téléphoner"
+      }
+    },
+    "173": {
+      "1": {
+        "1": ["Je ne vais pas crier", "Je ne vais pas tomber malade", "Je ne vais pas craquer", "Je ne vais pas tout casser"]
+      },
+      "2": {
+        "2": ["Est-ce que vous allez partir en train", "Non, je ne vais pas partir en train"],
+        "3": ["Est-ce que vous allez passer par les Alpes", "Non, je ne vais pas passer par les Alpes"],
+        "4": ["Est-ce que vous allez dormir à Nice", "Non, je ne vais pas dormir à Nice"],
+        "5": ["Est-ce que vous allez rentrer en août", "Non, je ne vais pas rentrer en août"]
+      }
+    }
+  }
+}

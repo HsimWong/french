@@ -1,0 +1,23 @@
+{
+  "pages": {
+    "157": {
+      "1": {
+        "3": [
+          "Il lui demande si elle a la liste des hôtels du quartier, où se trouve le Bristol et combien coûte une chambre double",
+          "Il lui demande de noter toutes ces informations"
+        ]
+      },
+      "3": {
+        "1": [
+          "Elle lui répond qu'elle va au cinéma avec Jules",
+          "Il lui demande si elle est libre dimanche",
+          "Elle lui répond qu'elle va écouter un concert",
+          "Il lui demande où elle va",
+          "Elle lui répond qu'elle va à l'église Saint-Médard",
+          "Il lui demande si elle y va seule et il lui dit qu'il adore le piano",
+          "Elle lui demande de venir à dix heures pile"
+        ]
+      }
+    }
+  }
+}

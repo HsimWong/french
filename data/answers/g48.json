@@ -1,0 +1,19 @@
+{
+ "pages": {
+  "229": {
+   "1": {
+    "1": "téléchargeras le deuxième épisode de la série quand tu auras téléchargé le premier",
+    "2": "achètera une voiture quand elle aura passé le permis",
+    "3": "ferons l'exercice n° 3 quand nous aurons fait l'exercice n° 2",
+    "4": "passeront un examen quand ils auront fini le stage"
+   },
+   "2": {
+    "1": "Téléphonez-moi quand vous aurez réfléchi à ma proposition",
+    "2": "Tenez-moi au courant quand vous aurez parlé à votre banquier",
+    "3": "Venez dans mon bureau quand vous aurez terminé votre travail",
+    "4": "Éteignez l'ordinateur quand vous aurez enregistré les données",
+    "5": "Écrivez-moi quand vous aurez pris une décision"
+   }
+  }
+ }
+}

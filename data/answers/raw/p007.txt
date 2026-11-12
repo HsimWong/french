@@ -1,0 +1,36 @@
+@CH 3
+@PAGE 19
+@EX 7
+- Réponses possibles : 1. Non, je ne suis pas professeur de français. 2. Non, nous sommes au printemps. 3. Non, je ne suis pas à Paris actuellement. 4. Non, ils ne sont pas difficiles.
+@CH 3
+@PAGE 20
+@EX 1
+1. … n'êtes pas…
+2. … n'est pas en laine…
+3. … ne suis pas en colère…
+4. … ne sommes pas en retard…
+@EX 2
+- Questions possibles : 2. – Françoise n'est pas là ? 3. – Nous sommes le 24 ? 4. – La poste est ouverte ? 5. – L'ascenseur est en panne ? 6. – Est-ce que vos parents sont à Paris ?
+@EX 3
+2. … n'est pas prêt.
+3. … n'est pas chère.
+4. … ne sont pas grands.
+@EX 4
+2. … Et vous, vous n'êtes pas déçu(e) ? – Si je suis déçu(e), moi aussi.
+3. … Et vous, vous n'êtes pas agacé(e) ? – Si, je suis agacé(e), moi aussi.
+4. … Et vous, vous n'êtes pas inquiet (ou inquiète) ? Si , je suis inquiet (ou inquiète), moi aussi
+@EX 5
+2. … Mais non, ton nez n'est pas trop long !
+3. Mais non, tes cheveux ne sont pas horribles !
+4. Mais non, tu n'es pas trop petite !
+@CH 3
+@PAGE 21
+@EX 1
+- … blonde, grande, mince et très mignonne. Elle est musicienne. Elle est à la fois pianiste et violoniste. Elle est tendre, rêveuse, sentimentale et un peu naïve. Elle est belle et gentille, mais elle est étrangère dans la ville et elle est très seule.
+- … brune et entièrement tatouée. Elle est violente, cruelle et insensible. Elle est ambitieuse et méfiante. Elle n'est pas loyale. Elle est jalouse, brutale, menteuse, manipulatrice, asociale et perturbée. Elle est folle de pouvoir.
+@EX 2
+- Réponses possibles : 1. … généreuses, mais elles ne sont pas tolérantes. … dynamiques et généreux, mais ils ne sont pas tolérants.
+2. Les hommes « Taureau » sont sérieux et persévérants, mais ils sont têtus. Les femmes « Taureau » sont sérieuses et persévérantes, mais elles sont têtues. Les hommes et les femmes « Taureau » sont sérieux et persévérants, mais ils sont têtus.
+3. Les hommes « Gémeaux » sont enthousiastes et curieux, mais ils sont impatients. Les femmes « Gémeaux » sont enthousiastes et curieuses, mais elles sont impatientes. Les hommes et les femmes « Gémeaux » sont enthousiastes et curieux, mais ils sont impatients.
+4. Les hommes « Cancer » sont réservés et discrets, mais ils sont passifs. Les femmes « Cancer » sont réservées et discrètes, mais elles sont passives. Les hommes et les femmes « Cancer » sont réservés et discrets, mais ils sont passifs.
+5. Les hommes « Lion » sont actifs et rationnels, mais ils sont arrogants. Les femmes « Lion » sont actives et rationnelles, mais elles sont arrogantes.

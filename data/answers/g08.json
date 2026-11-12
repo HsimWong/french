@@ -1,0 +1,68 @@
+{
+ "pages": {
+  "41": {
+   "1": {
+    "1": "Ce",
+    "2": "Ces",
+    "3": "Cet",
+    "4": "Ces",
+    "5": "Cette",
+    "6": "Cet",
+    "7": "Cet"
+   },
+   "3": {
+    "1": "celle-là|celle-ci",
+    "2": [
+     "ce",
+     "celui-là (ou celui-ci)"
+    ],
+    "3": [
+     "cette",
+     "celle-là (ou celle-ci)"
+    ],
+    "4": [
+     "ces",
+     "celles-là (ou celles-ci)"
+    ],
+    "5": [
+     "cette",
+     "celle-là (ou celle-ci)"
+    ]
+   },
+   "4": {
+    "2": [
+     "– Cette",
+     "– Non, ce n'est pas la mienne. C'est celle de mon"
+    ],
+    "3": [
+     "– Ces",
+     "– Non, ce ne sont pas les miennes. Ce sont celles de mes"
+    ],
+    "4": [
+     "– Cet",
+     "– Non, ce n'est pas le mien. C'est celui de mon"
+    ],
+    "5": [
+     "– Ces",
+     "– Non, ce ne sont pas les miens. Ce sont ceux de mon"
+    ]
+   },
+   "5": {
+    "2": "cette année",
+    "3": "ce mois-ci"
+   },
+   "6": {
+    "1": [
+     "Celle",
+     "celle",
+     "celui",
+     "ce",
+     "celui"
+    ]
+   },
+   "7": {
+    "1": "– Je voudrais cette brioche. – Celle aux pralines ? – Non, pas celle-ci, celle-là. – Je voudrais aussi une baguette pas trop cuite. – Comme celle-ci ? – Non, je voudrais une baguette farinée. – Celle-ci ? – Oui, très bien, merci"
+   }
+  }
+ }
+}

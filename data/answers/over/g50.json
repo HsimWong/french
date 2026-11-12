@@ -1,0 +1,67 @@
+{
+  "pages": {
+    "233": {
+      "1": {
+        "1": "Si je change de voiture, j'achèterai une décapotable",
+        "2": "Si j'invite Alice à dîner, je l'emmènerai à La Coupole",
+        "3": "Si je fais une fête, ce sera un samedi",
+        "4": "Si je pars en vacances, j'irai en Martinique"
+      },
+      "4": {
+        "1": [
+          "irons",
+          "il fait mauvais",
+          "nous irons"
+        ],
+        "2": [
+          "l'appellerai",
+          "c'est une fille, je l'appellerai"
+        ],
+        "3": [
+          "prendrai",
+          "je vais",
+          "je prendrai"
+        ],
+        "4": [
+          "je mangerai des raviolis de crevettes",
+          "je vais au restaurant thaï, je mangerai des légumes pimentés à la sauce noix de coco"
+        ],
+        "5": [
+          "j'irai dans le Midi",
+          "j'ai une semaine de congé, j'irai en Corse"
+        ]
+      }
+    },
+    "235": {
+      "1": {
+        "1": "Si j'avais un an de congé, j'irai en Extrême-Orient",
+        "2": "Si j'avais un perroquet, je l'appellerais Zébulon",
+        "3": "Si je changeais de ville un jour, je m'installerais à Montpellier"
+      },
+      "2": {
+        "2": [
+          "était en",
+          "il ferait chaud"
+        ],
+        "3": [
+          "habitais à la",
+          "j'aurais un chien"
+        ],
+        "4": [
+          "faisais des",
+          "tu ferais des progrès"
+        ],
+        "5": [
+          "avais le",
+          "je pourrais aller te voir plus souvent"
+        ]
+      },
+      "3": {
+        "1": "Si je trouvais un dossier dans un taxi, je l'apporterais au commissariat de police le plus proche",
+        "2": "S'il y avait une fuite dans ma cuisine, j'appellerais un plombier",
+        "3": "Si nous étions bloqués dans l'ascenseur, je crierais très fort",
+        "4": "Si un voisin appelait au secours, j'irais voir ce qui se passe"
+      }
+    }
+  }
+}

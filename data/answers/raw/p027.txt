@@ -1,0 +1,43 @@
+@CH 20
+@PAGE 93
+@EX 1
+2. – Vous parlez souvent du travail ? – Oui, j'en parle avec mes collègues.
+3. – Vous parlez souvent du passé ? – Oui, j'en parle avec mon psychanalyste.
+4. – Vous parlez souvent de l'avenir ? – Oui, j'en parle avec mon astrologue.
+@EX 2
+2. … rêvent d'… en rêvent …
+3. … as peur du … 'en ai peur …
+4. … avez besoin de … 'en ai besoin …
+5. … est content de … en est content …
+@EX 3
+2. … de la … – Vous mangez de la viande ? – Oui, j'en mange. – Vous mangez de la viande tous les jours ? – Non, je n'en mange pas tous les jours.
+3. … du … – Vous buvez du café ? – Oui, j'en bois. – Vous buvez du café le soir ? – Non, je n'en bois pas le soir.
+4. … du … – Vous faites du sport ? – Oui, j'en fais. – Vous faites du sport régulièrement ? – Non, je n'en fais pas régulièrement.
+5. … des … – Vous mangez des bonbons ? – Oui, j'en mange. – Vous mangez beaucoup de bonbons ? – Non, je n'en mange pas beaucoup.
+6. … des … – Vous achetez des revues ? – Oui, j'en achète. – Vous achetez souvent des revues ? – Non, je n'en achète pas souvent.
+@EX 4
+- Réponses possibles : (voiture) Oui, j'en ai une. – (garage) Non, je n'en ai pas. – (carte de crédit) Oui, j'en ai une. – (carte de transport) Non, je n'en ai pas. – (lunettes) Oui, il en a. – (chien) Oui, ils en ont un. – (pâtes) Non, je n'en mange pas beaucoup. – (piano) Non, je n'en ai pas. – (parfum) Oui, j'en mets de temps en temps. – (montre) En général, je n'en porte pas.
+@CH 21
+@PAGE 95
+@EX 1
+1. … en (Dordogne) … dans le (Périgord) … en (Bourgogne) … en (Bretagne) … en (Provence), dans le (Var) … dans les (Bouches-du-Rhône).
+2. … dans les (Cévennes) … dans les (Alpes), dans le (Massif central), dans les (Vosges) … en (Alsace).
+3. … en (Bretagne) … en (Normandie).
+@EX 2
+1. … de Roumanie.
+2. … d'Espagne.
+3. … du Brésil.
+4. … d'Australie.
+@EX 3
+- C'est du café de Colombie. Ce sont des avocats d'Israël. C'est du riz de Thaïlande. Ce sont des tulipes de Hollande. C'est de la morue du Portugal. Ce sont des oranges du Maroc. C'est du beurre de Normandie. C'est du tabac de Hongrie.
+@EX 4
+1. … de … du … d'…
+2. … d'… du …
+3. … du … d'…
+4. … des … du …
+@EX 5
+1. … de … du …
+2. … de … du … de …
+3. … d'… du … d'… en …
+4. … en … du … en … au …
+5. … des … de … à …

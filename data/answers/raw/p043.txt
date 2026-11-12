@@ -1,0 +1,36 @@
+@CH 34
+@PAGE 153
+@EX 5
+4. – Oui, il y a quelque chose sur la table. / – Non, il n'y a rien sur la table.
+@CH 34
+@PAGE 155
+@EX 1
+1. – Non, je ne travaille ni le samedi ni le dimanche.
+2. – Non, je ne connais ni Simon ni Gérald Bruni.
+3. – Non, je ne ressemble ni à mon père ni à ma mère.
+4. – Non, je ne bois ni thé ni café le matin.
+@EX 2
+- … Sans travail, pas d'argent. Sans argent, pas de logement. Sans logement, pas de papiers. … ni travail, ni argent, ni logement.
+@EX 3
+2. – Oui, je ne commence qu'à onze heures.
+3. – Oui, je n'ai qu'un rendez-vous aujourd'hui.
+4. – Oui, je ne mange qu'un sandwich à midi.
+5. – Oui, je ne bois qu'un café par jour.
+@EX 4
+1. … ne … ni … ni …
+2. … n'… pas de …
+3. … ne … que …
+4. … ne … ni … ni … ne … que …
+5. … sans … ni …
+@CH 35
+@PAGE 157
+@EX 1
+1. … part tout de suite et qu'il emporte les dossiers.
+2. Il lui demande si elle est libre pour le déjeuner et ce qu'elle fait dans l'après-midi.
+3. Il lui demande si elle a la liste des hôtels du quartier, où se trouve le Bristol et combien coûte une chambre double. Il lui demande de noter toutes ces informations.
+@EX 2
+- … il a un paquet. – Il dit qu'il n'a pas le code. – Il demande si on peut ouvrir la porte. – Il dit que l'ascenseur est en panne. – Il demande si quelqu'un peut descendre.
+@EX 3
+- … Il lui demande si elle est libre dimanche. Elle lui répond qu'elle va écouter un concert. Il lui demande où elle va. Elle lui répond qu'elle va à l'église Saint-Médard. Il lui demande si elle y va seule et il lui dit qu'il adore le piano. Elle lui demande de venir à dix heures pile.
+@EX 4
+- Exemple : • Le serveur : Installez-vous. Le client : Avez-vous une place près de la fenêtre ? Le serveur : Qu'est-ce que vous désirez ? Le client : Quelque chose de léger ? Le serveur : Alors je vous propose en plat du jour un velouté d'asperges et une sole grillée avec pommes de terre sautées et légumes variés. Cela vous va ? Sinon, vous avez le menu. Le client : La formule du jour me paraît excellente ! • Je mange et je vois un client entrer dans le restaurant. Le serveur dit au client de s'installer. Le client demande s'il y a une place libre près de la fenêtre. Le serveur demande au client ce qu'il désire. Le client dit qu'il voudrait quelque chose de léger. Le serveur lui dit qu'il a un plat du jour avec velouté d'asperges, sole grillée, pommes de terre sautées et légumes variés. Il lui demande si cela lui convient. Il ajoute que sinon il y a le menu. Le client dit que la formule du jour lui paraît excellente.

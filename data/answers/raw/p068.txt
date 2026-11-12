@@ -1,0 +1,42 @@
+@CH 50
+@PAGE 237
+@EX 1
+1. … j'aurais acheté une télévision.
+2. Si j'étais allé dans un restaurant indien, j'aurais mangé du poulet au curry.
+3. Si j'étais rentré chez moi en métro, j'aurais mis une heure.
+4. Si j'avais eu 19 sur 20 à mon devoir, j'aurais été deuxième.
+@EX 2
+- S'il y avait eu moins de vent, je serais allé(e) à la plage.
+2. S'il y avait eu moins de circulation, elle aurait pris son vélo.
+3. S'il y avait eu moins de monde, je serais allé(e) à la piscine.
+4. Si tu avais bu moins de vin, tu n'aurais pas eu mal à la tête.
+@EX 3
+1. … si j'avais regardé la télévision, j'aurais regardé …
+2. … si j'avais pris un apéritif, j'aurais pris …
+3. … si j'avais mangé des fruits, j'aurais mangé …
+4. … si j'étais parti(e) en week-end, je serais allé(e) …
+@EX 4
+2. Si j'avais su, je ne le lui aurais pas donné.
+3. Si j'avais su, je ne leur aurais rien dit.
+4. Si j'avais su, je ne le leur aurais pas conseillé.
+5. Si j'avais su, je n'y serais pas allé(e).
+@CH 51
+@PAGE 239
+@EX 1
+1. Il faut que vous répétiez souvent les mêmes structures.
+2. Il faut que vous écoutiez les exercices enregistrés.
+3. Il faut que vous corrigiez votre accent.
+4. Il faut que vous notiez du vocabulaire.
+5. Il faut que vous regardiez des films français.
+@EX 2
+- … Il faut que nous regardions la météo. Il faut que nous étudions la carte. Il faut que nous préparions des sandwiches. Il faut que nous emportions des pulls chauds. Il faut que nous mangions légèrement.
+@EX 3
+- … insériez votre carte. Il faut que vous composiez votre code secret. Il faut que vous sélectionniez une opération. Il faut que vous indiquiez le montant. Il faut que vous retiriez les billets. Il ne faut pas que vous oubliiez votre carte.
+@EX 4
+- … étudies. Il faut que chaque élève étudie. Il faut que nous étudions. Il faut que vous étudiez. Il faut que tous étudient.
+- Il faut que je participe. Il faut que tu participes. Il faut que chaque élève participe. Il faut que nous participions. Il faut que vous participiez. Il faut que tous participent.
+- Il faut que je pratique. Il faut que tu pratiques. Il faut que chaque élève pratique. Il faut que nous pratiquions. Il faut que vous pratiquiez. Il faut que tous pratiquent.
+- Il faut que j'accepte. Il faut que tu acceptes. Il faut que chaque élève accepte. Il faut que nous acceptions. Il faut que vous acceptiez. Il faut que tous acceptent.
+- Il faut que je recopie. Il faut que tu recopies. Il faut que chaque élève recopie. Il faut que nous recopiions. Il faut que vous recopiiez. Il faut que tous recopient.
+@EX 5
+- Exemple : Il faut que je sois plus ponctuel(le). Il faut que je réponde à tous mes mails. Il faut que j'aille chez le coiffeur une fois par mois et que je prenne rendez-vous plusieurs jours à l'avance. Il faut que je prépare un curriculum vitae accrocheur et que je l'envoie à plusieurs entreprises.

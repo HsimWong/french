@@ -1,0 +1,43 @@
+{
+  "pages": {
+    "65": {
+      "1": {
+        "1": "Aujourd'hui, c'est jeudi. Nous sommes le vingt et un. Nous sommes en janvier"
+      },
+      "4": {
+        "1": "Mille huit cent soixante-douze",
+        "2": "Mille six cent quatre-vingt-dix-huit",
+        "3": "Mille trois cents",
+        "4": "Mille quatre cent quatre-vingt",
+        "5": "Mille huit cent trente-neuf"
+      }
+    },
+    "67": {
+      "1": {
+        "1": [
+          "Il est deux heures et quart|Il est quatorze heures quinze",
+          "Il est quatre heures moins le quart|Il est quinze heures quarante-cinq"
+        ],
+        "2": [
+          "Il est quatre heures et demie|Il est seize heures trente",
+          "Il est neuf heures moins dix|Il est vingt heures cinquante"
+        ],
+        "3": [
+          "Il est sept heures dix|Il est dix-neuf heures dix",
+          "Il est dix heures du soir|Il est vingt-deux heures"
+        ],
+        "4": [
+          "Il est midi vingt-cinq|Il est douze heures vingt-cinq",
+          "Il est minuit|Il est vingt-quatre heures"
+        ],
+        "5": [
+          "Il est deux heures moins cinq|Il est treize heures cinquante-cinq",
+          "Il est dix heures et quart|Il est dix heures quinze"
+        ]
+      },
+      "2": {
+        "1": "est en retard"
+      }
+    }
+  }
+}

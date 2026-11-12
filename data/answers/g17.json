@@ -1,0 +1,38 @@
+{
+ "pages": {
+  "81": {
+   "2": {
+    "1": "Il y a trois mois que je suis en France. 1. Il y a trois ans que j'habite à la même adresse. 2. Il y a deux heures que je suis dans cette salle. 3. Il y a un mois que je connais mon professeur. 4. Il y a un an que j'étudie le français. Il y a quelques semaines que j'ai ce livre"
+   },
+   "3": {
+    "1": "depuis 124",
+    "2": [
+     "depuis 1945",
+     "c'est-à-dire depuis soixante-huit"
+    ],
+    "3": [
+     "depuis 1994",
+     "c'est-à-dire depuis dix-neuf"
+    ],
+    "4": [
+     "depuis 2002",
+     "c'est-à-dire depuis onze"
+    ]
+   },
+   "5": {
+    "2": [
+     "depuis",
+     "pour"
+    ],
+    "3": [
+     "en",
+     "pendant"
+    ],
+    "4": "depuis",
+    "5": "depuis que",
+    "6": "en",
+    "7": "Depuis que"
+   }
+  }
+ }
+}

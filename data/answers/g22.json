@@ -1,0 +1,185 @@
+{
+ "pages": {
+  "97": {
+   "1": {
+    "1": "Les femmes sont moins musclées que les hommes",
+    "2": "Les garçons sont aussi intelligents que les filles !",
+    "3": "La Lune est plus petite que la Terre",
+    "4": "Le mois de janvier est aussi long que le mois de juillet",
+    "5": "La voiture est moins rapide que le train",
+    "6": "Un kilo de plumes est aussi lourd qu'un kilo de plomb !"
+   },
+   "2": {
+    "1": "est encore plus belle que lui",
+    "2": "est encore plus bruyant qu'elle",
+    "3": "est encore moins gentille que lui",
+    "4": "est encore plus désordonné qu'eux",
+    "5": "est encore moins banale que lui"
+   },
+   "3": {
+    "1": [
+     "plus",
+     "moins de",
+     "moins",
+     "que",
+     "plus de",
+     "moins",
+     "plus",
+     "moins",
+     "plus",
+     "plus de",
+     "qu'",
+     "aussi",
+     "qu'",
+     "aussi"
+    ]
+   }
+  },
+  "98": {
+   "1": {
+    "1": "autant de",
+    "2": "autant de",
+    "3": "aussi",
+    "4": "autant de",
+    "5": "aussi"
+   },
+   "4": {
+    "1": [
+     "moins chères qu'à l'hôtel Luxor. – À l'hôtel Luxor",
+     "les chambres sont plus grandes qu'à l'hôtel Panorama. – L'hôtel Panorama est plus calme que l'hôtel Luxor. – L'hôtel Luxor est plus confortable que l'hôtel Panorama. – L'hôtel Panorama a plus de charme que l'hôtel Luxor"
+    ]
+   },
+   "2": {
+    "1": [
+     "aussi beau que",
+     "autant de charme qu'"
+    ],
+    "2": [
+     "autant de vêtements que",
+     "aussi élégant qu'"
+    ],
+    "3": [
+     "aussi cultivé que",
+     "autant de livres qu'"
+    ],
+    "4": [
+     "autant d'argent que",
+     "aussi riche qu'"
+    ]
+   },
+   "3": {
+    "1": "ne bougent pas autant",
+    "2": "ne sont pas aussi confiants",
+    "3": "ne pleurent pas autant",
+    "4": "ne sont pas aussi amusants"
+   }
+  },
+  "99": {
+   "2": {
+    "2": "que la Russie est le pays le plus grand du monde en superficie",
+    "3": "que le chien est l'animal le plus fidèle",
+    "4": "John Kennedy est l'homme politique le plus célèbre",
+    "5": "la profession d'enseignant est la profession la plus intéressante",
+    "6": "Pour moi, le cyclisme est le sport le plus difficile",
+    "7": "Selon moi, Elinore est le plus beau prénom de fille"
+   },
+   "3": {
+    "1": "Je passe plus de temps avec ma famille qu'avec mes amis",
+    "2": "J'ai plus d'amies filles que d'amis garçons",
+    "3": "Je dors plus le week-end qu'en semaine",
+    "4": "Je regarde plus de films que de séries télé",
+    "5": "Je mange plus à midi que le soir",
+    "6": "Je communique plus par textos que par téléphone",
+    "7": "Je m'occupe plus du ménage que mon mari",
+    "8": "Je fais moins de fautes de français qu'avant",
+    "9": "Je ne suis pas aussi à l'aise en français que dans ma langue maternelle",
+    "10": "Je n'ai pas autant de vocabulaire en français qu'en anglais",
+    "11": "C'est mon frère Jérémy qui est le plus jeune dans la famille",
+    "12": "Le riz est l'aliment qu'on consomme le plus dans mon pays",
+    "13": "Le journal le plus lu en Grande-Bretagne est le Sun"
+   }
+  },
+  "101": {
+   "1": {
+    "1": [
+     "c'est bon",
+     "c'est meilleur"
+    ],
+    "2": [
+     "c'est bien",
+     "c'est mieux"
+    ],
+    "3": [
+     "c'est bon",
+     "c'est meilleur"
+    ],
+    "4": [
+     "c'est bon",
+     "c'est meilleur"
+    ],
+    "5": [
+     "c'est bien",
+     "c'est mieux"
+    ]
+   },
+   "2": {
+    "1": [
+     "à la meilleure",
+     "à la meilleure",
+     "au meilleur",
+     "aux meilleurs",
+     "à la meilleure",
+     "aux meilleurs",
+     "au meilleur"
+    ]
+   },
+   "3": {
+    "1": [
+     "meilleur",
+     "meilleures"
+    ],
+    "2": [
+     "mieux",
+     "le mieux"
+    ],
+    "3": [
+     "mieux",
+     "meilleurs"
+    ],
+    "4": [
+     "meilleur",
+     "mieux"
+    ],
+    "5": [
+     "le mieux",
+     "le meilleur"
+    ],
+    "6": "la meilleure"
+   },
+   "4": {
+    "1": [
+     "c'est bien, mais dormir huit heures, c'est mieux",
+     "il vaut mieux dormir huit heures"
+    ],
+    "2": [
+     "c'est bien, mais faire deux heures de gymnastique, c'est mieux",
+     "il vaut mieux faire deux heures de gymnastique"
+    ],
+    "3": [
+     "c'est bien, mais partir en week-end le vendredi soir, c'est mieux",
+     "il vaut mieux partir en week-end le vendredi soir"
+    ],
+    "4": [
+     "c'est bien, mais travailler en équipe, c'est mieux",
+     "il vaut mieux travailler en équipe"
+    ]
+   },
+   "5": {
+    "1": "l'écran est plus grand",
+    "2": "l'atmosphère est plus prenante et c'est plus convivial d'être entouré de gens. – Il vaut mieux prendre ses vacances en hiver parce que",
+    "3": "dans la plupart des lieux touristiques",
+    "4": "il y a moins de monde et les tarifs sont moins chers. Sauf dans les stations de ski où il y a plus de monde et plus d'animation en hiver. – Il vaut mieux cuisiner soi-même parce que c'est plus sain et c'est plus frais. – Il vaut mieux dépenser son argent parce que c'est plus agréable d'en profiter tout de suite et que l'avenir est incertain"
+   }
+  }
+ }
+}

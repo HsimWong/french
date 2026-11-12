@@ -1,0 +1,135 @@
+{
+ "pages": {
+  "161": {
+   "1": {
+    "1": "à",
+    "2": [
+     "de",
+     "à"
+    ],
+    "3": [
+     "de",
+     "de"
+    ],
+    "4": [
+     "de",
+     "de"
+    ],
+    "5": [
+     "à",
+     "à"
+    ],
+    "6": [
+     "de",
+     "à"
+    ]
+   },
+   "2": {
+    "1": "Je suis désolé(e) d'être en retard",
+    "2": "Je suis furieux(se) d'avoir une contravention",
+    "3": "Je suis surpris(e) de recevoir une lettre de Berndt",
+    "4": "Je suis heureux(se) de partir en voyage",
+    "5": "Je suis ravi(e) d'être invité(e) chez Lucia"
+   },
+   "4": {
+    "1": [
+     "à (travailler)",
+     "à (8 heures)",
+     "de (travailler)",
+     "de (changer)",
+     "à (vendre)",
+     "à (servir)",
+     "de (devenir)",
+     "✓ (trouver)",
+     "de (travailler)",
+     "de (voir)",
+     "✓ (voir)",
+     "de (vendre)"
+    ]
+   }
+  },
+  "162": {
+   "1": {
+    "1": "Je décide de faire des économies et d'acheter un bateau",
+    "2": "J'espère trouver un bon travail et être vite autonome",
+    "3": "J'ai envie d'habiter à la campagne et de faire de la poterie",
+    "4": "J'ai peur de vieillir et d'être seul"
+   },
+   "2": {
+    "1": [
+     "à (me détendre)",
+     "à (avoir)",
+     "de (rester)",
+     "de (changer)",
+     "de (travailler)",
+     "de (m'intéresser)",
+     "à (d'autres)",
+     "de la (musique)",
+     "de la (guitare)",
+     "à (faire)",
+     "à (mes amis)",
+     "à (dîner)",
+     "à (prendre)",
+     "à (être)",
+     "✓ (continuer)"
+    ]
+   },
+   "3": {
+    "1": "Il arrête de faire du judo",
+    "2": "Il finit d'écrire ses devoirs",
+    "3": "Il continue à suivre ses cours de russe",
+    "4": "Il essaye de se servir du nouvel ordinateur",
+    "5": "Il aime écouter du jazz"
+   }
+  },
+  "163": {
+   "1": {
+    "1": [
+     "de (mon stage)",
+     "à (taper)",
+     "à (mon professeur)",
+     "de (me donner)",
+     "à (travailler)",
+     "à (comprendre)",
+     "✓ (apprendre)",
+     "de (regarder)",
+     "à (travailler)",
+     "de (porter)"
+    ]
+   },
+   "2": {
+    "1": [
+     "de (voir)",
+     "à (prendre)",
+     "à (avoir)",
+     "✓ (t'acheter)",
+     "✓ (trouver)",
+     "de (tout)",
+     "✓ (voir)",
+     "de (l'appeler)",
+     "d'(avoir)"
+    ]
+   },
+   "3": {
+    "1": [
+     "de (leur emploi)",
+     "✓ (changer)",
+     "de (cadre)",
+     "de (trouver)",
+     "à (tout)",
+     "de (bouleverser)",
+     "de (partir)",
+     "de (perdre)",
+     "de (devenir)",
+     "à (être)",
+     "au (Québec)",
+     "en (Amérique)",
+     "aux (États-Unis)",
+     "en (Australie)",
+     "de (créer)",
+     "de (trouver)"
+    ]
+   }
+  }
+ }
+}

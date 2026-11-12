@@ -1,0 +1,45 @@
+@CH 32
+@PAGE 143
+@EX 1
+2. … c’est un problème dont je parle parfois.
+3. … c’est un service dont je suis responsable.
+4. … c’est une machine dont je me sers.
+5. … c’est un document dont j’ai besoin.
+@EX 2
+- … qu’ils aiment le plus ? – … dont ils se servent le plus ? – … qu’ils détestent le plus ? – … qu’ils apprécient le plus ?
+@EX 3
+2. C’est nous qui choisissons le vin.
+3. C’est toi qui t’occupes de la vidéo.
+4. C’est moi qui suis le DJ ce soir.
+@EX 4
+2. Non, c’est Max que j’attends.
+3. Non, c’est la ligne 6 que je prends.
+4. Non, c’est après-demain que je pars.
+@EX 5
+- … ce que … – … ce qui … – … ce qui … – … ce dont …
+@EX 6
+- Ce que … c’est … – Ce qui … c’est … – Ce que … ce sont … – Ce que … c’est …
+@EX 7
+- Exemples : … dont il/elle parle, la façon dont il/elle rit, la façon dont il/elle danse, la manière dont il/elle s’exprime, la manière dont il/elle réagit quand on lui pose une question imprévue, la façon dont il/elle me regarde.
+@EX 8
+- Exemples : Ce qui me choque, c’est le travail des enfants. Ce qui me touche profondément, c’est l’injustice. Ce qui m’émeut particulièrement, c’est l’innocence. Ce qui m’amuse beaucoup, c’est l’humour anglais. Ce qui m’est insupportable, c’est la bêtise. Ce que j’aime par-dessus tout, c’est la nature. Ce que je crains par-dessus tout, c’est le fanatisme. Ce que j’aime particulièrement, c’est la musique de Beethoven. Ce que je crains, c’est une troisième guerre mondiale. Ce dont j’ai peur de manière irraisonnée, ce sont les araignées ! Ce que je crains, c’est la fin du monde !
+@CH 32
+@PAGE 145
+@EX 1
+- … laquelle … lesquels … lesquels … lequel … laquelle …
+@EX 2
+1. – Oui, la table sur laquelle je travaille est en verre.
+2. – Oui, le stylo avec lequel j’écris est rechargeable.
+3. – Oui, les étudiants avec lesquels je travaille sont anglais.
+4. – Oui, le groupe auquel j’appartiens est sympathique.
+5. – Oui, les cours auxquels j’assiste sont intéressants.
+@EX 3
+- … avec lesquels (ou avec qui) … dans laquelle … avec lesquels (ou avec qui) … auquel …
+@EX 4
+2. … dans lequel …
+3. … auxquels …
+4. … auxquels …
+5. … avec lesquels …
+6. … duquel … duquel …
+@EX 5
+- Exemples : La salle dans laquelle nous travaillons est très sombre. La chaise sur laquelle je suis assis n’est pas très confortable ; elle est en fer. Le professeur avec qui nous avons cours le vendredi est un grand homme blond très sympathique. Le bureau dans lequel je range mes papiers est fermé à clé.

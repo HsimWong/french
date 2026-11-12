@@ -1,0 +1,44 @@
+{
+ "pages": {
+  "205": {
+   "1": {
+    "2": "Le film Titanic a été réalisé par James Cameron",
+    "3": "Le Petit Prince a été écrit par Saint-Exupéry",
+    "4": "La pénicilline a été découverte par Fleming",
+    "5": "L'imprimerie a été inventée par Gutenberg"
+   },
+   "2": {
+    "1": [
+     "a été reportée",
+     "ont été avertis",
+     "a été envoyé"
+    ]
+   },
+   "3": {
+    "1": [
+     "ont été arrachés",
+     "a été coupée",
+     "ont été évacuées"
+    ]
+   },
+   "4": {
+    "2": "Les chiffres arabes ont été introduits en Occident en 1202",
+    "3": "L'université de la Sorbonne a été fondée en 1253",
+    "4": "La Bastille a été prise en 1789",
+    "5": "La peine de mort a été abolie en France en 1981",
+    "6": "L'ONU a été créée en 1945"
+   },
+   "5": {
+    "1": "a été reçu par le Président français. – Le problème de la pêche a été abordé. – Des mesures communes ont été prises. – Les propositions du gouvernement ont été refusées par les syndicats de pêcheurs"
+   },
+   "6": {
+    "1": "La radio a été inventée par Marconi",
+    "2": "Le film Le Parrain a été réalisé par Coppola",
+    "3": "Guernica a été peint par Picasso",
+    "4": "Les hiéroglyphes ont été déchiffrés par Champollion",
+    "5": "Le Canada a été découvert par Jacques Cartier",
+    "6": "La Statue de la Liberté a été conçue par Gustave Eiffel"
+   }
+  }
+ }
+}

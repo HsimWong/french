@@ -1,0 +1,533 @@
+{
+ "pages": {
+  "175": {
+   "1": {
+    "1": "D'habitude, je mange de la viande à midi, mais hier, j'ai mangé du poisson",
+    "2": "En général, je dîne chez moi, mais hier, j'ai dîné au restaurant",
+    "3": "D'habitude, je travaille sept heures par jour, mais hier, j'ai travaillé huit heures",
+    "4": "En général, je commence à 8 heures, mais hier, j'ai commencé à 9 heures",
+    "5": "D'habitude, je termine à 6 heures, mais hier, j'ai terminé à 7 heures"
+   },
+   "2": {
+    "1": "– Oui, j'ai emmené mes enfants",
+    "2": "Oui, j'ai (ou nous avons) visité l'Andalousie",
+    "3": "Oui, j'ai (ou nous avons) écouté du flamenco",
+    "4": "Oui, j'ai (ou nous avons) filmé une corrida",
+    "5": "Oui, j'ai (ou nous avons) mangé des « tapas",
+    "6": "Oui, j'ai (ou nous avons) rapporté des souvenirs"
+   },
+   "3": {
+    "2": "j'ai signé",
+    "3": "j'ai refusé",
+    "4": "j'ai démissionné"
+   }
+  },
+  "176": {
+   "1": {
+    "1": "Hier soir, un journaliste a interviewé le président de la République",
+    "2": "L'année dernière, la consommation d'énergie a augmenté",
+    "3": "La semaine dernière, « L'Express » a publié un reportage intéressant",
+    "4": "Mardi dernier, nous avons mangé du poisson frais",
+    "5": "Le mois dernier, mon mari a arrêté de fumer (pendant deux jours|)",
+    "6": "L'année dernière, j'ai joué au casino et j'ai gagné un peu d'argent",
+    "7": "Hier soir, nous avons regardé le journal télévisé et nous avons parlé de politique",
+    "8": "Mercredi dernier, Daniel et Mina ont préparé un plat exotique et ont invité des amis"
+   },
+   "2": {
+    "2": "avez mangé",
+    "3": "j'ai payé",
+    "4": "ont visité",
+    "5": "a gagné",
+    "6": "as regardé",
+    "7": "avons joué",
+    "8": "a écouté",
+    "9": "j'ai invité",
+    "10": "as acheté"
+   }
+  },
+  "177": {
+   "1": {
+    "1": "a embrassé sa femme et il a accompagné ses enfants à l'école. À 8 h 30, il a retiré un sac du pressing. Il a payé en liquide. À 9 h, il a acheté Le Figaro à la papeterie. Il a bavardé avec Mme Rollin, la vendeuse. Ils ont parlé du temps. Quand Mme Rollin a parlé de la crise économique, M. Pascal a eu l'air bizarre. Il a quitté le magasin et il a traversé la rue sans regarder"
+   }
+  },
+  "179": {
+   "1": {
+    "1": "Georges a acheté le journal et il a pris l'autobus",
+    "2": "Maria a mis un imperméable et elle a pris un parapluie",
+    "3": "Nous avons bu un café et nous avons mangé un croissant",
+    "4": "Vous avez lu le journal et vous avez vu une annonce intéressante",
+    "5": "Julie a écrit à sa mère et elle a posté la lettre",
+    "6": "Tu as fini ton travail et tu as écrit à tes amis",
+    "7": "Nous avons perdu nos clés et nous avons dû appeler les pompiers",
+    "8": "Il y a eu une grève des transports et j'ai dû rentrer à pied"
+   },
+   "2": {
+    "1": "j'ai reçu",
+    "2": "j'ai bu",
+    "3": "j'ai lu",
+    "4": "j'ai attendu",
+    "5": "j'ai perdu"
+   },
+   "3": {
+    "1": "une lettre et j'ai eu un choc",
+    "2": "J'ai bu de l'alcool et j'ai eu mal à la tête",
+    "3": "J'ai pris ma voiture et j'ai conduit dans la nuit",
+    "4": "J'ai brûlé un feu rouge et j'ai été arrêté par la police",
+    "5": "J'ai plu au gendarme et j'ai payé une légère amende"
+   }
+  },
+  "180": {
+   "1": {
+    "2": "a grandi",
+    "3": "a traduit",
+    "4": "a découvert",
+    "5": "j'ai choisi",
+    "6": "a plu"
+   },
+   "2": {
+    "1": [
+     "Deux jeunes gens ont voulu partir faire des fouilles archéologiques dans le désert. Ils ont dû faire une demande spéciale. Finalement",
+     "ils ont pu partir grâce à un ami de leurs parents. Ils ont cru être assez résistants pour travailler un mois. En fait",
+     "il a fallu les rapatrier au bout d'une semaine"
+    ]
+   },
+   "4": {
+    "1": [
+     "Le chevalier a ouvert le coffre. Il a découvert un manteau brodé d'or. Il a offert le manteau à la reine. Il lui a couvert tendrement les épaules. Il a souffert en silence",
+     "il a ouvert la porte et il a disparu"
+    ]
+   },
+   "3": {
+    "1": "J'ai vu le temps par la fenêtre (un ciel gris vraiment morose)",
+    "2": "J'ai eu du mal à me lever (à cause de mon arthrose)",
+    "3": "J'ai entendu le chien aboyer (pour réclamer son « Dogdose »)",
+    "4": "J'ai reçu un peu de courrier (mais pas de lettre de Rose)",
+    "5": "J'ai lu le programme télé (comme toujours, pas grand-chose)",
+    "6": "J'ai bu un peu de rosé et j'ai vu des éléphants roses"
+   }
+  },
+  "181": {
+   "1": {
+    "1": [
+     "j'ai pris",
+     "j'ai pris",
+     "j'ai acheté",
+     "J'ai bu",
+     "j'ai mangé",
+     "J'ai mis",
+     "j'ai dépensé",
+     "j'ai vu",
+     "j'ai pris",
+     "J'ai payé",
+     "j'ai passé"
+    ]
+   },
+   "2": {
+    "1": "j'ai réussi avec mention",
+    "2": "J'ai pris le métro et j'ai revu un vieil ami",
+    "3": "J'ai vécu en Norvège et j'ai découvert des endroits magiques",
+    "4": "J'ai conduit dans la nuit et j'ai mis de la musique",
+    "5": "J'ai suivi un régime et j'ai perdu dix kilos",
+    "6": "J'ai mangé des huîtres et j'ai été malade"
+   },
+   "3": {
+    "2": "Trente-deux pour cent des Français ont participé à une manifestation de rue au moins une fois dans leur vie",
+    "3": "Trente pour cent des Français ont pris des médicaments pour dormir au moins une fois dans leur vie",
+    "4": "Vingt et un pour cent des Français ont gagné à un jeu national (à la loterie ou au tac-o-tac par exemple) au moins une fois dans leur vie",
+    "5": "Dix-huit pour cent des Français ont fait une dépression nerveuse au moins une fois dans leur vie",
+    "6": "Quinze pour cent des Français ont consulté une voyante au moins une fois dans leur vie",
+    "7": "Treize pour cent des Français ont fait un chèque sans provision au moins une fois dans leur vie",
+    "8": "Trois pour cent des Français ont chanté dans un karaoké"
+   }
+  },
+  "183": {
+   "1": {
+    "1": "Oui, la première fois, je suis venu(e) en taxi",
+    "2": "Oui, hier soir, je suis allé(e) à l'hôtel à pied",
+    "3": "Oui, je suis passé(e) par le centre ville",
+    "4": "Oui, je suis arrivé(e) avant six heures",
+    "5": "Oui, je suis ressorti(e) plus tard"
+   },
+   "3": {
+    "2": "Un bébé est né dans une maternité",
+    "3": "Une cigogne est passée dans le ciel gris",
+    "4": "Jean est arrivé des États-Unis",
+    "5": "Des enfants sont allés au bord de la mer",
+    "6": "Deux voleurs sont entrés dans un appartement",
+    "7": "Un homme d'État est mort dans son lit",
+    "8": "Un grand écrivain est rentré dans son pays",
+    "9": "Jean est monté dans un taxi",
+    "10": "Une femme est sortie sous la pluie",
+    "11": "Un homme est tombé amoureux",
+    "12": "Jean est rentré chez lui"
+   }
+  },
+  "184": {
+   "1": {
+    "1": [
+     "est resté",
+     "est mort",
+     "est devenu",
+     "est",
+     "intervenu",
+     "sont morts",
+     "sont devenus",
+     "sont restés",
+     "sont sortis",
+     "sont venus",
+     "sont allés",
+     "est né",
+     "sommes allés",
+     "sont montés",
+     "sont redescendus",
+     "est",
+     "sorti",
+     "est allé"
+    ]
+   }
+  },
+  "185": {
+   "2": {
+    "3": "Non, ils sont venus pour leur voyage de noces",
+    "4": "Non, ils sont allés dans un très bel hôtel, près de la place des Vosges",
+    "5": "Le premier jour, ils sont montés sur la tour Eiffel",
+    "6": "Oui, ils sont sortis tous les soirs",
+    "7": "Non, ils ne sont pas sortis les deux derniers jours",
+    "1": [
+     "sommes venus",
+     "sommes allés",
+     "sommes montés",
+     "sommes allés",
+     "sommes allés",
+     "sommes sortis",
+     "sommes restés"
+    ]
+   }
+  },
+  "187": {
+   "1": {
+    "1": "Oui, je me suis couché(e) tard hier soir",
+    "2": "Oui, je me suis reposé(e) dimanche dernier",
+    "3": "Oui, je me suis promené(e) dans les rues",
+    "4": "Oui, je me suis assis(e) dans les jardins",
+    "5": "Oui, je me suis arrêté(e) devant les vitrines"
+   },
+   "2": {
+    "1": "s'est bien amusée, elle aussi",
+    "2": "s'est ennuyée, elle aussi",
+    "3": "me suis dépêché, moi aussi",
+    "4": "nous sommes couchés tard, nous aussi"
+   },
+   "3": {
+    "2": "– Nous nous sommes mariés à l'église de la Madeleine, au printemps",
+    "3": "– Nous nous sommes connus en 1981, au concert des Clash",
+    "4": "– Nous nous sommes revus au concert des Rita Mitsuko, en 2007",
+    "5": "Nous nous sommes revus au concert des Rita Mitsuko, en 2007"
+   }
+  },
+  "188": {
+   "1": {
+    "1": [
+     "a (monté)",
+     "s'est (arrêtée)",
+     "a (sorti)",
+     "est (tombée)",
+     "a (ramassé)",
+     "a (regardé)",
+     "a (souri)",
+     "ont (commencé)",
+     "ont (passé)",
+     "a (tout oublié)",
+     "s'est (souvenue)"
+    ]
+   },
+   "3": {
+    "1": "Il est descendu à pied",
+    "2": "Il a passé une mauvaise nuit",
+    "3": "Elle a descendu la rue",
+    "4": "Elle est passée devant le bar",
+    "5": "Ils sont rentrés chez eux",
+    "6": "Ils se sont recouchés"
+   }
+  },
+  "189": {
+   "1": {
+    "1": [
+     "a sorti",
+     "est sorti"
+    ],
+    "2": [
+     "êtes monté",
+     "avons monté"
+    ],
+    "3": [
+     "est passée",
+     "a passé"
+    ]
+   },
+   "2": {
+    "1": [
+     "ont",
+     "sont",
+     "ont",
+     "sont",
+     "est",
+     "a",
+     "a",
+     "sont",
+     "sont"
+    ]
+   },
+   "3": {
+    "1": [
+     "sommes (promenés)",
+     "sommes (assis)",
+     "avons (mangé)",
+     "J'ai (réussi)",
+     "sont (moqués)",
+     "sommes (devenus)",
+     "a (commencé)",
+     "a (dansé)",
+     "avons (chanté)",
+     "sommes (amusés)",
+     "a (bu)",
+     "j'ai (dansé)",
+     "avons (dû)"
+    ]
+   },
+   "4": {
+    "1": "John Kennedy est devenu président des États-Unis",
+    "2": "En 1961, le Mur de Berlin a été construit en une nuit",
+    "3": "En 1962, Marilyn Monroe s'est suicidée",
+    "4": "En 1963, le président Kennedy a été assassiné",
+    "5": "En 1967, les colonels ont pris le pouvoir en Grèce",
+    "6": "En 1968, les étudiants ont manifesté et les ouvriers ont fait la grève",
+    "7": "En 1969, Neil Armstrong a marché sur la Lune"
+   }
+  },
+  "191": {
+   "1": {
+    "1": [
+     "ées",
+     "ées",
+     "ées",
+     "ies",
+     "ées"
+    ]
+   },
+   "2": {
+    "1": [
+     "és",
+     "és",
+     "i",
+     "és",
+     "é",
+     "és",
+     "us",
+     "és"
+    ]
+   },
+   "3": {
+    "1": [
+     "ée",
+     "é",
+     "ée",
+     "és",
+     "és",
+     "é",
+     "és",
+     "és",
+     "us"
+    ]
+   },
+   "4": {
+    "1": [
+     "é",
+     "és",
+     "és"
+    ],
+    "2": [
+     "é",
+     "é",
+     "és",
+     "ues",
+     "é",
+     "ées"
+    ],
+    "3": [
+     "és",
+     "é",
+     "és",
+     "é",
+     "és",
+     "é",
+     "és"
+    ],
+    "4": [
+     "é",
+     "és",
+     "és",
+     "és",
+     "ées"
+    ],
+    "5": [
+     "tes",
+     "tes",
+     "ses",
+     "tes"
+    ]
+   }
+  },
+  "193": {
+   "3": {
+    "2": [
+     "– Oui, je les ai écrites",
+     "– Je les ai postées hier matin"
+    ],
+    "3": [
+     "– Oui, je leur ai parlé",
+     "Je les ai vus la semaine dernière"
+    ]
+   },
+   "4": {
+    "2": "il a beaucoup bu",
+    "3": "j'ai très mal dormi",
+    "4": "il a beaucoup mangé",
+    "5": "il a très mal joué"
+   },
+   "5": {
+    "2": "– Oui, elle s'est bien améliorée",
+    "3": "– Oui, il s'est beaucoup investi",
+    "4": "– Oui, ils ont bien réagi",
+    "5": "– Oui, ils ont un peu augmenté"
+   },
+   "1": {
+    "2": "Vous êtes allé(e) en Bourgogne ? – Oui, j'y suis allé(e)",
+    "3": "Vous avez bu du vin rouge ? – Oui, j'en ai bu",
+    "4": "Vous avez parlé aux viticulteurs ? – Oui, je leur ai parlé",
+    "5": "Vous avez acheté du vin ? – Oui, j'en ai acheté"
+   }
+  },
+  "195": {
+   "1": {
+    "1": "Non, je ne suis pas allé(e) à la campagne",
+    "2": "Non, je ne suis pas monté(e) sur la tour Eiffel",
+    "3": "Non, je n'ai pas dîné au restaurant",
+    "4": "Non, je n'ai pas invité mes amis",
+    "5": "Non, je n'ai pas révisé mes leçons"
+   },
+   "2": {
+    "2": "Moi, je n'ai pas ri",
+    "3": "Moi, je n'ai pas pleuré",
+    "4": "Moi, je n'ai pas crié",
+    "5": "Moi, je n'ai pas applaudi"
+   },
+   "3": {
+    "2": "Non, je ne les ai pas finis",
+    "3": "Non, je ne l'ai pas faite",
+    "4": "Non, je ne les ai pas prises",
+    "5": "Non, je ne les ai pas payés"
+   }
+  },
+  "196": {
+   "1": {
+    "1": "– Ah bon, elle ne lui a pas répondu !",
+    "2": "– Ah bon, vous ne l'avez pas reconnue ! (ou – Ah bon, tu ne l'as pas reconnue !)",
+    "3": "– Ah bon, il n'en a pas acheté !",
+    "4": "– Ah bon, ils n'y sont pas allés !",
+    "5": "Ah bon, vous n'en avez pas mangé !"
+   },
+   "2": {
+    "2": [
+     "les as sûrement oubliées au bureau",
+     "j'ai dû les oublier au bureau"
+    ],
+    "3": [
+     "l'as sûrement notée quelque part",
+     "j'ai dû la noter quelque part"
+    ],
+    "4": [
+     "l'a sûrement lavée à l'eau chaude",
+     "elle a dû la laver à l'eau chaude"
+    ]
+   },
+   "4": {
+    "2": "tu lui as mal parlé",
+    "3": "elle les a mal renseignés",
+    "4": "il lui a beaucoup parlé",
+    "5": "tu en as trop mis"
+   }
+  },
+  "197": {
+   "1": {
+    "1": [
+     "a eu",
+     "est restée"
+    ],
+    "2": [
+     "se sont perdus",
+     "ont marché"
+    ],
+    "3": [
+     "avons mangé",
+     "avons été"
+    ],
+    "4": [
+     "me suis trompé(e)",
+     "j'ai dû"
+    ],
+    "5": [
+     "a dû",
+     "est sortie"
+    ]
+   },
+   "2": {
+    "1": [
+     "sommes (promenés)",
+     "avons (ramassé)",
+     "sommes (rentrés)",
+     "a (jeté)",
+     "a (renversé)",
+     "a (mangé)",
+     "est (resté)",
+     "avons (eu)",
+     "avons (observé)",
+     "a (aboyé)",
+     "a (sauté)",
+     "a (couru)",
+     "a (monté)",
+     "a (descendu)",
+     "a (vécu)"
+    ]
+   },
+   "3": {
+    "1": [
+     "é",
+     "ées",
+     "ées",
+     "ue",
+     "é",
+     "ées",
+     "ses",
+     "s",
+     "é"
+    ]
+   },
+   "5": {
+    "1": "le bus n'est pas encore passé",
+    "2": "ils ne sont pas encore arrivés",
+    "3": "il ne me l'a pas encore apporté"
+   },
+   "4": {
+    "2": [
+     "il y a eu des tempêtes",
+     "Oui, il y en a eu deux"
+    ],
+    "3": [
+     "il y a eu des inondations",
+     "Oui, il y en a eu plusieurs"
+    ]
+   }
+  }
+ }
+}

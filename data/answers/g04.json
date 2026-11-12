@@ -1,0 +1,369 @@
+{
+ "pages": {
+  "23": {
+   "1": {
+    "1": "une femme seule",
+    "2": "une femme élancée",
+    "3": "une chanteuse grecque",
+    "4": "une fille sportive",
+    "5": "une jolie fille",
+    "6": "une chatte rousse",
+    "7": "une femme jalouse",
+    "8": "une serveuse rêveuse"
+   },
+   "2": {
+    "1": "est une cliente importante",
+    "2": "est une actrice française",
+    "3": "est une championne de ski italienne",
+    "4": "est une chanteuse canadienne",
+    "5": "est une sportive émotive",
+    "6": "est une électricienne conservatrice",
+    "7": "est une créative imaginative"
+   },
+   "3": {
+    "1": "une femme toujours absente, une voisine envahissante, une belle-mère exaspérante, une copine américaine, une chienne végétarienne, une arrière-grand-mère normande et une cousine germaine allemande !"
+   },
+   "4": {
+    "2": [
+     "t|te",
+     "d|de",
+     "d|de",
+     "eur|rice",
+     "teur|trice",
+     "et|ète",
+     "teur|trice",
+     "if|ive",
+     "teur|trice",
+     "if|ive",
+     "te|te",
+     "if|ive",
+     "eux|euse",
+     "oux|ouse",
+     "eur|rice",
+     "en|enne",
+     "é|ée",
+     "teur|trice",
+     "èle|èle",
+     "teur|trice",
+     "t|te",
+     "eur|euse",
+     "nel|nelle"
+    ]
+   }
+  },
+  "25": {
+   "1": {
+    "2": "une",
+    "3": "un",
+    "4": "une",
+    "5": "un",
+    "6": "un",
+    "7": "une",
+    "8": "un",
+    "9": "une",
+    "10": "un",
+    "11": "un",
+    "12": "une",
+    "13": "une",
+    "14": "une",
+    "15": "un"
+   },
+   "2": {
+    "1": [
+     "une dame",
+     "un garage",
+     "une télévision",
+     "un ordinateur",
+     "une tablette",
+     "un bateau",
+     "un voyage",
+     "une aventure",
+     "une voiture",
+     "une bicyclette",
+     "un virage",
+     "une assiette",
+     "un couteau",
+     "une fourchette",
+     "une pharmacienne",
+     "un nuage",
+     "un télescope",
+     "une chienne",
+     "une lionne",
+     "une cage",
+     "une souris",
+     "une image",
+     "une fleur",
+     "une couleur"
+    ]
+   },
+   "3": {
+    "1": [
+     "la solution",
+     "la santé",
+     "la nature",
+     "le modèle",
+     "le sondage",
+     "la réalité",
+     "la publicité",
+     "la caution",
+     "la confiance",
+     "la culture",
+     "le système",
+     "le programme",
+     "le groupe",
+     "la différence",
+     "le courage",
+     "la révolution",
+     "le rangement",
+     "le jardinage",
+     "la sculpture",
+     "le côté",
+     "le domaine",
+     "la peinture",
+     "la peur"
+    ]
+   },
+   "4": {
+    "1": [
+     "la (commode)",
+     "le (chapeau)",
+     "le (caméscope)",
+     "la (moquette)",
+     "la (télévision)"
+    ],
+    "2": [
+     "la (tablette)",
+     "la (voiture)",
+     "la (banquette)",
+     "la (voiture)",
+     "le (garage)"
+    ]
+   },
+   "5": {
+    "3": [
+     "La",
+     "la",
+     "le"
+    ],
+    "4": [
+     "La",
+     "la"
+    ],
+    "5": [
+     "La",
+     "la"
+    ],
+    "6": [
+     "La",
+     "la"
+    ],
+    "1": [
+     "la",
+     "la"
+    ],
+    "2": [
+     "Le",
+     "la",
+     "la",
+     "la"
+    ]
+   }
+  },
+  "27": {
+   "1": {
+    "1": "des costumes noirs",
+    "2": "des roses rouges",
+    "3": "des organismes internationaux",
+    "4": "des hommes précis",
+    "5": "des métaux précieux",
+    "6": "des journaux espagnols",
+    "7": "des bas gris",
+    "8": "des comportements anormaux",
+    "9": "des jeux dangereux",
+    "10": "des tableaux originaux"
+   },
+   "3": {
+    "1": "des cheveux blonds",
+    "2": "des cailloux bleus",
+    "3": "des bureaux spacieux",
+    "4": "des couteaux pointus",
+    "5": "des animaux domestiques",
+    "6": "des yeux noirs",
+    "7": "des œufs durs",
+    "8": "des bœufs normands",
+    "9": "des pneus crevés",
+    "10": "des messieurs polis"
+   },
+   "4": {
+    "1": "Les saphirs sont des bijoux merveilleux",
+    "2": "Les roses sont des fleurs ornementales",
+    "3": "Les chiens sont des animaux amicaux",
+    "4": "Les choux sont des légumes indigestes",
+    "5": "Les zèbres sont des chevaux sauvages"
+   },
+   "2": {
+    "1": [
+     "salades",
+     "œufs"
+    ],
+    "2": [
+     "jus",
+     "gâteaux",
+     "s",
+     "s",
+     "x"
+    ]
+   }
+  },
+  "29": {
+   "1": {
+    "1": [
+     "une (petite)",
+     "une (église)",
+     "une (fontaine)",
+     "des (arbres)",
+     "un",
+     "un"
+    ],
+    "2": [
+     "le",
+     "la",
+     "les",
+     "l'"
+    ]
+   },
+   "3": {
+    "1": [
+     "La",
+     "une"
+    ],
+    "2": [
+     "le",
+     "le",
+     "le"
+    ],
+    "3": [
+     "le",
+     "une"
+    ],
+    "4": [
+     "le",
+     "un"
+    ],
+    "5": [
+     "les",
+     "les",
+     "le",
+     "le"
+    ],
+    "6": [
+     "la",
+     "la",
+     "l'"
+    ],
+    "7": "une"
+   },
+   "5": {
+    "2": "le soleil",
+    "3": "une minute",
+    "4": "la tour Eiffel",
+    "5": "le métro",
+    "6": "une semaine",
+    "7": "la lune",
+    "8": "un Français",
+    "9": "le français"
+   },
+   "2": {
+    "2": [
+     "une",
+     "un",
+     "des",
+     "des"
+    ],
+    "3": [
+     "le",
+     "le",
+     "l'",
+     "le"
+    ]
+   }
+  },
+  "31": {
+   "1": {
+    "2": "le bateau, je vais au port",
+    "3": "le bus, je vais à la station de bus",
+    "4": "l'avion, je vais à l'aéroport"
+   },
+   "2": {
+    "2": "C'est l'heure de la sieste",
+    "3": "C'est l'heure de l'apéritif",
+    "4": "C'est l'heure du dîner"
+   },
+   "3": {
+    "1": [
+     "du (bureau)",
+     "au (fromage)",
+     "au (chocolat)",
+     "de la (quiche)",
+     "du (fromage)",
+     "au (chocolat)",
+     "aux (amandes)",
+     "du (chef)"
+    ]
+   },
+   "4": {
+    "1": [
+     "l'",
+     "le",
+     "le",
+     "les",
+     "les",
+     "à l'",
+     "au",
+     "aux"
+    ],
+    "2": [
+     "de l'",
+     "du",
+     "des",
+     "du"
+    ]
+   },
+   "5": {
+    "1": [
+     "un",
+     "l'",
+     "du",
+     "Au",
+     "du",
+     "un",
+     "L'",
+     "du",
+     "Le",
+     "de la",
+     "les",
+     "Les",
+     "de la",
+     "Le",
+     "du",
+     "un",
+     "d'un",
+     "Le",
+     "l'",
+     "un",
+     "la",
+     "de la"
+    ]
+   },
+   "6": {
+    "1": [
+     "au jambon",
+     "à la framboise",
+     "à la vanille",
+     "aux fraises",
+     "au basilic"
+    ]
+   }
+  }
+ }
+}

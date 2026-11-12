@@ -1,0 +1,128 @@
+{
+ "pages": {
+  "167": {
+   "1": {
+    "1": "Ce soir, je vais partir",
+    "2": "Ce soir, je vais regarder",
+    "3": "Ce soir, je vais dîner",
+    "4": "Ce soir, je vais manger",
+    "5": "Ce soir, je vais boire"
+   },
+   "2": {
+    "1": "L'année prochaine, nous allons passer nos vacances",
+    "2": "La semaine prochaine, ils vont visiter",
+    "3": "Demain, il va ranger",
+    "4": "Le mois prochain, je vais aller",
+    "5": "La semaine prochaine, il va faire"
+   },
+   "3": {
+    "2": "va pleuvoir",
+    "3": "vont fermer",
+    "4": "va commencer",
+    "5": "allons décoller",
+    "6": "vas tomber",
+    "7": "va brûler",
+    "8": "vas grossir"
+   }
+  },
+  "169": {
+   "1": {
+    "1": "va économiser de l'argent parce qu'il va partir six mois en Chine",
+    "2": "vont faire beaucoup d'exercices parce qu'ils vont passer un examen",
+    "3": "va prendre un congé sabbatique parce qu'il va écrire un livre",
+    "4": "vont déménager parce qu'ils vont avoir un troisième enfant"
+   },
+   "2": {
+    "2": "va pleuvoir",
+    "3": "vont avoir mal au ventre",
+    "4": "va avoir un bébé",
+    "5": "va rentrer à l'école",
+    "6": "allons rater le dernier métro"
+   }
+  },
+  "171": {
+   "1": {
+    "2": "Oui, je vais les arroser",
+    "3": "Oui, je vais les ranger",
+    "4": "Oui, je vais lui écrire",
+    "5": "Oui, je vais leur téléphoner",
+    "6": "Oui, je vais leur téléphoner"
+   },
+   "2": {
+    "2": "Non, elle va y aller à pied",
+    "3": "Non, elle va leur téléphoner le matin",
+    "4": "Non, elle va y aller avec Rachel",
+    "5": "Elle va les rencontrer vers 15 heures",
+    "6": "Elle va en acheter deux",
+    "7": "Non, elle va lui téléphoner après le dîner",
+    "8": "Non, elle va se coucher tôt"
+   },
+   "4": {
+    "2": "va mal finir",
+    "3": "vais bien dormir (ou je vais beaucoup dormir)",
+    "4": "allons conduire lentement",
+    "5": "va beaucoup pleuvoir"
+   }
+  },
+  "173": {
+   "3": {
+    "2": [
+     "va te mordre",
+     "ne va pas me mordre"
+    ],
+    "3": [
+     "vont les abîmer",
+     "ne vont pas les abîmer"
+    ],
+    "4": [
+     "va la perdre",
+     "ne vais pas la perdre"
+    ],
+    "5": [
+     "vont te punir",
+     "ne vont pas me punir"
+    ]
+   },
+   "4": {
+    "1": "– Non, je ne vais pas le repeindre",
+    "2": "– Non, je ne pense pas le regarder",
+    "3": "– Non, je ne vais pas lui téléphoner",
+    "4": "– Non, je ne vais pas les inviter",
+    "5": "– Non, je ne veux pas les refaire"
+   },
+   "1": {
+    "1": [
+     "Je ne vais pas crier",
+     "Je ne vais pas tomber malade",
+     "Je ne vais pas craquer",
+     "Je ne vais pas tout casser"
+    ]
+   },
+   "2": {
+    "2": [
+     "Est-ce que vous allez partir en train",
+     "Non, je ne vais pas partir en train"
+    ],
+    "3": [
+     "Est-ce que vous allez passer par les Alpes",
+     "Non, je ne vais pas passer par les Alpes"
+    ],
+    "4": [
+     "Est-ce que vous allez dormir à Nice",
+     "Non, je ne vais pas dormir à Nice"
+    ],
+    "5": [
+     "Est-ce que vous allez rentrer en août",
+     "Non, je ne vais pas rentrer en août"
+    ]
+   }
+  },
+  "168": {
+   "1": {
+    "1": "À treize heures, il va déjeuner avec M. Reiser à La Bonne Assiette. Il va discuter avec lui du dossier Samson's. À quinze heures, son avion va partir de l'aéroport de Roissy. Il va arriver à Londres à seize heures quarante-cinq",
+    "2": "Mardi matin, de huit heures trente à treize heures, M. Blanchot va visiter l'usine Samson's et il va passer à la banque Pikslow. Ensuite, il va déjeuner à treize heures avec M. Shark. Ensemble, ils vont signer de nouveaux contrats. De dix-sept à vingt heures, il va étudier le dossier Europa. À vingt heures, il va dîner avec Mme Rover",
+    "3": "Mercredi matin, il va prendre un taxi à sept heures ; son avion va partir pour Paris à huit heures quinze"
+   }
+  }
+ }
+}

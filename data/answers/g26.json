@@ -1,0 +1,330 @@
+{
+ "pages": {
+  "109": {
+   "1": {
+    "2": "guérissent",
+    "3": "vieillissent",
+    "4": "réfléchis",
+    "5": "grossissons",
+    "6": "applaudissent",
+    "7": "rougissent|évanouissent",
+    "8": [
+     "rougissent",
+     "évanouissent"
+    ]
+   },
+   "2": {
+    "2": [
+     "partez",
+     "pars"
+    ],
+    "3": [
+     "sortez",
+     "sors"
+    ],
+    "4": [
+     "suivez",
+     "suis"
+    ],
+    "5": [
+     "dormez",
+     "dors"
+    ]
+   },
+   "3": {
+    "1": "partent",
+    "2": "vivent",
+    "3": "sortent",
+    "4": "suivent",
+    "5": "servent"
+   },
+   "4": {
+    "2": "issent",
+    "3": "issent",
+    "4": "it",
+    "5": "issent",
+    "6": "it"
+   }
+  },
+  "111": {
+   "1": {
+    "2": "bats",
+    "3": "entend",
+    "4": "mets",
+    "5": "vends"
+   },
+   "2": {
+    "1": "conduis",
+    "2": [
+     "grossis",
+     "maigrissez"
+    ],
+    "3": [
+     "sortent",
+     "éteignent"
+    ],
+    "4": [
+     "reconnaissez",
+     "entendez"
+    ],
+    "5": [
+     "voient",
+     "ralentissent"
+    ],
+    "6": [
+     "choisissent",
+     "offrent"
+    ]
+   },
+   "3": {
+    "1": "lisent",
+    "2": "vendent",
+    "3": "servent",
+    "4": "peignent",
+    "5": "traduisent",
+    "6": "courent",
+    "7": "mentent"
+   },
+   "5": {
+    "2": "court",
+    "3": "rit",
+    "4": "croit",
+    "5": "part"
+   },
+   "4": {
+    "1": "Ils perdent",
+    "2": "Ils partent",
+    "3": "Ils descendent",
+    "4": "Ils vendent",
+    "5": "Ils éteignent",
+    "6": "Ils maigrissent",
+    "7": "Ils construisent"
+   }
+  },
+  "113": {
+   "1": {
+    "2": "Je prends du chocolat, et vous, qu’est-ce que vous prenez ?",
+    "3": "Je bois de l’eau, et vous, qu’est-ce que vous buvez ?",
+    "4": "Je fais des exercices, et vous, qu’est-ce que vous faites ?"
+   },
+   "2": {
+    "1": "veulent faire une petite fête pour leur anniversaire. Ils prennent leur carnet d’adresses et ils choisissent une quinzaine de personnes, mais comme ils connaissent plus de garçons que de filles, ils disent à leurs amis d’amener des copines. La veille de la fête, ils reçoivent beaucoup de coups de téléphone et le jour de la fête, ils sont tout excités : ils attendent une trentaine de personnes et ils doivent tout préparer ! Ils descendent au deuxième et au premier étage car ils veulent mettre un petit mot sur la porte des voisins pour s’excuser du bruit. Ensuite, ils mettent des disques d’ambiance, ils font des cocktails de fruits et ils attendent les premiers invités"
+   },
+   "3": {
+    "1": [
+     "prenez",
+     "prends",
+     "peux",
+     "voulez",
+     "prenons",
+     "veux",
+     "peux",
+     "voulez"
+    ]
+   }
+  },
+  "114": {
+   "2": {
+    "1": "au bureau en bus. Elles attendent parfois huit à dix minutes dans le froid et elles mettent trente-cinq minutes environ pour arriver à l’Opéra, mais elles ne sont pas pressées, car elles ont un horaire très flexible. Elles prennent toujours le même bus à la station Châtelet et avant de partir, elles boivent un café au Sarah-Bernhardt. Dans le bus, elles lisent presque entièrement le journal. Elles peuvent même préparer leur journée de travail : elles écrivent quelques mots dans leur agenda, elles font des calculs, elles prennent des notes. Quand elles descendent à l’Opéra, elles ont l’impression d’être en vacances. Elles ont envie de regarder les vitrines et les passants. Elles ne se sentent pas aussi fatiguées que lorsqu’elles sont obligées de prendre le métro. Elles prennent le même bus que Pierre, mais elles ne le connaissent pas, ou pas encore"
+   },
+   "3": {
+    "1": "peuvent venir quand ils veulent",
+    "2": "ne croient pas ce qu’ils voient",
+    "3": "suivent la mode et elles connaissent les stars",
+    "4": "ne boivent pas car ils doivent conduire",
+    "5": "savent peindre et elles peignent très bien"
+   },
+   "1": {
+    "1": "Ils prennent un grand saladier",
+    "2": "Ils mettent 250 grammes de farine",
+    "3": "Ils font un puits au centre",
+    "4": "Ils battent trois œufs avec la farine",
+    "5": "Ils mettent un demi-litre de lait petit à petit",
+    "6": "Ils font reposer la pâte une heure",
+    "7": "Ils prennent une poêle",
+    "8": "Ils font chauffer un peu d'huile",
+    "9": "Ils mettent une petite louche de pâte",
+    "10": "Ils font cuire des deux côtés",
+    "11": "Ils mettent du sucre"
+   }
+  },
+  "115": {
+   "1": {
+    "1": "prenez",
+    "2": "prennent",
+    "3": "apprend",
+    "4": "apprennent",
+    "5": "comprenons",
+    "6": "vient",
+    "7": "viens",
+    "8": "reviens",
+    "9": "souvenez",
+    "10": "souviens"
+   },
+   "2": {
+    "1": "Oui, quand je vais au bureau, je pars à huit heures",
+    "2": "Oui, quand je monte au cinquième étage, je prends l’ascenseur",
+    "3": "Oui, quand je prends des notes, j’écris en français",
+    "4": "Oui",
+    "5": "Oui, quand je bois du café le soir, je prends du décaféiné",
+    "6": "Oui, quand je reçois un message, je réponds toujours",
+    "7": "Oui, quand je suis au théâtre, j'applaudis longtemps les acteurs"
+   },
+   "3": {
+    "2": "s",
+    "3": "ds",
+    "4": "ds",
+    "5": "s",
+    "6": "ds",
+    "7": "ds",
+    "8": "ds",
+    "9": "d",
+    "10": "t",
+    "11": "dent",
+    "12": "dent"
+   }
+  },
+  "117": {
+   "1": {
+    "1": [
+     "prends",
+     "prends",
+     "mets",
+     "prends",
+     "prends",
+     "mets",
+     "mets",
+     "prend"
+    ]
+   },
+   "2": {
+    "1": [
+     "font",
+     "jouent",
+     "faisons",
+     "faisons",
+     "fait",
+     "jouons",
+     "joue",
+     "joue",
+     "joue"
+    ]
+   },
+   "3": {
+    "1": "Non, je fais laver mon linge",
+    "2": "Non, je fais faire le ménage",
+    "3": "Non, je fais traduire mes textes",
+    "4": "Non, je fais repeindre mon appartement",
+    "5": "Non, je me fais couper les cheveux"
+   }
+  },
+  "119": {
+   "1": {
+    "1": "– Oui, je peux courir très longtemps.|– Non, je ne peux pas courir très longtemps",
+    "2": "– Oui, je peux travailler dans le bruit.|– Non, je ne peux pas travailler dans le bruit",
+    "3": "– Oui, je peux faire mes calculs sans calculatrice.|– Non, je ne peux pas faire mes calculs sans calculatrice",
+    "4": "– Oui, je peux toucher le plafond de la main.|– Non, je ne peux pas toucher le plafond de la main)",
+    "5": "– Oui, je peux fumer en classe.|– Non, je ne peux pas fumer en classe"
+   },
+   "2": {
+    "2": "On doit",
+    "3": "On ne peut pas",
+    "4": "On doit",
+    "5": "On ne peut pas",
+    "6": "On ne peut pas",
+    "7": "On doit",
+    "8": "On peut",
+    "9": "On ne peut pas",
+    "10": "On peut"
+   },
+   "3": {
+    "2": "doit faire",
+    "3": "doit coûter",
+    "4": "doit y avoir"
+   },
+   "4": {
+    "1": [
+     "on doit|il faut",
+     "on doit|il faut",
+     "peuvent",
+     "doit",
+     "doivent",
+     "peuvent",
+     "doivent",
+     "peuvent"
+    ]
+   }
+  },
+  "121": {
+   "1": {
+    "1": [
+     "connaît",
+     "sait"
+    ],
+    "2": [
+     "connaissez",
+     "connais"
+    ],
+    "3": [
+     "sait",
+     "connaît"
+    ],
+    "4": [
+     "sait",
+     "connaît"
+    ],
+    "5": [
+     "savez",
+     "connais"
+    ],
+    "6": [
+     "sais",
+     "connais"
+    ],
+    "7": [
+     "savent",
+     "sait"
+    ]
+   },
+   "2": {
+    "1": [
+     "veux",
+     "sais",
+     "connais",
+     "sais",
+     "connais",
+     "veux",
+     "veux",
+     "connais",
+     "veux",
+     "veux"
+    ]
+   },
+   "3": {
+    "1": [
+     "voudrais",
+     "voulez",
+     "sais",
+     "veut",
+     "connais",
+     "peut",
+     "veut",
+     "peut",
+     "connais"
+    ]
+   },
+   "4": {
+    "1": [
+     "ne pouvez pas",
+     "savez",
+     "sait",
+     "ne sais pas",
+     "ne peux pas"
+    ]
+   },
+   "5": {
+    "1": "Plus tard, je souhaite trouver une profession qui m’intéresse. Je souhaite pouvoir rester dans ma région. Je souhaite voyager uniquement pendant les vacances, pas pour le travail. Et j’espère trouver un mari/une femme sympathique !"
+   }
+  }
+ }
+}

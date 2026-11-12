@@ -1,0 +1,69 @@
+{
+ "pages": {
+  "55": {
+   "1": {
+    "1": "Un vieux monsieur avec une barbe blanche",
+    "2": "Un homme sportif avec un visage carré",
+    "3": "Une dame brune avec des lunettes noires",
+    "4": "Un gros poisson avec un ventre jaune",
+    "5": "Une belle fille avec de longues jambes",
+    "6": "Une grosse voiture avec un grand coffre",
+    "7": "Un livre précieux avec de belles illustrations",
+    "8": "Un double whisky avec deux glaçons",
+    "9": "Un bel appartement avec une petite terrasse",
+    "10": "Une bonne soirée avec de vieux amis"
+   },
+   "2": {
+    "2": "– Oui, c'est un bel acteur",
+    "3": "– Oui, c'est un nouvel ordinateur",
+    "4": "– Oui, c'est un vieil avion"
+   },
+   "3": {
+    "2": "Les dix dernières années",
+    "3": "Les deux prochains cours",
+    "4": "Les trois derniers concurrents"
+   },
+   "4": {
+    "1": [
+     "de",
+     "des",
+     "de",
+     "d'",
+     "des"
+    ]
+   },
+   "5": {
+    "2": "Vous préférez les vieux appartements ou les appartements modernes ?",
+    "3": "Vous préférez les plats salés ou les plats sucrés ?",
+    "4": "Vous préférez les petites voitures ou les grosses voitures ?",
+    "5": "Vous préférez les couleurs claires ou les couleurs sombres ?"
+   }
+  },
+  "57": {
+   "1": {
+    "1": "Dustin Hoffman est un petit homme, mais c'est un grand acteur",
+    "2": "Alexandre est un enfant agité, mais c'est un écolier studieux",
+    "3": "Madame Claude est une femme seule, mais c'est une voisine bruyante !",
+    "4": "Les ordinateurs sont des appareils pratiques, mais ce sont des objets chers",
+    "5": "Le mari de Nadia est un mauvais mari, mais c'est un bon sculpteur",
+    "6": "Kitty est une belle femme, mais c'est une mauvaise actrice",
+    "7": "Monsieur Barlou est un maire respecté, mais c'est un ancien voyou !",
+    "8": "Monsieur Hire est un voisin réservé, mais c'est un curieux personnage"
+   },
+   "2": {
+    "1": "nouveau",
+    "2": "neuves",
+    "3": "nouvelle",
+    "4": "vieille",
+    "5": "vieux",
+    "6": "neufs",
+    "7": "ancien",
+    "8": "neuf"
+   },
+   "3": {
+    "1": "L'appartement est un grand appartement ; il a 250 mètres carrés. Il est dans un vieil immeuble de 1800. Il n'y a pas d'ascenseur. Il y a une terrasse",
+    "2": "Le studio est un petit appartement de 30 mètres carrés. Il est dans un immeuble neuf de 2013. Il y a un ascenseur. Il n'y a pas de terrasse"
+   }
+  }
+ }
+}

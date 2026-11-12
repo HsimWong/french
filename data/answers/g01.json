@@ -1,0 +1,144 @@
+{
+ "pages": {
+  "9": {
+   "2": {
+    "2": "Je suis de Madrid. (ou : Je suis de Barcelone.)",
+    "3": "Je suis étudiant. (ou : Je suis professeur.)",
+    "4": "Je suis marié. (ou : Je suis célibataire.)",
+    "5": "Je suis fatigué. (ou : Je suis en forme.)"
+   },
+   "3": {
+    "1": [
+     "à",
+     "chez",
+     "à",
+     "chez",
+     "chez",
+     "de",
+     "de",
+     "à",
+     "de",
+     "à"
+    ]
+   },
+   "4": {
+    "1": "Je m'appelle Bruno. Je suis italien. Je suis de Florence. Actuellement, je suis chez un ami à Londres",
+    "2": "Je m'appelle Anne. Je suis belge. Je suis de Bruxelles. Actuellement, je suis à l'hôtel Astoria, à New York",
+    "3": "Je m'appelle Clément. Je suis français. Je suis d'Avignon. Actuellement, je suis chez des cousins, à Marseille"
+   },
+   "1": {
+    "1": [
+     "êtes",
+     "Je",
+     "suis",
+     "êtes",
+     "Je",
+     "je",
+     "suis"
+    ],
+    "2": [
+     "êtes",
+     "je",
+     "suis",
+     "vous",
+     "êtes",
+     "je",
+     "suis"
+    ]
+   }
+  },
+  "11": {
+   "3": {
+    "2": [
+     "est",
+     "Oui, elle est grande"
+    ],
+    "3": [
+     "sont",
+     "Oui, elles sont en bois"
+    ],
+    "4": [
+     "est",
+     "Oui, il est bleu"
+    ],
+    "5": [
+     "sommes",
+     "Oui, nous sommes mardi"
+    ],
+    "6": [
+     "est",
+     "Oui, on est le 4"
+    ],
+    "7": [
+     "sont",
+     "Oui, ils sont en forme"
+    ]
+   },
+   "5": {
+    "1": "– Non, ils sont à Paris",
+    "2": "– Elle est occupée toute la journée aujourd'hui",
+    "3": "– Non, ils sont à l'hôtel",
+    "4": "– Elles sont en vacances",
+    "5": "Elles sont en vacances"
+   },
+   "1": {
+    "1": [
+     "es",
+     "suis",
+     "est",
+     "elle",
+     "est"
+    ],
+    "2": [
+     "êtes",
+     "sommes",
+     "sont",
+     "ils",
+     "sont"
+    ]
+   },
+   "2": {
+    "1": [
+     "Vous",
+     "êtes"
+    ],
+    "2": [
+     "Vous",
+     "êtes"
+    ],
+    "3": [
+     "Tu",
+     "es"
+    ],
+    "4": [
+     "Tu",
+     "es"
+    ],
+    "5": [
+     "Vous",
+     "êtes"
+    ],
+    "6": [
+     "Vous",
+     "êtes"
+    ]
+   },
+   "4": {
+    "1": [
+     "nous|on",
+     "sommes|est",
+     "nous|on",
+     "sommes|est",
+     "nous|on",
+     "sommes|est",
+     "Nous|On",
+     "sommes|est",
+     "on",
+     "est",
+     "on",
+     "est"
+    ]
+   }
+  }
+ }
+}

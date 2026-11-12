@@ -1,0 +1,149 @@
+{
+ "pages": {
+  "199": {
+   "1": {
+    "2": [
+     "il y a",
+     "dans"
+    ],
+    "3": [
+     "dans",
+     "il y a"
+    ]
+   },
+   "2": {
+    "2": [
+     "depuis",
+     "il y a"
+    ],
+    "3": [
+     "il y a",
+     "depuis"
+    ]
+   },
+   "3": {
+    "2": [
+     "en",
+     "dans"
+    ],
+    "3": [
+     "dans",
+     "en"
+    ],
+    "4": [
+     "en",
+     "dans"
+    ]
+   },
+   "4": {
+    "2": [
+     "pendant trois ans",
+     "en trois ans"
+    ],
+    "3": [
+     "pendant deux mois",
+     "en deux mois"
+    ],
+    "4": [
+     "pendant douze heures",
+     "en douze heures"
+    ]
+   },
+   "5": {
+    "1": [
+     "pendant",
+     "il y a",
+     "dans",
+     "pour",
+     "pendant",
+     "en",
+     "pour",
+     "pendant",
+     "pour",
+     "pendant",
+     "pour",
+     "pendant"
+    ]
+   }
+  },
+  "201": {
+   "1": {
+    "2": "demain",
+    "3": "le lendemain",
+    "4": "hier soir",
+    "5": "la veille",
+    "6": "ce jour-là",
+    "7": "ce jour-là"
+   },
+   "2": {
+    "1": [
+     "Ce matin",
+     "Demain matin"
+    ],
+    "2": [
+     "Cette année",
+     "L'année prochaine"
+    ]
+   },
+   "3": {
+    "1": [
+     "depuis",
+     "pour",
+     "depuis",
+     "pendant",
+     "pour",
+     "pour",
+     "pour",
+     "depuis",
+     "pendant",
+     "depuis"
+    ]
+   },
+   "4": {
+    "1": [
+     "pendant",
+     "depuis",
+     "pour",
+     "suivant"
+    ],
+    "2": [
+     "depuis",
+     "dans",
+     "suivante",
+     "dans",
+     "depuis"
+    ],
+    "3": [
+     "depuis",
+     "il y a",
+     "dans",
+     "en"
+    ]
+   },
+   "5": {
+    "1": "se passe bien ; j'ai déjà beaucoup appris en un mois intensif de pratique professionnelle. Je souhaite rentrer dans mon pays dans six mois et trouver un emploi stable pour quelques années, avant d'arrêter mon travail pour avoir des enfants ; et les enfants, c'est pour la vie entière !"
+   }
+  },
+  "203": {
+   "1": {
+    "1": [
+     "avoir",
+     "ai",
+     "avoir",
+     "j'ai",
+     "avoir",
+     "suis",
+     "m'être",
+     "j'ai"
+    ]
+   },
+   "5": {
+    "2": "avant de manger",
+    "3": "avant de traverser",
+    "4": "avant de te coucher",
+    "5": "avant de quitter la pièce",
+    "6": "avant de prendre une décision"
+   }
+  }
+ }
+}

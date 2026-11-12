@@ -1,0 +1,43 @@
+{
+ "pages": {
+  "105": {
+   "2": {
+    "1": [
+     "allons au",
+     "y allons aussi jeudi soir"
+    ],
+    "2": [
+     "va en",
+     "y vont aussi en juin"
+    ],
+    "3": [
+     "vont aux",
+     "Il y va aussi à Noël"
+    ],
+    "4": [
+     "allons au",
+     "y va aussi samedi"
+    ]
+   },
+   "3": {
+    "1": "Il y va avec Isabelle",
+    "2": "– Oui, elle s'y intéresse",
+    "3": "– Non, elle ne s'y intéresse pas beaucoup",
+    "4": "– Non, il y va à pied",
+    "5": "– Non, ils y vont à bicyclette"
+   },
+   "1": {
+    "1": "J'y suis pour deux ans",
+    "2": "J'y vais jeudi",
+    "3": "J'y retourne en avril",
+    "4": "J'y vais en taxi",
+    "5": "Je suis chez moi jusqu'à huit heures"
+   },
+   "4": {
+    "1": "Non, je n'y vais pas à pied parce que c'est trop loin",
+    "2": "Non, je n'y vais pas en semaine parce que je n'ai pas le temps",
+    "3": "Non, je n'y vais pas à midi parce qu'il fait trop chaud à cette heure-là"
+   }
+  }
+ }
+}

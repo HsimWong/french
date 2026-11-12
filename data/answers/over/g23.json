@@ -1,0 +1,26 @@
+{
+  "pages": {
+    "103": {
+      "1": {
+        "1": "Je vais à la cantine"
+      },
+      "2": {
+        "1": "chez le dentiste",
+        "2": "chez l'ophtalmologue",
+        "3": "chez le kinésithérapeute"
+      },
+      "3": {
+        "1": ["allez", "en", "en"],
+        "2": ["va", "en", "en"],
+        "3": ["vont", "au", "en"],
+        "4": ["vas", "en", "en"],
+        "5": ["allons", "au", "en"]
+      },
+      "5": {
+        "1": ["en", "va", "à l'", "en", "va", "à l'", "à"],
+        "2": ["allons", "en", "allons", "en", "en", "allons", "au", "à", "à", "en", "à", "à"],
+        "3": ["vont", "à la", "dans les", "vont", "à la", "en", "dans les"]
+      }
+    }
+  }
+}

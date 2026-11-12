@@ -1,0 +1,58 @@
+{
+ "pages": {
+  "33": {
+   "2": {
+    "2": "– C'est une casquette rouge. Je crois que c'est la casquette rouge du petit garçon",
+    "3": "– Ce sont des rollers. Je crois que ce sont les rollers de l'étudiant",
+    "4": "– Ce sont des jeux vidéo. Je crois que ce sont les jeux vidéo des enfants"
+   },
+   "3": {
+    "1": [
+     "Qui est-ce ?",
+     "Qui est-ce ?",
+     "Qu'est-ce que c'est ?",
+     "Qui est-ce ?",
+     "Qu'est-ce que c'est ?"
+    ]
+   }
+  },
+  "35": {
+   "1": {
+    "2": "– Elle est styliste. C'est une styliste originale",
+    "3": "– Il est détective. C'est un détective perspicace",
+    "4": "– Il est explorateur. C'est un explorateur imprudent !",
+    "5": "– Ils sont comptables. Ce sont des comptables précis",
+    "6": "Ils sont comptables. Ce sont des comptables précis"
+   },
+   "2": {
+    "2": [
+     "elle est",
+     "C'est"
+    ],
+    "3": [
+     "c'est",
+     "Elle est"
+    ],
+    "4": [
+     "c'est",
+     "Il est"
+    ]
+   },
+   "3": {
+    "1": [
+     "C'est (un ami)",
+     "Il est (journaliste)",
+     "c'est (un journaliste)",
+     "C'est (la mère)",
+     "Elle est (jeune)",
+     "Elle est (pédiatre)",
+     "elle est (célibataire)",
+     "elle est (professeur)",
+     "elle est (bouddhiste)",
+     "c'est (une végétarienne)",
+     "C'est (ma femme)"
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,41 @@
+@CH 40
+@PAGE 187
+@EX 1
+1. Oui, je me suis couché(e) tard hier soir.
+2. Oui, je me suis reposé(e) dimanche dernier.
+3. Oui, je me suis promené(e) dans les rues.
+4. Oui, je me suis assis(e) dans les jardins.
+5. Oui, je me suis arrêté(e) devant les vitrines.
+@EX 2
+1. … s'est bien amusée, elle aussi.
+2. … s'est ennuyée, elle aussi.
+3. … me suis dépêché, moi aussi.
+4. … nous sommes couchés tard, nous aussi.
+@EX 3
+1. – Nous nous sommes rencontrés sur la plage de Saint-Tropez, en hiver.
+2. – Nous nous sommes mariés à l'église de la Madeleine, au printemps.
+3. – Nous nous sommes connus en 1981, au concert des Clash.
+4. – Nous nous sommes revus au concert des Rita Mitsuko, en 2007.
+@EX 4
+- Exemple : … douché(e), je me suis essuyé(e), je me suis lavé les dents, je me suis habillé(e), je me suis coiffé(e).
+@EX 5
+- Exemple : … disputés, ils se sont insultés, ils se sont battus, ils se sont réconciliés, ils se sont serré la main, ils se sont promis d'oublier l'incident et de rester bons amis.
+@CH 40
+@PAGE 188
+@EX 1
+- … a (monté) … s'est (arrêtée) … a (sorti) … est (tombée) … a (ramassé) … a (regardé) … a (souri) … ont (commencé) … ont (passé) … a (tout oublié) … s'est (souvenue) …
+@EX 2
+- … d'une voiture blanche. Ils sont entrés dans l'immeuble d'en face. Ils sont montés au cinquième en ascenseur. Ils sont allés quelques minutes dans le salon. Ensuite, ils sont allés dans la cuisine. L'homme s'est lavé les mains, mais aïe, aïe, aïe ! il s'est trompé de robinet. Il s'est brûlé. Il s'est mis en colère. La femme s'est précipitée, sa robe s'est accrochée à la table. La table s'est renversée. Les verres et les assiettes sont tombés par terre et se sont cassés. L'homme s'est fâché. La femme s'est mise à pleurer. Ils se sont disputés. Ils se sont battus. Alors, furieux, l'homme est parti dans sa chambre. Il s'est enfermé. Il s'est déshabillé. Il s'est mis au lit. La femme est restée longtemps à la fenêtre. Puis elle est sortie. Elle est descendue au quatrième. Elle s'est arrêtée devant une porte. Elle est entrée. Elle s'est jetée dans les bras d'une femme plus âgée. Plus tard, elle s'est couchée sur le divan du salon et elle s'est endormie. Le matin, elle est sortie, elle est allée au café du coin. Son mari et elle se sont rencontrés dans la rue. Ils se sont regardés et ils se sont embrassés.
+@EX 3
+1. Il est descendu à pied.
+2. Il a passé une mauvaise nuit.
+3. Elle a descendu la rue.
+4. Elle est passée devant le bar.
+5. Ils sont rentrés chez eux.
+6. Ils se sont recouchés.
+@CH 40
+@PAGE 189
+@EX 1
+1. … a sorti … est sorti …
+2. … êtes monté … avons monté …
+3. … est passée … a passé …

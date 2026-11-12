@@ -1,0 +1,111 @@
+{
+ "pages": {
+  "59": {
+   "1": {
+    "1": "trente-six, trente-neuf, cinquante",
+    "2": "Le numéro des pharmacies de garde, c'est le trente-deux, trente-sept",
+    "3": "Le numéro de la police, c'est le dix-sept",
+    "4": "Le numéro des pompiers, c'est le dix-huit",
+    "5": "Le numéro des urgences médicales (le SAMU), c'est le quinze"
+   },
+   "3": {
+    "1": "il y a trente ou trente et un jours",
+    "2": "il y a sept jours (une semaine = huit jours en langage familier)",
+    "3": "il y a vingt-quatre heures",
+    "4": "il y a soixante minutes",
+    "5": "il y a soixante secondes"
+   },
+   "5": {
+    "2": "Cent vingt-cinq plus cinquante et un égale cent soixante-seize",
+    "4": "Soixante-neuf moins dix-huit égale cinquante et un",
+    "6": "Vingt-six multiplié par trois, ça fait soixante-dix-huit",
+    "8": "Soixante-douze divisé par six, ça fait douze"
+   },
+   "2": {
+    "1": "543",
+    "2": "1118",
+    "3": "755",
+    "4": "95"
+   },
+   "4": {
+    "1": "zéro zéro quarante et un",
+    "2": "zéro zéro deux cent trente-sept",
+    "3": "zéro zéro trois cent cinquante-deux",
+    "4": "zéro zéro trente-deux",
+    "5": "zéro zéro quarante-cinq"
+   }
+  },
+  "61": {
+   "1": {
+    "1": "cinquante euros",
+    "2": "quarante et un euros",
+    "3": "deux cents euros",
+    "4": "cent euros",
+    "5": "cent soixante-dix euros",
+    "6": "deux mille euros"
+   },
+   "2": {
+    "1": "Quatre Cents",
+    "2": "Vingt-Quatre",
+    "3": "Quatre",
+    "4": "Cent Un",
+    "5": "Vingt-Quatre Mille",
+    "6": "Sept"
+   },
+   "4": {
+    "1": "soixante-deux",
+    "2": "mille deux cent quarante-quatre",
+    "3": [
+     "trois cent quatre-vingt-neuf",
+     "sept"
+    ],
+    "4": "quarante",
+    "5": "deux millions trois cent mille"
+   },
+   "6": {
+    "1": "En France, il y a 25 jours de congés payés et 11 jours fériés, soit un total de 36 jours"
+   }
+  },
+  "63": {
+   "1": {
+    "1": "Oui, il est au deuxième",
+    "2": "Oui, ils sont au trente-deuxième",
+    "3": "Oui, il est au quarante et unième"
+   },
+   "2": {
+    "1": "onzième",
+    "3": "deuxième"
+   },
+   "3": {
+    "1": "numéro",
+    "2": "nombre",
+    "3": "nombre",
+    "4": "numéro",
+    "5": "nombre",
+    "6": "nombre",
+    "7": "numéro",
+    "8": "numéros"
+   },
+   "4": {
+    "1": "ans",
+    "2": "années",
+    "3": "année",
+    "4": [
+     "ans",
+     "année"
+    ]
+   },
+   "6": {
+    "1": [
+     "ans",
+     "année",
+     "numéro",
+     "il y a",
+     "c'est",
+     "nombre",
+     "année"
+    ]
+   }
+  }
+ }
+}

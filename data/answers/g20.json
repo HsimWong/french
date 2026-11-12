@@ -1,0 +1,62 @@
+{
+ "pages": {
+  "91": {
+   "1": {
+    "1": "Oui, j'en achète. Et vous, vous en achetez ?",
+    "2": "– Oui, j'en mange. Et vous, vous en mangez ?",
+    "3": "– Oui, j'en porte. Et vous, vous en portez ?",
+    "4": "– Oui, j'en consomme. Et vous, vous en consommez ?",
+    "5": "Oui, j'en ai. Et vous, vous en avez ?"
+   },
+   "2": {
+    "1": "Non",
+    "2": "ils en ont quatre. Oui",
+    "3": "ils en ont un chacun. Non",
+    "4": "nous en avons cinq. J'en ai trois"
+   },
+   "3": {
+    "1": "Dans le frigo, il y a de la viande ? – Oui, il y en a 100 grammes. Il y a de l'eau dans le frigo ? – Oui, il y en a une bouteille. Et est-ce qu'il y a des glaçons ? – Oui, il y en a beaucoup. Y a-t-il des yaourts dans le frigo ? – Oui, il y en a quelques-uns. Est-ce qu'il y a du lait dans le frigo ? – Non, il n'y en a pas. Il y a du beurre dans le frigo ? – Oui, il y en a un peu. Il y a du coca dans le frigo ? – Non, il n'y en a pas"
+   },
+   "4": {
+    "1": "n'en a pas",
+    "2": "n'en a pas",
+    "3": "n'en ai pas",
+    "4": "il n'y en a pas",
+    "5": "n'en mangent pas",
+    "6": "n'en avez pas"
+   },
+   "5": {
+    "2": "Du cirage",
+    "3": "Du ketchup",
+    "4": "De l'argent liquide",
+    "5": "De la confiture",
+    "6": "De l'essence"
+   }
+  },
+  "93": {
+   "1": {
+    "1": "– Vous parlez souvent du travail ? – Oui, j'en parle avec mes collègues",
+    "2": "– Vous parlez souvent du passé ? – Oui, j'en parle avec mon psychanalyste",
+    "3": "– Vous parlez souvent de l'avenir ? – Oui, j'en parle avec mon astrologue"
+   },
+   "2": {
+    "1": [
+     "rêvent d'",
+     "en rêvent"
+    ],
+    "2": [
+     "as peur du",
+     "'en ai peur"
+    ],
+    "3": [
+     "avez besoin de",
+     "'en ai besoin"
+    ],
+    "4": [
+     "est content de",
+     "en est content"
+    ]
+   }
+  }
+ }
+}

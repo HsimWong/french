@@ -1,0 +1,116 @@
+{
+ "pages": {
+  "83": {
+   "1": {
+    "1": "bon",
+    "2": [
+     "bon",
+     "mauvais"
+    ],
+    "3": "mal",
+    "4": [
+     "bon",
+     "bien"
+    ],
+    "5": [
+     "mauvaise",
+     "mal"
+    ]
+   },
+   "2": {
+    "2": "c'est bien",
+    "3": "c'est bien",
+    "4": "c'est bon",
+    "5": "c'est bon"
+   },
+   "3": {
+    "2": "rapides",
+    "3": "vite",
+    "4": "lentement",
+    "5": "lents",
+    "6": [
+     "rapide",
+     "vite"
+    ]
+   },
+   "4": {
+    "1": [
+     "beaucoup",
+     "très",
+     "beaucoup",
+     "très",
+     "beaucoup",
+     "beaucoup",
+     "très"
+    ]
+   },
+   "5": {
+    "1": [
+     "bien",
+     "beaucoup",
+     "bons",
+     "bonnes",
+     "vite",
+     "rapide",
+     "vite",
+     "bien",
+     "bon",
+     "lents",
+     "mal",
+     "bien",
+     "vite",
+     "bon"
+    ]
+   }
+  },
+  "85": {
+   "1": {
+    "1": [
+     "chaudement",
+     "sèchement",
+     "rarement",
+     "régulièrement",
+     "gentiment",
+     "longuement",
+     "sincèrement",
+     "vraiment",
+     "mollement",
+     "énormément",
+     "poliment",
+     "pauvrement",
+     "discrètement",
+     "franchement",
+     "simplement",
+     "légèrement",
+     "passivement",
+     "suffisamment",
+     "secrètement",
+     "fréquemment",
+     "follement",
+     "absolument",
+     "méchamment",
+     "récemment",
+     "rapidement"
+    ]
+   },
+   "2": {
+    "1": "bruyamment",
+    "2": "attentivement",
+    "3": "patiemment",
+    "4": "sérieusement",
+    "5": "prudemment"
+   },
+   "4": {
+    "1": [
+     "Cordialement",
+     "Amicalement",
+     "Tendrement"
+    ]
+   },
+   "6": {
+    "4": "– Oui, je parle quelquefois français. (ou – Non, je ne parle pas souvent français.)",
+    "5": "– Oui, je regarde de temps en temps la BBC. (ou – Non, je regarde rarement la BBC)"
+   }
+  }
+ }
+}

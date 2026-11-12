@@ -1,0 +1,67 @@
+{
+ "pages": {
+  "153": {
+   "1": {
+    "2": "je n'habite plus à Vérone",
+    "3": "je ne vois plus William. (ou je ne le vois plus.)",
+    "4": "je ne fais rien ce soir",
+    "5": "je n'attends personne"
+   },
+   "3": {
+    "2": "– Non, je ne vais jamais dans des « rave-parties",
+    "3": "– Non, je n'habite plus chez mes parents",
+    "4": "– Non, je ne suis plus débutant complet",
+    "5": "– Non, je ne parle pas encore français couramment"
+   },
+   "4": {
+    "1": "ne prépare rien pour dîner. Personne ne me téléphone. Rien ne brûle dans la cuisine. Je ne m'énerve pas. Je ne suis pas fatiguée. Je n'ai pas mal à la tête. Je ne me couche pas tard. Personne ne me dérange. Je n'ai rien à faire (ou Je n'ai pas grand-chose à faire). Je n'ai pas de soucis"
+   },
+   "5": {
+    "1": "– Oui, il y a quelqu'un devant moi.|– Non, il n'y a personne devant moi",
+    "2": "– Oui, il y a quelqu'un dans le couloir.|– Non, il n'y a personne dans le couloir",
+    "3": "– Oui, il y a quelque chose dans le tiroir.|– Non, il n'y a rien dans le tiroir",
+    "4": "– Oui, il y a quelque chose sur la table.|– Non, il n'y a rien sur la table"
+   }
+  },
+  "155": {
+   "1": {
+    "1": "– Non, je ne travaille ni le samedi ni le dimanche",
+    "2": "– Non, je ne connais ni Simon ni Gérald Bruni",
+    "3": "– Non, je ne ressemble ni à mon père ni à ma mère",
+    "4": "– Non, je ne bois ni thé ni café le matin"
+   },
+   "3": {
+    "2": "– Oui, je ne commence qu'à onze heures",
+    "3": "– Oui, je n'ai qu'un rendez-vous aujourd'hui",
+    "4": "– Oui, je ne mange qu'un sandwich à midi",
+    "5": "– Oui, je ne bois qu'un café par jour"
+   },
+   "4": {
+    "1": [
+     "ne",
+     "ni",
+     "ni"
+    ],
+    "2": [
+     "n'",
+     "pas de"
+    ],
+    "3": [
+     "ne",
+     "que"
+    ],
+    "4": [
+     "ne",
+     "ni",
+     "ni",
+     "ne",
+     "que"
+    ],
+    "5": [
+     "sans",
+     "ni"
+    ]
+   }
+  }
+ }
+}

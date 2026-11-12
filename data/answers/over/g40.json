@@ -1,0 +1,87 @@
+{
+  "pages": {
+    "179": {
+      "3": {
+        "1": "une lettre et j'ai eu un choc",
+        "2": "J'ai bu de l'alcool et j'ai eu mal à la tête",
+        "3": "J'ai pris ma voiture et j'ai conduit dans la nuit",
+        "4": "J'ai brûlé un feu rouge et j'ai été arrêté par la police",
+        "5": "J'ai plu au gendarme et j'ai payé une légère amende"
+      }
+    },
+    "180": {
+      "3": {
+        "1": "J'ai vu le temps par la fenêtre (un ciel gris vraiment morose)",
+        "2": "J'ai eu du mal à me lever (à cause de mon arthrose)",
+        "3": "J'ai entendu le chien aboyer (pour réclamer son « Dogdose »)",
+        "4": "J'ai reçu un peu de courrier (mais pas de lettre de Rose)",
+        "5": "J'ai lu le programme télé (comme toujours, pas grand-chose)",
+        "6": "J'ai bu un peu de rosé et j'ai vu des éléphants roses"
+      }
+    },
+    "183": {
+      "3": {
+        "2": "Un bébé est né dans une maternité",
+        "3": "Une cigogne est passée dans le ciel gris",
+        "4": "Jean est arrivé des États-Unis",
+        "5": "Des enfants sont allés au bord de la mer",
+        "6": "Deux voleurs sont entrés dans un appartement",
+        "7": "Un homme d'État est mort dans son lit",
+        "8": "Un grand écrivain est rentré dans son pays",
+        "9": "Jean est monté dans un taxi",
+        "10": "Une femme est sortie sous la pluie",
+        "11": "Un homme est tombé amoureux",
+        "12": "Jean est rentré chez lui"
+      }
+    },
+    "185": {
+      "2": {
+        "1": [
+          "sommes venus",
+          "sommes allés",
+          "sommes montés",
+          "sommes allés",
+          "sommes allés",
+          "sommes sortis",
+          "sommes restés"
+        ]
+      }
+    },
+    "187": {
+      "3": {
+        "5": "Nous nous sommes revus au concert des Rita Mitsuko, en 2007"
+      }
+    },
+    "189": {
+      "4": {
+        "1": "John Kennedy est devenu président des États-Unis",
+        "2": "En 1961, le Mur de Berlin a été construit en une nuit",
+        "3": "En 1962, Marilyn Monroe s'est suicidée",
+        "4": "En 1963, le président Kennedy a été assassiné",
+        "5": "En 1967, les colonels ont pris le pouvoir en Grèce",
+        "6": "En 1968, les étudiants ont manifesté et les ouvriers ont fait la grève",
+        "7": "En 1969, Neil Armstrong a marché sur la Lune"
+      }
+    },
+    "193": {
+      "1": {
+        "2": "Vous êtes allé(e) en Bourgogne ? – Oui, j'y suis allé(e)",
+        "3": "Vous avez bu du vin rouge ? – Oui, j'en ai bu",
+        "4": "Vous avez parlé aux viticulteurs ? – Oui, je leur ai parlé",
+        "5": "Vous avez acheté du vin ? – Oui, j'en ai acheté"
+      }
+    },
+    "197": {
+      "4": {
+        "2": [
+          "il y a eu des tempêtes",
+          "Oui, il y en a eu deux"
+        ],
+        "3": [
+          "il y a eu des inondations",
+          "Oui, il y en a eu plusieurs"
+        ]
+      }
+    }
+  }
+}

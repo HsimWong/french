@@ -1,0 +1,68 @@
+{
+  "pages": {
+    "253": {
+      "2": {
+        "1": "donc",
+        "2": "c'est pour ça qu'",
+        "3": "alors",
+        "4": "c'est la raison pour laquelle"
+      },
+      "3": {
+        "1": [
+          "puisque",
+          "Alors"
+        ],
+        "2": [
+          "Comme",
+          "C'est pour ça que"
+        ],
+        "3": [
+          "grâce à",
+          "Si bien que"
+        ]
+      },
+      "4": {
+        "2": [
+          "afin qu'",
+          "voient"
+        ],
+        "3": [
+          "afin que",
+          "soit"
+        ],
+        "4": [
+          "pour qu'",
+          "fassent"
+        ],
+        "5": [
+          "afin que",
+          "puisse"
+        ],
+        "6": [
+          "pour qu'",
+          "prenne"
+        ],
+        "7": [
+          "pour",
+          "être"
+        ],
+        "8": [
+          "pour",
+          "avoir"
+        ]
+      }
+    },
+    "255": {
+      "4": {
+        "3": [
+          "travaille malgré la migraine|travaille même s'il a la migraine",
+          "il travaille quand même"
+        ],
+        "4": [
+          "l'aiment malgré ses défauts|l'aiment même si elle a des défauts",
+          "ses amis l'aiment quand même"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+ "pages": {
+  "37": {
+   "2": {
+    "2": "Mon",
+    "3": "Ma",
+    "4": "Mes",
+    "5": "Mon",
+    "6": "Mon",
+    "7": "Mon"
+   },
+   "3": {
+    "2": "sa beauté",
+    "3": "son humour",
+    "4": "sa musique",
+    "5": "ses romans"
+   },
+   "4": {
+    "2": "vos plantes",
+    "3": "votre linge",
+    "4": "votre chien",
+    "5": "vos papiers"
+   },
+   "5": {
+    "1": [
+     "leurs (valises)",
+     "Leur (arrivée)",
+     "ses (cheveux)",
+     "son (coiffeur)",
+     "ses (habits)",
+     "son (régime)",
+     "son (amie)",
+     "la (tête)",
+     "l'(estomac)",
+     "son (anxiété)",
+     "la (main)",
+     "son (attitude)"
+    ]
+   },
+   "6": {
+    "1": [
+     "ta",
+     "la mienne"
+    ],
+    "2": [
+     "ton",
+     "le mien"
+    ],
+    "3": [
+     "ton",
+     "le mien"
+    ],
+    "4": [
+     "ta",
+     "la mienne"
+    ],
+    "5": [
+     "tes",
+     "les miennes"
+    ],
+    "6": "Exemple|ton stylo, j'ai perdu le mien"
+   },
+   "7": {
+    "1": [
+     "c'est la tienne",
+     "c'est le mien",
+     "c'est le tien",
+     "ce sont les tiennes"
+    ]
+   }
+  }
+ }
+}

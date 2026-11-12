@@ -1,0 +1,123 @@
+{
+ "pages": {
+  "87": {
+   "1": {
+    "1": [
+     "du (beurre)",
+     "de la (confiture)",
+     "du (café)",
+     "du (fromage)",
+     "des (biscuits)",
+     "du (Coca)",
+     "du (riz)",
+     "des (pâtes)",
+     "de la (soupe)",
+     "des (frites)",
+     "du (ketchup)",
+     "des (crêpes)",
+     "du (chocolat)",
+     "des (bananes)",
+     "du (magnésium)",
+     "du (calcium)",
+     "du (potassium)",
+     "de la (force)",
+     "du (tonus)",
+     "des (kilos)"
+    ]
+   },
+   "3": {
+    "2": "il y a de l'air",
+    "3": "il y a de l'eau",
+    "4": "de l'essence"
+   },
+   "4": {
+    "2": "Il a de l'argent",
+    "3": "Il a du goût",
+    "4": "Il a de l'énergie"
+   },
+   "5": {
+    "1": "de la neige",
+    "2": [
+     "des nuages",
+     "du soleil"
+    ]
+   }
+  },
+  "89": {
+   "1": {
+    "1": [
+     "de (limonade)",
+     "du (café)",
+     "de la (glace)",
+     "de (chantilly)",
+     "du (pastis)",
+     "de (sirop)",
+     "d'(eau)"
+    ],
+    "2": [
+     "de (courgettes)",
+     "de (haricots)",
+     "de (haricots)",
+     "de (carottes)",
+     "d'(huile)",
+     "du (sel)",
+     "du (poivre)",
+     "du (basilic)",
+     "d'(ail)",
+     "de (pommes de terre)"
+    ]
+   },
+   "2": {
+    "2": [
+     "de l'",
+     "un peu d'"
+    ],
+    "3": [
+     "de la",
+     "pas de"
+    ],
+    "4": [
+     "des",
+     "un peu de"
+    ],
+    "5": [
+     "de la",
+     "beaucoup de"
+    ]
+   },
+   "4": {
+    "1": [
+     "du",
+     "/ un tube de dentifrice"
+    ],
+    "2": [
+     "de l'",
+     "/ une bouteille d'eau"
+    ],
+    "3": [
+     "des",
+     "/ une boîte de petits pois"
+    ],
+    "4": [
+     "des",
+     "/ un paquet de biscuits"
+    ]
+   },
+   "5": {
+    "1": [
+     "beaucoup de",
+     "peu de"
+    ],
+    "2": [
+     "peu de",
+     "beaucoup d'"
+    ],
+    "3": [
+     "beaucoup d'",
+     "beaucoup de",
+     "peu d'"
+    ]
+   }
+  }
+ }
+}

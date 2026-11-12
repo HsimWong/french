@@ -1,0 +1,115 @@
+{
+ "pages": {
+  "251": {
+   "2": {
+    "1": [
+     "Comme",
+     "parce que",
+     "Comme",
+     "Comme"
+    ]
+   },
+   "4": {
+    "1": "parce que",
+    "2": "Comme",
+    "3": "Puisque",
+    "4": "puisque"
+   },
+   "5": {
+    "1": [
+     "parce que",
+     "Comme",
+     "grâce à",
+     "à cause",
+     "grâce",
+     "Comme",
+     "puisqu'"
+    ]
+   }
+  },
+  "255": {
+   "1": {
+    "1": "se boit frais",
+    "2": [
+     "du beurre",
+     "alors que les gens du Sud consomment de l'huile d'olive"
+    ],
+    "3": [
+     "est une monarchie",
+     "tandis que la France est une république"
+    ],
+    "4": [
+     "avec des baguettes",
+     "alors qu'en France on mange avec un couteau et une fourchette"
+    ]
+   },
+   "4": {
+    "2": [
+     "malgré le bruit",
+     "dort même s'il y a du bruit",
+     "il dort quand même"
+    ],
+    "3": [
+     "travaille malgré la migraine|travaille même s'il a la migraine",
+     "il travaille quand même"
+    ],
+    "4": [
+     "l'aiment malgré ses défauts|l'aiment même si elle a des défauts",
+     "ses amis l'aiment quand même"
+    ]
+   }
+  },
+  "253": {
+   "2": {
+    "1": "donc",
+    "2": "c'est pour ça qu'",
+    "3": "alors",
+    "4": "c'est la raison pour laquelle"
+   },
+   "3": {
+    "1": [
+     "puisque",
+     "Alors"
+    ],
+    "2": [
+     "Comme",
+     "C'est pour ça que"
+    ],
+    "3": [
+     "grâce à",
+     "Si bien que"
+    ]
+   },
+   "4": {
+    "2": [
+     "afin qu'",
+     "voient"
+    ],
+    "3": [
+     "afin que",
+     "soit"
+    ],
+    "4": [
+     "pour qu'",
+     "fassent"
+    ],
+    "5": [
+     "afin que",
+     "puisse"
+    ],
+    "6": [
+     "pour qu'",
+     "prenne"
+    ],
+    "7": [
+     "pour",
+     "être"
+    ],
+    "8": [
+     "pour",
+     "avoir"
+    ]
+   }
+  }
+ }
+}

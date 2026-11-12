@@ -1,0 +1,47 @@
+@CH 12
+@PAGE 57
+@EX 2
+1. … nouveau …
+2. … neuves.
+3. … nouvelle …
+4. … vieille …
+5. … vieux …
+6. … neufs …
+7. … ancien …
+8. … neuf …
+@EX 3
+1. L'appartement est un grand appartement ; il a 250 mètres carrés. Il est dans un vieil immeuble de 1800. Il n'y a pas d'ascenseur. Il y a une terrasse.
+2. Le studio est un petit appartement de 30 mètres carrés. Il est dans un immeuble neuf de 2013. Il y a un ascenseur. Il n'y a pas de terrasse.
+- Exemple : Mon appartement est un très petit studio de 25 mètres carrés. Il est à Paris dans un vieil immeuble de 1900. Il n'y a ni ascenseur ni terrasse.
+@CH 13
+@PAGE 59
+@EX 1
+- … trente-six, trente-neuf, cinquante. – Le numéro des pharmacies de garde, c'est le trente-deux, trente-sept. – Le numéro de la police, c'est le dix-sept. – Le numéro des pompiers, c'est le dix-huit. – Le numéro des urgences médicales (le SAMU), c'est le quinze.
+@EX 2
+- Max : 543 points. Jules : 1 118 points. Pierre : 755 points. Ivan : 95 points.
+@EX 3
+2. … il y a trente ou trente et un jours.
+3. … il y a sept jours (une semaine = huit jours en langage familier).
+4. … il y a vingt-quatre heures.
+5. … il y a soixante minutes.
+6. … il y a soixante secondes.
+@EX 4
+- – Quel est l'indicatif téléphonique de la Suisse ? – C'est le zéro zéro quarante et un.
+- – Quel est l'indicatif téléphonique du Cameroun ? – C'est le zéro zéro deux cent trente-sept.
+- – Quel est l'indicatif téléphonique du Luxembourg ? – C'est le zéro zéro trois cent cinquante-deux.
+- – Quel est l'indicatif téléphonique de la Belgique ? – C'est le zéro zéro trente-deux.
+- – Quel est l'indicatif téléphonique du Danemark ? – C'est le zéro zéro quarante-cinq.
+@EX 5
+- Cent vingt-cinq plus cinquante et un égale cent soixante-seize. – Soixante-neuf moins dix-huit égale cinquante et un. – Vingt-six multiplié par trois, ça fait soixante-dix-huit. – Soixante-douze divisé par six, ça fait douze.
+@EX 6
+- Exemples : Mon numéro de téléphone fixe est le zéro quatre, soixante-seize, cinquante-cinq, cinquante-six, soixante-dix-neuf. – Mon numéro de téléphone portable est le zéro six, dix-huit, vingt, trente-cinq, soixante-dix. – Mon numéro de téléphone au bureau est le zéro quatre, soixante-dix-neuf, onze, vingt-quatre, trente et un. – L'indicatif téléphonique de la France est le zéro, zéro, trente-trois.
+@CH 13
+@PAGE 61
+@EX 1
+2. cinquante euros.
+3. quarante et un euros.
+4. deux cents euros.
+5. cent euros.
+6. cent soixante-dix euros.
+7. deux mille euros.
+- Exemple : Date : 15/10/2013 – Ordre : Maison de la culture (spectacle) – € 27 – Vingt-sept euros – M. Ducret Jérémy, 11 rue des Ternes, 69000 Lyon – À Lyon, le 15 octobre 2013.

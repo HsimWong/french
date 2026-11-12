@@ -1,0 +1,53 @@
+@CH 40
+@PAGE 193
+@EX 5
+2. – Oui, elle s'est bien améliorée.
+3. – Oui, il s'est beaucoup investi.
+4. – Oui, ils ont bien réagi.
+5. – Oui, ils ont un peu augmenté.
+@CH 40
+@PAGE 195
+@EX 1
+1. Non, je ne suis pas allé(e) à la campagne.
+2. Non, je ne suis pas monté(e) sur la tour Eiffel.
+3. Non, je n'ai pas dîné au restaurant.
+4. Non, je n'ai pas invité mes amis.
+5. Non, je n'ai pas révisé mes leçons.
+@EX 2
+- Moi, je n'ai pas ri. – Moi, je n'ai pas pleuré. – Moi, je n'ai pas crié. – Moi, je n'ai pas applaudi.
+@EX 3
+2. Non, je ne les ai pas finis.
+3. Non, je ne l'ai pas faite.
+4. Non, je ne les ai pas prises.
+5. Non, je ne les ai pas payés.
+@EX 4
+- Questions possibles : 2. Combien de temps y êtes-vous restés ? 3. Où avez-vous logé ? 4. Quelles villes avez-vous visitées ? 5. Quand êtes-vous partis ? 6. Combien avez-vous dépensé en tout ? 7. Quand êtes-vous rentrés ?
+@EX 5
+- Je n'ai rien mangé. Je n'ai rien bu. Je n'ai rencontré personne. Je n'ai rien fait de particulier le week-end dernier. Je n'ai invité personne.
+@CH 40
+@PAGE 196
+@EX 1
+1. – Ah bon, elle ne lui a pas répondu !
+2. – Ah bon, vous ne l'avez pas reconnue ! (ou – Ah bon, tu ne l'as pas reconnue !).
+3. – Ah bon, il n'en a pas acheté !
+4. – Ah bon, ils n'y sont pas allés !
+5. Ah bon, vous n'en avez pas mangé !
+@EX 2
+2. … les as sûrement oubliées au bureau. … j'ai dû les oublier au bureau.
+3. … l'as sûrement notée quelque part. … j'ai dû la noter quelque part.
+4. … l'a sûrement lavée à l'eau chaude. … elle a dû la laver à l'eau chaude.
+@EX 3
+- Réponses possibles : 1. … hier matin, j'en ai mangé trois. 2. … la semaine dernière, j'en ai eu cinq. 3. … le mois dernier, j'en ai reçu dix. 4. … hier, j'en ai bu cinq. 5. … la semaine dernière, j'en ai eu trente-deux.
+@EX 4
+2. … tu lui as mal parlé.
+3. … elle les a mal renseignés.
+4. … il lui a beaucoup parlé.
+5. … tu en as trop mis.
+@CH 40
+@PAGE 197
+@EX 1
+1. … a eu … est restée …
+2. … se sont perdus … ont marché …
+3. … avons mangé … avons été …
+4. … me suis trompé(e) … j'ai dû …
+5. … a dû … est sortie …

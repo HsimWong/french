@@ -1,0 +1,31 @@
+{
+ "pages": {
+  "137": {
+   "1": {
+    "1": "– Je voudrais un sucre. (ou Je voudrais deux sucres)",
+    "2": "– Je voudrais une brioche. (ou Je voudrais un croissant)",
+    "3": "– Je voudrais faire une pause (ou Je voudrais continuer)",
+    "4": "– Je voudrais sortir (ou Je voudrais rester ici)",
+    "5": "– Je voudrais écouter un CD (ou Je voudrais voir une vidéo)"
+   },
+   "2": {
+    "1": "Est-ce que je pourrais avoir un peu de pain ?",
+    "2": "Est-ce que je pourrais avoir des haricots à la place des frites ?",
+    "3": "Est-ce que je pourrais avoir une carafe d’eau ?",
+    "4": "Est-ce que je pourrais avoir le café avec le dessert ?"
+   },
+   "4": {
+    "1": "J’aimerais avoir",
+    "2": "– J’aimerais faire",
+    "3": "– J’aimerais être"
+   },
+   "6": {
+    "1": "prendrais bien",
+    "2": "devrais",
+    "3": "pourrais",
+    "4": "voudrais bien",
+    "5": "’aimerais bien"
+   }
+  }
+ }
+}

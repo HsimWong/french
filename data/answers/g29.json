@@ -1,0 +1,32 @@
+{
+ "pages": {
+  "133": {
+   "1": {
+    "2": "ce n’est pas moi",
+    "3": "c’est elle",
+    "4": "ce n’est pas lui",
+    "5": "ce sont eux"
+   },
+   "3": {
+    "2": "– Ah bon, vous déjeunez avec lui !",
+    "3": "– Ah bon, vous habitez chez eux !",
+    "4": "– Ah bon, vous sortez avec lui !",
+    "5": "– Ah bon, vous partez en vacances sans eux !"
+   },
+   "4": {
+    "2": "lui, il habite",
+    "3": "moi, je vais",
+    "4": "elle, elle arrive",
+    "5": "lui, il travaille",
+    "6": "eux, ils aiment"
+   },
+   "5": {
+    "1": "lui",
+    "2": "eux",
+    "3": "moi",
+    "4": "lui",
+    "5": "soi"
+   }
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "pages": {
+  "215": {
+   "1": {
+    "1": "Oui, quand j'ai trouvé du travail, j'avais déjà terminé mes études",
+    "2": "Oui, quand j'ai commencé le cours de français, j'avais déjà rencontré le professeur",
+    "3": "Oui, quand j'ai passé le test, j'avais déjà étudié le français",
+    "4": "Oui, quand le cours a commencé, j'avais déjà acheté mes livres"
+   },
+   "2": {
+    "1": "avions rencontrés",
+    "2": "m'avait offert",
+    "3": "lui avais écrit",
+    "4": "avait perdu",
+    "5": "j'avais garé"
+   },
+   "4": {
+    "1": [
+     "n'avait pas arrosé",
+     "n'avait pas nettoyé",
+     "n'avait pas fait",
+     "n'avait pas repassé",
+     "n'avait pas rangé"
+    ]
+   }
+  }
+ }
+}

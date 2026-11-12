@@ -1,0 +1,34 @@
+{
+ "pages": {
+  "157": {
+   "1": {
+    "1": "part tout de suite et qu'il emporte les dossiers",
+    "2": "Il lui demande si elle est libre pour le déjeuner et ce qu'elle fait dans l'après-midi",
+    "3": [
+     "Il lui demande si elle a la liste des hôtels du quartier, où se trouve le Bristol et combien coûte une chambre double",
+     "Il lui demande de noter toutes ces informations"
+    ]
+   },
+   "2": {
+    "1": [
+     "il a un paquet",
+     "Il dit qu'il n'a pas le code",
+     "Il demande si on peut ouvrir la porte",
+     "Il dit que l'ascenseur est en panne",
+     "Il demande si quelqu'un peut descendre"
+    ]
+   },
+   "3": {
+    "1": [
+     "Elle lui répond qu'elle va au cinéma avec Jules",
+     "Il lui demande si elle est libre dimanche",
+     "Elle lui répond qu'elle va écouter un concert",
+     "Il lui demande où elle va",
+     "Elle lui répond qu'elle va à l'église Saint-Médard",
+     "Il lui demande si elle y va seule et il lui dit qu'il adore le piano",
+     "Elle lui demande de venir à dix heures pile"
+    ]
+   }
+  }
+ }
+}

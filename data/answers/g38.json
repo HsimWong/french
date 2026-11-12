@@ -1,0 +1,53 @@
+{
+ "pages": {
+  "165": {
+   "1": {
+    "1": [
+     "viennent",
+     "retournent",
+     "vont",
+     "rentrer"
+    ]
+   },
+   "2": {
+    "1": [
+     "viens",
+     "vas",
+     "vais",
+     "vont",
+     "vais",
+     "reviens",
+     "allons",
+     "vais"
+    ]
+   },
+   "3": {
+    "1": [
+     "allons",
+     "venir"
+    ],
+    "2": [
+     "vont",
+     "retournent"
+    ],
+    "3": "revenir",
+    "4": "retourner",
+    "5": [
+     "vais",
+     "reviens"
+    ],
+    "6": "retourner",
+    "7": "rentrer",
+    "8": "rentrent"
+   },
+   "4": {
+    "1": "voir",
+    "2": "visiter",
+    "3": "visiter",
+    "4": "voir",
+    "5": "visiter",
+    "6": "voir"
+   }
+  }
+ }
+}

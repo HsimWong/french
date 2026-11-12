@@ -1,0 +1,42 @@
+{
+  "pages": {
+    "109": {
+      "1": {
+        "8": ["rougissent", "évanouissent"]
+      }
+    },
+    "111": {
+      "4": {
+        "1": "Ils perdent",
+        "2": "Ils partent",
+        "3": "Ils descendent",
+        "4": "Ils vendent",
+        "5": "Ils éteignent",
+        "6": "Ils maigrissent",
+        "7": "Ils construisent"
+      }
+    },
+    "114": {
+      "1": {
+        "1": "Ils prennent un grand saladier",
+        "2": "Ils mettent 250 grammes de farine",
+        "3": "Ils font un puits au centre",
+        "4": "Ils battent trois œufs avec la farine",
+        "5": "Ils mettent un demi-litre de lait petit à petit",
+        "6": "Ils font reposer la pâte une heure",
+        "7": "Ils prennent une poêle",
+        "8": "Ils font chauffer un peu d'huile",
+        "9": "Ils mettent une petite louche de pâte",
+        "10": "Ils font cuire des deux côtés",
+        "11": "Ils mettent du sucre"
+      }
+    },
+    "115": {
+      "2": {
+        "5": "Oui, quand je bois du café le soir, je prends du décaféiné",
+        "6": "Oui, quand je reçois un message, je réponds toujours",
+        "7": "Oui, quand je suis au théâtre, j'applaudis longtemps les acteurs"
+      }
+    }
+  }
+}

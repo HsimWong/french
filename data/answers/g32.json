@@ -1,0 +1,177 @@
+{
+ "pages": {
+  "141": {
+   "1": {
+    "1": [
+     "qui est ennuyeux",
+     "qui sont froides",
+     "qui est chaud",
+     "qui joue mal"
+    ],
+    "2": "que je lis est ennuyeux. – Les frites que je mange sont froides. – Le Coca que je bois est chaud. – Le musicien que j’écoute joue mal"
+   },
+   "2": {
+    "2": [
+     "qui joue au cow-boy",
+     "qui porte des bottes rouges"
+    ],
+    "3": [
+     "qui pousse dans la cour",
+     "qui a des fleurs blanches"
+    ],
+    "4": [
+     "qui est en pierre",
+     "qui a des volets bleus"
+    ]
+   },
+   "3": {
+    "1": "qui",
+    "2": "que",
+    "3": "qui",
+    "4": "qui",
+    "5": "que"
+   },
+   "4": {
+    "1": "où",
+    "2": "qui",
+    "3": "où",
+    "4": "que",
+    "5": "qui"
+   },
+   "5": {
+    "2": "le mois où",
+    "3": "l’année où",
+    "4": "au moment où"
+   }
+  },
+  "143": {
+   "1": {
+    "2": "c’est un problème dont je parle parfois",
+    "3": "c’est un service dont je suis responsable",
+    "4": "c’est une machine dont je me sers",
+    "5": "c’est un document dont j’ai besoin"
+   },
+   "2": {
+    "2": "qu’ils aiment le plus ? –",
+    "3": "dont ils se servent le plus ? –",
+    "4": "qu’ils détestent le plus ? –",
+    "5": "qu’ils apprécient le plus ?"
+   },
+   "5": {
+    "2": "ce que",
+    "3": "ce qui",
+    "4": "ce qui",
+    "5": "ce dont"
+   },
+   "6": {
+    "1": [
+     "Ce que",
+     "c’est"
+    ],
+    "2": [
+     "– Ce qui",
+     "c’est"
+    ],
+    "3": [
+     "– Ce que",
+     "ce sont"
+    ],
+    "4": [
+     "– Ce que",
+     "c’est"
+    ]
+   }
+  },
+  "145": {
+   "1": {
+    "1": [
+     "laquelle",
+     "lesquels",
+     "lesquels",
+     "lequel",
+     "laquelle"
+    ]
+   },
+   "2": {
+    "1": "– Oui, la table sur laquelle je travaille est en verre",
+    "2": "– Oui, le stylo avec lequel j’écris est rechargeable",
+    "3": "– Oui, les étudiants avec lesquels je travaille sont anglais",
+    "4": "– Oui, le groupe auquel j’appartiens est sympathique",
+    "5": "– Oui, les cours auxquels j’assiste sont intéressants"
+   },
+   "3": {
+    "1": [
+     "avec lesquels (ou avec qui)",
+     "dans laquelle",
+     "avec lesquels (ou avec qui)",
+     "auquel"
+    ]
+   },
+   "4": {
+    "1": [
+     "dans lequel",
+     "auxquels",
+     "auxquels",
+     "avec lesquels",
+     "duquel",
+     "duquel"
+    ]
+   }
+  },
+  "147": {
+   "1": {
+    "1": "ce que",
+    "2": [
+     "ce qui",
+     "ce qui"
+    ],
+    "3": "ce dont",
+    "4": [
+     "ce qui",
+     "ce qui"
+    ],
+    "5": [
+     "ce qu'",
+     "ce qu'"
+    ],
+    "6": [
+     "ce qu'",
+     "ce dont"
+    ],
+    "7": "ce qui",
+    "8": "Ce que",
+    "9": [
+     "ce que",
+     "ce dont"
+    ],
+    "10": "Ce qui"
+   },
+   "2": {
+    "1": [
+     "ce que",
+     "ce qu'",
+     "ce qu'",
+     "ce dont",
+     "ce qu'",
+     "ce qu'",
+     "ce qui",
+     "ce que",
+     "ce que",
+     "ce qui"
+    ]
+   },
+   "3": {
+    "1": "à laquelle",
+    "2": "ce que",
+    "3": "où",
+    "4": "auxquels",
+    "5": "dont",
+    "6": "à laquelle",
+    "7": "dont",
+    "8": "à laquelle",
+    "9": "Ce qui",
+    "10": "duquel"
+   }
+  }
+ }
+}

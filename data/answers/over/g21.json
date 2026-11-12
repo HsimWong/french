@@ -1,0 +1,34 @@
+{
+  "pages": {
+    "95": {
+      "1": {
+        "1": [
+          "en",
+          "dans le",
+          "en",
+          "en",
+          "en",
+          "dans le",
+          "dans les"
+        ],
+        "2": [
+          "dans les",
+          "dans les",
+          "dans le",
+          "dans les",
+          "en"
+        ]
+      },
+      "3": {
+        "1": "C'est du café de Colombie",
+        "2": "C'est de la morue du Portugal",
+        "3": "Ce sont des avocats d'Israël",
+        "4": "Ce sont des oranges du Maroc",
+        "5": "C'est du riz de Thaïlande",
+        "6": "C'est du beurre de Normandie",
+        "7": "Ce sont des tulipes de Hollande",
+        "8": "C'est du tabac de Hongrie"
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "pages": {
+    "97": {
+      "1": {
+        "1": "Les femmes sont moins musclées que les hommes"
+      },
+      "3": {
+        "1": [
+          "plus",
+          "moins de",
+          "moins",
+          "que",
+          "plus de",
+          "moins",
+          "plus",
+          "moins",
+          "plus",
+          "plus de",
+          "qu'",
+          "aussi",
+          "qu'",
+          "aussi"
+        ]
+      }
+    },
+    "98": {
+      "2": {
+        "1": [
+          "aussi beau que",
+          "autant de charme qu'"
+        ],
+        "2": [
+          "autant de vêtements que",
+          "aussi élégant qu'"
+        ],
+        "3": [
+          "aussi cultivé que",
+          "autant de livres qu'"
+        ],
+        "4": [
+          "autant d'argent que",
+          "aussi riche qu'"
+        ]
+      },
+      "3": {
+        "1": "ne bougent pas autant",
+        "2": "ne sont pas aussi confiants",
+        "3": "ne pleurent pas autant",
+        "4": "ne sont pas aussi amusants"
+      }
+    }
+  }
+}

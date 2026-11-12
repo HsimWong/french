@@ -1,0 +1,42 @@
+{
+ "pages": {
+  "159": {
+   "1": {
+    "2": "Il étudie en écoutant du rock",
+    "3": "Il téléphone en conduisant",
+    "4": "Il écrit des SMS en buvant son café",
+    "5": "Il écrit des SMS en buvant son café"
+   },
+   "2": {
+    "1": [
+     "lisant des romans",
+     "en parlant le plus possible",
+     "en apprenant du vocabulaire",
+     "en écoutant des chansons",
+     "en écrivant des textes"
+    ]
+   },
+   "4": {
+    "2": "en faisant",
+    "3": "En partant",
+    "4": "en buvant",
+    "5": "en appelant",
+    "6": "en réservant"
+   },
+   "5": {
+    "1": [
+     "faisant",
+     "sachant"
+    ],
+    "2": "étant",
+    "3": "ayant"
+   },
+   "3": {
+    "2": "Elle discute en s'énervant",
+    "3": "Elle dit au revoir en souriant",
+    "4": "Elle part en fermant la porte",
+    "5": "Elle s'éloigne en regardant derrière elle"
+   }
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "pages": {
+  "45": {
+   "2": {
+    "1": [
+     "À",
+     "en",
+     "en"
+    ],
+    "2": [
+     "En",
+     "aux",
+     "au"
+    ],
+    "3": [
+     "En",
+     "au",
+     "en"
+    ],
+    "4": [
+     "En",
+     "en"
+    ],
+    "5": [
+     "À",
+     "au",
+     "en"
+    ],
+    "6": [
+     "À",
+     "en",
+     "en"
+    ]
+   },
+   "4": {
+    "1": "Au Pérou",
+    "2": "il y a un site archéologique très connu : c'est le Machu Picchu. – Au Japon",
+    "3": "il y a un grand volcan sacré : c'est le Fuji Yama. – En Écosse",
+    "4": "il y a un lac mystérieux : c'est le Loch Ness"
+   }
+  },
+  "47": {
+   "2": {
+    "1": "Sur la bouteille, il y a une étiquette. Dans la bouteille, il y a du cognac",
+    "2": "Sur le lac, il y a des bateaux. Dans le lac, il y a des poissons",
+    "3": "Sous la télévision, il y a une table basse. À la télévision, il y a un reportage",
+    "4": "Dans l'avion, il y a des voyageurs. Sur l'avion, il y a James Bond ! (ou Dans l'avion, il y a James Bond)",
+    "5": "Sur la radio, il y a un autocollant. À la radio, il y a un concert de jazz"
+   },
+   "3": {
+    "1": [
+     "sur",
+     "dans",
+     "dans",
+     "sur",
+     "à la",
+     "dans",
+     "sur",
+     "sur (ou dans)",
+     "sous",
+     "à la",
+     "à la"
+    ]
+   },
+   "4": {
+    "1": "dessous",
+    "2": "dedans",
+    "3": "dessus",
+    "4": "dehors",
+    "5": "dessous"
+   }
+  }
+ }
+}

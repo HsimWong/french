@@ -1,0 +1,85 @@
+{
+ "pages": {
+  "69": {
+   "1": {
+    "1": "quelques étudiants habitent à la cité universitaire",
+    "2": "plusieurs cohabitent avec des amis",
+    "3": "tous habitent dans le centre",
+    "4": "aucun n'habite à l'hôtel. dans un deux-pièces. Certains vivent seuls",
+    "5": "d'autres vivent en couple. Certains sont propriétaires",
+    "6": "d'autres sont locataires"
+   },
+   "2": {
+    "1": "tous les fruits, mais surtout",
+    "2": "tous les légumes, mais surtout",
+    "3": "toutes les saisons, mais surtout",
+    "4": "toutes les fleurs, mais surtout",
+    "5": "tous les animaux, mais surtout",
+    "6": "tous les sports, mais surtout",
+    "7": "tous les styles de musique, mais surtout"
+   },
+   "3": {
+    "1": [
+     "chaque",
+     "tous les"
+    ],
+    "2": [
+     "tous les",
+     "toutes les"
+    ]
+   },
+   "4": {
+    "1": "Tout le temps",
+    "2": "Toutes les nuits",
+    "3": "Tous les jours",
+    "4": "Toute la vie",
+    "5": "Tous les habitants",
+    "6": "Toute la région",
+    "7": "Tout le pays",
+    "8": "Toutes les villes"
+   },
+   "5": {
+    "1": [
+     "quelques",
+     "quelques"
+    ],
+    "2": [
+     "plusieurs",
+     "aucun"
+    ],
+    "3": "aucune"
+   }
+  },
+  "71": {
+   "1": {
+    "1": "quelques-unes sont",
+    "2": "certaines sont",
+    "3": "d'autres sont",
+    "4": "aucune n'est",
+    "5": "chacune"
+   },
+   "2": {
+    "1": "Chaque|Chacun",
+    "3": "quelques|Quelques-uns",
+    "5": "chacun",
+    "6": "chacun|Chaque",
+    "8": "quelques-uns"
+   },
+   "4": {
+    "1": "quelque chose",
+    "2": "quelqu'un",
+    "3": "quelque chose",
+    "4": "quelque part"
+   },
+   "5": {
+    "1": "(Un revolver), c'est quelque chose de",
+    "2": "(Charlie Chaplin), c'est quelqu'un d'",
+    "3": "(Ma tante), c'est quelqu'un de",
+    "4": "(La liberté), c'est quelque chose d'important",
+    "5": "(Un milliardaire), c'est quelqu'un de très riche",
+    "6": "(Une star), c'est quelqu'un de très célèbre",
+    "7": "(L'argent), c'est quelque chose d'indispensable"
+   }
+  }
+ }
+}

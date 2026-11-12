@@ -1,0 +1,77 @@
+{
+ "pages": {
+  "19": {
+   "1": {
+    "2": "ils ne sont pas ouverts",
+    "3": "nous ne sommes pas en vacances",
+    "4": "ils ne sont pas longs"
+   },
+   "2": {
+    "2": [
+     "Êtes-vous pressé(e) ?",
+     "et vous, est-ce que vous êtes pressé(e) ?"
+    ],
+    "3": [
+     "Êtes-vous triste ?",
+     "et vous, est-ce que vous êtes tristes ?"
+    ],
+    "4": [
+     "Êtes-vous fâché(e) ?",
+     "et vous, est-ce que vous êtes fâché(e) ?"
+    ]
+   },
+   "3": {
+    "1": "Moi aussi",
+    "2": "Moi aussi",
+    "3": "Moi aussi",
+    "4": "Moi non plus"
+   },
+   "4": {
+    "1": "Oui",
+    "2": "Oui",
+    "3": "Si",
+    "4": "Oui"
+   },
+   "5": {
+    "2": "Pas",
+    "3": "Pas",
+    "4": "Pas",
+    "5": "Non"
+   },
+   "6": {
+    "2": "– La salle est-elle prête ? – Oui, elle est prête.|Non, elle n'est pas prête",
+    "3": "– Les clients sont-ils arrivés ? – Oui, ils sont arrivés.|Non, ils ne sont pas arrivés",
+    "4": "– Le chauffage est-il allumé ? – Oui, il est allumé.|Non, il n'est pas allumé"
+   }
+  },
+  "20": {
+   "1": {
+    "2": "n'est pas en laine",
+    "3": "ne suis pas en colère",
+    "4": "ne sommes pas en retard"
+   },
+   "3": {
+    "2": "n'est pas prêt",
+    "3": "n'est pas chère",
+    "4": "ne sont pas grands"
+   },
+   "4": {
+    "2": "Et vous, vous n'êtes pas déçu(e) ? – Si je suis déçu(e), moi aussi",
+    "3": "Et vous, vous n'êtes pas agacé(e) ? – Si, je suis agacé(e), moi aussi",
+    "4": "Et vous, vous n'êtes pas inquiet (ou inquiète) ? Si , je suis inquiet (ou inquiète), moi aussi"
+   },
+   "5": {
+    "2": "Mais non, ton nez n'est pas trop long !",
+    "3": "Mais non, tes cheveux ne sont pas horribles !",
+    "4": "Mais non, tu n'es pas trop petite !"
+   }
+  },
+  "21": {
+   "2": {
+    "2": "Les hommes « Taureau » sont sérieux et persévérants, mais ils sont têtus. Les femmes « Taureau » sont sérieuses et persévérantes, mais elles sont têtues. Les hommes et les femmes « Taureau » sont sérieux et persévérants, mais ils sont têtus",
+    "3": "Les hommes « Gémeaux » sont enthousiastes et curieux, mais ils sont impatients. Les femmes « Gémeaux » sont enthousiastes et curieuses, mais elles sont impatientes. Les hommes et les femmes « Gémeaux » sont enthousiastes et curieux, mais ils sont impatients",
+    "4": "Les hommes « Cancer » sont réservés et discrets, mais ils sont passifs. Les femmes « Cancer » sont réservées et discrètes, mais elles sont passives. Les hommes et les femmes « Cancer » sont réservés et discrets, mais ils sont passifs"
+   }
+  }
+ }
+}

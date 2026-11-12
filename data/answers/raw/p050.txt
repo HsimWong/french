@@ -1,0 +1,43 @@
+@CH 40
+@PAGE 181
+@EX 1
+- … j'ai pris … j'ai pris … j'ai acheté … J'ai bu … j'ai mangé … J'ai mis … j'ai dépensé … j'ai vu … j'ai pris … J'ai payé … j'ai passé …
+@EX 2
+- … j'ai réussi avec mention.
+- J'ai pris le métro et j'ai revu un vieil ami.
+- J'ai vécu en Norvège et j'ai découvert des endroits magiques.
+- J'ai conduit dans la nuit et j'ai mis de la musique.
+- J'ai suivi un régime et j'ai perdu dix kilos.
+- J'ai mangé des huîtres et j'ai été malade.
+@EX 3
+2. Trente-deux pour cent des Français ont participé à une manifestation de rue au moins une fois dans leur vie.
+3. Trente pour cent des Français ont pris des médicaments pour dormir au moins une fois dans leur vie.
+4. Vingt et un pour cent des Français ont gagné à un jeu national (à la loterie ou au tac-o-tac par exemple) au moins une fois dans leur vie.
+5. Dix-huit pour cent des Français ont fait une dépression nerveuse au moins une fois dans leur vie.
+6. Quinze pour cent des Français ont consulté une voyante au moins une fois dans leur vie.
+7. Treize pour cent des Français ont fait un chèque sans provision au moins une fois dans leur vie.
+8. Trois pour cent des Français ont chanté dans un karaoké.
+@EX 4
+- Exemples : J'ai mangé du caviar. J'ai participé à une manifestation de rue. J'ai consulté une voyante.
+@CH 40
+@PAGE 183
+@EX 1
+1. Oui, la première fois, je suis venu(e) en taxi.
+2. Oui, hier soir, je suis allé(e) à l'hôtel à pied.
+3. Oui, je suis passé(e) par le centre ville.
+4. Oui, je suis arrivé(e) avant six heures.
+5. Oui, je suis ressorti(e) plus tard.
+@EX 2
+- Réponses possibles : 1. … est parti à 16 heures. 2. … sont descendus à pied. 3. … sont sortis à midi. 4. … sont allés au restaurant. 5. … est mort en 1963.
+@EX 3
+- Un bébé est né dans une maternité.
+- Une cigogne est passée dans le ciel gris.
+- Jean est arrivé des États-Unis.
+- Des enfants sont allés au bord de la mer.
+- Deux voleurs sont entrés dans un appartement.
+- Un homme d'État est mort dans son lit.
+- Un grand écrivain est rentré dans son pays.
+- Jean est monté dans un taxi.
+- Une femme est sortie sous la pluie.
+- Un homme est tombé amoureux.
+- Jean est rentré chez lui.

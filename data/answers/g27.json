@@ -1,0 +1,41 @@
+{
+ "pages": {
+  "123": {
+   "1": {
+    "1": "– Je me réveille tôt le matin (ou Je me réveille tard)",
+    "2": "– Je me prépare vite (ou Je me prépare lentement)",
+    "3": "– Je me couche avant minuit (ou Je me couche après minuit)",
+    "4": "– Je m’endors facilement (ou Je m’endors avec difficulté)",
+    "5": "– Je me souviens toujours de mes rêves (ou Je me souviens quelquefois de mes rêves)"
+   },
+   "3": {
+    "2": "ne m’énerve pas facilement",
+    "3": "ne m’ennuie pas en classe",
+    "4": "ne nous arrêtons pas à midi"
+   },
+   "4": {
+    "2": "se parfume",
+    "3": "se trompent",
+    "4": "vous énervez",
+    "5": "se regarde"
+   },
+   "5": {
+    "1": [
+     "s’",
+     "Nous nous",
+     "nous nous",
+     "nous nous",
+     "s’",
+     "ne se",
+     "ne me",
+     "ne me",
+     "se",
+     "s’"
+    ]
+   },
+   "6": {
+    "1": "ils s’admirent, ils s’adorent, ils se regardent souvent, ils se prennent dans les bras"
+   }
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "pages": {
+  "39": {
+   "1": {
+    "2": [
+     "C'est son père",
+     "C'est son grand-père"
+    ],
+    "3": "Ce sont ses enfants",
+    "4": "Ce sont leurs petits-enfants",
+    "5": [
+     "C'est sa tante",
+     "C'est son oncle"
+    ]
+   },
+   "2": {
+    "1": [
+     "parents",
+     "sa",
+     "son"
+    ],
+    "2": [
+     "son",
+     "son oncle"
+    ],
+    "3": [
+     "fils",
+     "son"
+    ]
+   },
+   "3": {
+    "1": [
+     "le monde entier",
+     "tout le monde",
+     "personnes",
+     "gens",
+     "personnes",
+     "le monde entier",
+     "tout le monde"
+    ]
+   }
+  }
+ }
+}

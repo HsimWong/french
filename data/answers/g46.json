@@ -1,0 +1,27 @@
+{
+ "pages": {
+  "223": {
+   "1": {
+    "1": "N'entrez pas dans la chambre, Paul est en train de faire la sieste",
+    "2": "Ne dérange pas Marie, elle est en train de faire des calculs compliqués",
+    "3": "Ne parlez pas, s'il vous plaît, nous sommes en train d'enregistrer la conférence",
+    "4": "Approche la lampe, s'il te plaît, je suis en train de retirer une épine de mon pouce"
+   },
+   "2": {
+    "1": "viens (juste) de rentrer",
+    "2": "vient (juste) de commencer",
+    "3": "vient (juste) d'appeler",
+    "4": "viennent (juste) de se coucher",
+    "5": "viens (juste) de l'acheter"
+   },
+   "4": {
+    "1": "suis sur le point de",
+    "2": "est en train de",
+    "3": "venez d'",
+    "4": "sont en train de",
+    "5": "viens de",
+    "6": "vient de"
+   }
+  }
+ }
+}

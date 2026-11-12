@@ -1,0 +1,94 @@
+{
+ "pages": {
+  "65": {
+   "1": {
+    "1": "Aujourd'hui, c'est jeudi. Nous sommes le vingt et un. Nous sommes en janvier",
+    "2": "Aujourd'hui, c'est dimanche. Nous sommes le quinze. Nous sommes en août",
+    "3": "Aujourd'hui, c'est vendredi. Nous sommes le douze. Nous sommes en décembre"
+   },
+   "2": {
+    "1": [
+     "le (31 août)",
+     "en (été)",
+     "le (dimanche)",
+     "en (août)",
+     "le (week-end)",
+     "le (matin)",
+     "le (soir)",
+     "au (printemps)",
+     "en (automne)",
+     "en (septembre)",
+     "✔ (début)",
+     "au (mois)"
+    ]
+   },
+   "3": {
+    "1": "Il est né en juillet, au dix-neuvième siècle",
+    "2": "Elle est née en juin, au vingtième siècle",
+    "3": "Il est né en mars, au dix-neuvième siècle",
+    "4": "Il est né en août, au dix-huitième siècle"
+   },
+   "4": {
+    "1": "Mille huit cent soixante-douze",
+    "2": "Mille six cent quatre-vingt-dix-huit",
+    "3": "Mille trois cents",
+    "4": "Mille quatre cent quatre-vingt",
+    "5": "Mille huit cent trente-neuf"
+   }
+  },
+  "67": {
+   "2": {
+    "1": "est en retard",
+    "2": "tard",
+    "3": "nous sommes en avance",
+    "4": "tôt",
+    "5": "est en retard"
+   },
+   "3": {
+    "1": [
+     "il est",
+     "il est"
+    ],
+    "2": [
+     "il fait",
+     "il y a"
+    ],
+    "3": [
+     "il fait",
+     "il y a"
+    ],
+    "4": "il est",
+    "5": [
+     "il",
+     "il fait"
+    ],
+    "6": [
+     "il fait",
+     "il y a"
+    ]
+   },
+   "1": {
+    "1": [
+     "Il est deux heures et quart|Il est quatorze heures quinze",
+     "Il est quatre heures moins le quart|Il est quinze heures quarante-cinq"
+    ],
+    "2": [
+     "Il est quatre heures et demie|Il est seize heures trente",
+     "Il est neuf heures moins dix|Il est vingt heures cinquante"
+    ],
+    "3": [
+     "Il est sept heures dix|Il est dix-neuf heures dix",
+     "Il est dix heures du soir|Il est vingt-deux heures"
+    ],
+    "4": [
+     "Il est midi vingt-cinq|Il est douze heures vingt-cinq",
+     "Il est minuit|Il est vingt-quatre heures"
+    ],
+    "5": [
+     "Il est deux heures moins cinq|Il est treize heures cinquante-cinq",
+     "Il est dix heures et quart|Il est dix heures quinze"
+    ]
+   }
+  }
+ }
+}

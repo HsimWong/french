@@ -1,0 +1,149 @@
+{
+ "pages": {
+  "125": {
+   "1": {
+    "1": "– Oui",
+    "2": "je la regarde régulièrement. – Oui",
+    "3": "je les regarde parfois. – Oui",
+    "4": "je le consulte souvent. – Oui",
+    "5": "je les lis. – Oui",
+    "6": "je les garde"
+   },
+   "3": {
+    "2": "je le regarde",
+    "3": "je les arrose",
+    "4": "je l’emmène",
+    "5": "je les laisse",
+    "6": "je les fais"
+   },
+   "4": {
+    "1": "il les emporte",
+    "2": "elle nous attend",
+    "3": "je le connais",
+    "4": "je vous entends",
+    "5": "je les oublie",
+    "6": "j’aime ça"
+   }
+  },
+  "127": {
+   "1": {
+    "1": "– Oui, je lui téléphone le dimanche",
+    "2": "– Oui, je leur écris souvent",
+    "3": "– Oui, je leur réponds rapidement",
+    "4": "Oui, je lui offre des fleurs",
+    "5": "Oui, je lui dis bonjour"
+   },
+   "2": {
+    "1": "Elle lui offre un petit cadeau et elle lui écrit une poésie. Elle lui dit de jolies choses et elle lui donne un paquet bien fermé, pour la surprise. (Chaque année, elle lui offre un collier de perles violettes.) Elle lui sourit fièrement, elle lui demande si ça lui plaît, et elle lui dit que le violet lui va bien"
+   },
+   "3": {
+    "1": [
+     "le (rencontre)",
+     "lui (parlent)",
+     "lui (posent)",
+     "lui (racontent)",
+     "les (écoute)",
+     "leur (répond)",
+     "leur (donne)",
+     "leur (serre)",
+     "les (embrasse)",
+     "les (prend)",
+     "le (détestent)",
+     "l’(adorent)"
+    ]
+   },
+   "4": {
+    "1": "Elle ne me prête pas ses livres. Elle ne me raconte pas ses secrets. Elle ne m’accompagne pas chez moi"
+   },
+   "5": {
+    "1": "• Relation entre un médecin et ses patients : le Docteur Guillaud est très proche de ses malades : non seulement il prend le temps de les ausculter, mais il prend aussi le temps de les écouter. Il les réconforte et il leur donne des conseils. Il ne leur donne pas trop de médicaments, et il leur prescrit parfois de changer de mode de vie : par exemple, quand des patients ont un mal de gorge chronique, il leur dit d’arrêter de fumer. La plupart de ses patients lui font entièrement confiance, le prennent très au sérieux, et parfois suivent ses conseils ! • Relations entre une star et des journalistes, des photographes, des admirateurs : Manon Chouraqui aime recevoir des journalistes. Quand ils lui posent des questions, elle leur répond"
+   }
+  },
+  "129": {
+   "1": {
+    "1": "je vous l’envoie",
+    "2": "elle me les passe",
+    "3": "il me l’apporte",
+    "4": "je vous la prête",
+    "5": "il nous la vend",
+    "6": "je le lui donne",
+    "7": "je les lui laisse|nous les lui laissons",
+    "8": "elle lui en donne",
+    "9": "elle les leur présente",
+    "10": "je leur en donne|nous leur en donnons"
+   },
+   "2": {
+    "1": "Oui, il m’en offre souvent",
+    "2": "Oui, ils m’en envoient chaque année",
+    "3": "Oui, il lui en emprunte régulièrement",
+    "4": "Oui, il leur en donne une dizaine"
+   },
+   "3": {
+    "1": "– Non, je ne les leur montre pas",
+    "2": "– Non, je ne lui en parle pas",
+    "3": "– Non, je ne les leur laisse pas",
+    "4": "– Non, je ne la leur prête pas",
+    "5": "– Non, je ne leur en envoie pas",
+    "6": "– Non, je ne m’en sers pas",
+    "7": "– Non, je ne m’en mets pas"
+   }
+  },
+  "130": {
+   "1": {
+    "1": "Oui, quand je la rencontre, je lui dis bonjour",
+    "2": "Oui, quand je le vois, je lui pose des questions",
+    "3": "Oui, quand je les quitte, je leur dis au revoir",
+    "4": "Oui, quand je l’appelle, je lui parle en français",
+    "5": "Oui, quand je les invite, je leur offre à boire",
+    "6": "Oui, quand je le revois, le lui raconte mes aventures",
+    "7": "Oui, quand ils me parlent, je leur réponds toujours",
+    "8": "Oui, quand elle m’invite à dîner, je lui apporte des fleurs"
+   },
+   "3": {
+    "2": "Oui, il lui plaît beaucoup",
+    "3": "Oui, elle lui va bien",
+    "4": "Oui, elle leur convient",
+    "5": "Oui, il lui ressemble beaucoup"
+   }
+  },
+  "131": {
+   "1": {
+    "1": "je l’utilise souvent",
+    "2": "j’y vais à quatre heures",
+    "3": "je n’en mets pas",
+    "4": "ils n’y vont pas aujourd’hui",
+    "5": "je leur téléphone souvent",
+    "6": "elle ne lui va pas",
+    "7": "ils en parlent souvent",
+    "8": "je m’y intéresse"
+   },
+   "2": {
+    "1": [
+     "’en",
+     "les",
+     "’en"
+    ],
+    "2": [
+     "les",
+     "les",
+     "les",
+     "les",
+     "j’en"
+    ],
+    "3": [
+     "le",
+     "’en",
+     "la"
+    ]
+   },
+   "3": {
+    "1": "– Oui, j’en fais. (ou – Non, je n’en fais pas)",
+    "2": "– Oui, je le lui souhaite toujours. (ou – Non, je ne le lui souhaite pas toujours ou – Non, je ne le lui souhaite jamais)",
+    "3": "– Oui, je leur parle en français. (ou – Non, je ne leur parle pas en français)",
+    "4": "– Oui, j’en mange souvent (ou – Non, je n’en mange pas souvent. ou – Non, je n’en mange jamais)",
+    "5": "– Oui, je m’y intéresse. (ou – Non, je ne m’y intéresse pas)",
+    "6": "– Oui, j’y crois. (ou – Non, je n’y crois pas)"
+   }
+  }
+ }
+}

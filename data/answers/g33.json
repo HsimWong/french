@@ -1,0 +1,95 @@
+{
+ "pages": {
+  "149": {
+   "1": {
+    "1": "Mais alors, où travaillez-vous ?",
+    "2": "Mais alors, quand partez-vous ?",
+    "3": "Mais alors, où allez-vous ?",
+    "4": "Mais alors, comment partez-vous ?",
+    "5": "Mais alors, quand rentrez-vous ?"
+   },
+   "2": {
+    "1": "– Où habite-t-il ? – Où est-ce qu'il habite ? – Il habite où ?",
+    "2": "– Quand arrive-t-il ? – Quand est-ce qu'il arrive ? – Il arrive quand ?",
+    "3": "– Comment voyage-t-il ? Comment est-ce qu'il voyage ? – Il voyage comment ?",
+    "4": "– Que porte-t-il ? – Qu'est-ce qu'il porte ? – Il porte quoi ?"
+   },
+   "3": {
+    "2": "Que",
+    "3": "quoi",
+    "4": "Que",
+    "5": "Qui",
+    "6": "Qui"
+   },
+   "4": {
+    "1": "Comment",
+    "2": "Que",
+    "3": "Où",
+    "4": "Combien",
+    "5": "Quand",
+    "6": "Qui"
+   },
+   "5": {
+    "1": "Qui est-ce qui",
+    "2": "Qu'est-ce qui",
+    "3": "Qu'est-ce qui",
+    "4": "Qui est-ce qui",
+    "5": "Qui est-ce qui"
+   },
+   "6": {
+    "1": "Le ciel. – L'homme. – Le métro"
+   }
+  },
+  "151": {
+   "1": {
+    "2": [
+     "Quelle",
+     "quel",
+     "quelles"
+    ],
+    "3": [
+     "Quelle",
+     "quel",
+     "Quel"
+    ],
+    "4": [
+     "Quels",
+     "quelle"
+    ],
+    "5": [
+     "Quels",
+     "quels",
+     "quelles"
+    ]
+   },
+   "2": {
+    "2": "laquelle ? Dijon",
+    "3": "lesquels ? Neil Armstrong et Buzz Aldrin",
+    "4": "lequel ? Le Maroc",
+    "5": "laquelle ? Michèle"
+   },
+   "3": {
+    "2": [
+     "Quelle",
+     "Il est ingénieur"
+    ],
+    "3": [
+     "Quel",
+     "Il a trente-quatre ans"
+    ],
+    "4": [
+     "Où",
+     "Il travaille à Marseille"
+    ],
+    "5": [
+     "Quelle",
+     "Il habite à Aix-en-Provence, 10, rue de la Fontaine"
+    ],
+    "6": [
+     "Qu'est-ce qu'",
+     "Il fait de l'escalade avec ses enfants"
+    ]
+   }
+  }
+ }
+}

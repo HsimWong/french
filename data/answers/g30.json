@@ -1,0 +1,51 @@
+{
+ "pages": {
+  "135": {
+   "2": {
+    "1": "Mange des fruits ! Ne mange pas de viande ! Respire ! Ne fume pas ! Fais du sport ! Ne prends pas de poids ! Sois positif ! Ne sois pas négatif ! Aie confiance ! N’aie pas peur !"
+   },
+   "3": {
+    "2": "Donne-lui un classeur",
+    "3": "Donne-lui un stylo",
+    "4": "Donne-leur un livre",
+    "5": "Donne-moi une feuille"
+   },
+   "5": {
+    "2": "N’en prends pas !|Mais si, prends-en !",
+    "3": "Ne leur écris pas !|Mais si, écris-leur !",
+    "4": "Ne les invite pas !|Mais si, invite-les !",
+    "5": "– Je n’ai pas envie de boire de vin. – N’en bois pas ! / Mais si, bois-en !"
+   },
+   "1": {
+    "1": "Mangez des fruits",
+    "2": "Respirez",
+    "3": "Faites du sport",
+    "4": "Soyez positif",
+    "5": "Ayez confiance",
+    "6": "Ne mangez pas de viande",
+    "7": "Ne fumez pas",
+    "8": "Ne prenez pas de poids",
+    "9": "Ne soyez pas négatif",
+    "10": "N'ayez pas peur"
+   },
+   "4": {
+    "2": [
+     "Concentre-toi",
+     "Concentrez-vous"
+    ],
+    "3": [
+     "Dépêche-toi",
+     "Dépêchez-vous"
+    ],
+    "4": [
+     "Détends-toi",
+     "Détendez-vous"
+    ],
+    "5": [
+     "Ne te décourage pas",
+     "Ne vous découragez pas"
+    ]
+   }
+  }
+ }
+}

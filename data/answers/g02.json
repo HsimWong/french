@@ -1,0 +1,139 @@
+{
+ "pages": {
+  "13": {
+   "1": {
+    "1": "est allemande",
+    "2": "est française",
+    "3": "est grande",
+    "4": "est blonde",
+    "5": "est contente",
+    "6": "est élégante",
+    "7": "est intelligente",
+    "8": "est sympathique"
+   },
+   "2": {
+    "1": "jeune et timide",
+    "2": "blond et frisé",
+    "3": "grande et bronzée",
+    "4": "gentil et compétent",
+    "5": "souriante et bavarde",
+    "6": "intelligent, créatif, original",
+    "7": "mignonne et sympathique",
+    "8": "paresseuse et agressive"
+   },
+   "3": {
+    "2": "bleue",
+    "3": "ancienne",
+    "4": "fraîche",
+    "5": "folle",
+    "6": "blanche",
+    "7": "dangereuse",
+    "8": "géniale"
+   },
+   "5": {
+    "1": "est canadien. Il est grand, brun et sportif. Il est beau (mais un peu superficiel)"
+   }
+  },
+  "15": {
+   "1": {
+    "2": "sont réservés",
+    "3": "sont petits et minces",
+    "4": "sont roux",
+    "5": "sont jaloux"
+   },
+   "2": {
+    "1": [
+     "courts",
+     "serrés"
+    ],
+    "2": [
+     "classiques",
+     "ringards",
+     "démodés"
+    ]
+   },
+   "3": {
+    "2": "C'est vrai, ils sont beaux tous les deux",
+    "3": "C'est vrai, ils sont enrhumés tous les deux",
+    "4": "C'est vrai, ils sont originaires tous les deux"
+   },
+   "4": {
+    "2": "Elles sont aussi très salées !",
+    "3": "Elles sont aussi très originales !",
+    "4": "Elles sont très sucrées !"
+   },
+   "5": {
+    "2": [
+     "plats régionaux",
+     "régionale",
+     "spécialités régionales"
+    ],
+    "3": [
+     "poissons grillés",
+     "grillée",
+     "viandes grillées"
+    ],
+    "4": [
+     "sacs marron",
+     "marron",
+     "valises marron"
+    ],
+    "5": [
+     "gants vert foncé",
+     "vert foncé",
+     "vestes vert foncé"
+    ]
+   }
+  },
+  "17": {
+   "1": {
+    "1": "e",
+    "2": "es",
+    "3": "s",
+    "4": "es",
+    "5": "s",
+    "6": "e",
+    "7": "s",
+    "8": "es",
+    "9": "es",
+    "10": "ée"
+   },
+   "2": {
+    "1": [
+     "Je suis",
+     "êtes lycéennes"
+    ],
+    "2": [
+     "Je suis",
+     "êtes mariée"
+    ],
+    "3": [
+     "je suis",
+     "êtes réservées"
+    ],
+    "4": [
+     "je suis",
+     "êtes optimiste"
+    ],
+    "5": [
+     "je suis",
+     "êtes nerveux",
+     "est calmes"
+    ]
+   },
+   "4": {
+    "1": [
+     "e",
+     "s",
+     "nes",
+     "e",
+     "s",
+     "s",
+     "s",
+     "s",
+     "s"
+    ]
+   }
+  }
+ }
+}
