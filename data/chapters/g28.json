@@ -1,0 +1,286 @@
+{
+  "course": "grammaire",
+  "seq": 28,
+  "title_fr": "LES PRONOMS COMPLÉMENTS",
+  "page_start": 124,
+  "page_end": 131,
+  "pdf_start": 126,
+  "pdf_end": 133,
+  "sections": [
+    { "title_fr": "LES PRONOMS DIRECTS", "page_no": 124 },
+    { "title_fr": "LA NÉGATION", "page_no": 124 },
+    { "title_fr": "LES PRONOMS INDIRECTS", "page_no": 126 },
+    { "title_fr": "RÉSUMÉ", "page_no": 128 },
+    { "title_fr": "L'ORDRE DES PRONOMS COMPLÉMENTS", "page_no": 128 }
+  ],
+  "blocks": [
+    { "page_no": 124, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">28</span> LES PRONOMS COMPLÉMENTS" },
+    { "page_no": 124, "seq": 2, "type": "keypoint", "body_html": "Je <strong>le</strong> regarde. Je <strong>la</strong> regarde. Je <strong>les</strong> regarde." },
+    { "page_no": 124, "seq": 3, "type": "para", "body_html": "Les pronoms compléments évitent de répéter un nom complément.<br>On les place en général <strong>devant</strong> le verbe :" },
+    { "page_no": 124, "seq": 4, "type": "example", "body_html": "<em>Je regarde le garçon.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Je <strong>le</strong> regarde.</em>" },
+    { "page_no": 124, "seq": 5, "type": "section_title", "body_html": "LES PRONOMS <strong>DIRECTS</strong> remplacent des noms de <strong>personnes</strong> ou de <strong>choses</strong>. Ils répondent à la question « qui ? » ou « quoi ? » :" },
+    { "page_no": 124, "seq": 6, "type": "table", "body_html": "<div class='annotation' style='text-align:center'>« Qui ? » /« Quoi ? »</div><div class='two-col'><div><span class='wordlist'><em>Masc. sing.<br>Fém. sing.<br>Pluriel</em></span></div><div><span class='wordlist'><em>Je&nbsp;&nbsp;&nbsp;&nbsp;<strong>le</strong>&nbsp;&nbsp;&nbsp;&nbsp;regarde.</em>&nbsp;&nbsp;&nbsp;&nbsp;(le garçon/le sac)<br><em>Je&nbsp;&nbsp;&nbsp;&nbsp;<strong>la</strong>&nbsp;&nbsp;&nbsp;&nbsp;regarde.</em>&nbsp;&nbsp;&nbsp;&nbsp;(la fille/la robe)<br><em>Je&nbsp;&nbsp;&nbsp;&nbsp;<strong>les</strong>&nbsp;&nbsp;&nbsp;&nbsp;regarde.</em>&nbsp;&nbsp;&nbsp;&nbsp;(les enfants/les livres)</span></div></div>" },
+    { "page_no": 124, "seq": 7, "type": "para", "body_html": "• Les pronoms directs varient avec les personnes :" },
+    { "page_no": 124, "seq": 8, "type": "table", "body_html": "<em>Paul</em>&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>me<br>te<br>le/la<br>nous<br>vous<br>les</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<em>regarde.</em>" },
+    { "page_no": 124, "seq": 9, "type": "phonetic", "body_html": "• « <strong>Me</strong> », « <strong>te</strong> », « <strong>le</strong> » deviennent « <strong>m'</strong> », « <strong>t'</strong> », « <strong>l'</strong> » devant voyelle ou « <strong>h</strong> » muet :<br><em>Il <strong>m'</strong>écoute.&nbsp;&nbsp;&nbsp;Elle <strong>l'</strong>adore.&nbsp;&nbsp;&nbsp;Ils <strong>t'</strong>invitent.</em>" },
+    { "page_no": 124, "seq": 10, "type": "para", "body_html": "• Avec « aimer » et « connaître », « le », « la », « les » renvoient <strong>de préférence</strong> à des personnes :<br><em>– Tu aimes Julie ?</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>– Oui, je <strong>l'</strong>aime.</em><br><em>– Tu connais son père ?</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>– Oui, je <strong>le</strong> connais.</em>" },
+    { "page_no": 124, "seq": 11, "type": "table", "body_html": "<p class='bullet'>• Pour les objets, répondez plutôt :</p><p class='sample'><em>– Tu aimes le fromage ? – Oui, <strong>j'aime ça</strong>.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><s>Je l'aime.</s></em><br><em>– Tu connais le gorgonzola ? – Oui, <strong>je connais</strong>.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><s>Je le connais.</s></em></p>" },
+    { "page_no": 124, "seq": 12, "type": "section_title", "body_html": "LA <strong>NÉGATION</strong> se place avant et après le bloc du pronom et du verbe :" },
+    { "page_no": 124, "seq": 13, "type": "example", "body_html": "<em>Je <strong>ne le</strong> regarde <strong>pas</strong>.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Nous <strong>ne les</strong> connaissons <strong>pas</strong>.</em>" },
+    { "page_no": 124, "seq": 14, "type": "xref", "body_html": "« En », p. 90&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;« Y », p. 104" },
+
+    { "page_no": 126, "seq": 15, "type": "running_head", "body_html": "LES PRONOMS COMPLÉMENTS" },
+    { "page_no": 126, "seq": 16, "type": "section_title", "body_html": "LES PRONOMS <strong>INDIRECTS</strong>" },
+    { "page_no": 126, "seq": 17, "type": "keypoint", "body_html": "Je téléphone à ma mère. Je <strong>lui</strong> téléphone le soir." },
+    { "page_no": 126, "seq": 18, "type": "para", "body_html": "• Les pronoms indirects remplacent des noms de <strong>personnes</strong> précédés de la préposition « <strong>à</strong> ». Ils répondent à la question « à qui ? » :" },
+    { "page_no": 126, "seq": 19, "type": "table", "body_html": "<div class='annotation' style='text-align:center'>« À qui ? »</div><div class='two-col'><div><span class='wordlist'><em>Masc. sing.<br>Fém. sing.<br>Pluriel</em></span></div><div><span class='wordlist'><em>Je&nbsp;&nbsp;&nbsp;&nbsp;<strong>lui</strong>&nbsp;&nbsp;&nbsp;&nbsp;téléphone.</em>&nbsp;&nbsp;&nbsp;&nbsp;(à mon père)<br><em>Je&nbsp;&nbsp;&nbsp;&nbsp;<strong>lui</strong>&nbsp;&nbsp;&nbsp;&nbsp;téléphone.</em>&nbsp;&nbsp;&nbsp;&nbsp;(à ma mère)<br><em>Je&nbsp;&nbsp;&nbsp;&nbsp;<strong>leur</strong>&nbsp;&nbsp;&nbsp;&nbsp;téléphone.</em>&nbsp;&nbsp;&nbsp;&nbsp;(à mes parents)</span></div></div>" },
+    { "page_no": 126, "seq": 20, "type": "warning", "body_html": "• « <strong>Lui</strong> » et « <strong>leur</strong> » sont employés pour le masculin et le féminin :<br><em>Je parle à Jean/Marie.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Je lui parle.</strong><br>Je parle aux étudiants/étudiantes.&nbsp;&nbsp;&nbsp;&nbsp;<strong>Je leur parle.</strong></em>" },
+    { "page_no": 126, "seq": 21, "type": "para", "body_html": "• Les pronoms indirects et directs sont identiques, sauf à la 3<sup>e</sup> personne :" },
+    { "page_no": 126, "seq": 22, "type": "table", "body_html": "<em>Paul</em>&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>me<br>te<br>lui<br>nous<br>vous<br>leur</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<em>parle.</em>" },
+    { "page_no": 126, "seq": 23, "type": "para", "body_html": "• On utilise principalement les pronoms indirects avec les verbes de <strong>communication</strong> qui se construisent en français avec la préposition « <strong>à</strong> » (mouvement « vers » quelqu'un) :" },
+    { "page_no": 126, "seq": 24, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>parler à<br>demander à<br>dire à</em></span></div><div><span class='wordlist'><em>téléphoner à<br>emprunter à<br>offrir à</em></span></div><div><span class='wordlist'><em>écrire à<br>prêter à<br>sourire à</em></span></div><div><span class='wordlist'><em>répondre à<br>rendre à<br>souhaiter à, etc.</em></span></div></div>" },
+    { "page_no": 126, "seq": 25, "type": "table", "body_html": "<p class='bullet'>• Autres verbes courants qui se construisent avec un pronom indirect :</p><p class='sample'><em>Sa fille <strong>lui</strong> ressemble.&nbsp;&nbsp;&nbsp;Paris <strong>lui</strong> plaît.&nbsp;&nbsp;&nbsp;Le rouge <strong>lui</strong> va bien.</em></p><div class='annotation'>ressembler à&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plaire à&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aller à</div>" },
+    { "page_no": 126, "seq": 26, "type": "warning", "body_html": "• « <strong>Penser à</strong> », « <strong>s'intéresser à</strong> » sont suivis d'un pronom tonique.<br><em>Je pense à <strong>lui</strong>.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Je m'intéresse à <strong>lui</strong>.</em>" },
+    { "page_no": 126, "seq": 27, "type": "para", "body_html": "• La négation se place avant et après le bloc du pronom et du verbe :<br><em>Je <strong>ne lui</strong> téléphone <strong>pas</strong>.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Je <strong>ne leur</strong> parle <strong>plus</strong>.</em>" },
+    { "page_no": 126, "seq": 28, "type": "xref", "body_html": "« Y », p. 104&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pronoms toniques, p. 132" },
+
+    { "page_no": 128, "seq": 29, "type": "running_head", "body_html": "LES PRONOMS COMPLÉMENTS" },
+    { "page_no": 128, "seq": 30, "type": "section_title", "body_html": "RÉSUMÉ" },
+    { "page_no": 128, "seq": 31, "type": "para", "body_html": "• Les pronoms compléments remplacent :" },
+    { "page_no": 128, "seq": 32, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>• quelqu'un/quelque chose</em><br><br><em>• « à » + quelqu'un</em><br><br><em>• « à » + quelque chose<br>• « à » + lieu</em><br><br><em>• « de » + quelque chose<br>• « de » partitif</em></span></div><div><span class='wordlist'><strong>LE<br>LA<br>LES</strong>&nbsp;&nbsp;&nbsp;<em>Elle&nbsp;&nbsp;le&nbsp;&nbsp;regarde.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elle&nbsp;&nbsp;la&nbsp;&nbsp;regarde.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elle&nbsp;&nbsp;les&nbsp;regarde.</em><br><strong>LUI<br>LEUR</strong>&nbsp;<em>Elle&nbsp;&nbsp;lui&nbsp;&nbsp;parle.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elle&nbsp;&nbsp;leur&nbsp;parle.</em><br><strong>Y</strong>&nbsp;&nbsp;&nbsp;&nbsp;<em>Elle&nbsp;&nbsp;y&nbsp;&nbsp;pense.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elle&nbsp;&nbsp;y&nbsp;&nbsp;va.</em><br><strong>EN</strong>&nbsp;&nbsp;&nbsp;<em>Elle&nbsp;&nbsp;en&nbsp;&nbsp;parle.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elle&nbsp;&nbsp;en&nbsp;&nbsp;mange.</em></span></div></div>" },
+    { "page_no": 128, "seq": 33, "type": "section_title", "body_html": "L'ORDRE DES PRONOMS COMPLÉMENTS" },
+    { "page_no": 128, "seq": 34, "type": "para", "body_html": "• Quand on utilise deux pronoms compléments, on les place dans l'ordre suivant :" },
+    { "page_no": 128, "seq": 35, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>Sujet +</span><span class='wordlist'><em><strong>me<br>te<br>se<br>nous<br>vous<br>se</strong></em></span></div><div><span class='wordlist'><em><strong>le<br>la<br>les</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>lui<br>leur</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<strong>en</strong>&nbsp;&nbsp;&nbsp;&nbsp;+ verbe<br><br><em>y/en</em></span></div></div>" },
+    { "page_no": 128, "seq": 36, "type": "example", "body_html": "<em>Elle <strong>me le</strong> donne.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Je <strong>le lui</strong> prête.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Vous <strong>lui en</strong> offrez.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Il <strong>m'en</strong> donne.</em>" },
+    { "page_no": 128, "seq": 37, "type": "para", "body_html": "• « <strong>Y</strong> » se combine surtout avec des verbes pronominaux :<br><em>Je <strong>m'y</strong> intéresse.&nbsp;&nbsp;&nbsp;&nbsp;Elle <strong>s'y</strong> promène.&nbsp;&nbsp;&nbsp;&nbsp;Il <strong>s'y</strong> oppose.</em>" },
+    { "page_no": 128, "seq": 38, "type": "warning", "body_html": "• « <strong>Y</strong> » et « <strong>en</strong> » ne s'utilisent jamais ensemble, sauf dans « <strong>Il y en a</strong> »." },
+    { "page_no": 128, "seq": 39, "type": "para", "body_html": "• Les compléments de <strong>personnes</strong> précèdent les compléments de <strong>choses</strong> :<br><em>Tu <strong>me le</strong> prêtes ?&nbsp;&nbsp;&nbsp;&nbsp;Je <strong>te les</strong> offre.&nbsp;&nbsp;&nbsp;&nbsp;Elle <strong>lui en</strong> achète.</em>" },
+    { "page_no": 128, "seq": 40, "type": "para", "body_html": "• L'ordre est inversé à la 3<sup>e</sup> personne :<br><em>Elle <strong>le lui</strong> explique.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nous <strong>les leur</strong> apportons.</em>" },
+    { "page_no": 128, "seq": 41, "type": "xref", "body_html": "Avec l'impératif, p. 134" }
+  ],
+  "exercises": [
+    {
+      "page_no": 125, "seq": 1,
+      "instruction_fr": "Répondez aux questions, selon le modèle.",
+      "label": "Les médias et vous", "note_html": "– <em class='model'>Oui, je la regarde tous les jours.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Vous regardez la télé tous les jours ?<br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "– Vous regardez régulièrement la météo ?<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "– Vous regardez parfois les publicités ?<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "– Vous consultez souvent le site de Google ?<br>– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "– Vous lisez les rubriques sportives ?<br>– {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "– Vous gardez les vieux journaux ?<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 125, "seq": 2,
+      "instruction_fr": "Répondez oralement à l'exercice précédent à la forme négative (précisez, selon le modèle).",
+      "label": "", "note_html": "– <em class='model'>Non, je ne la regarde pas tous les jours (je la regarde de temps en temps).</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 125, "seq": 3,
+      "instruction_fr": "Complétez, selon le modèle.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous connaissez Martine ?<br>– Oui, <em class='model'>je la connais</em> depuis quinze ans !" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Tu regardes le match chez Joseph ?<br>– Non, {{L}} chez Éric." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous arrosez les fleurs tous les jours ?<br>– Oui, {{L}} tous les soirs." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Tu emmènes ton fils au cinéma ?<br>– Non, {{L}} au zoo." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous laissez vos clés à l'hôtel ?<br>– Oui, {{L}} à la réception." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Vous faites ces exercices à l'école ?<br>– Non, {{L}} chez moi." }
+      ]
+    },
+    {
+      "page_no": 125, "seq": 4,
+      "instruction_fr": "Complétez avec les pronoms et les verbes manquants.",
+      "label": "", "note_html": "– Vous achetez vos chaussures à Paris ? – Non, <em class='model'>je les achète</em> à Florence !", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Alex emporte ses dossiers chez lui ? – Oui, {{L}} pour le week-end." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Marie nous attend dans la rue ? – Non, {{L}} au bar." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous connaissez bien cet homme ? – Non, {{L}} seulement de vue." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Est-ce que vous m'entendez ? – Oui, {{L}} très bien !" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Attention : vous oubliez vos clés ! – Ah oui, {{L}} tout le temps !" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Vous aimez le poulet au curry ? – Oui, {{L}} . C'est bon…" }
+      ]
+    },
+    {
+      "page_no": 125, "seq": 5,
+      "instruction_fr": "Répondez librement en vous inspirant du modèle.",
+      "label": "", "note_html": "Quand allumez-vous le chauffage ? <em class='model'>Je l'allume quand il fait froid.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Quand rechargez-vous votre portable ? Quand nettoyez-vous vos vêtements ? Quand appelez-vous le médecin ? Quand mettez-vous l'alarme de votre réveil ? Quand videz-vous la corbeille de votre ordinateur ? Quand allumez-vous la lumière ? Quand éteignez-vous le chauffage ?<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 127, "seq": 6,
+      "instruction_fr": "Répondez aux questions, selon le modèle.",
+      "label": "", "note_html": "– Vous parlez à votre professeur en français ? – <em class='model'>Oui, je lui parle en français.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous téléphonez à votre mère le dimanche ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous écrivez souvent à vos amis ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous répondez rapidement à vos clients ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous offrez des fleurs à votre femme ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous dites bien bonjour au facteur ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 127, "seq": 7,
+      "instruction_fr": "Lisez le texte et transformez-le, selon le modèle.",
+      "label": "Cadeau surprise", "note_html": "Chaque année, Olivia me souhaite la Fête des mères. Elle m'offre un petit cadeau et elle m'écrit une poésie. Elle me dit de jolies choses et elle me donne un paquet bien fermé, pour la surprise. (Chaque année, elle m'offre un collier de perles violettes.) Elle me sourit fièrement, elle me demande si ça me plaît et elle me dit que le violet me va bien !<br>Signé Martine.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "<em class='model'>Chaque année Olivia, la fille de Martine, lui souhaite la Fête des mères</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 127, "seq": 8,
+      "instruction_fr": "Complétez avec « le », « l' », « les » ou « lui », « leur ».",
+      "label": "Le maire de ma ville", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Le maire de ma ville est très populaire. Je <em class='model'>le</em> connais bien. Je {{b}} rencontre souvent au marché. Les gens {{b}} parlent, ils {{b}} posent des questions, ils {{b}} racontent leurs problèmes. Le maire {{b}} écoute, il {{b}} répond, il {{b}} donne des conseils, il {{b}} serre la main. Quand il y a des petits enfants, il {{b}} embrasse ou il {{b}} prend dans ses bras. Certains {{b}} détestent, d'autres {{b}} adorent." }
+      ]
+    },
+    {
+      "page_no": 127, "seq": 9,
+      "instruction_fr": "Mettez à la forme négative, selon le modèle.",
+      "label": "", "note_html": "Benoît m'invite chez lui. Il me prête ses livres. Il me raconte ses secrets. Il m'accompagne chez moi.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "<em class='model'>Béatrice ne m'invite pas chez elle.</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 127, "seq": 10,
+      "instruction_fr": "Décrivez les rapports d'un enfant avec un animal domestique, d'un médecin avec ses patients, d'une star avec des journalistes/des photographes/des admirateurs.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 129, "seq": 11,
+      "instruction_fr": "Répondez aux questions avec deux pronoms, selon le modèle.",
+      "label": "", "note_html": "– Tu me prêtes ta moto, Frédéric ? – <em class='model'>Je te la prête si tu es très prudente.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous m'envoyez le dossier par fax ? – Non, {{L}} par la poste." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Aïsha te passe ses notes de cours ? – Oui, {{L}} quand je suis absent." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Le concierge vous apporte le courrier ? – Oui, {{L}} à domicile." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Tu nous prêtes ta voiture, Paul ? – Oui, {{L}} si vous rentrez tôt." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Alex vous vend sa voiture ? – Oui, {{L}} pour presque rien !" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Tu donnes ce beau blouson à Max ? – Oui, {{L}} , je ne le mets plus…" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – Vous laissez les clés à la femme de ménage ? – Oui, {{L}} dans une boîte." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. – Myriam donne des vitamines au bébé ? – Oui, {{L}} tous les matins." },
+        { "seq": 9, "type": "cloze", "stem_html": "9. – Zoé présente ses nouveaux copains à ses parents ? – Oui, {{L}} systématiquement." },
+        { "seq": 10, "type": "cloze", "stem_html": "10. – Vous donnez des exercices aux étudiants ? – Oui, {{L}} à la fin du cours." }
+      ]
+    },
+    {
+      "page_no": 129, "seq": 12,
+      "instruction_fr": "Répondez à la forme affirmative, selon le modèle.",
+      "label": "", "note_html": "– Jean envoie des cartes de vœux à Paul ? – <em class='model'>Oui, il lui en envoie.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Votre mari vous offre souvent des fleurs ?<br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Les clients vous envoient du champagne chaque année?<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Paul emprunte régulièrement de l'argent à sa sœur ?<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Le professeur donne une dizaine d'exercices aux étudiants ?<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 129, "seq": 13,
+      "instruction_fr": "Répondez personnellement à la forme positive ou négative.",
+      "label": "", "note_html": "– Vous prêtez votre stylo à votre petite fille ? – <em class='model'>Non, je ne le lui prête pas.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous montrez vos photos aux secrétaires ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous parlez de votre vie privée à votre professeur ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous laissez vos clés à vos voisins ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous prêtez votre voiture à vos amis ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous envoyez des cartes postales à vos collègues ? – {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Vous vous servez de votre GPS en voiture ? – {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – Vous vous mettez du gel dans les cheveux ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 130, "seq": 14,
+      "instruction_fr": "Répondez aux questions, selon le modèle.",
+      "label": "", "note_html": "– Vous racontez votre journée à votre amie, quand vous la voyez ?<br>– <em class='model'>Oui, quand je la vois, je lui raconte ma journée.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous dites bonjour à la voisine, quand vous la rencontrez ?<br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous posez des questions au professeur, quand vous le voyez ?<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous dites au revoir aux étudiants, quand vous les quittez ?<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous parlez en français à la secrétaire, quand vous l'appelez ?<br>– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous offrez à boire à vos amis, quand vous les invitez ?<br>– {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Vous racontez vos aventures à votre frère, quand vous le revoyez ?<br>– {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – Vous répondez toujours à vos enfants, quand ils vous parlent ?<br>– {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. – Vous apportez des fleurs à Marie, quand elle vous invite à dîner ?<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 130, "seq": 15,
+      "instruction_fr": "Lisez le texte. Distribuez les verbes en fonction de leur construction.",
+      "label": "Le maître et ses élèves", "note_html": "Il leur pose des questions. Il les corrige.<br>Il leur explique les règles. Il les aide.<br>Il leur donne des exercices. Il leur distribue des textes. Il les encourage. Il les félicite.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "<em class='model'>corriger</em><br>{{L}}<br>{{L}}<br>{{L}}<br>{{L}}<br><strong>+ qq. un</strong>" },
+        { "seq": 2, "type": "assoc", "stem_html": "<em class='model'>poser des questions</em><br>{{L}}<br>{{L}}<br>{{L}}<br>{{L}}<br><strong>+ à qq. un</strong>" }
+      ]
+    },
+    {
+      "page_no": 130, "seq": 16,
+      "instruction_fr": "Répondez, selon le modèle.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Est-ce que Marc ressemble beaucoup à sa mère ? – <em class='model'>Oui, il lui ressemble beaucoup.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Est-ce que Patrick Bruel plaît beaucoup à votre grand-mère ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Cette robe va bien à votre femme, n'est-ce pas ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Est-ce que cette salle convient à vos étudiants ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Votre neveu ressemble beaucoup à votre frère, n'est-ce pas ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 130, "seq": 17,
+      "instruction_fr": "Mettez les réponses de l'exercice 3 à la forme négative.",
+      "label": "", "note_html": "– <em class='model'>Non, il ne lui ressemble pas beaucoup.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 131, "seq": 18,
+      "instruction_fr": "Utilisez les bons pronoms compléments.",
+      "label": "", "note_html": "– Est-ce que votre fils regarde souvent la télévision ? – <em class='model'>Non, il ne la regarde pas souvent.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Est-ce que vous utilisez souvent votre téléphone portable ?<br>– Oui, {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Est-ce que vous allez au cocktail à quatre heures ?<br>– Oui, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Est-ce que vous mettez du sucre dans votre café ?<br>– Non, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Est-ce que les enfants vont à la piscine aujourd'hui ?<br>– Non, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Est-ce que vous téléphonez souvent à vos parents ?<br>– Oui, {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Est-ce que cette jupe courte va bien à la secrétaire, à votre avis ?<br>– Non, {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – Est-ce que les étudiants étrangers parlent souvent de leur pays ?<br>– Oui, {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. – Tu t'intéresses à l'astrologie ?<br>– Oui, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 131, "seq": 19,
+      "instruction_fr": "Utilisez les bons pronoms compléments. Faites l'élision, si c'est nécessaire.",
+      "label": "", "note_html": "– Je déteste le poisson et je n'<em class='model'>en</em> mange jamais.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Quand c'est la saison des melons, je {{b}} achète tous les jours : je {{b}} choisis avec soin et je {{b}} mange à tous les repas." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Je garde toutes mes photos de vacances : je {{b}} stocke dans mon fichier et quand je {{b}} imprime, je {{b}} range dans un album. Je {{b}} regarde de temps en temps. Je {{b}} ai plus de cinq mille." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Où mets-tu le café ? – Je {{b}} mets dans une boîte en fer et chaque fois que je {{b}} prends, je referme bien la boîte et je {{b}} range dans un endroit frais." }
+      ]
+    },
+    {
+      "page_no": 131, "seq": 20,
+      "instruction_fr": "Répondez affirmativement ou négativement en utilisant des pronoms.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Faites-vous des mots croisés ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Souhaitez-vous toujours son anniversaire à votre meilleur(e) ami(e) ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Parlez-vous à vos parents en français ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Mangez-vous souvent du chou ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous intéressez-vous à la géographie ? – {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Croyez-vous aux fantômes ? – {{L}}" }
+      ]
+    }
+  ]
+}

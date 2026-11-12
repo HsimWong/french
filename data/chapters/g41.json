@@ -1,0 +1,204 @@
+{
+  "course": "grammaire",
+  "seq": 41,
+  "title_fr": "LE TEMPS (3)",
+  "page_start": 198,
+  "page_end": 203,
+  "pdf_start": 200,
+  "pdf_end": 205,
+  "sections": [
+    { "title_fr": "L'ORIGINE et LA DURÉE", "page_no": 198 },
+    { "title_fr": "LA CHRONOLOGIE", "page_no": 200 },
+    { "title_fr": "LA SUCCESSION", "page_no": 202 }
+  ],
+  "blocks": [
+    { "page_no": 198, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">41</span> LE TEMPS (3)" },
+    { "page_no": 198, "seq": 2, "type": "keypoint", "body_html": "Je suis arrivé en France <strong>il y a</strong> deux ans. Je partirai <strong>dans</strong> six mois.<br>Je connais Max <strong>depuis</strong> 1999. J'ai travaillé avec lui <strong>pendant</strong> un an." },
+    { "page_no": 198, "seq": 3, "type": "section_title", "body_html": "L'<strong>ORIGINE</strong> et LA <strong>DURÉE</strong>" },
+    { "page_no": 198, "seq": 4, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'><strong>« IL Y A »</strong> : moment du passé.</p><p class='sample'><em>Je suis arrivé <strong>il y a</strong> six mois.</em><br><em>Le film a commencé <strong>il y a</strong> une heure.</em></p></div><div><p class='bullet'><strong>« DANS »</strong> : moment du futur.</p><p class='sample'><em>Je partirai <strong>dans</strong> deux ans.</em><br><em>Le film finira <strong>dans</strong> une heure.</em></p></div></div>" },
+    { "page_no": 198, "seq": 5, "type": "para", "body_html": "<p class='bullet'><strong>« DEPUIS »</strong> : <strong>durée</strong> qui continue de l'origine jusqu'au présent :</p><p class='sample'><em>J'étudie le français <strong>depuis</strong> trois ans.</em><br><em>Je vis à Rome <strong>depuis</strong> deux ans.</em></p>" },
+    { "page_no": 198, "seq": 6, "type": "para", "body_html": "<p class='bullet'>En début de phrase, on utilise « <strong>il y a… que</strong> » ou « <strong>ça fait… que</strong> » :</p><p class='sample'><em>Ça fait <strong>deux ans</strong> que j'habite à Rome.</em><br><em>Il y a <strong>deux ans</strong> que j'ai déménagé.</em></p>" },
+    { "page_no": 198, "seq": 7, "type": "para", "body_html": "<p class='bullet'><strong>« POUR »</strong> : durée <strong>prévue</strong>.</p><p class='sample'><em>Je suis à Paris <strong>pour</strong> deux ans.</em><br><em>J'ai loué un appartement <strong>pour</strong> six mois.</em></p>" },
+    { "page_no": 198, "seq": 8, "type": "remark", "body_html": "Passé&nbsp;&nbsp;&nbsp;&nbsp;Présent&nbsp;&nbsp;&nbsp;&nbsp;Futur<br>il y a →&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;← depuis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ dans<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pour" },
+    { "page_no": 198, "seq": 9, "type": "para", "body_html": "<p class='bullet'>« En avoir pour » estime la durée d'une action :</p><p class='sample'><em>– Tu as bientôt fini ? – Oui, <strong>j'en ai pour</strong> 5 minutes.</em></p>" },
+    { "page_no": 198, "seq": 10, "type": "para", "body_html": "<p class='bullet'><strong>« PENDANT »</strong> : durée <strong>finie</strong> (avec un début et une fin <strong>précise</strong>).</p><p class='sample'><em>Il a plu <strong>pendant</strong> huit jours.</em><br><em>J'ai dormi <strong>pendant</strong> dix heures.</em></p>" },
+    { "page_no": 198, "seq": 11, "type": "para", "body_html": "<p class='bullet'><strong>« EN »</strong> : <strong>quantité</strong> de temps nécessaire pour faire quelque chose.</p><p class='sample'><em>Je fais le ménage <strong>en</strong> dix minutes.</em><br><em>J'ai repeint la cuisine <strong>en</strong> 2 jours.</em></p>" },
+    { "page_no": 198, "seq": 12, "type": "warning", "body_html": "<p class='bullet'>Distinguez :&nbsp;&nbsp;&nbsp;&nbsp;<em>On doit finir <strong>en</strong> trois jours.</em>&nbsp;&nbsp;&nbsp;&nbsp;= temps de réalisation<br><em>On doit finir <strong>dans</strong> trois jours.</em>&nbsp;&nbsp;&nbsp;&nbsp;= date future</p>" },
+    { "page_no": 198, "seq": 13, "type": "xref", "body_html": "La durée au présent, p. 80" },
+
+    { "page_no": 200, "seq": 14, "type": "section_title", "body_html": "LA CHRONOLOGIE" },
+    { "page_no": 200, "seq": 15, "type": "subhead", "body_html": "PAR RAPPORT au <strong>PRÉSENT</strong>" },
+    { "page_no": 200, "seq": 16, "type": "table", "body_html": "<table class='data-table'><tr><td>Avant-hier</td><td><strong>Hier</strong></td><td><strong>Aujourd'hui</strong></td><td><strong>Demain</strong></td><td>Après-demain</td></tr><tr><td>| matin<br>après-midi<br>| soir</td><td>| matin<br>après-midi<br>| soir</td><td>Ce matin<br>Cet après-midi<br>Ce soir</td><td>| matin<br>après-midi<br>| soir</td><td>| matin<br>après-midi<br>| soir</td></tr><tr><td>La semaine<br>d'avant</td><td>La semaine<br><strong>dernière</strong></td><td><strong>Cette</strong> semaine</td><td>La semaine<br><strong>prochaine</strong></td><td>La semaine<br>d'après</td></tr><tr><td>Le mois<br>d'avant</td><td>Le mois<br><strong>dernier</strong></td><td>Ce mois-ci</td><td>Le mois<br><strong>prochain</strong></td><td>Le mois<br>d'après</td></tr><tr><td>L'année<br>d'avant</td><td>L'année<br><strong>dernière</strong></td><td><strong>Cette</strong> année</td><td>L'année<br><strong>prochaine</strong></td><td>L'année<br>d'après</td></tr></table>" },
+    { "page_no": 200, "seq": 17, "type": "subhead", "body_html": "PAR RAPPORT au <strong>PASSÉ</strong> ou au <strong>FUTUR</strong>" },
+    { "page_no": 200, "seq": 18, "type": "table", "body_html": "<table class='data-table'><tr><td>Deux jours<br>avant</td><td><strong>La veille</strong></td><td><strong>Ce jour-là</strong></td><td><strong>Le lendemain</strong></td><td>Deux jours<br>après</td></tr><tr><td></td><td></td><td>Ce matin-là<br>Cet après-midi-là<br>Ce soir-là</td><td></td><td></td></tr><tr><td>Deux semaines<br>avant</td><td>La semaine<br><strong>d'avant</strong></td><td><strong>Cette</strong> semaine-là</td><td>La semaine<br><strong>d'après</strong></td><td>Deux semaines<br>après</td></tr><tr><td>Deux mois<br>avant</td><td>Le mois<br><strong>d'avant</strong></td><td><strong>Ce</strong> mois-là</td><td>Le mois<br><strong>d'après</strong></td><td>Deux mois<br>après</td></tr><tr><td>Deux ans<br>avant</td><td>L'année<br><strong>d'avant</strong></td><td><strong>Cette</strong> année-là</td><td>L'année<br><strong>d'après</strong></td><td>Deux ans<br>après</td></tr></table>" },
+    { "page_no": 200, "seq": 19, "type": "para", "body_html": "<p class='bullet'>En langage formel et à l'écrit, on utilise :</p><table class='data-table'><tr><td><em>« précédent(e) »</em></td><td></td><td><em>« d'avant »</em></td></tr><tr><td><em>« suivant(e) »</em></td><td></td><td><em>« d'après »</em></td></tr><tr><td><em>« plus tôt »</em></td><td>de préférence à</td><td><em>« avant »</em></td></tr><tr><td><em>« plus tard »</em></td><td></td><td><em>« après »</em></td></tr></table>" },
+    { "page_no": 200, "seq": 20, "type": "xref", "body_html": "« -ci » et « -là », p. 40" },
+
+    { "page_no": 202, "seq": 21, "type": "section_title", "body_html": "LA SUCCESSION" },
+    { "page_no": 202, "seq": 22, "type": "keypoint", "body_html": "<strong>Après avoir passé</strong> ma licence, j'ai vécu un an en Californie.<br><strong>Avant de partir</strong>, je ne parlais pas anglais." },
+    { "page_no": 202, "seq": 23, "type": "para", "body_html": "Les adverbes « <strong>avant</strong> » et « <strong>après</strong> » permettent de marquer une succession d'événements." },
+    { "page_no": 202, "seq": 24, "type": "subhead", "body_html": "« <strong>APRÈS</strong> » + <strong>INFINITIF PASSÉ</strong> s'utilise quand le sujet des deux verbes est identique." },
+    { "page_no": 202, "seq": 25, "type": "para", "body_html": "<p class='bullet'>Infinitif passé = « être » ou « avoir » à l'infinitif + participe passé :</p><p class='sample'><em>J'ai dîné et je suis sorti.</em><br><em><strong>Après avoir dîné</strong>, je suis sorti.</em></p><p class='sample'><em>Je suis allé au cinéma, puis je suis allé au restaurant.</em><br><em><strong>Après être allé</strong> au cinéma, je suis allé au restaurant.</em></p>" },
+    { "page_no": 202, "seq": 26, "type": "para", "body_html": "<p class='bullet'>Les pronoms compléments se placent devant l'infinitif :</p><p class='sample'><em>Je me suis douché et je suis sorti.</em><br><em>Après <strong>m'</strong>être douché, je suis sorti.</em></p><p class='sample'><em>Paul s'est couché et il a lu.</em><br><em>Après <strong>s'</strong>être couché, il a lu.</em></p>" },
+    { "page_no": 202, "seq": 27, "type": "para", "body_html": "<p class='bullet'>Le participe passé suit la règle des accords :</p><p class='sample'><em>Après s'être <strong>douchée</strong>, Marie est sortie.</em><br><em>Après s'être <strong>disputés</strong>, les voisins se sont réconciliés.</em></p>" },
+    { "page_no": 202, "seq": 28, "type": "subhead", "body_html": "« <strong>AVANT DE</strong> » + <strong>INFINITIF</strong> s'utilise quand le sujet des deux verbes est identique :" },
+    { "page_no": 202, "seq": 29, "type": "para", "body_html": "<p class='sample'><em>J'ai dîné et je suis sorti.</em><br><em><strong>Avant de</strong> sortir, j'ai dîné.</em></p><p class='sample'><em>J'ai pris le petit déjeuner et je me suis douché.</em><br><em><strong>Avant de</strong> me doucher, j'ai pris le petit déjeuner.</em></p>" },
+    { "page_no": 202, "seq": 30, "type": "xref", "body_html": "Accord des participes passés, p. 190" }
+  ],
+  "exercises": [
+    {
+      "page_no": 199, "seq": 1,
+      "instruction_fr": "Complétez avec « il y a » ou « dans ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Les travaux ont commencé <em class='model'>il y a</em> trois mois<br>et ils seront finis <em class='model'>dans</em> deux semaines" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. J'ai acheté ma voiture {{b}} 4 ans<br>et je pense la revendre {{b}} un an." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Lucie présentera {{b}} deux mois la<br>thèse qu'elle a commencée {{b}} un an." }
+      ]
+    },
+    {
+      "page_no": 199, "seq": 2,
+      "instruction_fr": "Complétez avec « depuis » ou « il y a ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous conduisez <em class='model'>depuis</em> longtemps ?<br>– J'ai passé le permis <em class='model'>il y a</em> 2 ans." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous êtes marié {{b}} vingt-huit ans !<br>– Oui, j'ai connu ma femme {{b}} trente ans." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. J'ai créé ma société {{b}} 15 ans.<br>Max travaille avec moi {{b}} 8 ans." }
+      ]
+    },
+    {
+      "page_no": 199, "seq": 3,
+      "instruction_fr": "Complétez avec « dans » ou « en ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. L'avion part <em class='model'>dans</em> dix minutes. Je suis fatigué : sept voyages <em class='model'>en</em> un mois, c'est trop." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Mozart a écrit 626 œuvres {{b}} trente ans et on les écoutera encore {{b}} cent ans." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. La réunion va avoir lieu {{b}} une semaine. Je dois résumer notre stratégie {{b}} trois mois." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Je dois me préparer {{b}} 5 minutes et sauter dans un taxi. Le train part {{b}} vingt minutes..." }
+      ]
+    },
+    {
+      "page_no": 199, "seq": 4,
+      "instruction_fr": "Complétez avec « pendant » ou « en ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. (1887-1889)&nbsp;&nbsp;&nbsp;&nbsp;La tour Eiffel a été en travaux <em class='model'>pendant deux ans.</em>&nbsp;&nbsp;&nbsp;&nbsp;Elle a été construite <em class='model'>en deux ans.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. (1990-1993)&nbsp;&nbsp;&nbsp;&nbsp;Max a habité en Russie {{L}}&nbsp;&nbsp;&nbsp;&nbsp;Il est devenu bilingue {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. (mars-avril)&nbsp;&nbsp;&nbsp;&nbsp;J'ai été malade {{L}}&nbsp;&nbsp;&nbsp;&nbsp;J'ai lu quinze romans {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. (midi-minuit)&nbsp;&nbsp;&nbsp;&nbsp;J'ai travaillé {{L}}&nbsp;&nbsp;&nbsp;&nbsp;J'ai écrit 20 pages {{L}}" }
+      ]
+    },
+    {
+      "page_no": 199, "seq": 5,
+      "instruction_fr": "Complétez avec « depuis », « il y a », « pendant », « pour », « en », « dans ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. J'ai travaillé à Bruxelles {{b}} trois ans, de 2006 à 2009. – 2. Je suis allé à Rome {{b}} deux ans.<br>– 3. On se reverra {{b}} un mois. – 4. Le docteur m'a donné un traitement homéopathique {{b}}<br>six mois, jusqu'à Noël. – 5. J'ai étudié le latin {{b}} cinq ans. – 6. Je n'ai pris que dix jours de congé<br>{{b}} un an. – 7. J'ai loué un studio {{b}} un an à partir de demain. – 8. Il a plu {{b}}<br>deux jours, sans interruption. – 9. Je me suis inscrit {{b}} quatre semaines dans une école de langue<br>où je parlerai français tous les jours {{b}} quatre heures. – 10. Max m'a dit : « Attends-moi ici,<br>j'en ai {{b}} dix minutes, et je l'ai attendu {{b}} une heure et demie ! »" }
+      ]
+    },
+    {
+      "page_no": 199, "seq": 6,
+      "instruction_fr": "Complétez avec « depuis », « pendant », « il y a », « en », « pour », « dans ». Donnez des exemples personnels.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "J'ai la même montre {{b}} six ans.&nbsp;&nbsp;&nbsp;&nbsp;J'ai acheté ce livre {{b}} deux mois." },
+        { "seq": 2, "type": "cloze", "stem_html": "Cette nuit, j'ai dormi {{b}} neuf heures.&nbsp;&nbsp;&nbsp;&nbsp;J'ai fait l'exercice n° 5 {{b}} deux minutes." },
+        { "seq": 3, "type": "cloze", "stem_html": "Mon cours commence {{b}} deux heures.&nbsp;&nbsp;&nbsp;&nbsp;J'ai un bail de location {{b}} trois ans." }
+      ]
+    },
+    {
+      "page_no": 201, "seq": 7,
+      "instruction_fr": "Complétez avec « hier », « demain », « ce jour-là », « le lendemain » ou « la veille ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Aujourd'hui, les enfants peuvent se coucher tard : il n'y a pas d'école <em class='model'>demain.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Nous sommes le 20 mars : {{b}} , c'est le printemps !" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je me suis marié le 13 juin et {{b}} , le 14, nous sommes partis en Grèce." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Ce soir, nous restons à la maison, mais {{b}} , nous sommes allés au cinéma." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Je ne révise pas {{b}} d'un examen, je me couche tôt." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Je vais avoir quarante ans le 10 janvier : {{b}} , je ferai une grande fête." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. J'ai rencontré ma femme le 14 juillet 1981 : {{b}} , tout le monde dansait dans la rue." }
+      ]
+    },
+    {
+      "page_no": 201, "seq": 8,
+      "instruction_fr": "Complétez la chronologie en utilisant « matin » et « année ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. <em class='model'>Hier matin,</em> je suis allée à la bibliothèque.<br>{{b}} , je travaille chez moi.<br>{{b}} , j'irai chez le coiffeur." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. <em class='model'>L'année dernière,</em> j'ai visité la Norvège.<br>{{b}} , je visite la France.<br>{{b}} , je visiterai l'Italie." }
+      ]
+    },
+    {
+      "page_no": 201, "seq": 9,
+      "instruction_fr": "Complétez avec « depuis », « pour », « pendant ».",
+      "label": "Chère Julie", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Je cherche à te joindre {{b}} trois jours sans succès. Ma société m'envoie au Japon {{b}} six mois,<br>jusqu'en février. J'étudie le japonais {{b}} plus de trois mois (hier j'ai parlé japonais {{b}}<br>six heures !). J'ai trouvé un sous-locataire {{b}} cinq mois, à partir du 1<sup>er</sup> septembre, mais je suis in-<br>quiète {{b}} les quinze jours qui viennent : qui va s'occuper de mes plantes ? Elles ont de l'eau<br>{{b}} huit jours, mais après ? Est-ce que tu peux passer les arroser ? Tu as les clés, mais attention, nous<br>avons un nouveau code {{b}} deux jours : c'est le 867BA. Ce matin, {{b}} plus d'une heure, j'ai<br>appelé tous les copains, mais ils sont tous en vacances ! C'est pour ça que je t'envoie ce mail. Je pense que<br>tu me comprendras (on est copines {{b}} si longtemps !) Réponds-moi vite ! Bisous !&nbsp;&nbsp;&nbsp;&nbsp;Aglaé" }
+      ]
+    },
+    {
+      "page_no": 201, "seq": 10,
+      "instruction_fr": "Complétez avec les expressions de temps manquantes.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Mathilde a étudié le russe à l'école {{b}} cinq ans. Elle travaille {{b}} un an dans une compagnie<br>franco-russe. Elle part demain en Russie {{b}} trois mois. En septembre, elle va travailler à Moscou, et le<br>mois {{b}}, en octobre, elle va aller à Kiev." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Louis travaille {{b}} quarante ans et il va prendre sa<br>retraite {{b}} deux ans. L'année {{b}} (c'est-à-dire {{b}} trois ans), il va déménager à la<br>campagne où il construit lui-même sa maison {{b}} cinq ans." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Jean a la même voiture {{b}}<br>trois ans. Comme il l'a achetée {{b}} trois ans, il va devoir passer un contrôle technique {{b}} un an.<br>Sa voiture est en excellent état : il a fait 50 000 kilomètres {{b}} trois ans, et il n'a jamais eu de problème." }
+      ]
+    },
+    {
+      "page_no": 201, "seq": 11,
+      "instruction_fr": "Parlez de vos études, de votre travail, de vos projets avec les expressions de temps étudiées.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 203, "seq": 12,
+      "instruction_fr": "Complétez le texte, selon le modèle",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Après <em class='model'>être</em> rentré chez moi, j'<em class='model'>ai</em> commencé à faire la cuisine. Après {{b}} retiré le poisson du réfrigéra-<br>teur, je l'{{b}} mis dans une marinade. Après {{b}} mis l'eau à bouillir, je {{b}} coupé les lé-<br>gumes en petits morceaux pour la soupe. Après {{b}} mis le poisson dans le four, je {{b}} allé dans<br>le salon. Après {{b}} reposé quelques minutes, je {{b}} préparé la table pour le dîner." }
+      ]
+    },
+    {
+      "page_no": 203, "seq": 13,
+      "instruction_fr": "Transformez avec l'infinitif passé.",
+      "label": "Les voyages de Christophe Colomb", "note_html": "<em class='model'>Après être parti des Canaries, Christophe Colomb a voyagé trente-cinq jours.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "<div class='two-col'><div>En 1492, Christophe Colomb part des Canaries.<br>Il voyage trente-cinq jours sans voir la terre.<br>Il découvre San Salvador.<br>Il arrive à Cuba et il colonise l'île.<br>Il rentre en Espagne.</div><div>Il est nommé amiral en 1495.<br>Il repart et il découvre les Petites Antilles.<br>Il retourne en Espagne.<br>En 1498, il organise une troisième expédition.<br>En 1506, il meurt dans la misère.</div></div><em class='model'>Après être parti des Canaries, Christophe Colomb a voyagé trente-cinq jours.</em> Après avoir voyagé {{L}}<br>{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 203, "seq": 14,
+      "instruction_fr": "Transformez avec l'infinitif passé.",
+      "label": "", "note_html": "<em class='model'>Après avoir fini son travail, il a bu un porto.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Il a fini son travail. Il a bu un porto. Il s'est changé. Il est allé au cinéma. Il s'est promené.<br>Il a mangé un steak-frites. Il s'est douché. Il a lu un magazine. Il s'est endormi.<br><em class='model'>Après avoir fini son travail, il a bu un porto.</em> Après {{L}}<br>{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 203, "seq": 15,
+      "instruction_fr": "Refaites l'exercice dans l'autre sens, en utilisant « avant de ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<em class='model'>Avant de s'endormir,</em> {{L}}<br>{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 203, "seq": 16,
+      "instruction_fr": "Complétez selon le modèle. Trouvez la suite (plusieurs possibilités).",
+      "label": "", "note_html": "sortir&nbsp;&nbsp;&nbsp;&nbsp;manger&nbsp;&nbsp;&nbsp;&nbsp;se coucher&nbsp;&nbsp;&nbsp;&nbsp;prendre une décision&nbsp;&nbsp;&nbsp;&nbsp;traverser&nbsp;&nbsp;&nbsp;&nbsp;quitter la pièce", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Il fait froid : couvre-toi <em class='model'>avant de sortir.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Lave-toi les mains {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Regarde à droite et à gauche {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Lave-toi les dents {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Éteins la lumière {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Réfléchis {{L}}" }
+      ]
+    }
+  ]
+}

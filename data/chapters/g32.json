@@ -1,0 +1,323 @@
+{
+  "course": "grammaire",
+  "seq": 32,
+  "title_fr": "LES RELATIFS",
+  "page_start": 140,
+  "page_end": 147,
+  "pdf_start": 142,
+  "pdf_end": 149,
+  "sections": [
+    { "title_fr": "LES RELATIFS SIMPLES (1)", "page_no": 140 },
+    { "title_fr": "LES RELATIFS SIMPLES (2)", "page_no": 142 },
+    { "title_fr": "LES RELATIFS COMPOSÉS", "page_no": 144 }
+  ],
+  "blocks": [
+    { "page_no": 140, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">32</span> LES RELATIFS" },
+    { "page_no": 140, "seq": 2, "type": "keypoint", "body_html": "La femme <strong>qui</strong> arrive est la femme <strong>que</strong> j'aime.<br>Je l'attends dans un bar <strong>où</strong> il y a du soleil." },
+    { "page_no": 140, "seq": 3, "type": "para", "body_html": "Pour relier plusieurs phrases sans répéter les noms, on utilise un relatif :" },
+    { "page_no": 140, "seq": 4, "type": "example", "body_html": "<em>Une femme passe : cette femme est brune.<br>La femme <strong>qui</strong> passe est brune.</em>" },
+    { "page_no": 140, "seq": 5, "type": "section_title", "body_html": "LES RELATIFS SIMPLES (1)" },
+    { "page_no": 140, "seq": 6, "type": "para", "body_html": "<p class='bullet'><strong>« QUI »</strong> reprend le <strong>sujet</strong> (personne ou chose) du verbe qui suit :</p><p class='sample'><em>La femme <strong>qui</strong> passe porte une robe <strong>qui</strong> brille.</em></p>" },
+    { "page_no": 140, "seq": 7, "type": "para", "body_html": "<p class='bullet'><strong>« QUE »</strong> reprend le <strong>complément</strong> d'objet (personne ou chose) du verbe qui suit :</p><p class='sample'><em>La femme <strong>que</strong> je regarde porte une robe <strong>que</strong> j'adore.</em></p>" },
+    { "page_no": 140, "seq": 8, "type": "phonetic", "body_html": "<p class='bullet'>On fait l'élision avec « <strong>que</strong> », mais pas avec « <strong>qui</strong> » :</p><p class='sample'><em>La femme <strong>qu'</strong>il aime est brune.<br>La femme <strong>qui</strong> arrive est blonde.</em></p>" },
+    { "page_no": 140, "seq": 9, "type": "warning", "body_html": "<p class='bullet'>Dites :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne dites pas :</p><p class='sample'><em>C'est un livre <strong>qui</strong> est intéressant.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>C'est un livre <s>que c'est</s> intéressant.</em></p>" },
+    { "page_no": 140, "seq": 10, "type": "para", "body_html": "<p class='bullet'><strong>« OÙ »</strong> reprend un complément de lieu ou de temps :</p><p class='sample'><em>La ville <strong>où</strong> je suis né est une petite ville.<br>Le jour <strong>où</strong> je suis né était un jeudi.</em></p>" },
+    { "page_no": 140, "seq": 11, "type": "warning", "body_html": "<p class='bullet'>Dites :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne dites pas :</p><p class='sample'><em>Le jour <strong>où</strong> je suis né…</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Le jour <s>quand</s> je suis né…<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<s>que</s> je suis né…</em></p>" },
+
+    { "page_no": 142, "seq": 12, "type": "running_head", "body_html": "LES RELATIFS" },
+    { "page_no": 142, "seq": 13, "type": "section_title", "body_html": "LES RELATIFS SIMPLES (2)" },
+    { "page_no": 142, "seq": 14, "type": "keypoint", "body_html": "La femme <strong>dont</strong> je rêve est rousse.<br>Elle a des yeux <strong>dont</strong> je suis fou…" },
+    { "page_no": 142, "seq": 15, "type": "para", "body_html": "<p class='bullet'><strong>« DONT »</strong> reprend le complément d'objet d'un <strong>verbe</strong> construit avec « <strong>de</strong> » :</p><p class='sample'><em>La femme <strong>dont</strong> je parle conduit une voiture <strong>dont</strong> je rêve.</em></p><div class='annotation'>parler de&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rêver de</div>" },
+    { "page_no": 142, "seq": 16, "type": "para", "body_html": "<p class='bullet'>« <strong>Dont</strong> » peut être le complément d'un <strong>nom</strong> ou d'un <strong>adjectif</strong> :</p><p class='sample'><em>C'est la société <strong>dont</strong> je suis le directeur.</em>&nbsp;&nbsp;&nbsp;&nbsp;être le directeur de<br><em>C'est un travail <strong>dont</strong> je suis content.</em>&nbsp;&nbsp;&nbsp;&nbsp;être content de</p>" },
+    { "page_no": 142, "seq": 17, "type": "warning", "body_html": "<p class='bullet'>Dites :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne dites pas :</p><p class='sample'><em>C'est un appareil<br><strong>dont</strong> j'ai besoin.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>C'est un appareil<br><s>que j'ai besoin</s></em></p>" },
+    { "page_no": 142, "seq": 18, "type": "para", "body_html": "<p class='bullet'><strong>« CE QUI »</strong>/<strong>« CE QUE »</strong>/<strong>« CE DONT »</strong> signifie « la chose qui/que/dont » :</p><div class='two-col'><div><span class='wordlist'><em>J'aime <strong>ce qui</strong> brille.</em><br><em>Devine <strong>ce dont</strong> j'ai envie.</em></span></div><div><span class='wordlist'><em>Tu sais <strong>ce que</strong> j'aime.</em><br><em>Prends tout <strong>ce que</strong> tu veux.</em></span></div></div>" },
+    { "page_no": 142, "seq": 19, "type": "section_title", "body_html": "LA MISE EN RELIEF" },
+    { "page_no": 142, "seq": 20, "type": "para", "body_html": "<p class='bullet'><strong>« C'EST… QUI/QUE »</strong> met l'accent sur un élément <strong>à l'exclusion d'un autre.</strong></p><p class='sample'><em>C'est <u>Paul</u> <strong>qui</strong> est le directeur.</em>&nbsp;&nbsp;&nbsp;&nbsp;(Ce n'est pas moi.)<br><em>C'est <u>Julie</u> <strong>que</strong> je vois ce soir.</em>&nbsp;&nbsp;&nbsp;&nbsp;(Ce n'est pas Anna.)</p>" },
+    { "page_no": 142, "seq": 21, "type": "warning", "body_html": "<p class='bullet'>Attention à l'accord :<br>Dites :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne dites pas :</p><p class='sample'><em>– C'est <strong>moi</strong> <u>qui</u> <strong>suis</strong> responsable.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>– C'est moi qui <s>a</s> responsable.</em><br><em>– C'est <strong>moi</strong> <u>qui</u> <strong>ai</strong> les clés.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>– C'est moi qui <s>a</s> les clés.</em></p>" },
+    { "page_no": 142, "seq": 22, "type": "para", "body_html": "<p class='bullet'><strong>« CE QUI/QUE…, C'EST »</strong> = la chose qui/que…, c'est…</p><p class='sample'><em><strong>Ce qui</strong> me choque, <strong>c'est</strong> la misère.<br><strong>Ce que</strong> je déteste, <strong>c'est</strong> l'hypocrisie.</em></p>" },
+
+    { "page_no": 144, "seq": 23, "type": "running_head", "body_html": "LES RELATIFS" },
+    { "page_no": 144, "seq": 24, "type": "section_title", "body_html": "LES RELATIFS COMPOSÉS" },
+    { "page_no": 144, "seq": 25, "type": "keypoint", "body_html": "Voilà le projet sur <strong>lequel</strong> je travaille.<br>Voilà la raison pour <strong>laquelle</strong> je suis à Paris." },
+    { "page_no": 144, "seq": 26, "type": "para", "body_html": "<p class='bullet'><strong>« LEQUEL »</strong>, <strong>« LAQUELLE »</strong>, etc. s'utilisent en général après une préposition :</p><p class='sample'><em>Je travaille sur un grand bureau.<br>Le bureau <strong>sur lequel</strong> je travaille est grand.</em></p>" },
+    { "page_no": 144, "seq": 27, "type": "table", "body_html": "<p class='bullet'>Les relatifs composés varient en fonction du nom qu'ils représentent :</p><p class='sample'><em>La société <strong>pour laquelle</strong> je travaille est à Bruxelles.</em></p><table class='data-table'><tr><th></th><th>Masculin</th><th>Féminin</th></tr><tr><td>Singulier</td><td><em><strong>lequel</strong></em></td><td><em><strong>laquelle</strong></em></td></tr><tr><td>Pluriel</td><td><em><strong>lesquels</strong></em></td><td><em><strong>lesquelles</strong></em></td></tr></table>" },
+    { "page_no": 144, "seq": 28, "type": "warning", "body_html": "<p class='bullet'>Pour une personne, on dit de préférence « pour qui », « avec qui », etc.</p><p class='sample'><em>Le garçon <strong>avec lequel</strong> je vis…/ Le garçon <strong>avec qui</strong> je vis…</em></p>" },
+    { "page_no": 144, "seq": 29, "type": "para", "body_html": "<p class='bullet'><strong>« AUQUEL »</strong>, <strong>« AUXQUELS »</strong>, etc., sont des relatifs contractés avec « <strong>à</strong> » :</p><p class='sample'><em>– J'ai pensé <strong>à</strong> un cadeau pour Max.<br>– Quel est le cadeau <strong>auquel</strong> tu as pensé ?</em></p>" },
+    { "page_no": 144, "seq": 30, "type": "table", "body_html": "<table class='data-table'><tr><th></th><th>Masculin</th><th>Féminin</th></tr><tr><td>Singulier</td><td><em><strong>auquel</strong></em></td><td><em><strong>à laquelle</strong></em></td></tr><tr><td>Pluriel</td><td><em><strong>auxquels</strong></em></td><td><em><strong>auxquelles</strong></em></td></tr></table>" },
+    { "page_no": 144, "seq": 31, "type": "para", "body_html": "<p class='bullet'><strong>« DUQUEL »</strong>, <strong>« DESQUELS »</strong>, etc., sont des relatifs contractés avec « <strong>de</strong> » associé à une préposition (ex. : « à côté <strong>de</strong> », « à cause <strong>de</strong> », etc.)</p><p class='sample'><em>J'habite près d'un musée.<br>Le musée <strong>près duquel</strong> j'habite est le musée Guimet.</em></p>" },
+    { "page_no": 144, "seq": 32, "type": "table", "body_html": "<table class='data-table'><tr><th></th><th>Masculin</th><th>Féminin</th></tr><tr><td>Singulier</td><td><em><strong>duquel</strong></em></td><td><em><strong>de laquelle</strong></em></td></tr><tr><td>Pluriel</td><td><em><strong>desquels</strong></em></td><td><em><strong>desquelles</strong></em></td></tr></table>" },
+    { "page_no": 144, "seq": 33, "type": "warning", "body_html": "<p class='bullet'><strong>Duquel</strong> est toujours précédé d'une préposition. Comparez.</p><table class='data-table'><tr><td><em>Le musée <strong>dont</strong> je parle</em></td><td><em>Le musée <strong>près duquel</strong> j'habite</em></td></tr><tr><td><em>Le musée <strong>dont</strong> je suis responsable</em></td><td><em>Le musée <strong>à côté duquel</strong> j'habite</em></td></tr><tr><td><em>Le musée <strong>dont</strong> je suis le directeur</em></td><td><em>Le musée <strong>en face duquel</strong> j'habite</em></td></tr></table>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 141, "seq": 1,
+      "instruction_fr": "Transformez avec « qui » ou « que », selon le modèle.",
+      "label": "Blues", "note_html": "J'attends un ami <em class='model'>qui est en retard.</em>&nbsp;&nbsp;&nbsp;&nbsp;L'ami <em class='model'>que j'attends est en retard.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<div class='two-col'><div>J'attends un ami. Il est en retard.<br>Je lis un livre. Il est ennuyeux.<br>Je mange des frites. Elles sont froides.<br>Je bois un Coca. Il est chaud.<br>J'écoute un musicien. Il joue mal.</div><div>J'attends un ami <em class='model'>qui est en retard.</em><br>Je lis un livre {{L}}<br>Je mange des frites {{L}}<br>Je bois un Coca {{L}}<br>J'écoute un musicien {{L}}</div></div>" },
+        { "seq": 2, "type": "cloze", "stem_html": "L'ami <em class='model'>que j'attends est en retard.</em> Le livre {{L}}" }
+      ]
+    },
+    {
+      "page_no": 141, "seq": 2,
+      "instruction_fr": "Choisissez des éléments pour compléter les descriptions, selon le modèle.",
+      "label": "", "note_html": "<s>avoir des moustaches rousses</s>&nbsp;&nbsp;&nbsp;&nbsp;<s>être en pierre</s>&nbsp;&nbsp;&nbsp;&nbsp;jouer au cow-boy&nbsp;&nbsp;&nbsp;&nbsp;pousser dans la cour<br><s>porter des bottes rouges</s>&nbsp;&nbsp;&nbsp;&nbsp;<s>fumer le cigare</s>&nbsp;&nbsp;&nbsp;&nbsp;avoir des volets bleus&nbsp;&nbsp;&nbsp;&nbsp;avoir des fleurs blanches",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. L'homme <em class='model'>qui a des moustaches rousses</em> et <em class='model'>qui fume le cigare</em> est mon oncle." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. L'enfant {{L}} et {{L}} est mon cousin." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. L'arbre {{L}} et {{L}} est un cerisier." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. La maison {{L}} et {{L}} est la maison de mes parents." }
+      ]
+    },
+    {
+      "page_no": 141, "seq": 3,
+      "instruction_fr": "Complétez avec « qui » ou « que ».",
+      "label": "", "note_html": "<em>Le pull que vous portez est en coton ?</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Le professeur {{b}} travaille à côté est anglais ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Les amis {{b}} vous attendez sont italiens ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le tableau {{b}} est sur le mur est de Manet ?" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. La voiture {{b}} est garée dehors est à vous ?" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Le livre {{b}} vous lisez est intéressant ?" }
+      ]
+    },
+    {
+      "page_no": 141, "seq": 4,
+      "instruction_fr": "Complétez avec « qui », « que », « où ».",
+      "label": "", "note_html": "Comment s'appelle :",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "la pièce {{b}} on dort ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "la personne {{b}} nous soigne ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "la saison {{b}} il fait le plus chaud ?" },
+        { "seq": 4, "type": "cloze", "stem_html": "la langue {{b}} vous étudiez ?" },
+        { "seq": 5, "type": "cloze", "stem_html": "le livre {{b}} est devant vous ?" }
+      ]
+    },
+    {
+      "page_no": 141, "seq": 5,
+      "instruction_fr": "Faites des phrases avec « le jour où », « le mois où », « l'année où », « au moment où ».",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Paul est content le <strong>mardi</strong> : c'est <em class='model'>le jour où</em> je fais des crêpes." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Il fait beau en <strong>juillet</strong> : c'est {{L}} nous partons en vacances." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je suis arrivé en <strong>1998</strong>, c'est {{L}} la France a gagné la Coupe du monde de football." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. J'ai pleuré à la fin du film, {{L}} le Titanic a sombré." }
+      ]
+    },
+    {
+      "page_no": 141, "seq": 6,
+      "instruction_fr": "Faites des phrases avec l'heure, le jour, le mois, la saison.",
+      "label": "", "note_html": "septembre : <em class='model'>C'est le mois où les enfants rentrent à l'école.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "le dimanche : {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "midi : {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "l'été : {{L}}" }
+      ]
+    },
+
+    {
+      "page_no": 143, "seq": 7,
+      "instruction_fr": "Répondez avec « dont ».",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous parlez souvent de politique ? – Oui, <em class='model'>c'est un sujet dont je parle souvent.</em>&nbsp;&nbsp;&nbsp;&nbsp;(sujet)" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous parlez parfois de la pollution ? – Oui, {{L}}&nbsp;&nbsp;&nbsp;&nbsp;(problème)" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous êtes responsable de la gestion ? – Oui, {{L}}&nbsp;&nbsp;&nbsp;&nbsp;(service)" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous vous servez de la photocopieuse ? – Oui, {{L}}&nbsp;&nbsp;&nbsp;&nbsp;(machine)" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous avez besoin du planning ? – Oui, {{L}}&nbsp;&nbsp;&nbsp;&nbsp;(document)" }
+      ]
+    },
+    {
+      "page_no": 143, "seq": 8,
+      "instruction_fr": "Complétez en utilisant « dont » ou « que ».",
+      "label": "", "note_html": "<strong>En classe :</strong>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Quels sont les sujets <em class='model'>dont les étudiants parlent le plus</em> ?&nbsp;&nbsp;&nbsp;&nbsp;(parler de)" },
+        { "seq": 2, "type": "cloze", "stem_html": "Quelles sont les activités {{L}}&nbsp;&nbsp;&nbsp;&nbsp;(aimer)" },
+        { "seq": 3, "type": "cloze", "stem_html": "Quels sont les objets {{L}}&nbsp;&nbsp;&nbsp;&nbsp;(se servir de)" },
+        { "seq": 4, "type": "cloze", "stem_html": "Quels sont les exercices {{L}}&nbsp;&nbsp;&nbsp;&nbsp;(détester)" },
+        { "seq": 5, "type": "cloze", "stem_html": "Quels sont les moments {{L}}&nbsp;&nbsp;&nbsp;&nbsp;(apprécier)" }
+      ]
+    },
+    {
+      "page_no": 143, "seq": 9,
+      "instruction_fr": "Répondez oralement avec « c'est… qui ».",
+      "label": "", "note_html": "<em class='model'>– C'est Paul qui fait la cuisine.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. – Qui fait la cuisine ? (Paul)" },
+        { "seq": 2, "type": "open", "stem_html": "2. – Qui choisit le vin ? (nous)" },
+        { "seq": 3, "type": "open", "stem_html": "3. – Qui s'occupe de la vidéo ? (toi)" },
+        { "seq": 4, "type": "open", "stem_html": "4. – Qui est le DJ ce soir ? (moi)" }
+      ]
+    },
+    {
+      "page_no": 143, "seq": 10,
+      "instruction_fr": "Répondez oralement avec « c'est… que ».",
+      "label": "", "note_html": "<em class='model'>– Non, c'est jeudi que je reviens.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. – Vous revenez mardi? (jeudi)" },
+        { "seq": 2, "type": "open", "stem_html": "2. – Vous attendez Paul ? (Max)" },
+        { "seq": 3, "type": "open", "stem_html": "3. – Vous prenez la ligne 1 ? (ligne 6)" },
+        { "seq": 4, "type": "open", "stem_html": "4. – Vous partez demain ? (après-demain)" }
+      ]
+    },
+    {
+      "page_no": 143, "seq": 11,
+      "instruction_fr": "« Ce qui »/« ce que »/« ce dont » : complétez.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Dites-moi <em class='model'>ce que</em> vous aimez." },
+        { "seq": 2, "type": "cloze", "stem_html": "– Dites-moi {{b}} vous détestez." },
+        { "seq": 3, "type": "cloze", "stem_html": "– Dites-moi {{b}} vous énerve." },
+        { "seq": 4, "type": "cloze", "stem_html": "– Dites-moi {{b}} vous amuse." },
+        { "seq": 5, "type": "cloze", "stem_html": "– Dites-moi {{b}} vous rêvez." }
+      ]
+    },
+    {
+      "page_no": 143, "seq": 12,
+      "instruction_fr": "Complétez, selon le modèle.",
+      "label": "", "note_html": "– <em class='model'>Ce qui</em> me révolte le plus, <em class='model'>c'est</em> l'injustice.",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– {{b}} je déteste le plus, {{b}} la bêtise." },
+        { "seq": 2, "type": "cloze", "stem_html": "– {{b}} me fait peur, {{b}} la guerre." },
+        { "seq": 3, "type": "cloze", "stem_html": "– {{b}} j'aime le plus, {{b}} les enfants." },
+        { "seq": 4, "type": "cloze", "stem_html": "– {{b}} j'attends, {{b}} le grand amour." }
+      ]
+    },
+    {
+      "page_no": 143, "seq": 13,
+      "instruction_fr": "Transformez selon le modèle pour parler de quelqu'un que vous aimez.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "J'aime sa façon de marcher, sa façon de parler, sa façon de rire, sa façon de danser.<br><em class='model'>J'aime la façon dont il/elle marche, la façon</em> {{L}}" }
+      ]
+    },
+    {
+      "page_no": 143, "seq": 14,
+      "instruction_fr": "Dites ce qui vous choque/vous touche/vous amuse/vous fait peur et ce que vous aimez/détestez/craignez. (ex. : le travail des enfants – l'injustice – l'innocence – l'humour anglais – la bêtise – la nature – le fanatisme – la musique – la guerre – les araignées – la fin du monde)",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+
+    {
+      "page_no": 145, "seq": 15,
+      "instruction_fr": "Complétez avec les relatifs composés manquants.",
+      "label": "Tout va mal", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Le quartier dans <em class='model'>lequel</em> je travaille est triste. La pièce dans {{L}} je travaille est sombre. Les dossiers sur {{L}} je travaille sont ennuyeux. Les clients pour {{L}} je travaille sont insupportables. L'ordinateur avec {{L}} je travaille est toujours en panne. La société pour {{L}} je travaille a des ennuis financiers…" }
+      ]
+    },
+    {
+      "page_no": 145, "seq": 16,
+      "instruction_fr": "Répondez avec les relatifs composés manquants.",
+      "label": "", "note_html": "– Vous dormez dans un lit confortable ? – <em class='model'>Oui, le lit dans lequel je dors est confortable.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous travaillez sur une table en verre ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous écrivez avec un stylo rechargeable ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous travaillez avec des étudiants anglais ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous appartenez à un groupe sympathique ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous assistez à des cours intéressants ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 145, "seq": 17,
+      "instruction_fr": "Complétez avec des relatifs et avec « pour », « à », « chez », « dans », « avec ».",
+      "label": "Chère Daisy", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Je ne comprends pas la raison <em class='model'>pour laquelle</em> vous refusez mon invitation. Les amis {{L}} je vais passer le week-end sont des gens charmants et la ferme {{L}} ils habitent est très confortable. Il y a d'autres Anglais {{L}} vous pourrez discuter et, le samedi soir, mes amis organisent toujours un concert {{L}} participent de bons musiciens. Alors venez, je vous en prie !<br>Benoît" }
+      ]
+    },
+    {
+      "page_no": 145, "seq": 18,
+      "instruction_fr": "Complétez avec les prépositions et les relatifs manquants.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Est-ce que la société <em class='model'>avec laquelle</em> vous travaillez est à Paris ? – 2. – Est-ce que le fauteuil {{L}} vous êtes assis est en cuir ? – 3. – Quel sont les sports {{L}} vous vous intéressez ? – 4. – Quels sont les journaux {{L}} vous êtes abonnés ? – 5. – Est-ce que les collègues {{L}} vous déjeunez sont sympathiques ? – 6. – Comment s'appelle le musée en face {{L}} tu habites et à l'intérieur {{L}} il y a de si belles fresques ?" }
+      ]
+    },
+    {
+      "page_no": 145, "seq": 19,
+      "instruction_fr": "Faites des descriptions en utilisant des relatifs composés.",
+      "label": "", "note_html": "sombre&nbsp;&nbsp;&nbsp;&nbsp;clair&nbsp;&nbsp;&nbsp;&nbsp;grand&nbsp;&nbsp;&nbsp;&nbsp;sympathique&nbsp;&nbsp;&nbsp;&nbsp;blond&nbsp;&nbsp;&nbsp;&nbsp;brun&nbsp;&nbsp;&nbsp;&nbsp;en bois&nbsp;&nbsp;&nbsp;&nbsp;en fer",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "<div class='two-col'><div>La salle {{L}}<br>La chaise {{L}}</div><div>Le professeur {{L}}<br>Le bureau {{L}}</div></div>" }
+      ]
+    },
+
+    {
+      "page_no": 147, "seq": 20,
+      "instruction_fr": "Complétez avec « ce qui », « ce que », « ce dont ». Faites l'élision si c'est nécessaire.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je n'ai pas de mémoire : j'oublie tout {{b}} j'apprends." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Il est difficile de savoir {{b}} est bien et {{b}} est mal." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Prenez tout {{b}} vous avez besoin à la bibliothèque." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Antoine adore tout {{b}} est salé et tout {{b}} est piquant." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Les enfants répètent souvent {{b}} ils entendent et ils imitent {{b}} ils voient." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Carla ne dit rien, mais je devine {{b}} pense et {{b}} elle a peur." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Savez-vous {{b}} se passe dans la rue ?" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. {{b}} je préfère à Paris, ce sont les petits cafés." },
+        { "seq": 9, "type": "cloze", "stem_html": "9. Choisis {{b}} tu veux pour ton anniversaire, dis-moi {{b}} tu as envie." },
+        { "seq": 10, "type": "cloze", "stem_html": "10. {{b}} me plaît le plus chez Paul, c'est son regard." }
+      ]
+    },
+    {
+      "page_no": 147, "seq": 21,
+      "instruction_fr": "Complétez avec « ce qui », « ce que », « ce dont ».",
+      "label": "Une expérience intéressante", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<em class='model'>Ce que</em> je fais actuellement est très intéressant. Je dois noter tout {{b}} font les enfants entre deux et trois ans dans une crèche : {{b}} ils mangent, {{b}} ils boivent, {{b}} ils parlent entre eux, {{b}} ils aiment, {{b}} ils détestent, {{b}} les intéresse. Je constate que {{b}} disent les livres de psychologie est bien différent de {{b}} je vois et c'est {{b}} est passionnant." }
+      ]
+    },
+    {
+      "page_no": 147, "seq": 22,
+      "instruction_fr": "Complétez avec les relatifs manquants.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Bernard m'a écrit une lettre {{L}} j'ai répondu tout de suite." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Regardez {{L}} dessine ma fille : c'est votre portrait !" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Voilà une pièce {{L}} le soleil n'entre jamais." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Nous sommes très satisfaits des résultats {{L}} nous sommes parvenus." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. « Les Feuilles mortes » est une chanson {{L}} j'adore la musique." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. La solution {{L}} vous pensez n'est peut-être pas la meilleure…" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Je n'aime pas la façon {{L}} Gérard écrit, c'est très prétentieux !" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. J'ai du mal à me lever tôt, c'est une chose {{L}} je ne me suis jamais habituée." },
+        { "seq": 9, "type": "cloze", "stem_html": "9. {{L}} me manque le plus à l'étranger, ce sont les cafés de quartier." },
+        { "seq": 10, "type": "cloze", "stem_html": "10. Tu connais le café à côté {{L}} il y a une librairie ?" }
+      ]
+    },
+    {
+      "page_no": 147, "seq": 23,
+      "instruction_fr": "Faites des phrases avec différents relatifs.",
+      "label": "", "note_html": "Regarder une émission&nbsp;&nbsp;&nbsp;&nbsp;Participer à une réunion&nbsp;&nbsp;&nbsp;&nbsp;Manger dans un restaurant<br>Se servir d'un ordinateur&nbsp;&nbsp;&nbsp;&nbsp;Dormir dans un lit&nbsp;&nbsp;&nbsp;&nbsp;Voyager avec des personnes.<br><em class='model'>L'émission que je regarde est intéressante.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "course": "grammaire",
+  "seq": 37,
+  "title_fr": "LES PRÉPOSITIONS et LES VERBES",
+  "page_start": 160,
+  "page_end": 163,
+  "pdf_start": 162,
+  "pdf_end": 165,
+  "sections": [
+    { "title_fr": "LES PRÉPOSITIONS « À » et « DE » sont arbitraires.", "page_no": 160 }
+  ],
+  "blocks": [
+    { "page_no": 160, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">37</span> LES PRÉPOSITIONS<br>et LES VERBES" },
+    { "page_no": 160, "seq": 2, "type": "keypoint", "body_html": "On commence à travailler à 8 h. On finit <strong>de</strong> travailler à 19 h.<br>On essaie <strong>de</strong> faire le maximum. On refuse <strong>de</strong> continuer." },
+    { "page_no": 160, "seq": 3, "type": "para", "body_html": "Après une préposition, les verbes se mettent à l'infinitif." },
+    { "page_no": 160, "seq": 4, "type": "section_title", "body_html": "LES <strong>PRÉPOSITIONS</strong> « <strong>À</strong> » et « <strong>DE</strong> » sont arbitraires." },
+    { "page_no": 160, "seq": 5, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'><strong>Verbes courants + « de » :</strong></p><p class='sample'><em>Accepter <strong>de</strong></em><br><em>Arrêter <strong>de</strong></em><br><em>Décider <strong>de</strong></em><br><em>Essayer <strong>de</strong></em><br><em>Finir <strong>de</strong></em><br><em>Oublier <strong>de</strong></em><br><em>Refuser <strong>de</strong></em><br><em>Regretter <strong>de</strong></em><br><em>Rêver <strong>de</strong></em><br><em>S'arrêter <strong>de</strong></em><br><em>Se dépêcher <strong>de</strong></em></p><div class='annotation'>+ verbe</div></div><div><p class='bullet'><strong>Verbes courants + « à » :</strong></p><p class='sample'><em>Apprendre <strong>à</strong></em><br><em>Aider qq.un <strong>à</strong></em><br><em>Arriver <strong>à</strong></em><br><em>Chercher <strong>à</strong></em><br><em>Commencer <strong>à</strong></em><br><em>Continuer <strong>à</strong></em><br><em>Hésiter <strong>à</strong></em><br><em>Inviter qq.un <strong>à</strong></em><br><em>Réussir <strong>à</strong></em><br><em>Se mettre <strong>à</strong></em></p><div class='annotation'>+ verbe</div></div></div>" },
+    { "page_no": 160, "seq": 6, "type": "subhead", "body_html": "Après un adjectif ou un nom, on utilise souvent « de » :" },
+    { "page_no": 160, "seq": 7, "type": "table", "body_html": "<table class='data-table'><tr><td><em>Je suis</em></td><td><em>content <strong>de</strong><br>heureux <strong>de</strong><br>pressé <strong>de</strong></em></td><td>+ verbe</td><td><em>J'ai</em></td><td><em>envie <strong>de</strong><br>peur <strong>de</strong><br>l'habitude <strong>de</strong></em></td><td>+ verbe</td></tr></table>" },
+    { "page_no": 160, "seq": 8, "type": "para", "body_html": "<div class='two-col'><div><p class='bullet'>Mais : <em>Être prêt <strong>à</strong><br>Être habitué <strong>à</strong></em></p></div><div><p class='bullet'>Mais : <em>Avoir du mal <strong>à</strong><br>Avoir tendance <strong>à</strong></em></p></div></div>" },
+    { "page_no": 160, "seq": 9, "type": "subhead", "body_html": "Les verbes de « goût » et de « projet » ne sont pas suivis de préposition :" },
+    { "page_no": 160, "seq": 10, "type": "table", "body_html": "<table class='data-table'><tr><td><em>J'adore<br>Je déteste</em></td><td><em>voyager seul.</em></td><td><em>J'espère<br>Je pense</em></td><td><em>partir demain.</em></td></tr></table>" },
+    { "page_no": 160, "seq": 11, "type": "warning", "body_html": "• Dites : <em>J'espère partir.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne dites pas : <em>J'espère <s>de</s> partir.</em>" },
+    { "page_no": 160, "seq": 12, "type": "para", "body_html": "La forme <strong>infinitive</strong> d'un verbe n'est pas précédée d'une préposition :<br><strong><em>Marcher, courir, bouger</em> est bon pour la santé.</strong>" },
+    { "page_no": 160, "seq": 13, "type": "xref", "body_html": "Verbes de déplacement, p. 164" }
+  ],
+  "exercises": [
+    {
+      "page_no": 161, "seq": 1,
+      "instruction_fr": "Complétez avec « à » ou « de », selon le modèle.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Arrête <em class='model'>de</em> regarder la télé,<br>et commence {{b}} ranger tes affaires !" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Je finis {{b}} lire le courrier<br>et je me mets {{b}} travailler." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. J'ai oublié {{b}} payer mes impôts<br>et j'ai peur {{b}} payer une amende." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. J'accepte {{b}} travailler tard, mais<br>je refuse {{b}} travailler le samedi." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Marie apprend {{b}} conduire ;<br>elle a du mal {{b}} faire les créneaux." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. J'ai décidé {{b}} reprendre mes études.<br>Paul m'aide {{b}} travailler." }
+      ]
+    },
+    {
+      "page_no": 161, "seq": 2,
+      "instruction_fr": "Faites des phrases, selon le modèle.",
+      "label": "", "note_html": "Je suis en vacances. Je suis content(e).<br><em class='model'>Je suis content(e) d'être en vacances.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je suis en retard. Je suis désolé(e).<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. J'ai une contravention. Je suis furieux(se).<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je reçois une lettre de Bernd. Je suis surpris(e).<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Je pars en voyage. Je suis heureux(se).<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Je suis invité(e) chez Lucia. Je suis ravi(e).<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 161, "seq": 3,
+      "instruction_fr": "Transformez, selon le modèle.",
+      "label": "", "note_html": "Mon objectif est de réussir mon examen.<br><em class='model'>Réussir est mon objectif.</em><br><em class='model'>J'espère réussir mon examen.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Mon objectif est de trouver du travail.<br>{{L}}<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Mon objectif est de vivre un an en France.<br>{{L}}<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Mon objectif est de perfectionner mon français.<br>{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 161, "seq": 4,
+      "instruction_fr": "Complétez avec « à » ou « de », si c'est nécessaire.",
+      "label": "Le boulanger", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Le boulanger finit <em class='model'>de</em> travailler à 6 heures, la boulangère commence {{b}} travailler {{b}} 8 heures<br>et tous les deux sont obligés {{b}} travailler le samedi et le dimanche ! Ils ont envie {{b}} changer<br>de métier, mais ils hésitent {{b}} vendre leur petit magasin. Leur fille aînée les aide parfois {{b}}<br>servir les clients, mais elle rêve {{b}} devenir médecin et elle ne doit pas négliger ses études. Le boulan-<br>ger espère {{b}} trouver un apprenti, mais beaucoup de jeunes refusent {{b}} travailler pendant<br>le week-end. La boulangère est parfois triste {{b}} voir si peu son mari, mais elle adore {{b}} voir<br>beaucoup de monde et elle est fière {{b}} vendre un bon pain artisanal." }
+      ]
+    },
+    {
+      "page_no": 161, "seq": 5,
+      "instruction_fr": "Continuez librement.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Je rêve{{L}}. Je commence{{L}}.<br>Je suis content(e) {{L}}. J'espère {{L}}. J'ai du mal{{L}}." }
+      ]
+    },
+    {
+      "page_no": 162, "seq": 6,
+      "instruction_fr": "Transformez en utilisant un verbe, selon le modèle.",
+      "label": "", "note_html": "Mes rêves : aller en Chine et rester un an au Tibet.<br><em class='model'>Je rêve d'aller en Chine et de rester un an au Tibet.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Mes décisions : faire des économies et acheter un bateau.<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Mon espoir : trouver un bon travail et être vite autonome.<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Mes envies : habiter à la campagne et faire de la poterie.<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Mes peurs : vieillir et être seul(e).<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 162, "seq": 7,
+      "instruction_fr": "Complétez avec les éléments manquants, si c'est nécessaire.",
+      "label": "Stress", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Depuis quelque temps, j'ai du mal&nbsp;&nbsp;<em class='model'>à</em>&nbsp;&nbsp;trouver un équilibre. Je n'arrive pas {{b}} me détendre.<br>Je commence {{b}} avoir des insomnies. Mais je refuse {{b}} rester dans cette situation. Alors, je<br>décide {{b}} changer. J'arrête {{b}} travailler autant. J'essaie {{b}} m'intéresser {{b}}<br>d'autres choses. Je fais {{b}} musique, je joue {{b}} guitare et j'apprends {{b}} faire<br>du parapente. Je téléphone {{b}} mes amis et je les invite {{b}} dîner de temps en temps.<br>Je commence enfin {{b}} prendre du temps pour moi-même. Je réussis {{b}} être plus détendu.<br>J'espère {{b}} continuer comme ça." }
+      ]
+    },
+    {
+      "page_no": 162, "seq": 8,
+      "instruction_fr": "Transformez selon le modèle.",
+      "label": "", "note_html": "Guillaume apprend le violon. (jouer)&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>Guillaume apprend à jouer du violon.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Il arrête le judo. (faire) {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Il finit ses devoirs. (écrire) {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Il continue ses cours de russe. (suivre) {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Il essaye le nouvel ordinateur. (se servir de) {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Il aime le jazz. (écouter) {{L}}" }
+      ]
+    },
+    {
+      "page_no": 162, "seq": 9,
+      "instruction_fr": "Faites des phrases avec les verbes suivants.",
+      "label": "", "note_html": "commencer / finir&nbsp;&nbsp;&nbsp;&nbsp;accepter / refuser&nbsp;&nbsp;&nbsp;&nbsp;essayer / réussir&nbsp;&nbsp;&nbsp;&nbsp;adorer / détester", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 163, "seq": 10,
+      "instruction_fr": "Complétez avec les prépositions manquantes, si c'est nécessaire.",
+      "label": "Stage d'informatique", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Je suis très satisfait {{b}} mon stage d'informatique, maintenant je réussis {{b}} taper tout ce<br>que je veux. Quand j'ai un problème, je téléphone {{b}} mon professeur qui accepte {{b}} me<br>donner quelques conseils. Je continue aussi {{b}} travailler seul avec un manuel et j'arrive {{b}}<br>comprendre l'essentiel. J'aime {{b}} apprendre des choses nouvelles. L'informatique, c'est comme un<br>jeu et parfois je suis si absorbé que j'oublie {{b}} regarder l'heure. Mais j'ai du mal {{b}} travailler<br>sur mon écran : je crois que je vais être obligé {{b}} porter des lunettes." }
+      ]
+    },
+    {
+      "page_no": 163, "seq": 11,
+      "instruction_fr": "Complétez avec les prépositions manquantes, si c'est nécessaire.",
+      "label": "Cher Julien", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Je suis content {{b}} voir que tu commences {{b}} prendre tes études au sérieux. Si tu continues<br>{{b}} avoir de bons résultats, je veux bien {{b}} t'acheter une petite voiture. J'espère {{b}} trou-<br>ver une bonne occasion chez « Ringard », le nouveau garagiste.<br>Je n'en parle pas encore à ta mère : elle a peur {{b}} tout ce qui roule (et elle ne veut pas {{b}}<br>voir son fils grandir…). Mais n'oublie pas {{b}} l'appeler pour la Fête des mères. Elle est si heureuse<br>{{b}} avoir de tes nouvelles.<br>Grosses bises. Bon courage. Papa." }
+      ]
+    },
+    {
+      "page_no": 163, "seq": 12,
+      "instruction_fr": "Complétez avec les éléments manquants, si c'est nécessaire.",
+      "label": "Changer de vie", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Selon une enquête récente de l'INSEE, près <em class='model'>d'</em>un million <em class='model'>de</em> Français ne sont pas satisfaits {{b}} leur<br>emploi actuel et souhaitent {{b}} changer {{b}} cadre de vie. Ils rêvent {{b}} trouver une acti-<br>vité et un lieu de vie plus agréables. Certains hésitent {{b}} tout quitter, mais d'autres choisissent<br>{{b}} bouleverser leurs habitudes et décident {{b}} partir ailleurs, souvent en fait parce qu'ils ont<br>peur {{b}} perdre bientôt leur emploi ou parce qu'ils sont déjà au chômage. Alors, des informaticiens<br>décident {{b}} devenir restaurateurs, des comptables, libraires ou des dentistes, menuisiers. Soit ils<br>continuent {{b}} être salariés ailleurs, {{b}} Québec, {{b}} Amérique du Sud, {{b}} États-Unis<br>ou {{b}} Australie, soit ils décident {{b}} créer leur propre entreprise à l'étranger. Ils essayent en<br>tout cas {{b}} trouver un mode de vie qui les motive et qui leur convient." }
+      ]
+    },
+    {
+      "page_no": 163, "seq": 13,
+      "instruction_fr": "Relevez tous les verbes de l'exercice 3.",
+      "label": "", "note_html": "<em class='model'>être satisfait de, souhaiter, changer de</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<em class='model'>être satisfait de, souhaiter, changer de</em> {{L}}<br>{{L}}" }
+      ]
+    }
+  ]
+}

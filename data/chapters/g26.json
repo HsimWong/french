@@ -1,0 +1,512 @@
+{
+  "course": "grammaire",
+  "seq": 26,
+  "title_fr": "LES VERBES en « -IR », « -OIR » et « -RE » au PRÉSENT",
+  "page_start": 108,
+  "page_end": 121,
+  "pdf_start": 110,
+  "pdf_end": 123,
+  "sections": [
+    { "title_fr": "VERBES en « -IR » à DEUX RADICAUX", "page_no": 108 },
+    { "title_fr": "VERBES en « -RE » et « -OIR » à DEUX RADICAUX", "page_no": 110 },
+    { "title_fr": "VERBES en « -IR », « -RE », « -OIR » à TROIS RADICAUX", "page_no": 112 },
+    { "title_fr": "VERBES IRRÉGULIERS", "page_no": 112 },
+    { "title_fr": "À L'ÉCRIT", "page_no": 112 },
+    { "title_fr": "« METTRE », « PRENDRE », « FAIRE »", "page_no": 116 },
+    { "title_fr": "« POUVOIR », « DEVOIR », « FALLOIR »", "page_no": 118 },
+    { "title_fr": "« SAVOIR », « CONNAÎTRE », « VOULOIR »", "page_no": 120 }
+  ],
+  "blocks": [
+    { "page_no": 108, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">26</span> LES VERBES en « -IR », « -RE » et « -OIR » au PRÉSENT" },
+    { "page_no": 108, "seq": 2, "type": "keypoint", "body_html": "– Vous <strong>maigrissez</strong> quand vous <strong>suivez</strong> un régime ?<br>– Je <strong>maigris</strong> pendant une semaine, puis je <strong>regrossis</strong>." },
+    { "page_no": 108, "seq": 3, "type": "para", "body_html": "Les verbes en « <strong>-ir</strong> », « <strong>-re</strong> » « <strong>-oir</strong> » se conjuguent à partir de deux ou trois radicaux." },
+    { "page_no": 108, "seq": 4, "type": "section_title", "body_html": "VERBES en « <strong>-IR</strong> » à <strong>DEUX RADICAUX</strong>" },
+    { "page_no": 108, "seq": 5, "type": "subhead", "body_html": "<strong>Type « finir »</strong> : le « i » du singulier devient « iss » au pluriel :" },
+    { "page_no": 108, "seq": 6, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>FIN-IR</span><span class='wordlist'><em><strong>fini</strong><br><strong>finiss</strong></em></span></div><div><span class='wordlist'><em>je finis, tu finis, il finit<br>nous finissons, vous finissez, ils finissent</em></span></div></div><div class='annotation'>Et : applaudir,<br>choisir, guérir,<br>ralentir, démolir…</div>" },
+    { "page_no": 108, "seq": 7, "type": "para", "body_html": "• Ces verbes expriment un processus ou une transformation.<br>Beaucoup sont formés sur un adjectif : <em>grand</em> → <em>grandir</em>" },
+    { "page_no": 108, "seq": 8, "type": "para", "body_html": "• « <strong>Naître</strong> », « <strong>connaître</strong> », « <strong>paraître</strong> » se conjuguent sur le même modèle : <em>Je connais/Vous connaissez</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Il naît/Ils naissent</em>" },
+    { "page_no": 108, "seq": 9, "type": "subhead", "body_html": "<strong>Type « dormir »</strong> : la consonne finale du radical tombe au singulier :" },
+    { "page_no": 108, "seq": 10, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>DORM-IR</span><span class='wordlist'><em><strong>dor</strong><br><strong>dorm</strong></em></span><span class='lead'>PART-IR</span><span class='wordlist'><em><strong>par</strong><br><strong>part</strong></em></span><span class='lead'>SERV-IR</span><span class='wordlist'><em><strong>ser</strong><br><strong>serv</strong></em></span></div><div><span class='wordlist'><em>je dors, tu dors, il dort<br>nous dormons, vous dormez, ils dorment</em><br><em>je pars, tu pars, il part<br>nous partons, vous partez, ils partent</em><br><em>je sers, tu sers, il sert<br>nous servons, vous servez, ils servent</em></span></div></div><div class='annotation'>Et : s'endormir<br><br>Et : sortir, sentir, mentir…<br><br>Et : se servir</div>" },
+    { "page_no": 108, "seq": 11, "type": "para", "body_html": "• « <strong>Vivre</strong> » et « <strong>suivre</strong> » se conjuguent sur le même modèle" },
+    { "page_no": 108, "seq": 12, "type": "phonetic", "body_html": "Dites :&nbsp;&nbsp;&nbsp;&nbsp;<em>Je pars, Je sors, Je dors, Je vis, Je suis</em><br>Ne dites pas :&nbsp;&nbsp;&nbsp;&nbsp;<em>Je par/, Je sor/, Je dor/, Je vi/, Je sui/</em>" },
+    { "page_no": 108, "seq": 13, "type": "para", "body_html": "« <strong>Ouvrir</strong> », « <strong>offrir</strong> », « <strong>cueillir</strong> », « <strong>souffrir</strong> » ont un seul radical et se conjuguent comme les verbes en « <strong>-er</strong> » :<br><em>J'ouvre/Vous ouvrez</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>J'offre/Vous offrez</em>" },
+    { "page_no": 108, "seq": 14, "type": "xref", "body_html": "Écrit, p. 112" },
+
+    { "page_no": 110, "seq": 15, "type": "running_head", "body_html": "LES VERBES EN « -IR », « -RE » ET « -OIR » AU PRÉSENT" },
+    { "page_no": 110, "seq": 16, "type": "keypoint", "body_html": "– Vous <strong>éteignez</strong> votre portable quand vous êtes en réunion ?<br>– Non, je <strong>mets</strong> le vibreur. Je n'<strong>entends</strong> pas le son, mais je <strong>lis</strong> les messages." },
+    { "page_no": 110, "seq": 17, "type": "section_title", "body_html": "VERBES en « <strong>-RE</strong> » et « <strong>-OIR</strong> » à <strong>DEUX RADICAUX</strong>" },
+    { "page_no": 110, "seq": 18, "type": "subhead", "body_html": "Verbes en <strong>-tre/dre</strong> : au singulier, la finale du radical est muette." },
+    { "page_no": 110, "seq": 19, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>MET-TRE</span><span class='wordlist'><em><strong>met</strong><br><strong>mett</strong></em></span><span class='lead'>ENTEN-DRE</span><span class='wordlist'><em><strong>entend</strong><br><strong>entend</strong></em></span></div><div><span class='wordlist'><em>je mets, tu mets, il met<br>nous mettons, vous mettez, ils mettent</em><br><em>j'entends, tu entends, il entend<br>nous entendons, vous entendez, ils entendent</em></span></div></div><div class='annotation'>Et : battre, promettre,<br>permettre…<br><br>Et : attendre, vendre,<br>perdre, descendre,<br>répondre…</div>" },
+    { "page_no": 110, "seq": 20, "type": "phonetic", "body_html": "Dites : <em>Je met/, Je bat/, J'entend/, Je réponds/</em>" },
+    { "page_no": 110, "seq": 21, "type": "subhead", "body_html": "Pour d'autres verbes, le radical s'allonge au pluriel." },
+    { "page_no": 110, "seq": 22, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>ÉCRI-RE</span><span class='wordlist'><em><strong>écri</strong><br><strong>écriv</strong></em></span><span class='lead'>LI-RE</span><span class='wordlist'><em><strong>li</strong><br><strong>lis</strong></em></span><span class='lead'>COND-UIRE</span><span class='wordlist'><em><strong>condui</strong><br><strong>conduis</strong></em></span><span class='lead'>PEIN-DRE</span><span class='wordlist'><em><strong>pein</strong><br><strong>peign</strong></em></span></div><div><span class='wordlist'><em>j'écris, tu écris, il écrit<br>nous écrivons, vous écrivez, ils écrivent</em><br><em>je lis, tu lis, il lit<br>nous lisons, vous lisez, ils lisent</em><br><em>je conduis, tu conduis, il conduit<br>nous conduisons, vous conduisez, ils conduisent</em><br><em>je peins, tu peins, il peint<br>nous peignons, vous peignez, ils peignent</em></span></div></div><div class='annotation'>Et : décrire, inscrire,<br>prescrire…<br><br>Et : interdire, prédire,<br>contredire, plaire, taire…<br><br>Et : verbes en -uire<br>(construire, détruire…)<br><br>Et : éteindre, craindre,<br>joindre, rejoindre…</div>" },
+    { "page_no": 110, "seq": 23, "type": "subhead", "body_html": "Cas particuliers" },
+    { "page_no": 110, "seq": 24, "type": "list", "body_html": "<div class='two-col'><div><em>• <strong>Savoir</strong> : Je <strong>sais</strong>/Nous <strong>savons</strong>/Ils <strong>savent</strong></em><br><em>• <strong>Croire</strong> : Je <strong>crois</strong>/Vous <strong>croyez</strong>/Ils <strong>croient</strong></em></div><div><em>• <strong>Valoir</strong> : Je <strong>vaux</strong>/Il <strong>vaut</strong>/Ils <strong>valent</strong></em><br><em>• <strong>Voir</strong> : Je <strong>vois</strong>/Vous <strong>voyez</strong>/Ils <strong>voient</strong></em></div></div>" },
+    { "page_no": 110, "seq": 25, "type": "warning", "body_html": "• Dites :&nbsp;&nbsp;<em>Ils voient&nbsp;&nbsp;Ils croient</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne dites pas :&nbsp;&nbsp;<em><s>Ils voyent</s>&nbsp;&nbsp;<s>Ils croivent</s></em>" },
+    { "page_no": 110, "seq": 26, "type": "para", "body_html": "• <strong>Courir, rire</strong> et <strong>sourire</strong> ont un seul radical : <em>Je cours / Vous courez / Ils courent</em>" },
+    { "page_no": 110, "seq": 27, "type": "xref", "body_html": "Écrit, p. 112" },
+
+    { "page_no": 112, "seq": 28, "type": "running_head", "body_html": "LES VERBES EN « -IR », « -RE » ET « -OIR » AU PRÉSENT" },
+    { "page_no": 112, "seq": 29, "type": "keypoint", "body_html": "– Vous <strong>prenez</strong> une salade et vous <strong>buvez</strong> de l'eau ?<br>– Non, mes filles <strong>prennent</strong> une salade et <strong>boivent</strong> de l'eau, moi, je <strong>prends</strong> un steak et je <strong>bois</strong> du vin." },
+    { "page_no": 112, "seq": 30, "type": "section_title", "body_html": "VERBES en « <strong>-IR</strong> », « <strong>-RE</strong> », « <strong>-OIR</strong> » à <strong>TROIS RADICAUX</strong>" },
+    { "page_no": 112, "seq": 31, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>PRENDRE</span><span class='wordlist'><em><strong>prend</strong><br><strong>pren</strong><br><strong>prenn</strong></em>&nbsp;&nbsp;<em>je prends<br>nous prenons<br>ils prennent</em></span></div><div><span class='lead'>BOIRE</span><span class='wordlist'><em><strong>boi</strong><br><strong>buv</strong><br><strong>boiv</strong></em>&nbsp;&nbsp;<em>je bois<br>nous buvons<br>ils boivent</em></span></div></div><div class='annotation'>Et : apprendre, comprendre</div>" },
+    { "page_no": 112, "seq": 32, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>VENIR</span><span class='wordlist'><em><strong>vien</strong><br><strong>ven</strong><br><strong>vienn</strong></em>&nbsp;&nbsp;<em>je viens<br>nous venons<br>ils viennent</em></span></div><div><span class='lead'>TENIR</span><span class='wordlist'><em><strong>tien</strong><br><strong>ten</strong><br><strong>tienn</strong></em>&nbsp;&nbsp;<em>je tiens<br>nous tenons<br>ils tiennent</em></span></div></div><div class='annotation'>Et : revenir, se souvenir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Et : retenir, maintenir,…</div>" },
+    { "page_no": 112, "seq": 33, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>RECEVOIR</span><span class='wordlist'><em><strong>reçoi</strong><br><strong>recev</strong><br><strong>reçoiv</strong></em>&nbsp;&nbsp;<em>je reçois<br>nous recevons<br>ils reçoivent</em></span></div><div><span class='lead'>DEVOIR</span><span class='wordlist'><em><strong>doi</strong><br><strong>dev</strong><br><strong>doiv</strong></em>&nbsp;&nbsp;<em>je dois<br>nous devons<br>ils doivent</em></span></div></div><div class='annotation'>Et : décevoir, apercevoir</div>" },
+    { "page_no": 112, "seq": 34, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>VOULOIR</span><span class='wordlist'><em><strong>veu</strong><br><strong>voul</strong><br><strong>veul</strong></em>&nbsp;&nbsp;<em>je veux<br>nous voulons<br>ils veulent</em></span></div><div><span class='lead'>POUVOIR</span><span class='wordlist'><em><strong>peu</strong><br><strong>pouv</strong><br><strong>peuv</strong></em>&nbsp;&nbsp;<em>je peux<br>nous pouvons<br>ils peuvent</em></span></div></div>" },
+    { "page_no": 112, "seq": 35, "type": "section_title", "body_html": "VERBES IRRÉGULIERS" },
+    { "page_no": 112, "seq": 36, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>ÊTRE</span><span class='wordlist'><em>Je&nbsp; <strong>suis</strong><br>Tu&nbsp; <strong>es</strong><br>Il&nbsp; <strong>est</strong><br>Nous&nbsp; <strong>sommes</strong><br>Vous&nbsp; <strong>êtes</strong><br>Ils&nbsp; <strong>sont</strong></em></span></div><div><span class='lead'>AVOIR</span><span class='wordlist'><em>J'&nbsp; <strong>ai</strong><br>Tu&nbsp; <strong>as</strong><br>Il&nbsp; <strong>a</strong><br>Nous&nbsp; <strong>avons</strong><br>Vous&nbsp; <strong>avez</strong><br>Ils&nbsp; <strong>ont</strong></em></span></div><div><span class='lead'>ALLER</span><span class='wordlist'><em>Je&nbsp; <strong>vais</strong><br>Tu&nbsp; <strong>vas</strong><br>Il&nbsp; <strong>va</strong><br>Nous&nbsp; <strong>allons</strong><br>Vous&nbsp; <strong>allez</strong><br>Ils&nbsp; <strong>vont</strong></em></span></div><div><span class='lead'>FAIRE</span><span class='wordlist'><em>Je&nbsp; <strong>fais</strong><br>Tu&nbsp; <strong>fais</strong><br>Il&nbsp; <strong>fait</strong><br>Nous&nbsp; <strong>faisons</strong><br>Vous&nbsp; <strong>faites</strong><br>Ils&nbsp; <strong>font</strong></em></span></div><div><span class='lead'>DIRE</span><span class='wordlist'><em>Je&nbsp; <strong>dis</strong><br>Tu&nbsp; <strong>dis</strong><br>Il&nbsp; <strong>dit</strong><br>Nous&nbsp; <strong>disons</strong><br>Vous&nbsp; <strong>dites</strong><br>Ils&nbsp; <strong>disent</strong></em></span></div></div>" },
+    { "page_no": 112, "seq": 37, "type": "section_title", "body_html": "À L'ÉCRIT" },
+    { "page_no": 112, "seq": 38, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>Je<br>Tu<br>Il</em>&nbsp;&nbsp;&nbsp;&nbsp;<strong>verbe</strong>&nbsp;&nbsp;&nbsp;&nbsp;<em>s<br>s<br>t/d</em></span></div><div><em>• <strong>Finales eu/ au</strong> :&nbsp;&nbsp;&nbsp;&nbsp;-x, -x, -t&nbsp;&nbsp;&nbsp;&nbsp;Je veux, Tu peux<br>• <strong>Verbes en -tre</strong> :&nbsp;&nbsp;&nbsp;&nbsp;-s, -s, -t&nbsp;&nbsp;&nbsp;&nbsp;Je mets, Tu mets<br>• <strong>Verbes en -dre</strong> :&nbsp;&nbsp;&nbsp;&nbsp;-ds, -ds, -d&nbsp;&nbsp;&nbsp;&nbsp;Je prends, Tu prends<br>• <strong>Verbes en -indre :<br>&nbsp;&nbsp;&nbsp;&nbsp;-soudre :</strong>&nbsp;&nbsp;&nbsp;&nbsp;-s, -s, -t&nbsp;&nbsp;&nbsp;&nbsp;Je rejoins, Tu résous</em></div></div>" },
+
+    { "page_no": 116, "seq": 39, "type": "running_head", "body_html": "LES VERBES EN « -IR », « -RE » ET « -OIR » AU PRÉSENT" },
+    { "page_no": 116, "seq": 40, "type": "section_title", "body_html": "« <strong>METTRE</strong> », « <strong>PRENDRE</strong> », « <strong>FAIRE</strong> »" },
+    { "page_no": 116, "seq": 41, "type": "keypoint", "body_html": "Mon fils <strong>fait du</strong> patin à roulettes et il <strong>joue du</strong> saxophone.<br>Ça <strong>fait</strong> un peu de bruit : nous <strong>faisons isoler</strong> sa chambre." },
+    { "page_no": 116, "seq": 42, "type": "subhead", "body_html": "« <strong>PRENDRE</strong> » et « <strong>METTRE</strong> »" },
+    { "page_no": 116, "seq": 43, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'>• « <strong>Prendre</strong> » + objet :<br><em>Je <strong>prends</strong> mon parapluie.</em></p><p class='bullet'>• « <strong>Prendre</strong> » + repas ou boisson :<br><em>Je <strong>prends</strong> un steak.<br>Il <strong>prend</strong> une bière.</em></p><p class='bullet'>• « <strong>Mettre</strong> » + vêtements :<br><em>Je <strong>mets</strong> une cravate<br>pour aller au bureau.</em></p></div><div><p class='bullet'>• « <strong>Prendre</strong> » + moyen de transport :<br><em>Je <strong>prends</strong> le métro.</em></p><p class='bullet'>• Autres sens courants de « <strong>prendre</strong> » :<br><em>Je <strong>prends</strong> un bain, une douche.<br>Elle <strong>prend</strong> une décision.</em></p><p class='bullet'>• « <strong>Mettre</strong> » + temps (durée) :<br><em>Je <strong>mets</strong> une heure<br>pour aller au bureau.</em></p></div></div>" },
+    { "page_no": 116, "seq": 44, "type": "para", "body_html": "• On utilise « <strong>prendre</strong> » + temps seulement avec « <strong>ça</strong> » impersonnel :<br><em>Les transports, <strong>ça prend</strong> du temps.</em>" },
+    { "page_no": 116, "seq": 45, "type": "subhead", "body_html": "« <strong>FAIRE DU</strong> », « <strong>JOUER AU</strong> », « <strong>JOUER DU</strong> »" },
+    { "page_no": 116, "seq": 46, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'>• « <strong>Faire de</strong> » + tous les sports :<br><em>Je fais&nbsp;&nbsp;<strong>du</strong> tennis.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>de la</strong> gymnastique.</em></p></div><div><p class='bullet'>• « <strong>Jouer à</strong> » + sports d'équipe<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ tous les jeux<br><em>Je joue&nbsp;&nbsp;<strong>au</strong> tennis.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>aux</strong> cartes.</em></p></div></div>" },
+    { "page_no": 116, "seq": 47, "type": "para", "body_html": "• « <strong>Jouer de</strong> » + instruments de musique :<br><em>Je joue <strong>du</strong> piano et <strong>de la</strong> guitare.</em>" },
+    { "page_no": 116, "seq": 48, "type": "table", "body_html": "<p class='bullet'>• Autres expressions avec « <strong>faire</strong> » :</p><div class='two-col'><div><p class='sample'><em>Faire la cuisine (= cuisiner)<br>Faire les courses (= faire des achats)</em></p></div><div><p class='sample'><em>Faire la vaisselle (= laver les plats, etc.)<br>Faire le ménage (= ranger)</em></p></div></div>" },
+    { "page_no": 116, "seq": 49, "type": "subhead", "body_html": "« <strong>FAIRE</strong> » + INFINITIF s'utilise quand une autre personne fait l'action à la place du sujet :" },
+    { "page_no": 116, "seq": 50, "type": "example", "body_html": "<em>Je ne répare pas moi-même ma voiture : je <strong>la fais réparer</strong>.<br>Ma fille se coupe les cheveux elle-même, mais moi, je <strong>me les fais couper</strong>.</em>" },
+    { "page_no": 116, "seq": 51, "type": "para", "body_html": "• On utilise parfois le verbe « faire » deux fois :<br><em>Je <strong>fais faire</strong> le ménage et je <strong>fais faire</strong> les courses avant notre arrivée.</em>" },
+    { "page_no": 116, "seq": 52, "type": "xref", "body_html": "Accord avec « faire », p. 190" },
+
+    { "page_no": 118, "seq": 53, "type": "running_head", "body_html": "LES VERBES EN « -IR », « -RE » ET « -OIR » AU PRÉSENT" },
+    { "page_no": 118, "seq": 54, "type": "section_title", "body_html": "« <strong>POUVOIR</strong> », « <strong>DEVOIR</strong> », « <strong>FALLOIR</strong> »" },
+    { "page_no": 118, "seq": 55, "type": "keypoint", "body_html": "– Vous <strong>pouvez</strong> payer avec votre carte de crédit, mais vous <strong>devez</strong> faire votre code. Il <strong>faut</strong> toujours taper son code." },
+    { "page_no": 118, "seq": 56, "type": "subhead", "body_html": "« <strong>POUVOIR</strong> » + INFINITIF exprime une capacité physique ou intellectuelle :" },
+    { "page_no": 118, "seq": 57, "type": "example", "body_html": "<em>Paul <strong>peut</strong> soulever cent kilos.<br>Marie <strong>peut</strong> traduire des livres en trois langues.</em>" },
+    { "page_no": 118, "seq": 58, "type": "table", "body_html": "<p class='bullet'>• « <strong>Pouvoir</strong> » + infinitif exprime aussi la <strong>permission</strong> :<br><em>– Vous <strong>pouvez</strong> rester dans cette salle.<br>– On ne <strong>peut pas</strong> fumer dans les lieux publics.</em></p>" },
+    { "page_no": 118, "seq": 59, "type": "warning", "body_html": "<div class='two-col'><div><p class='bullet'>• Dites :<br><em>Je <strong>peux</strong> rester.</em></p></div><div><p class='bullet'>• Ne dites pas :<br><em><s>C'est possible pour moi de rester.</s></em></p></div></div>" },
+    { "page_no": 118, "seq": 60, "type": "para", "body_html": "• Pour demander un service, on utilise de préférence le conditionnel :<br><em>– <strong>Pourriez-vous</strong> me dire où se trouve la poste ?</em>" },
+    { "page_no": 118, "seq": 61, "type": "subhead", "body_html": "« <strong>DEVOIR</strong> » + INFINITIF exprime l'<strong>obligation</strong> ou le <strong>besoin</strong> :" },
+    { "page_no": 118, "seq": 62, "type": "table", "body_html": "<div class='two-col'><div><p class='sample'><em>Je <strong>dois</strong> payer mes impôts.</em>&nbsp;&nbsp;&nbsp;&nbsp;obligation<br><em>Je <strong>dois</strong> acheter du pain.</em>&nbsp;&nbsp;&nbsp;&nbsp;besoin</p></div></div>" },
+    { "page_no": 118, "seq": 63, "type": "para", "body_html": "• « <strong>Devoir</strong> » + infinitif exprime aussi la <strong>probabilité</strong> :<br><em>Il est neuf heures à Paris. Il <strong>doit être</strong> cinq heures à Rio.<br>Il y a des embouteillages : il <strong>doit y avoir</strong> un accident.</em>" },
+    { "page_no": 118, "seq": 64, "type": "warning", "body_html": "<div class='two-col'><div><p class='bullet'>• Dites :<br><em>Je <strong>dois</strong> partir.</em></p></div><div><p class='bullet'>• Ne dites pas :<br><em><s>C'est nécessaire pour moi de partir.</s></em></p></div></div>" },
+    { "page_no": 118, "seq": 65, "type": "subhead", "body_html": "« <strong>FALLOIR</strong> » + INFINITIF exprime une <strong>nécessité générale</strong> et s'utilise seulement à la forme impersonnelle :" },
+    { "page_no": 118, "seq": 66, "type": "example", "body_html": "<em><strong>Il faut</strong> manger pour vivre.</em>&nbsp;&nbsp;&nbsp;&nbsp;= <em>On doit (tous) manger pour vivre.</em>" },
+    { "page_no": 118, "seq": 67, "type": "warning", "body_html": "• « Il ne faut pas… », « On ne doit pas… » et « On ne peut pas… » peuvent être interchangeables.<br><em>On ne peut pas s'asseoir sur la pelouse.</em> = <em>On ne doit pas/Il ne faut pas</em>" },
+    { "page_no": 118, "seq": 68, "type": "xref", "body_html": "Conditionnel, p. 136&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;« Il faut que » + subjonctif, p. 238" },
+
+    { "page_no": 120, "seq": 69, "type": "running_head", "body_html": "LES VERBES EN « -IR », « -RE » ET « -OIR » AU PRÉSENT" },
+    { "page_no": 120, "seq": 70, "type": "section_title", "body_html": "« <strong>SAVOIR</strong> », « <strong>CONNAÎTRE</strong> », « <strong>VOULOIR</strong> »" },
+    { "page_no": 120, "seq": 71, "type": "keypoint", "body_html": "<strong>Je sais</strong> parler plusieurs langues, je <strong>connais</strong> l'informatique et la gestion.<br><strong>Je veux</strong> travailler à l'étranger. <strong>J'espère</strong> trouver rapidement un poste." },
+    { "page_no": 120, "seq": 72, "type": "subhead", "body_html": "« <strong>SAVOIR</strong> » et « <strong>CONNAÎTRE</strong> » expriment la capacité et la connaissance. « Connaître » s'utilise avec un nom, « savoir » avec un verbe ou une construction verbale." },
+    { "page_no": 120, "seq": 73, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'>• « <strong>Savoir</strong> » + verbe :<br><em>Je <strong>sais</strong> conduire.<br>Je <strong>sais</strong> où il habite.<br>Je <strong>sais</strong> qu'il n'est pas d'accord.</em></p></div><div><p class='bullet'>• « <strong>Connaître</strong> » + nom :<br><em>Je <strong>connais</strong> le code de la route.<br>Je <strong>connais</strong> son adresse.<br>Je <strong>connais</strong> ses opinions.</em></p></div></div>" },
+    { "page_no": 120, "seq": 74, "type": "para", "body_html": "• Pour les choses apprises de mémoire (« par cœur »), on dit aussi :<br><em>Il <strong>sait</strong> la table de multiplication. Elle <strong>sait</strong> sa leçon.</em>" },
+    { "page_no": 120, "seq": 75, "type": "para", "body_html": "• « <strong>Savoir</strong> » est une capacité apprise, « <strong>pouvoir</strong> » une possibilité physique :<br><em>Je <strong>sais</strong> nager.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Je <strong>peux</strong> nager pendant des heures.</em>" },
+    { "page_no": 120, "seq": 76, "type": "warning", "body_html": "<div class='two-col'><div><p class='bullet'>• Dites : <em>Je <strong>sais</strong> que…</em></p></div><div><p class='bullet'>• Ne dites pas : <em>Je <strong>connais</strong> <s>que</s>…</em></p></div></div>" },
+    { "page_no": 120, "seq": 77, "type": "subhead", "body_html": "« <strong>VOULOIR</strong> » (+ INFINITIF) exprime le <strong>désir</strong> ou la <strong>volonté</strong> :" },
+    { "page_no": 120, "seq": 78, "type": "example", "body_html": "<em>Je <strong>veux</strong> des enfants.<br>Je <strong>veux</strong> réussir.</em>" },
+    { "page_no": 120, "seq": 79, "type": "table", "body_html": "<p class='bullet'>• En général, pour <strong>demander</strong>, on utilise le conditionnel, pour <strong>proposer</strong>, on utilise l'indicatif :</p><div class='two-col'><div><p class='sample'><em>– Je <strong>voudrais</strong> parler à M. Dupond.<br>– Je <strong>voudrais</strong> un café.</em></p></div><div><p class='sample'><em>– <strong>Voulez-vous</strong> laisser un message ?<br>– <strong>Voulez-vous</strong> du sucre ?</em></p></div></div>" },
+    { "page_no": 120, "seq": 80, "type": "para", "body_html": "• « <strong>Je veux bien</strong> » = avec plaisir, volontiers :<br><em>– Voulez-vous un café ? – <strong>Je veux bien</strong>, merci.</em>" },
+    { "page_no": 120, "seq": 81, "type": "warning", "body_html": "• Les verbes de désir se construisent sans préposition :<div class='two-col'><div><p class='sample'><em>Je désire<br>Je veux<br>Je souhaite<br>J'espère</em></p></div><div><p class='sample'><em><s>Je</s> partir en vacances.</em></p></div></div>" },
+    { "page_no": 120, "seq": 82, "type": "xref", "body_html": "Conditionnel de politesse, p. 136&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;« Vouloir que » + subjonctif, p. 240" }
+  ],
+  "exercises": [
+    {
+      "page_no": 109, "seq": 1,
+      "instruction_fr": "Complétez les phrases avec les verbes ci-dessous, selon le modèle.",
+      "label": "", "note_html": "guérir&nbsp;&nbsp;&nbsp;&nbsp;choisir&nbsp;&nbsp;&nbsp;&nbsp;grossir&nbsp;&nbsp;&nbsp;&nbsp;vieillir&nbsp;&nbsp;&nbsp;&nbsp;salir&nbsp;&nbsp;&nbsp;&nbsp;rougir&nbsp;&nbsp;&nbsp;&nbsp;applaudir&nbsp;&nbsp;&nbsp;&nbsp;réfléchir&nbsp;&nbsp;&nbsp;&nbsp;(s')évanouir", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Vous <em class='model'>choisissez</em> toujours très bien vos cravates." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Attention les enfants : vous {{b}} la moquette avec vos chaussures." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Certaines plantes {{b}} parfaitement les douleurs d'estomac." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Les vins rouges {{b}} mieux que les vins blancs." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Quand tu joues aux échecs, tu {{b}} vraiment trop longtemps." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Nous {{b}} toujours quand nous passons une semaine chez ta mère." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Quand les comédiens saluent, les gens {{b}} ." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Les jeunes filles d'aujourd'hui ne {{b}} plus comme avant, elles sont beaucoup moins timides et elles sont plus fortes : elles ne s'{{b}} pas à la moindre émotion !" }
+      ]
+    },
+    {
+      "page_no": 109, "seq": 2,
+      "instruction_fr": "Complétez les dialogues.",
+      "label": "Façons de vivre", "note_html": "vivre&nbsp;&nbsp;&nbsp;&nbsp;partir&nbsp;&nbsp;&nbsp;&nbsp;sortir&nbsp;&nbsp;&nbsp;&nbsp;suivre&nbsp;&nbsp;&nbsp;&nbsp;dormir", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous <em class='model'>vivez</em> seul ?&nbsp;&nbsp;&nbsp;&nbsp;– Non, je <em class='model'>vis</em> avec mon chien." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous {{b}} en vacances en août ? – Non, je {{b}} en septembre." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous {{b}} le samedi soir ? – Non, je {{b}} le jeudi soir." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous {{b}} des cours d'anglais ? – Non, je {{b}} des cours de français." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous {{b}} en pyjama ? – Non, je {{b}} tout nu !" }
+      ]
+    },
+    {
+      "page_no": 109, "seq": 3,
+      "instruction_fr": "Complétez avec les verbes manquants.",
+      "label": "", "note_html": "Marie ferme les volets pour dormir, mais moi, je <em class='model'>dors</em> la fenêtre ouverte.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Le matin, je pars à neuf heures, mais Marie et les enfants {{b}} à huit heures." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Je vis en France depuis cinq ans, mais mes parents {{b}} aux États-Unis." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Nous sortons peu : tous nos amis {{b}} plus que nous." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Je suis un cours de yoga et mes enfants {{b}} un cours de karaté." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. En Chine, on se sert de baguettes pour manger, mais les Thaïlandais se {{b}} d'une cuillère." }
+      ]
+    },
+    {
+      "page_no": 109, "seq": 4,
+      "instruction_fr": "Complétez le texte.",
+      "label": "C'est l'automne", "note_html": "", "has_image": true, "scan_pages": [109],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Les feuilles <em class='model'>jaunissent</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "Les raisins mûr {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Les jours raccourc {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Le ciel pâl {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "Les colchiques fleur {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "L'été fin {{b}}" }
+      ]
+    },
+    {
+      "page_no": 109, "seq": 5,
+      "instruction_fr": "Faites librement des phrases.",
+      "label": "", "note_html": "vivre : <em class='model'>Je vis en France</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "dormir : {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "sortir : {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "finir : {{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "offrir : {{L}}" },
+        { "seq": 5, "type": "open", "stem_html": "ouvrir : {{L}}" }
+      ]
+    },
+    {
+      "page_no": 111, "seq": 6,
+      "instruction_fr": "Complétez avec les verbes manquants. Faites l'élision si c'est nécessaire.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous attendez depuis longtemps ? – <em class='model'>J'attends</em> depuis un quart d'heure." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Mes enfants me battent aux échecs, mais je les {{b}} au Scrabble." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous entendez bien au fond de la salle ? – Non, on {{b}} très mal." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous mettez du beurre dans vos pâtes, moi je {{b}} seulement du fromage." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous vendez votre vieil ordinateur ? – Non, je {{b}} le nouveau !" }
+      ]
+    },
+    {
+      "page_no": 111, "seq": 7,
+      "instruction_fr": "Complétez les phrases.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. mettre/conduire&nbsp;&nbsp;&nbsp;&nbsp;– Tu <em class='model'>mets</em> toujours la ceinture de sécurité quand tu {{b}} ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. grossir/maigrir&nbsp;&nbsp;&nbsp;&nbsp;– Je {{b}} en été et vous vous {{b}} ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. sortir/éteindre&nbsp;&nbsp;&nbsp;&nbsp;– Quand vos enfants {{b}} de leur chambre, ils {{b}} la lumière ?" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. reconnaitre/entendre&nbsp;&nbsp;&nbsp;&nbsp;– Vous {{b}} la voix de vos amis quand vous les {{b}} au téléphone ?" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. voir/ralentir&nbsp;&nbsp;&nbsp;&nbsp;– Quand les automobilistes {{b}} la police, ils {{b}} ." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. choisir/offrir&nbsp;&nbsp;&nbsp;&nbsp;– Vos amis {{b}} des objets sympathiques quand ils vous {{b}} un cadeau ?" }
+      ]
+    },
+    {
+      "page_no": 111, "seq": 8,
+      "instruction_fr": "Trouvez les verbes.",
+      "label": "", "note_html": "Les écrivains <em class='model'>écrivent</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Les lecteurs {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "Les vendeurs {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "Les serveurs {{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "Les peintres {{L}}" },
+        { "seq": 5, "type": "open", "stem_html": "Les traducteurs {{L}}" },
+        { "seq": 6, "type": "open", "stem_html": "Les coureurs {{L}}" },
+        { "seq": 7, "type": "open", "stem_html": "Les menteurs {{L}}" }
+      ]
+    },
+    {
+      "page_no": 111, "seq": 9,
+      "instruction_fr": "Trouvez les contraires.",
+      "label": "", "note_html": "Ils commencent&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>Ils finissent</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Ils gagnent {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "Ils arrivent {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "Ils montent {{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "Ils achètent {{L}}" },
+        { "seq": 5, "type": "open", "stem_html": "Ils allument {{L}}" },
+        { "seq": 6, "type": "open", "stem_html": "Ils grossissent {{L}}" },
+        { "seq": 7, "type": "open", "stem_html": "Ils détruisent {{L}}" }
+      ]
+    },
+    {
+      "page_no": 111, "seq": 10,
+      "instruction_fr": "Complétez.",
+      "label": "Liberté (d'après Philippe Soupault)", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Laissez dormir l'enfant qui <em class='model'>dort</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "Laissez courir l'enfant qui {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Laissez rire l'enfant qui {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Laissez croire l'enfant qui {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "Laissez partir l'enfant qui {{L}}" }
+      ]
+    },
+    {
+      "page_no": 111, "seq": 11,
+      "instruction_fr": "Écrivez un texte personnel à partir des débuts de phrase.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Je ralentis {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "Je grossis {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "Je ris {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "Je perds {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "Je crains {{T}}" }
+      ]
+    },
+    {
+      "page_no": 113, "seq": 12,
+      "instruction_fr": "Répondez et posez des questions selon le modèle.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Qu'est-ce que vous buvez, le matin ?&nbsp;&nbsp;&nbsp;&nbsp;(jus d'orange)<br>– <em class='model'>Je bois du jus d'orange, et vous, qu'est-ce que vous buvez ?</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Qu'est-ce que vous prenez, à dix heures ?&nbsp;&nbsp;&nbsp;&nbsp;(chocolat)<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Qu'est-ce que vous buvez pendant le repas ?&nbsp;&nbsp;&nbsp;&nbsp;(eau)<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Qu'est-ce que vous faites le soir ?&nbsp;&nbsp;&nbsp;&nbsp;(exercices)<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 113, "seq": 13,
+      "instruction_fr": "Mettez le texte au pluriel.",
+      "label": "", "note_html": "Mon fils veut faire une petite fête pour son anniversaire. Il prend son carnet d'adresses et il choisit une quinzaine de personnes, mais comme il connaît plus de garçons que de filles, il dit à ses amis d'amener des copines. La veille de la fête, il reçoit beaucoup de coups de téléphone et le jour de la fête, il est tout excité : il attend une trentaine de personnes et il doit tout préparer ! Il descend au deuxième et au premier étage, car il veut mettre un petit mot sur la porte des voisins pour s'excuser du bruit. Ensuite, il met des disques d'ambiance, il fait des cocktails de fruits et il attend les premiers invités.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "<em class='model'>Mes jumeaux</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 113, "seq": 14,
+      "instruction_fr": "Complétez les dialogues avec les verbes « prendre », « vouloir », « pouvoir ».",
+      "label": "Au restaurant", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Le serveur : – Vous {{b}} un apéritif, messieurs-dames ?<br>M. Duteil : – Pas pour moi, et toi, chérie ? Tu {{b}} quelque chose ?<br>Mme Duteil : – Est-ce que je {{b}} avoir un verre de sauternes ?<br>Le serveur : – Sans problème. Vous {{b}} la carte des vins ?<br>M. Duteil : – Oui, merci. Mais qu'est-ce que nous {{b}}, Danièle ?<br>Mme Duteil : – J'ai envie d'une côte de bœuf, mais c'est pour deux : tu {{b}} partager avec moi ?<br>M. Duteil : – D'accord, mais est-ce que je {{b}} avoir des légumes verts à la place des frites ?<br>Le serveur : – Qu'est-ce que vous {{b}} : des haricots verts ou des épinards ?" }
+      ]
+    },
+    {
+      "page_no": 114, "seq": 15,
+      "instruction_fr": "Transformez, selon le modèle.",
+      "label": "", "note_html": "Les enfants veulent faire des crêpes.<br><em class='model'>Ils</em>", "has_image": true, "scan_pages": [114],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Prendre un grand saladier {{L}}" },
+        { "seq": 2, "type": "transform", "stem_html": "Mettre 250 g de farine {{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "Faire un puits au centre {{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "Battre 3 œufs avec la farine {{L}}" },
+        { "seq": 5, "type": "transform", "stem_html": "Mettre ½ litre de lait petit à petit {{L}}" },
+        { "seq": 6, "type": "transform", "stem_html": "Faire reposer la pâte 1 heure {{L}}" },
+        { "seq": 7, "type": "transform", "stem_html": "Prendre une poêle {{L}}" },
+        { "seq": 8, "type": "transform", "stem_html": "Faire chauffer un peu d'huile {{L}}" },
+        { "seq": 9, "type": "transform", "stem_html": "Mettre une petite louche de pâte {{L}}" },
+        { "seq": 10, "type": "transform", "stem_html": "Faire cuire des deux côtés {{L}}" },
+        { "seq": 11, "type": "transform", "stem_html": "Mettre du sucre {{L}}" }
+      ]
+    },
+    {
+      "page_no": 114, "seq": 16,
+      "instruction_fr": "Mettez le texte au pluriel.",
+      "label": "Pierre", "note_html": "Le matin, Pierre va au bureau en bus. Il attend parfois huit à dix minutes dans le froid et il met trente-cinq minutes environ pour arriver à l'Opéra, mais il n'est pas pressé car il a un horaire très flexible. Il prend toujours le même bus à la station Châtelet et, avant de partir, il boit un café au Sarah-Bernhardt. Dans le bus, il lit presque entièrement le journal. Il peut même préparer sa journée de travail : il écrit quelques mots dans son agenda, il fait des calculs, il prend des notes. Quand il descend à l'Opéra, il a l'impression d'être en vacances. Il a envie de regarder les vitrines et les passants. Il ne se sent pas aussi fatigué que lorsqu'il est obligé de prendre le métro. Pierre prend le même bus que Marie et Laura, mais il ne les connait pas, ou pas encore…", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "<em class='model'>Le matin, Marie et Laura vont</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 114, "seq": 17,
+      "instruction_fr": "Mettez au pluriel.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "1. Il peut venir quand il veut.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ils {{L}}" },
+        { "seq": 2, "type": "transform", "stem_html": "2. Il ne croit que ce qu'il voit.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ils {{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "3. Elle suit la mode et elle connaît les stars.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elles {{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "4. Il ne boit pas car il doit conduire.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ils {{L}}" },
+        { "seq": 5, "type": "transform", "stem_html": "5. Elle sait peindre et elle peint très bien.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elles {{L}}" }
+      ]
+    },
+    {
+      "page_no": 115, "seq": 18,
+      "instruction_fr": "Complétez avec les verbes ci-dessous.",
+      "label": "", "note_html": "prendre&nbsp;&nbsp;&nbsp;&nbsp;apprendre&nbsp;&nbsp;&nbsp;&nbsp;comprendre&nbsp;&nbsp;&nbsp;&nbsp;venir&nbsp;&nbsp;&nbsp;&nbsp;revenir&nbsp;&nbsp;&nbsp;&nbsp;se souvenir", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Qu'est-ce que vous {{b}} comme dessert ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Mes amis {{b}} le train de cinq heures." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Marie {{b}} un poème par cœur." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Mes amies {{b}} à conduire." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Nous ne {{b}} pas bien cette phrase." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Paul {{b}} chez nous ce soir." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Tu {{b}} au cinéma avec nous ?" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Attendez-moi, je {{b}} tout de suite." },
+        { "seq": 9, "type": "cloze", "stem_html": "9. Vous vous {{b}} de votre rendez-vous ?" },
+        { "seq": 10, "type": "cloze", "stem_html": "10. Je ne me {{b}} pas de son nom." }
+      ]
+    },
+    {
+      "page_no": 115, "seq": 19,
+      "instruction_fr": "Répondez selon le modèle.",
+      "label": "", "note_html": "– Quand vous sortez, vous prenez votre portable ?<br>– <em class='model'>Oui, quand je sors, je prends mon portable.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Quand vous allez au bureau, vous partez à huit heures ?<br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Quand vous montez au 5<sup>e</sup> étage, vous prenez l'ascenseur ?<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Quand vous prenez des notes, vous écrivez en français ?<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Quand vous lisez, vous mettez des lunettes?<br>– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Quand vous buvez du café le soir, vous prenez du décaféiné ?<br>– {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Quand vous recevez un message, vous répondez toujours?<br>– {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – Quand vous allez au théâtre, vous applaudissez longtemps les acteurs ?<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 115, "seq": 20,
+      "instruction_fr": "Écrivez les finales des verbes.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je sor{{b}} peu." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Je vi{{b}} seul." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. J'enten{{b}} mal !" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Je per{{b}} mes cheveux." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Tu par{{b}} en vacances." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Tu pren{{b}} ton sac." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Tu desen{{b}} l'escalier." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Tu atten{{b}} le train." },
+        { "seq": 9, "type": "cloze", "stem_html": "9. Elle per{{b}} tout." },
+        { "seq": 10, "type": "cloze", "stem_html": "10. Il me{{b}} un pull." },
+        { "seq": 11, "type": "cloze", "stem_html": "11. Ils ven{{b}} des fruits." },
+        { "seq": 12, "type": "cloze", "stem_html": "12. Elles atten{{b}} le bus." }
+      ]
+    },
+    {
+      "page_no": 115, "seq": 21,
+      "instruction_fr": "Quels sont vos premiers gestes le matin au réveil ?",
+      "label": "", "note_html": "mettre ses pantoufles&nbsp;&nbsp;&nbsp;&nbsp;faire de la gymnastique&nbsp;&nbsp;&nbsp;&nbsp;prendre une douche&nbsp;&nbsp;&nbsp;&nbsp;boire un café&nbsp;&nbsp;&nbsp;&nbsp;allumer la radio&nbsp;&nbsp;&nbsp;&nbsp;lire les nouvelles&nbsp;&nbsp;&nbsp;&nbsp;consulter ses messages&nbsp;&nbsp;&nbsp;&nbsp;éteindre son réveil", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 117, "seq": 22,
+      "instruction_fr": "Complétez avec « mettre » ou « prendre ».",
+      "label": "Une journée ordinaire", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Il pleut et il fait très froid : je <em class='model'>mets</em> un manteau et je {{b}} un parapluie. Je {{b}} le bus, mais il y a beaucoup de circulation et je {{b}} une heure pour arriver au bureau. À midi, je ne déjeune pas : je {{b}} seulement un café et un biscuit. Quand je rentre, il est tard. Je {{b}} un bain, je {{b}} des vêtements confortables et je {{b}} un CD de Billie Holiday. Ensuite, je mange un plat surgelé : faire la cuisine, ça {{b}} trop de temps !" }
+      ]
+    },
+    {
+      "page_no": 117, "seq": 23,
+      "instruction_fr": "Complétez avec « faire » ou « jouer ».",
+      "label": "Activités musicales et sportives", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "En été, toute la famille <em class='model'>fait</em> du sport : mon mari et mes fils {{b}} du jogging le matin et l'après-midi, ils {{b}} au volley ou au foot. Ma fille et moi, nous {{b}} du tennis en fin de matinée et quelquefois, l'après-midi, nous {{b}} du golf. Quand il {{b}} froid, nous {{b}} aux échecs ou nous écoutons de la musique. Parfois, ma fille Béatrice {{b}} du piano, mon fils Julien {{b}} de la clarinette et leur amie Charlotte {{b}} du violoncelle." }
+      ]
+    },
+    {
+      "page_no": 117, "seq": 24,
+      "instruction_fr": "Répondez aux questions, selon le modèle.",
+      "label": "", "note_html": "– Est-ce que vous repassez vos chemises vous-même ? – <em class='model'>Non, je fais repasser mes chemises.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Est-ce que vous lavez votre linge vous-même ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Est-ce que c'est vous qui faites le ménage ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous traduisez vos textes vous-même ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – C'est vous qui repeignez votre appartement ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – C'est vous qui vous coupez les cheveux ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 117, "seq": 25,
+      "instruction_fr": "Répondez. Décrivez vos activités.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [117],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Est-ce que faites du sport ? Est-ce que vous jouez d'un instrument de musique ? Est-ce que vous faites la cuisine tous les jours ? Quel type de plats faites-vous le plus souvent ? Est-ce que vous faites le ménage vous-même ? Est-ce que vous faites le tri sélectif ? Combien de temps mettez-vous pour aller à l'université (au lycée, au bureau) ? Prenez-vous le métro, le bus, le train ? Quand il fait froid, est-ce que vous mettez une écharpe, un bonnet, une cagoule, des gants ? Est-ce que vous mettez des lunettes de soleil en été, un chapeau ?<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 119, "seq": 26,
+      "instruction_fr": "Répondez à la forme affirmative ou négative, selon le modèle.",
+      "label": "", "note_html": "– Est-ce que vous pouvez lire sans lunettes ?<br>– <em class='model'>Oui, je peux lire sans lunettes.</em><br>– <em class='model'>Non, je ne peux pas lire sans lunettes.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Est-ce que vous pouvez courir très longtemps ?<br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Est-ce que vous pouvez travailler dans le bruit ?<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Est-ce que vous pouvez faire vos calculs sans calculatrice ?<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Est-ce que vous pouvez toucher le plafond de la main ?<br>– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Est-ce que vous pouvez fumer en classe ?<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 119, "seq": 27,
+      "instruction_fr": "Complétez avec « on doit » ou « on peut ».",
+      "label": "Quand on prend l'avion", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "On <em class='model'>doit</em> se présenter 1 heure avant le départ." },
+        { "seq": 2, "type": "cloze", "stem_html": "{{b}} faire le check-in." },
+        { "seq": 3, "type": "cloze", "stem_html": "{{b}} avoir plus de 20 kg de bagages." },
+        { "seq": 4, "type": "cloze", "stem_html": "{{b}} passer les contrôles de sécurité." },
+        { "seq": 5, "type": "cloze", "stem_html": "{{b}} transporter des objets dangereux." },
+        { "seq": 6, "type": "cloze", "stem_html": "{{b}} fumer dans l'avion." },
+        { "seq": 7, "type": "cloze", "stem_html": "{{b}} attacher sa ceinture au décollage." },
+        { "seq": 8, "type": "cloze", "stem_html": "{{b}} écouter de la musique." },
+        { "seq": 9, "type": "cloze", "stem_html": "{{b}} s'allonger complètement." },
+        { "seq": 10, "type": "cloze", "stem_html": "{{b}} acheter des produits hors taxes." }
+      ]
+    },
+    {
+      "page_no": 119, "seq": 28,
+      "instruction_fr": "Probabilité. Complétez selon le modèle.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Quelle heure il est ? – Je ne sais pas, mais j'ai sommeil. Il <em class='model'>doit être</em> minuit passé." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Combien font 5 dollars ? – Je ne sais pas, mais ça {{b}} environ 4 euros." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Combien coûte une limousine ? – Je ne sais pas, mais ça {{b}} une fortune." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Ma connexion Internet ne marche pas : il {{b}} un problème avec mon serveur." }
+      ]
+    },
+    {
+      "page_no": 119, "seq": 29,
+      "instruction_fr": "Complétez le texte avec « pouvoir », « devoir » ou « falloir ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Pour pouvoir voter en France, {{b}} avoir la nationalité française, et {{b}} être majeur. En France, les femmes {{b}} voter seulement depuis 1945 ! Pour être élu, le président de la République {{b}} rassembler la majorité des voix. Pour être valables, les bulletins de vote ne {{b}} pas porter d'inscription. Certains électeurs {{b}} voter par correspondance, mais ils {{b}} prouver qu'ils ne {{b}} pas se déplacer." }
+      ]
+    },
+    {
+      "page_no": 119, "seq": 30,
+      "instruction_fr": "Dans votre pays, à quel âge peut-on voter, conduire un scooter, conduire une voiture, piloter un avion, aller à l'université, se marier ? Quels documents doit-on avoir pour cela ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 121, "seq": 31,
+      "instruction_fr": "Complétez les phrases avec « savoir » ou « connaître ».",
+      "label": "", "note_html": "Je <em class='model'>sais</em> parler anglais et je <em class='model'>connais</em> un peu l'Angleterre.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Maria {{b}} beaucoup de recettes et elle {{b}} bien cuisiner." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous {{b}} les parents de François ? – Non, je {{b}} seulement sa sœur." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Ma fille ne {{b}} pas conduire. Elle ne {{b}} pas le code de la route." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Mon fils {{b}} nager sous l'eau et il {{b}} tous les poissons." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous {{b}} ce que veut dire « avoir la pêche » ? – Non, je ne {{b}} pas cette expression." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Je {{b}} que le train arrive à trois heures, mais je ne {{b}} pas le numéro du quai." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – Vos parents {{b}} que vous êtes ici ? – Oui, ma mère {{b}} que je suis là." }
+      ]
+    },
+    {
+      "page_no": 121, "seq": 32,
+      "instruction_fr": "Complétez les phrases avec « vouloir », « savoir » ou « connaître ».",
+      "label": "Rêves d'enfant", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Tu <em class='model'>sais</em>, maman, je {{b}} être actrice ! Regarde : je {{b}} danser, je {{b}} la valse, le rock, le tango et le cha-cha-cha. Je {{b}} chanter, je {{b}} au moins cent chansons ! Je {{b}} devenir célèbre et je {{b}} épouser un roi ou le président d'Amérique : je {{b}} beaucoup de mots anglais. Je {{b}} vivre 100 ans et je {{b}} avoir dix enfants !" }
+      ]
+    },
+    {
+      "page_no": 121, "seq": 33,
+      "instruction_fr": "Complétez le dialogue avec « vouloir », « pouvoir », « connaître » ou « savoir ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Bonjour, madame, je {{b}} parler à monsieur Pernod, s'il vous plaît.<br>– Il n'est pas là, mais je suis madame Pernod, est-ce que vous {{b}} laisser un message ?<br>– Oui, voilà, je suis Jules Porteau, un ami : je {{b}} que monsieur Pernod {{b}} acheter une BMW d'occasion. Je {{b}} un bon garage où votre mari {{b}} trouver de bonnes affaires. S'il {{b}} , il {{b}} dire qu'il vient de la part de Jules Porteau. C'est le garage « Campioni ». – Ah oui, je {{b}} : c'est sur la nationale 8." }
+      ]
+    },
+    {
+      "page_no": 121, "seq": 34,
+      "instruction_fr": "Complétez avec « savoir » ou « pouvoir » à la forme positive ou négative.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [121],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Hé les garçons, vous savez lire ? Regardez le panneau : « Baignade interdite ».<br>Vous {{b}} vous baigner dans la rivière : c'est dangereux.<br>– Mais vous {{b}} , madame, on a un diplôme de crawl, on {{b}} nager.<br>– Eh bien, ne coulez pas, parce que moi, je {{b}} nager et je {{b}} vous repêcher." }
+      ]
+    },
+    {
+      "page_no": 121, "seq": 35,
+      "instruction_fr": "Dites quelles sont vos aptitudes (nager, parler espagnol, danser, chanter). Dites ce que vous voulez, désirez, souhaitez ou espérez faire plus tard.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}

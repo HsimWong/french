@@ -1,0 +1,145 @@
+{
+  "course": "grammaire",
+  "seq": 34,
+  "title_fr": "LA NÉGATION (2)",
+  "page_start": 152,
+  "page_end": 155,
+  "pdf_start": 154,
+  "pdf_end": 157,
+  "sections": [
+    { "title_fr": "« NE... JAMAIS » / « NE... PLUS » / « NE... AUCUN » / « NE... RIEN » / « NE... PERSONNE »", "page_no": 152 },
+    { "title_fr": "« NI... NI » / « SANS » / « NE... QUE »", "page_no": 154 }
+  ],
+  "blocks": [
+    { "page_no": 152, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">34</span> LA NÉGATION (2)" },
+    { "page_no": 152, "seq": 2, "type": "keypoint", "body_html": "Je <strong>ne</strong> fais <strong>rien</strong>. Je <strong>ne</strong> sors <strong>jamais</strong>.<br>Je <strong>ne</strong> connais <strong>personne</strong>. Je <strong>n'</strong>ai <strong>aucun</strong> ami." },
+    { "page_no": 152, "seq": 3, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'><strong>« NE... JAMAIS »</strong> ≠ toujours</p><p class='sample'><em>Je bois <strong>toujours</strong> du thé le matin.<br>Je <strong>ne</strong> bois <strong>jamais</strong> de café.<br>(= habitude)</em></p></div><div><p class='bullet'><strong>« NE... PLUS »</strong> ≠ encore</p><p class='sample'><em>Max fume <strong>encore</strong>.<br>Moi, je <strong>ne</strong> fume <strong>plus</strong>.<br>(= changement)</em></p></div></div>" },
+    { "page_no": 152, "seq": 4, "type": "para", "body_html": "<p class='bullet'>Quand « toujours » signifie « encore », la négation est « <strong>ne... plus</strong> » :</p><p class='sample'><em>– Tu fumes <strong>toujours</strong> ?</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>– Non, je <strong>ne</strong> fume <strong>plus</strong>.</em></p>" },
+    { "page_no": 152, "seq": 5, "type": "para", "body_html": "<p class='bullet'>La négation de « déjà » est « jamais » (constat) ou « pas encore » (intention) :</p><p class='sample'><em>– Vous êtes <strong>déjà</strong> allé à Paris ?</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>– Non, je <strong>ne</strong> suis <strong>jamais</strong> allé à Paris.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– Non, je <strong>ne</strong> suis <strong>pas encore</strong> allé à Paris.</em></p>" },
+    { "page_no": 152, "seq": 6, "type": "phonetic", "body_html": "<p class='bullet'>Le « <strong>s</strong> » de « plus » négatif n'est jamais prononcé :</p><p class='sample'><em>Je ne bois plus/</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Je ne fume plus/</em></p>" },
+    { "page_no": 152, "seq": 7, "type": "para", "body_html": "<p class='bullet'><strong>« NE... AUCUN »</strong> = pas un seul</p><p class='sample'><em>Je <strong>ne</strong> connais <strong>aucun</strong> Français.</em>&nbsp;&nbsp;&nbsp;&nbsp;= pas un seul Français<br><em>Je <strong>n'</strong>ai <strong>aucun</strong> ami en France.</em>&nbsp;&nbsp;&nbsp;&nbsp;= pas un seul ami</p>" },
+    { "page_no": 152, "seq": 8, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'><strong>« NE... RIEN »</strong> ≠ quelque chose</p><p class='sample'><em>Tu vois <strong>quelque chose</strong> ?<br>Je <strong>ne</strong> vois <strong>rien</strong>.</em></p></div><div><p class='bullet'><strong>« NE... PERSONNE »</strong> ≠ quelqu'un</p><p class='sample'><em>Tu attends <strong>quelqu'un</strong> ?<br>Je <strong>n'</strong>attends <strong>personne</strong>.</em></p></div></div>" },
+    { "page_no": 152, "seq": 9, "type": "para", "body_html": "<p class='bullet'>En position sujet, on dit : <strong>Rien ne</strong> bouge. <strong>Personne ne</strong> parle.</p>" },
+    { "page_no": 152, "seq": 10, "type": "warning", "body_html": "<p class='bullet'>Dites :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne dites pas :</p><p class='sample'><em>Je <strong>ne</strong> connais <strong>personne</strong>.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Je ne connais <s>pas</s> personne.<br><strong>Rien ne</strong> marche.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Rien ne marche <s>pas</s>.</em></p>" },
+    { "page_no": 152, "seq": 11, "type": "para", "body_html": "<p class='bullet'>Plusieurs négations peuvent se suivre dans une même phrase :</p><p class='sample'><em>Tu <strong>ne</strong> comprends <strong>jamais rien</strong>.<br>Il <strong>n'</strong>y a <strong>plus personne</strong>.</em></p>" },
+    { "page_no": 152, "seq": 12, "type": "xref", "body_html": "« Ne... pas », p. 18" },
+
+    { "page_no": 154, "seq": 13, "type": "running_head", "body_html": "LA NÉGATION (2)" },
+    { "page_no": 154, "seq": 14, "type": "keypoint", "body_html": "Je <strong>ne</strong> travaille <strong>ni</strong> le lundi <strong>ni</strong> le mardi.<br>Je <strong>ne</strong> travaille <strong>que</strong> trois jours par semaine." },
+    { "page_no": 154, "seq": 15, "type": "para", "body_html": "<p class='bullet'><strong>« NI... NI »</strong> est la négation de deux éléments (ou plus) reliés par « <strong>et</strong> » :</p><p class='sample'><em>Paul est jeune, beau et intelligent.<br>Paul n'est <strong>ni</strong> jeune, <strong>ni</strong> beau, <strong>ni</strong> intelligent.</em></p>" },
+    { "page_no": 154, "seq": 16, "type": "para", "body_html": "<p class='bullet'>En général, l'article indéfini ou partitif disparaît après « ni » :</p><div class='two-col'><div><p class='sample'><em>– Tu as un stylo et un cahier ?<br>– Tu veux du thé ou du café ?</em></p></div><div><p class='sample'><em>– Je n'ai <strong>ni</strong> stylo <strong>ni</strong> cahier.<br>– Je ne veux <strong>ni</strong> thé <strong>ni</strong> café.</em></p></div></div>" },
+    { "page_no": 154, "seq": 17, "type": "para", "body_html": "<p class='bullet'><strong>« SANS »</strong> est la négation de « <strong>avec</strong> ».</p>" },
+    { "page_no": 154, "seq": 18, "type": "para", "body_html": "<p class='bullet'>En général, l'article indéfini ou partitif disparaît après « sans » :</p><div class='two-col'><div><p class='sample'><em>Il sort avec un imperméable.<br>Il mange de la salade avec de l'huile.</em></p></div><div><p class='sample'><em>Il sort <strong>sans</strong> imperméable.<br>Il mange de la salade <strong>sans</strong> huile.</em></p></div></div>" },
+    { "page_no": 154, "seq": 19, "type": "para", "body_html": "<p class='bullet'>On utilise « <strong>sans... ni</strong> » de préférence à « sans... sans » :</p><p class='sample'><em>Il sort <strong>sans</strong> imperméable <strong>ni</strong> parapluie.<br>Il mange de la salade <strong>sans</strong> huile <strong>ni</strong> vinaigre.</em></p>" },
+    { "page_no": 154, "seq": 20, "type": "para", "body_html": "<p class='bullet'><strong>« NE... QUE »</strong> n'est pas une négation, mais une <strong>restriction</strong> :</p><p class='sample'><em>Julien <strong>n'</strong>a <strong>que</strong> cinq ans.</em>&nbsp;&nbsp;&nbsp;&nbsp;= Il a seulement cinq ans.<br><em>Je <strong>ne</strong> dors <strong>que</strong> six heures.</em>&nbsp;&nbsp;&nbsp;&nbsp;= Je dors seulement six heures.</p>" },
+    { "page_no": 154, "seq": 21, "type": "para", "body_html": "<p class='bullet'>« Ne » se place devant le verbe, « que » se déplace avec l'élément sur lequel porte la restriction :</p><p class='sample'><em>Ça <strong>ne</strong> coûte <strong>que</strong> dix euros.<br>Ça <strong>ne</strong> coûte, en ce moment, <strong>que</strong> dix euros.<br>Ça <strong>ne</strong> coûte, jusqu'à la fin du mois, <strong>que</strong> dix euros.</em></p>" },
+    { "page_no": 154, "seq": 22, "type": "para", "body_html": "<p class='bullet'>Sur des affiches de publicité, pour attirer l'attention, etc., on utilise souvent « que » tout seul :</p><p class='sample'><em>– <strong>Que</strong> 10 € !</em>&nbsp;&nbsp;&nbsp;&nbsp;= seulement 10 €<br><em>– <strong>Que</strong> des affaires !</em>&nbsp;&nbsp;&nbsp;&nbsp;= seulement de bonnes affaires</p>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 153, "seq": 1,
+      "instruction_fr": "Répondez aux questions en utilisant « plus », « rien », « personne ».",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Tu as <strong>encore</strong> ta vieille Alfa Romeo, Juliette ?&nbsp;&nbsp;&nbsp;&nbsp;– Non, <em class='model'>je n'ai plus mon Alfa Romeo.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Tu habites <strong>toujours</strong> à Vérone ?&nbsp;&nbsp;&nbsp;&nbsp;– Non, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Tu vois <strong>toujours</strong> William ?&nbsp;&nbsp;&nbsp;&nbsp;– Non, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Tu fais <strong>quelque chose</strong> ce soir ?&nbsp;&nbsp;&nbsp;&nbsp;– Non, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Tu attends <strong>quelqu'un</strong> ?&nbsp;&nbsp;&nbsp;&nbsp;– Non, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 153, "seq": 2,
+      "instruction_fr": "Faites l'exercice, selon le modèle.",
+      "label": "Les faux jumeaux", "note_html": "",
+      "has_image": true, "scan_pages": [153],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<div class='two-col'><div>Pierre est toujours content.<br>Pierre aime tout le monde.<br>Pierre sourit tout le temps.<br>Pierre a beaucoup d'amis.<br>Pierre accepte toujours tout.<br>Pierre croit encore au Père Noël.</div><div><em class='model'>Paul n'est jamais content.</em><br>{{L}}<br>{{L}}<br>{{L}}<br>{{L}}<br>{{L}}</div></div>" }
+      ]
+    },
+    {
+      "page_no": 153, "seq": 3,
+      "instruction_fr": "Répondez à la forme négative.",
+      "label": "", "note_html": "– <em class='model'>Non, je ne fume jamais le cigare.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous fumez <strong>parfois</strong> le cigare ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous allez <strong>quelquefois</strong> dans des « rave-parties » ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous habitez <strong>encore</strong> chez vos parents ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous êtes <strong>toujours</strong> débutant complet ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous parlez <strong>déjà</strong> français couramment ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 153, "seq": 4,
+      "instruction_fr": "Mettez à la forme négative.",
+      "label": "", "note_html": "<em class='model'>Ça y est ! Je suis en vacances ! Ce soir, je ne rentre pas chez moi.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Je rentre chez moi. Je prépare quelque chose pour dîner. Quelqu'un me téléphone. Quelque chose brûle dans la cuisine. Je m'énerve. Je suis fatiguée. J'ai mal à la tête. Je me couche tard. Tout le monde me dérange. J'ai beaucoup de choses à faire. J'ai mille soucis.<br>Je {{T}}" }
+      ]
+    },
+    {
+      "page_no": 153, "seq": 5,
+      "instruction_fr": "Répondez à la forme affirmative ou négative.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Il y a quelqu'un devant vous ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Il y a quelque chose dans le tiroir ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Il y a quelqu'un dans le couloir ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Il y a quelque chose sur la table ? – {{L}}" }
+      ]
+    },
+
+    {
+      "page_no": 155, "seq": 6,
+      "instruction_fr": "Répondez aux questions, selon le modèle.",
+      "label": "", "note_html": "– Vous êtes libre mardi et jeudi ? <em class='model'>Je ne suis libre ni mardi ni jeudi.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous travaillez le samedi et le dimanche ?<br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous connaissez Simon et Gérald Bruni ?<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous ressemblez à votre père ou à votre mère ?<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous buvez du thé ou du café, le matin ?<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 155, "seq": 7,
+      "instruction_fr": "Transformez, selon le modèle.",
+      "label": "Avec ou sans", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<div class='two-col'><div>Avec des papiers : un travail<br>Avec du travail : de l'argent<br>Avec de l'argent : un logement<br>Avec un logement : des papiers</div><div><em class='model'>Sans papiers, pas de travail.</em><br>{{L}}<br>{{L}}<br>{{L}}</div></div>" },
+        { "seq": 2, "type": "cloze", "stem_html": "Il est difficile de vivre quand on n'a <em class='model'>ni papiers</em>, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 155, "seq": 8,
+      "instruction_fr": "Répondez avec « ne... que », selon le modèle.",
+      "label": "", "note_html": "– <em class='model'>Oui, je ne travaille que douze heures.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous travaillez seulement douze heures par semaine ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous commencez seulement à onze heures ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous avez seulement deux rendez-vous, lundi ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous mangez seulement un sandwich à midi ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous buvez seulement un café par jour ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 155, "seq": 9,
+      "instruction_fr": "Complétez avec « ne... pas (de) », « ne... que », « sans... ni » ou « ne... ni... ni ».",
+      "label": "", "note_html": "On <em class='model'>ne</em> reçoit une lettre de rappel des Télécoms <em class='model'>que</em> si on <em class='model'>ne</em> paye <em class='model'>pas</em> ses factures.",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. À cause de la grève des transports, nous {{b}} partons {{b}} mardi, {{b}} mercredi, nous partons seulement jeudi." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Je ne peux pas aller à la piscine : je {{b}} ai {{b}} maillot !" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. L'eau est froide : elle {{b}} fait {{b}} dix-huit degrés !" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Ma cousine est strictement végétarienne, elle {{b}} mange {{b}} œufs {{b}} poisson : elle {{b}} mange {{b}} des légumes." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Ce pain est délicieux pour le petit déjeuner, même {{b}} miel {{b}} confiture." }
+      ]
+    }
+  ]
+}

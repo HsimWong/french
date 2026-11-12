@@ -1,0 +1,884 @@
+{
+  "course": "grammaire",
+  "seq": 40,
+  "title_fr": "LE PASSÉ COMPOSÉ",
+  "page_start": 174,
+  "page_end": 197,
+  "pdf_start": 176,
+  "pdf_end": 199,
+  "sections": [
+    { "title_fr": "LE PASSÉ COMPOSÉ avec « AVOIR »", "page_no": 174 },
+    { "title_fr": "LE PARTICIPE PASSÉ", "page_no": 178 },
+    { "title_fr": "LE PASSÉ COMPOSÉ avec « ÊTRE » (verbes de déplacement)", "page_no": 182 },
+    { "title_fr": "LES VERBES PRONOMINAUX", "page_no": 186 },
+    { "title_fr": "« ÊTRE » ou « AVOIR » ?", "page_no": 186 },
+    { "title_fr": "L'ACCORD des PARTICIPES PASSÉS", "page_no": 190 },
+    { "title_fr": "LE PASSÉ COMPOSÉ, LE PRONOM et L'ADVERBE", "page_no": 192 },
+    { "title_fr": "LE PASSÉ COMPOSÉ, LA NÉGATION et L'INTERROGATION", "page_no": 194 }
+  ],
+  "blocks": [
+    { "page_no": 174, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">40</span> LE PASSÉ COMPOSÉ" },
+    { "page_no": 174, "seq": 2, "type": "para", "body_html": "On utilise le passé composé pour raconter des événements au passé.<br>Formation : auxiliaire « <strong>être</strong> » ou « <strong>avoir</strong> » au présent + <strong>participe passé</strong>.<br><em>Hier, j'<strong>ai dîné</strong> à huit heures et je <strong>suis allé</strong> au cinéma.</em>" },
+    { "page_no": 174, "seq": 3, "type": "section_title", "body_html": "LE PASSÉ COMPOSÉ avec « AVOIR »" },
+    { "page_no": 174, "seq": 4, "type": "table", "body_html": "<table class='data-table'><tr><td><strong>Hier,</strong></td><td>j'</td><td><strong>ai</strong></td><td><strong>mangé</strong></td><td>au restaurant.</td></tr><tr><td>&nbsp;</td><td>tu</td><td><strong>as</strong></td><td><strong>mangé</strong></td><td>chez toi.</td></tr><tr><td>&nbsp;</td><td>il<br>elle<br>on</td><td><strong>a</strong></td><td><strong>mangé</strong></td><td>à midi et demi.</td></tr><tr><td>&nbsp;</td><td>nous</td><td><strong>avons</strong></td><td><strong>mangé</strong></td><td>ensemble.</td></tr><tr><td>&nbsp;</td><td>vous</td><td><strong>avez</strong></td><td><strong>mangé</strong></td><td>tard.</td></tr><tr><td>&nbsp;</td><td>ils<br>elles</td><td><strong>ont</strong></td><td><strong>mangé</strong></td><td>avec des amis.</td></tr></table>" },
+    { "page_no": 174, "seq": 5, "type": "para", "body_html": "<p class='bullet'><strong>Verbes en « -er »</strong> : le participe passé se forme sur le radical de l'infinitif + « <strong>é</strong> ».</p><span class='example-line'><em>Mang-er</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>J'ai mang<strong>é</strong></em><br><em>Regard-er</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>J'ai regard-<strong>é</strong></em></span>" },
+    { "page_no": 174, "seq": 6, "type": "para", "body_html": "<p class='bullet'>Le participe passé <strong>ne s'accorde pas</strong> avec le <strong>sujet</strong> du verbe « avoir » :<br><em>Il <strong>a mangé</strong> un gâteau.</em><br><em>Ils <strong>ont mangé</strong> un gâteau.</em></p><p class='bullet'>Le passé composé de la <strong>majorité des verbes</strong> se forme avec « avoir » :<br><em>J'<strong>ai mangé</strong>. J'<strong>ai bu</strong>. J'<strong>ai dormi</strong>.</em></p><p class='bullet'>Le passé composé de « être » et « avoir » se forme aussi avec « avoir » :<br><em>J'<strong>ai été</strong> malade. J'<strong>ai eu</strong> mal à la gorge.</em></p>" },
+    { "page_no": 174, "seq": 7, "type": "section_title", "body_html": "QUELQUES EXPRESSIONS de TEMPS" },
+    { "page_no": 174, "seq": 8, "type": "table", "body_html": "<table class='data-table'><tr><td>présent :</td><td><em>Aujourd'hui</em></td><td><em>Cette semaine</em></td><td><em>Ce mois-ci</em></td><td><em>Cette année</em></td></tr><tr><td>passé :</td><td><em><strong>Hier</strong></em></td><td><em><strong>La semaine dernière</strong></em></td><td><em><strong>Le mois dernier</strong></em></td><td><em><strong>L'année dernière</strong></em></td></tr></table>" },
+    { "page_no": 174, "seq": 9, "type": "xref", "body_html": "Tableau des participes passés, p. 178" },
+
+    { "page_no": 178, "seq": 10, "type": "running_head", "body_html": "LE PASSÉ COMPOSÉ" },
+    { "page_no": 178, "seq": 11, "type": "section_title", "body_html": "LE PARTICIPE PASSÉ" },
+    { "page_no": 178, "seq": 12, "type": "keypoint", "body_html": "J'ai <strong>diné</strong>.&nbsp;&nbsp;&nbsp;&nbsp;J'ai <strong>mis</strong> un disque.&nbsp;&nbsp;&nbsp;&nbsp;J'ai <strong>bu</strong> un verre." },
+    { "page_no": 178, "seq": 13, "type": "para", "body_html": "<strong>Phonétiquement</strong>, on peut regrouper les participes passés les plus courants de la manière suivante :" },
+    { "page_no": 178, "seq": 14, "type": "table", "body_html": "<table class='data-table'><tr><th colspan='3'><strong>PARTICIPES EN « É »</strong></th></tr><tr><td colspan='2'>Manger <em><strong>mangé</strong></em><br>Regarder <em><strong>regardé</strong></em></td><td>Tous les verbes en « -er »</td></tr><tr><th>PARTICIPES EN « U »</th><th>PARTICIPES EN « I »</th><th>AUTRES CAS</th></tr><tr><td>Lire <em><strong>lu</strong></em><br>Voir <em><strong>vu</strong></em><br>Boire <em><strong>bu</strong></em><br><br>Entendre <em><strong>entendu</strong></em><br>Attendre <em><strong>attendu</strong></em><br>Répondre <em><strong>répondu</strong></em><br>Perdre <em><strong>perdu</strong></em><br><br>Vouloir <em><strong>voulu</strong></em><br>Devoir <em><strong>dû</strong></em><br>Pouvoir <em><strong>pu</strong></em><br>Savoir <em><strong>su</strong></em><br><br>Croire <em><strong>cru</strong></em><br>Falloir <em><strong>fallu</strong></em><br><br>Courir <em><strong>couru</strong></em><br>Connaître <em><strong>connu</strong></em><br>Disparaître <em><strong>disparu</strong></em><br>Plaire <em><strong>plu</strong></em><br>Pleuvoir <em><strong>plu</strong></em><br>Recevoir <em><strong>reçu</strong></em><br>Venir <em><strong>venu</strong></em><br>Vivre <em><strong>vécu</strong></em></td><td>Finir <em><strong>fini</strong></em><br>Grandir <em><strong>grandi</strong></em><br>Choisir <em><strong>choisi</strong></em><br><br>Prendre <em><strong>pris</strong></em><br>Apprendre <em><strong>appris</strong></em><br>Comprendre <em><strong>compris</strong></em><br>Mettre <em><strong>mis</strong></em><br><br>Dire <em><strong>dit</strong></em><br>Écrire <em><strong>écrit</strong></em><br>Conduire <em><strong>conduit</strong></em></td><td>Faire <em><strong>fait</strong></em><br>Être <em><strong>été</strong></em><br>Avoir <em><strong>eu</strong></em><br><br>Ouvrir <em><strong>ouvert</strong></em><br>Découvrir <em><strong>découvert</strong></em><br>Offrir <em><strong>offert</strong></em><br>Souffrir <em><strong>souffert</strong></em><br><br>Peindre <em><strong>peint</strong></em><br>Craindre <em><strong>craint</strong></em></td></tr></table>" },
+    { "page_no": 178, "seq": 15, "type": "xref", "body_html": "Participes passés avec « être », p. 182" },
+
+    { "page_no": 182, "seq": 16, "type": "running_head", "body_html": "LE PASSÉ COMPOSÉ" },
+    { "page_no": 182, "seq": 17, "type": "section_title", "body_html": "LE PASSÉ COMPOSÉ avec « ÊTRE » (verbes de déplacement)" },
+    { "page_no": 182, "seq": 18, "type": "table", "body_html": "<table class='data-table'><tr><td><strong>Hier,</strong></td><td>je</td><td><strong>suis</strong></td><td><strong>parti(e)</strong></td><td>tard.</td></tr><tr><td>&nbsp;</td><td>tu</td><td><strong>es</strong></td><td><strong>arrivé(e)</strong></td><td>tôt.</td></tr><tr><td>&nbsp;</td><td>il<br>elle<br>on</td><td><strong>est</strong></td><td><strong>venu(e)(s)</strong></td><td>à cinq heures.</td></tr><tr><td>&nbsp;</td><td>nous</td><td><strong>sommes</strong></td><td><strong>monté(e)s</strong></td><td>au troisième étage.</td></tr><tr><td>&nbsp;</td><td>vous</td><td><strong>êtes</strong></td><td><strong>descendu(e)(s)</strong></td><td>au sous-sol.</td></tr><tr><td>&nbsp;</td><td>ils<br>elles</td><td><strong>sont</strong></td><td><strong>allé(e)s</strong></td><td>au cinéma.</td></tr></table>" },
+    { "page_no": 182, "seq": 19, "type": "para", "body_html": "<p class='bullet'>Les verbes du type « <strong>ARRIVER</strong> »/« <strong>PARTIR</strong> » se construisent avec « <strong>être</strong> » :</p>" },
+    { "page_no": 182, "seq": 20, "type": "table", "body_html": "<table class='data-table'><tr><td>↑</td><td>VENIR</td><td>ENTRER</td><td>ARRIVER</td><td>MONTER</td><td>NAÎTRE</td><td>TOMBER</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td colspan='2'><strong>RESTER</strong></td><td>&nbsp;</td></tr><tr><td>↓</td><td>ALLER</td><td>SORTIR</td><td>PARTIR</td><td>DESCENDRE</td><td>MOURIR</td><td>PASSER</td></tr></table>" },
+    { "page_no": 182, "seq": 21, "type": "list", "body_html": "<p class='bullet'><strong>Participes passés</strong></p><em>allé/venu</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>entré/sorti</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>arrivé/parti</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>monté/descendu/tombé</em><br><em>né/mort</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>resté</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>passé</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>retourné</em><br>(+ composés : <em>revenu, devenu, reparti, rentré</em>, etc.)" },
+    { "page_no": 182, "seq": 22, "type": "para", "body_html": "<p class='bullet'>Ces 14 verbes, souvent symétriques, indiquent un <strong>changement</strong> de lieu :<br><em>L'homme <strong>est entré</strong>, puis il <strong>est sorti</strong>.</em></p>" },
+    { "page_no": 182, "seq": 23, "type": "warning", "body_html": "« <strong>Rester</strong> » s'utilise avec « <strong>être</strong> » (= déplacement zéro) :<br><em>Je <strong>suis resté</strong> à l'hôtel</em> signifie : <em>je ne suis pas sorti.</em>" },
+    { "page_no": 182, "seq": 24, "type": "para", "body_html": "<p class='bullet'>Les verbes indiquant la manière de se déplacer s'utilisent avec « <strong>avoir</strong> » :<br><em>J'<strong>ai marché</strong>, j'<strong>ai couru</strong>, j'<strong>ai sauté</strong>, j'<strong>ai dansé</strong>, etc.</em></p>" },
+    { "page_no": 182, "seq": 25, "type": "para", "body_html": "<p class='bullet'>Le <strong>participe passé</strong> s'accorde, comme un adjectif, avec le <strong>sujet</strong> :<br><em>Elle <strong>est restée</strong> chez elle. Ils <strong>sont allés</strong> au restaurant.</em></p>" },
+    { "page_no": 182, "seq": 26, "type": "xref", "body_html": "Passé composé avec « avoir », p. 174 et 178" },
+
+    { "page_no": 186, "seq": 27, "type": "running_head", "body_html": "LE PASSÉ COMPOSÉ" },
+    { "page_no": 186, "seq": 28, "type": "section_title", "body_html": "LES VERBES PRONOMINAUX" },
+    { "page_no": 186, "seq": 29, "type": "keypoint", "body_html": "Elle <strong>s'est levée</strong> tôt. Il <strong>s'est dépêché</strong>.<br>Ils <strong>se sont rencontrés</strong> dans l'ascenseur." },
+    { "page_no": 186, "seq": 30, "type": "para", "body_html": "<p class='bullet'>Les verbes <strong>réfléchis</strong> et <strong>réciproques</strong> se construisent avec « <strong>être</strong> » :</p>" },
+    { "page_no": 186, "seq": 31, "type": "table", "body_html": "<table class='data-table'><tr><td><em>Je</em></td><td><strong>me</strong></td><td><strong>suis</strong></td><td><em>levé(e)</em> tôt.</td></tr><tr><td><em>Tu</em></td><td><strong>t'</strong></td><td><strong>es</strong></td><td><em>couché(e)</em> tard.</td></tr><tr><td><em>Il<br>Elle<br>On</em></td><td><strong>s'</strong></td><td><strong>est</strong></td><td><em>douché(e)(s).</em></td></tr><tr><td><em>Nous</em></td><td><strong>nous</strong></td><td><strong>sommes</strong></td><td><em>promené(e)s.</em></td></tr><tr><td><em>Vous</em></td><td><strong>vous</strong></td><td><strong>êtes</strong></td><td><em>assis(e)(s).</em></td></tr><tr><td><em>Ils<br>Elles</em></td><td><strong>se</strong></td><td><strong>sont</strong></td><td><em>embrassé(e)s</em></td></tr></table>" },
+    { "page_no": 186, "seq": 32, "type": "para", "body_html": "<p class='bullet'>En général, le <strong>participe passé</strong> s'accorde (comme un adjectif) avec le <strong>sujet</strong> :<br><em>Il <strong>s'est couché</strong> tôt.</em><br><em>Elle <strong>s'est couchée</strong> tard.</em><br><em>Ils <strong>se sont endormis</strong> tout de suite.</em></p>" },
+    { "page_no": 186, "seq": 33, "type": "section_title", "body_html": "« ÊTRE » ou « AVOIR » ?" },
+    { "page_no": 186, "seq": 34, "type": "para", "body_html": "<p class='bullet'>Les verbes de type « arriver/partir », habituellement utilisés avec « être », se construisent avec « <strong>avoir</strong> » quand ils ont un complément d'<strong>objet direct</strong> :</p>" },
+    { "page_no": 186, "seq": 35, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>• Sans complément d'objet direct<br>→ « être »</span><span class='wordlist'><em>Il <strong>est sorti</strong> dans la rue.</em><br><em>Nous <strong>sommes rentrés</strong> tôt.</em><br><em>Ils <strong>sont passés</strong> devant la banque.</em><br><em>Elle <strong>est descendue</strong> à la cave.</em><br><em>Je <strong>suis monté</strong> à pied.</em><br><em>Je <strong>suis retourné</strong> au bureau.</em></span></div><div><span class='lead'>• Avec complément d'objet direct<br>→ « avoir »</span><span class='wordlist'><em>Il <strong>a sorti</strong> le chien.</em><br><em>Nous <strong>avons rentré</strong> la voiture.</em><br><em>Ils <strong>ont passé</strong> de bonnes vacances.</em><br><em>Elle <strong>a descendu</strong> la poubelle.</em><br><em>J'<strong>ai monté</strong> l'escalier.</em><br><em>J'<strong>ai retourné</strong> le matelas.</em></span></div></div>" },
+    { "page_no": 186, "seq": 36, "type": "xref", "body_html": "Accord des participes passés, p. 190" },
+
+    { "page_no": 190, "seq": 37, "type": "running_head", "body_html": "LE PASSÉ COMPOSÉ" },
+    { "page_no": 190, "seq": 38, "type": "section_title", "body_html": "L'ACCORD des PARTICIPES PASSÉS" },
+    { "page_no": 190, "seq": 39, "type": "keypoint", "body_html": "Marie est <strong>sortie</strong>. Elle <strong>s'est promenée</strong>.<br>Elle a <strong>acheté</strong> des fleurs. Elle les a <strong>mises</strong> dans un vase bleu." },
+    { "page_no": 190, "seq": 40, "type": "para", "body_html": "<p class='bullet'><strong>AVEC « ÊTRE »</strong>, le participe passé <strong>s'accorde</strong> avec le <strong>sujet</strong> :</p>" },
+    { "page_no": 190, "seq": 41, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>Il <strong>est parti</strong>.</em><br><em>Ils <strong>sont partis</strong>.</em><br><em>Il <strong>s'est couché</strong>.</em><br><em>Ils <strong>se sont rencontrés</strong>.</em></span></div><div><span class='wordlist'><em>Elle <strong>est partie</strong>.</em><br><em>Elles <strong>sont parties</strong>.</em><br><em>Elle <strong>s'est couchée</strong>.</em><br><em>Elles <strong>se sont rencontrées</strong>.</em></span></div></div>" },
+    { "page_no": 190, "seq": 42, "type": "warning", "body_html": "<p class='bullet'>Le participe passé <strong>ne s'accorde pas</strong> :<br>– quand le verbe se construit avec « <strong>à</strong> » :<br><em>Ils <strong>se sont parlé</strong>.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>parler à qn</em><br><em>Ils <strong>se sont téléphoné</strong>.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>téléphoner à qn</em><br>– quand le verbe est suivi d'un <strong>complément d'objet direct</strong> :<br><em>Elle <strong>s'est lavée</strong>.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Elle <strong>s'est lavé</strong> les mains.</em><br><em>Elle <strong>s'est coupée</strong>.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Elle <strong>s'est coupé</strong> le doigt.</em><br>– dans les constructions avec « <strong>faire</strong> » :<br><em>Elle <strong>s'est fait</strong> mal.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Elle <strong>s'est fait</strong> opérer.</em></p>" },
+    { "page_no": 190, "seq": 43, "type": "para", "body_html": "<p class='bullet'><strong>AVEC « AVOIR »</strong>, le participe <strong>ne s'accorde pas</strong> avec le sujet :<br><em>Il <strong>a mangé</strong>. Elle <strong>a mangé</strong>. Ils <strong>ont mangé</strong>.</em></p>" },
+    { "page_no": 190, "seq": 44, "type": "warning", "body_html": "<p class='bullet'>Le participe <strong>s'accorde</strong> avec le complément d'<strong>objet direct</strong> s'il est placé <strong>avant</strong>, c'est-à-dire quand on connaît son genre et son nombre.</p>" },
+    { "page_no": 190, "seq": 45, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>• Je n'accorde pas<br>(Je ne connais ni le genre ni le nombre<br>du complément <strong>avant</strong> de former le participe.)</span><span class='wordlist'><em>J'ai <strong>acheté</strong> des fleurs.</em><br><em>J'ai <strong>invité</strong> les voisins.</em></span></div><div><span class='lead'>• J'accorde<br>(Je connais le genre et le nombre<br>du complément <strong>avant</strong> de former le participe.)</span><span class='wordlist'><em>Regarde les fleurs que j'ai <strong>achetées</strong>.</em><br><em>Je les ai <strong>invités</strong> hier.</em></span></div></div>" },
+    { "page_no": 190, "seq": 46, "type": "phonetic", "body_html": "<p class='bullet'>On entend l'accord féminin des participes en « <strong>-t</strong> » et « <strong>-s</strong> » :<br><em>J'ai <strong>ouvert</strong> la porte. Je l'ai <strong>ouverte</strong>.</em><br><em>La robe que j'ai <strong>mise</strong> est froissée.</em></p>" },
+    { "page_no": 190, "seq": 47, "type": "xref", "body_html": "Passif, p. 204" },
+
+    { "page_no": 192, "seq": 48, "type": "running_head", "body_html": "LE PASSÉ COMPOSÉ" },
+    { "page_no": 192, "seq": 49, "type": "section_title", "body_html": "LE PASSÉ COMPOSÉ, LE PRONOM et L'ADVERBE" },
+    { "page_no": 192, "seq": 50, "type": "keypoint", "body_html": "Hier, je <strong>me</strong> suis disputée avec Paul. Je <strong>lui</strong> ai rendu ses lettres.<br>J'ai <strong>beaucoup</strong> pleuré et j'ai <strong>mal</strong> dormi." },
+    { "page_no": 192, "seq": 51, "type": "subhead", "body_html": "LA PLACE du PRONOM COMPLÉMENT" },
+    { "page_no": 192, "seq": 52, "type": "para", "body_html": "<p class='bullet'>Au passé composé, le pronom complément se place <strong>devant</strong> le verbe « être » ou « avoir » :</p><table class='data-table'><tr><td><em>Elle</em></td><td><em>les</em></td><td><em>a invités.</em></td></tr><tr><td>&nbsp;</td><td><em>leur</em></td><td><em>a téléphoné.</em></td></tr><tr><td>&nbsp;</td><td><em>s'</em></td><td><em>est préparée.</em></td></tr><tr><td>&nbsp;</td><td><em>en</em></td><td><em>a acheté.</em></td></tr><tr><td>&nbsp;</td><td><em>y</em></td><td><em>est allée.</em></td></tr></table>" },
+    { "page_no": 192, "seq": 53, "type": "para", "body_html": "<p class='bullet'>On accorde le participe passé avec le pronom complément d'objet direct :<br><em>Elle <strong>les a vus</strong>.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Elle <strong>les a cherchés</strong>.</em></p>" },
+    { "page_no": 192, "seq": 54, "type": "para", "body_html": "<p class='bullet'>Jamais d'accord avec le pronom « <strong>en</strong> » :<br><em>Quand j'ai vu ces belles roses, je les ai achetées. J'en ai acheté quatre.</em></p>" },
+    { "page_no": 192, "seq": 55, "type": "warning", "body_html": "<p class='bullet'>Dans les constructions infinitives, le pronom se place devant l'infinitif.<br>Dites :&nbsp;&nbsp;&nbsp;&nbsp;<em>J'ai voulu <strong>les</strong> inviter.</em><br>Ne dites pas :&nbsp;&nbsp;&nbsp;&nbsp;<em>Je <s>les ai</s> voulu inviter.</em></p>" },
+    { "page_no": 192, "seq": 56, "type": "subhead", "body_html": "LA PLACE de L'ADVERBE" },
+    { "page_no": 192, "seq": 57, "type": "para", "body_html": "<p class='bullet'>Les adverbes de <strong>quantité</strong> et de <strong>qualité</strong> se placent <strong>entre</strong> l'auxiliaire et le participe passé :</p><table class='data-table'><tr><td><em>Elle a</em></td><td><em>beaucoup</em></td><td><em>dormi.</em></td></tr><tr><td>&nbsp;</td><td><em>très peu</em></td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td><em>mal</em></td><td>&nbsp;</td></tr></table>" },
+    { "page_no": 192, "seq": 58, "type": "para", "body_html": "<p class='bullet'>Les adverbes de <strong>lieu</strong> et de <strong>temps</strong> se placent en général <strong>après</strong> le verbe :</p><table class='data-table'><tr><td><em>– Vous avez dîné</em></td><td><em>dehors ?</em></td></tr><tr><td>&nbsp;</td><td><em>tard ?</em></td></tr><tr><td>&nbsp;</td><td><em>tôt ?</em></td></tr></table>" },
+    { "page_no": 192, "seq": 59, "type": "xref", "body_html": "Accord des participes passés, p. 190" },
+
+    { "page_no": 194, "seq": 60, "type": "running_head", "body_html": "LE PASSÉ COMPOSÉ" },
+    { "page_no": 194, "seq": 61, "type": "section_title", "body_html": "LE PASSÉ COMPOSÉ, LA NÉGATION et L'INTERROGATION" },
+    { "page_no": 194, "seq": 62, "type": "keypoint", "body_html": "– <strong>Est-ce que</strong> vous avez travaillé hier ? <strong>Êtes-vous</strong> allé au bureau ?<br>– Non, je <strong>n'ai pas</strong> travaillé. Je <strong>ne suis pas</strong> sorti de la journée." },
+    { "page_no": 194, "seq": 63, "type": "subhead", "body_html": "LA PLACE de la NÉGATION" },
+    { "page_no": 194, "seq": 64, "type": "para", "body_html": "<p class='bullet'>La négation se place <strong>avant</strong> et <strong>après</strong> l'auxiliaire « être » ou « avoir » :</p><table class='data-table'><tr><td><em>Je</em></td><td><strong>ne</strong></td><td><em>suis</em></td><td><strong>pas</strong></td><td><em>sorti.</em></td></tr><tr><td>&nbsp;</td><td><strong>n'</strong></td><td><em>ai</em></td><td><strong>rien</strong></td><td><em>fait.</em></td></tr><tr><td>&nbsp;</td><td><strong>n'</strong></td><td><em>ai</em></td><td><strong>jamais</strong></td><td><em>revu Paul.</em></td></tr><tr><td>&nbsp;</td><td><strong>n'</strong></td><td><em>ai</em></td><td><strong>plus</strong></td><td><em>eu de ses nouvelles.</em></td></tr></table>" },
+    { "page_no": 194, "seq": 65, "type": "para", "body_html": "<p class='bullet'>« <strong>Personne</strong> » se place toujours en fin de phrase :<br><em>Je n'ai vu <strong>personne</strong>.</em><br><em>Je n'ai parlé à <strong>personne</strong>.</em></p>" },
+    { "page_no": 194, "seq": 66, "type": "para", "body_html": "<p class='bullet'>La négation se place avant et après le bloc pronom-auxiliaire :<br><em>Je <strong>ne</strong> les ai <strong>pas</strong> invités.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Elle <strong>ne</strong> lui a <strong>pas</strong> téléphoné.</em></p>" },
+    { "page_no": 194, "seq": 67, "type": "subhead", "body_html": "L'INTERROGATION" },
+    { "page_no": 194, "seq": 68, "type": "para", "body_html": "<p class='bullet'>On utilise l'intonation montante ou « <strong>est-ce que</strong> » :<br><em>– Vous êtes sorti hier ?</em><br><em>– <strong>Est-ce que</strong> vous êtes allé au cinéma ?</em></p>" },
+    { "page_no": 194, "seq": 69, "type": "para", "body_html": "<p class='bullet'>On inverse l'auxiliaire et le pronom :<br><em>– <strong>Avez-vous</strong> aimé le film ?</em><br><em>– <strong>Êtes-vous</strong> rentré en taxi ?</em></p>" },
+    { "page_no": 194, "seq": 70, "type": "para", "body_html": "<p class='bullet'>Avec les <strong>noms</strong>, on utilise un pronom de rappel :<br><em>Marie <strong>est-elle</strong> arrivée ?</em><br><em>Les enfants <strong>ont-ils</strong> bien dormi ?</em><br><em>Le client <strong>a-t-il</strong> téléphoné ?</em>&nbsp;&nbsp;&nbsp;&nbsp;♪&nbsp;&nbsp;<em>(On insère un « t » de liaison entre deux voyelles)</em><br><em>Marie <strong>a-t-elle</strong> laissé un message ?</em></p>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 175, "seq": 1,
+      "instruction_fr": "Répondez aux questions, selon le modèle.",
+      "label": "", "note_html": "– En général, vous déjeunez à la cafétéria ou chez vous ?<br><em class='model'>– En général, je déjeune à la cafétéria, mais hier, j'ai déjeuné chez moi.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – D'habitude, vous mangez de la viande ou du poisson à midi ?<br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – En général, vous dînez chez vous ou au restaurant ?<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – D'habitude, vous travaillez sept ou huit heures par jour ?<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – En général, vous commencez à 8 heures ou à 9 heures ?<br>– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – D'habitude, vous terminez à 6 heures ou à 7 heures ?<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 175, "seq": 2,
+      "instruction_fr": "Répondez aux questions, selon le modèle.",
+      "label": "Vacances en Espagne", "note_html": "– Vous avez passé vos vacances en Espagne ?<br><em class='model'>– Oui, j'ai passé mes vacances en Espagne.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous avez emmené vos enfants ?<br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous avez visité l'Andalousie ?<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous avez écouté du flamenco ?<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous avez filmé une corrida ?<br>– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous avez mangé des « tapas » ?<br>– {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Vous avez rapporté des souvenirs ?<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 175, "seq": 3,
+      "instruction_fr": "Transformez.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– N'acceptez pas leur proposition !<br>– Trop tard : <em class='model'>j'ai accepté</em> !" },
+        { "seq": 2, "type": "cloze", "stem_html": "– Ne signez pas !<br>– Trop tard : {{L}} !" },
+        { "seq": 3, "type": "cloze", "stem_html": "– Ne refusez pas notre offre !<br>– Trop tard : {{L}} !" },
+        { "seq": 4, "type": "cloze", "stem_html": "– Ne démissionnez pas !<br>– Trop tard : {{L}} !" }
+      ]
+    },
+    {
+      "page_no": 175, "seq": 4,
+      "instruction_fr": "Dites dans l'ordre chronologique ce que vous avez fait hier.",
+      "label": "", "note_html": "payer&nbsp;&nbsp;&nbsp;&nbsp;acheter des légumes&nbsp;&nbsp;&nbsp;&nbsp;préparer le repas&nbsp;&nbsp;&nbsp;&nbsp;dîner&nbsp;&nbsp;&nbsp;&nbsp;retirer de l'argent&nbsp;&nbsp;&nbsp;&nbsp;laver la vaisselle",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "<em class='model'>Hier, j'ai retiré de l'argent,</em> {{L}}<br>{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 176, "seq": 5,
+      "instruction_fr": "Mettez les phrases au passé composé, en changeant les expressions de temps.",
+      "label": "", "note_html": "Aujourd'hui, il neige sur toute la France.<br><em class='model'>Hier, il a neigé sur toute la France.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Ce soir, un journaliste interviewe le président de la République.<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Chaque année, la consommation d'énergie augmente.<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Toutes les semaines, <em>L'Express</em> publie un reportage intéressant.<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Tous les mardis, nous mangeons du poisson frais.<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Chaque mois, mon mari arrête de fumer (pendant deux jours...).<br>{{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Chaque année, je joue au casino et je gagne un peu d'argent.<br>{{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Tous les soirs, nous regardons le journal télévisé et nous parlons de politique.<br>{{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Tous les mercredis, Daniel et Mina préparent un plat exotique et invitent des amis.<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 176, "seq": 6,
+      "instruction_fr": "Trouvez les verbes manquants. Faites l'élision, si c'est nécessaire.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Hier matin, <em class='model'>j'ai écouté</em> la radio." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. À midi, vous {{L}} un sandwich ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. La semaine dernière, je {{L}} mes impôts." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Avant-hier, mes amis {{L}} le Louvre." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Paul {{L}} 1 000 € au Loto." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Hier, tu {{L}} la télévision ?" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Mardi dernier, nous {{L}} aux échecs." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Hier soir, on {{L}} de la musique." },
+        { "seq": 9, "type": "cloze", "stem_html": "9. Pour ma fête, je {{L}} des amis." },
+        { "seq": 10, "type": "cloze", "stem_html": "10. Tu {{L}} des légumes au marché ?" }
+      ]
+    },
+    {
+      "page_no": 176, "seq": 7,
+      "instruction_fr": "Faites des phrases au passé composé en donnant des précisions (quoi, où, quand, qui, etc.).",
+      "label": "", "note_html": "déjeuner/manger&nbsp;&nbsp;&nbsp;&nbsp;acheter/payer&nbsp;&nbsp;&nbsp;&nbsp;jouer/gagner&nbsp;&nbsp;&nbsp;&nbsp;inviter/parler<br>commencer/terminer&nbsp;&nbsp;&nbsp;&nbsp;déjeuner/dîner&nbsp;&nbsp;&nbsp;&nbsp;rencontrer/parler&nbsp;&nbsp;&nbsp;&nbsp;écouter/télécharger<br><em class='model'>Hier, j'ai déjeuné chez moi et j'ai mangé des pâtes.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "<em class='model'>Hier, j'ai déjeuné chez moi et j'ai mangé des pâtes.</em><br>{{L}}<br>{{L}}<br>{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 177, "seq": 8,
+      "instruction_fr": "M. Pascal a quitté son travail et sa famille sans explication. Un policier enquête.",
+      "label": "M. Pascal", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "<p class='sample'><strong>M. Pascal</strong></p>À 8 h, M. Pascal embrasse sa femme et il accompagne ses enfants à l'école.<br>À 8 h 30, il retire un sac du pressing. Il paye en liquide.<br>À 9 h, il achète <em>Le Figaro</em> à la papeterie. Il bavarde avec Mme Rolin, la vendeuse.<br>Ils parlent du temps. Quand Mme Rolin parle de la crise économique, M. Pascal a l'air bizarre. Il quitte le magasin et il traverse la rue sans regarder.<br><br><strong>Rapport d'enquête</strong><br><em class='model'>Hier matin, à 8 heures, M. Pascal</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 177, "seq": 9,
+      "instruction_fr": "Mettez au futur proche, puis au passé composé.",
+      "label": "", "note_html": "Aujourd'hui, j'achète de la viande pour dîner.<br><em class='model'>Demain, je vais acheter du poisson. Hier, j'ai acheté du poulet.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Aujourd'hui, j'invite Julien chez moi.<br>{{L}}&nbsp;&nbsp;&nbsp;&nbsp;{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Ce soir, nous regardons une émission scientifique à la télé.<br>{{L}}&nbsp;&nbsp;&nbsp;&nbsp;{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Cette année, Jean-Louis visite l'Écosse.<br>{{L}}&nbsp;&nbsp;&nbsp;&nbsp;{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Cette semaine, je garde les enfants de ma fille.<br>{{L}}&nbsp;&nbsp;&nbsp;&nbsp;{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Ce mois-ci, vous travaillez avec des étudiants anglais.<br>{{L}}&nbsp;&nbsp;&nbsp;&nbsp;{{L}}" }
+      ]
+    },
+    {
+      "page_no": 177, "seq": 10,
+      "instruction_fr": "Mettez au passé composé et au futur proche, en précisant librement les compléments.",
+      "label": "", "note_html": "<em class='model'>Hier, j'ai mangé des fraises.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>Demain, je vais manger du melon.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "manger&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>Hier, j'ai mangé des fraises.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>Demain, je vais manger du melon.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "inviter&nbsp;&nbsp;&nbsp;&nbsp;{{L}}&nbsp;&nbsp;&nbsp;&nbsp;{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "visiter&nbsp;&nbsp;&nbsp;&nbsp;{{L}}&nbsp;&nbsp;&nbsp;&nbsp;{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "regarder&nbsp;&nbsp;&nbsp;&nbsp;{{L}}&nbsp;&nbsp;&nbsp;&nbsp;{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "écouter&nbsp;&nbsp;&nbsp;&nbsp;{{L}}&nbsp;&nbsp;&nbsp;&nbsp;{{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "ranger&nbsp;&nbsp;&nbsp;&nbsp;{{L}}&nbsp;&nbsp;&nbsp;&nbsp;{{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "travailler&nbsp;&nbsp;&nbsp;&nbsp;{{L}}&nbsp;&nbsp;&nbsp;&nbsp;{{L}}" }
+      ]
+    },
+    {
+      "page_no": 179, "seq": 11,
+      "instruction_fr": "Mettez les phrases au passé composé.",
+      "label": "", "note_html": "Je mange un croissant et je bois un café.&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>J'ai mangé un croissant et j'ai bu un café.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Georges achète le journal et il prend l'autobus.<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Marie met un imperméable et elle prend un parapluie.<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Nous buvons un café et nous mangeons un croissant.<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Vous lisez le journal et vous voyez une annonce intéressante.<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Julie écrit à sa mère et elle poste la lettre.<br>{{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Tu finis ton travail et tu écris à tes amis.<br>{{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Nous perdons nos clés et nous devons appeler les pompiers.<br>{{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Il y a une grève des transports et je dois rentrer à pied.<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 179, "seq": 12,
+      "instruction_fr": "Complétez, selon le modèle.",
+      "label": "", "note_html": "En général, je bois une tisane le soir, mais hier soir, <em class='model'>j'ai bu un double whisky.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Chaque mois, je reçois une ou deux cartes postales, mais la semaine dernière, {{L}} huit lettres !" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. D'habitude, je bois deux cafés par jour, pas plus, mais hier, {{L}} au moins cinq cafés." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. En général, je lis un roman par mois, mais le mois dernier, {{L}} trois romans et deux pièces de théâtre." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Le matin, j'attends le bus cinq minutes environ, mais hier matin, {{L}} plus de trente minutes." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. En général, je perds trois parapluies par hiver, mais l'hiver dernier, {{L}} au moins dix parapluies." }
+      ]
+    },
+    {
+      "page_no": 179, "seq": 13,
+      "instruction_fr": "Mettez au passé composé.",
+      "label": "Ta lettre", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Ouvrir une lettre et avoir un choc<br><em class='model'>J'ai ouvert</em> {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "Boire de l'alcool et avoir mal à la tête<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Prendre sa voiture et conduire dans la nuit<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Brûler un feu rouge et être arrêté par la police<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "Plaire au gendarme et payer une légère amende<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 180, "seq": 14,
+      "instruction_fr": "Complétez les phrases avec les verbes manquants au passé composé.",
+      "label": "", "note_html": "répondre&nbsp;&nbsp;&nbsp;&nbsp;grandir&nbsp;&nbsp;&nbsp;&nbsp;traduire&nbsp;&nbsp;&nbsp;&nbsp;choisir&nbsp;&nbsp;&nbsp;&nbsp;pleuvoir&nbsp;&nbsp;&nbsp;&nbsp;découvrir",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Vos parents vous ont écrit. Vous <em class='model'>avez répondu</em> à leurs lettres ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Tous les pantalons de mon fils sont trop courts ; il {{L}} de 10 centimètres en 2 mois." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Charles est un grand traducteur : il {{L}} presque tout Shakespeare." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Christophe Colomb {{L}} l'Amérique en 1492." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. J'ai longtemps hésité entre la robe rouge et la robe bleue, et finalement je {{L}} la bleue." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. La campagne est verte cette année : il {{L}} trois mois sans interruption !" }
+      ]
+    },
+    {
+      "page_no": 180, "seq": 15,
+      "instruction_fr": "Mettez le texte au passé composé.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Deux jeunes gens veulent partir faire des fouilles archéologiques dans le désert. Ils doivent faire une demande spéciale. Finalement, ils peuvent partir grâce à un ami de leurs parents. Ils croient être assez résistants pour travailler un mois. En fait, il faut les rapatrier au bout d'une semaine.<br>{{L}}<br>{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 180, "seq": 16,
+      "instruction_fr": "Mettez au passé composé.",
+      "label": "« La vie sans Rose »", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Je vois le temps par la fenêtre<br>(un ciel gris vraiment morose).<br>{{L}}" },
+        { "seq": 2, "type": "transform", "stem_html": "J'ai du mal à me lever<br>(à cause de mon arthrose).<br>{{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "J'entends le chien aboyer<br>(pour réclamer son « Dogdose »)<br>{{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "Je reçois un peu de courrier<br>(mais pas de lettre de Rose).<br>{{L}}" },
+        { "seq": 5, "type": "transform", "stem_html": "Je lis le programme télé<br>(comme toujours, pas grand-chose)<br>{{L}}" },
+        { "seq": 6, "type": "transform", "stem_html": "Je bois un peu de rosé et<br>je vois des éléphants roses !<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 180, "seq": 17,
+      "instruction_fr": "Mettez au passé composé.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Le chevalier ouvre le coffre. Il découvre un manteau brodé d'or. Il offre le manteau à la reine.<br>Il lui couvre tendrement les épaules. Il souffre en silence, il ouvre la porte et il disparaît à jamais.<br>{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 181, "seq": 18,
+      "instruction_fr": "Complétez avec les verbes manquants, selon le modèle.",
+      "label": "Une soirée bon marché", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Hier soir, <em class='model'>j'ai mis</em> un gros pull, {{L}} mon parapluie et {{L}} l'autobus pour aller au cinéma. Dans une épicerie, {{L}} un paquet de biscuits et une bouteille de Coca. {{L}} le Coca en marchant et {{L}} les biscuits dans la queue du cinéma. {{L}} dix minutes pour dîner et {{L}} quatre euros. Dans la même soirée, {{L}} deux films : un film anglais et un film polonais. À minuit, {{L}} un taxi. {{L}} seulement huit euros. Finalement, {{L}} une bonne soirée, pas très chère…" }
+      ]
+    },
+    {
+      "page_no": 181, "seq": 19,
+      "instruction_fr": "Mettez les phrases au passé composé, selon le modèle.",
+      "label": "", "note_html": "Passer un examen/réussir avec mention&nbsp;&nbsp;&nbsp;&nbsp;Conduire dans la nuit/mettre de la musique<br>Prendre le métro/revoir un vieil ami&nbsp;&nbsp;&nbsp;&nbsp;Suivre un régime/perdre 10 kg<br>Vivre en Norvège/découvrir des endroits magiques&nbsp;&nbsp;&nbsp;&nbsp;Manger des huîtres/être malade",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Passer un examen/réussir avec mention<br><em class='model'>J'ai passé un examen et</em> {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "Prendre le métro/revoir un vieil ami<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Vivre en Norvège/découvrir des endroits magiques<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Conduire dans la nuit/mettre de la musique<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "Suivre un régime/perdre 10 kg<br>{{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "Manger des huîtres/être malade<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 181, "seq": 20,
+      "instruction_fr": "Transformez le sondage selon le modèle.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "1. Manger du caviar : 35 %<br><em class='model'>Trente-cinq pour cent des Français ont mangé du caviar au moins une fois dans leur vie.</em>" },
+        { "seq": 2, "type": "transform", "stem_html": "2. Participer à une manifestation de rue : 32 %<br>{{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "3. Prendre des médicaments pour dormir : 30 %<br>{{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "4. Gagner à un jeu national (Loterie, Tac-o-Tac) : 21 %<br>{{L}}" },
+        { "seq": 5, "type": "transform", "stem_html": "5. Faire une dépression nerveuse : 18 %<br>{{L}}" },
+        { "seq": 6, "type": "transform", "stem_html": "6. Consulter une voyante : 15 %<br>{{L}}" },
+        { "seq": 7, "type": "transform", "stem_html": "7. Faire un chèque sans provision : 13 %<br>{{L}}" },
+        { "seq": 8, "type": "transform", "stem_html": "8. Chanter dans un Karaoké : 3 %<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 181, "seq": 21,
+      "instruction_fr": "Lesquelles des expériences citées ci-dessus avez-vous faites une fois au moins dans votre vie ?",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 183, "seq": 22,
+      "instruction_fr": "Répondez selon le modèle.",
+      "label": "", "note_html": "– Vous êtes venu(e) ici en métro, hier ?&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>– Oui, hier, je suis venu(e) ici en métro.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous êtes venu(e) en taxi, la première fois ? &nbsp;– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous êtes allé(e) à l'hôtel à pied, hier soir ? &nbsp;– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous êtes passé(e) par le centre-ville ? &nbsp;– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous êtes arrivé(e) avant six heures ? &nbsp;– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous êtes ressorti(e) une heure plus tard ? &nbsp;– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 183, "seq": 23,
+      "instruction_fr": "Complétez librement au passé composé.",
+      "label": "", "note_html": "L'ascenseur est monté au 6<sup>e</sup> étage et <em class='model'>il est descendu au 3<sup>e</sup></em>.",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. L'avion est arrivé à 15 heures et il {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Les touristes sont montés sur la tour Eiffel en ascenseur et ils {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Les étudiants sont entrés dans la classe à 9 heures et ils {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Mes amis sont venus chez moi, puis ils {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. John F. Kennedy est né en 1917 et il {{L}}" }
+      ]
+    },
+    {
+      "page_no": 183, "seq": 24,
+      "instruction_fr": "Racontez les événements de la journée d'hier, selon le modèle.",
+      "label": "Faits divers", "note_html": "Un avion arrive à Orly.&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>Un avion est arrivé à Orly.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Un avion arrive à Orly.<br><em class='model'>Un avion est arrivé à Orly.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "Un bébé naît dans une maternité.<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Une cigogne passe dans le ciel gris.<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Jean arrive des États-Unis.<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "Des enfants vont au bord de la mer.<br>{{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "Deux voleurs entrent dans un appartement.<br>{{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "Un homme d'État meurt dans son lit.<br>{{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "Un grand écrivain rentre dans son pays.<br>{{L}}" },
+        { "seq": 9, "type": "cloze", "stem_html": "Jean monte dans un taxi.<br>{{L}}" },
+        { "seq": 10, "type": "cloze", "stem_html": "Une femme sort sous la pluie.<br>{{L}}" },
+        { "seq": 11, "type": "cloze", "stem_html": "Un homme tombe amoureux.<br>{{L}}" },
+        { "seq": 12, "type": "cloze", "stem_html": "Jean rentre chez lui.<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 183, "seq": 25,
+      "instruction_fr": "Imaginez les déplacements d'un chat.",
+      "label": "", "note_html": "à la cave&nbsp;&nbsp;&nbsp;&nbsp;dans la cour&nbsp;&nbsp;&nbsp;&nbsp;sur le toit&nbsp;&nbsp;&nbsp;&nbsp;par la fenêtre&nbsp;&nbsp;&nbsp;&nbsp;dans la chambre&nbsp;&nbsp;&nbsp;&nbsp;dans la rue&nbsp;&nbsp;&nbsp;&nbsp;sous le portail",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Mon chat {{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 184, "seq": 26,
+      "instruction_fr": "Complétez, selon le modèle.",
+      "label": "Mon grand-père", "note_html": "naître<br>rester<br>mourir<br>devenir<br>intervenir<br>mourir<br>devenir<br>rester<br>sortir<br>venir<br>aller<br>naître<br>aller<br>monter<br>redescendre<br>sortir<br>aller",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Mon grand-père <em class='model'>est né</em> en Provence. Il {{L}} toute sa vie en Provence et il {{L}} à 102 ans dans son village natal. On dit, dans la famille, que s'il {{L}} si vieux, c'est parce qu'il n' {{L}} jamais {{L}} dans les affaires du village : il est vrai que tous ses amis, qui {{L}} assez jeunes, {{L}} un jour ou l'autre maires ou conseillers municipaux. Ma grand-mère et mon grand-père {{L}} à l'écart du monde. Ils {{L}} du village seulement pour aller voir leurs enfants : ils {{L}} chez nous (à 30 km !) pour notre mariage et ils {{L}} chez ma sœur quand son bébé {{L}} . La dernière fois que nous {{L}} les voir, les enfants et mon grand-père {{L}} au grenier et ils {{L}} chargés de vieux atlas entièrement annotés : mon grand-père n' {{L}} jamais {{L}} de sa Provence, mais il {{L}} partout avec son imagination." }
+      ]
+    },
+    {
+      "page_no": 184, "seq": 27,
+      "instruction_fr": "Racontez votre dernier week-end.",
+      "label": "Week-end à Rome", "note_html": "",
+      "has_image": true, "scan_pages": [184],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Je pars de Paris le samedi à 11 heures et j'arrive à Rome vers 13 heures. Je passe à l'hôtel Arenula<br>{{L}}<br>pour laisser mes bagages et je vais au Capitole. Je reste sur les escaliers de la place Michel-Ange<br>{{L}}<br>jusqu'à 16 heures. Ensuite, je vais sur l'île Tibérine : je passe par le « ghetto », puis je monte sur le<br>{{L}}<br>Janicule pour voir le coucher de soleil. Le soir, je retourne à l'hôtel pour me<br>{{L}}<br>changer, puis je sors pour aller dîner dans le quartier du Panthéon. Ensuite,<br>{{L}}<br>je vais manger une glace sur la place Navona. Je rentre à l'hôtel vers minuit.<br>{{L}}<br>Le dimanche, je reste toute la journée au soleil à la Villa Borghese. Je rentre<br>{{L}}<br>à pied à l'hôtel. Je pars de Rome à 18 heures et j'arrive à Paris à 20 heures.<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 185, "seq": 28,
+      "instruction_fr": "Complétez librement au passé composé.",
+      "label": "", "note_html": "En général, le matin, nous allons à l'école, mais hier, <em class='model'>nous sommes allés au cinéma.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. D'habitude, nous arrivons avant neuf heures,<br>mais hier, {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Le soir, nous rentrons à pied,<br>mais hier, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le vendredi, nous sortons à six heures,<br>mais vendredi dernier, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Le lundi, nous restons jusqu'à sept heures trente,<br>mais lundi dernier, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Le dimanche, nous allons à la campagne,<br>mais dimanche dernier, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 185, "seq": 29,
+      "instruction_fr": "Complétez le texte, puis répondez aux questions.",
+      "label": "M. Müller raconte", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "C'est la deuxième fois que nous venons à Paris. La première fois, nous {{L}} pour notre voyage de noces en décembre 1975. Nous {{L}} dans un très bel hôtel, près de la place des Vosges. Naturellement, le premier jour, nous {{L}} sur la tour Eiffel ; le deuxième jour, nous {{L}} à Versailles et le troisième jour, nous {{L}} au Louvre. Nous {{L}} tous les soirs pendant quinze jours, mais les deux derniers jours, nous {{L}} au lit, grippés, épuisés et sans un sou…" },
+        { "seq": 2, "type": "open", "stem_html": "1. En quelle année M. et Mme Müller sont-ils venus à Paris ? {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "2. Est-ce qu'ils sont venus à Paris pour leur travail ? {{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "3. Est-ce qu'ils sont allés dans un petit hôtel bon marché ? {{L}}" },
+        { "seq": 5, "type": "open", "stem_html": "4. Où sont-ils allés le premier jour ? {{L}}" },
+        { "seq": 6, "type": "open", "stem_html": "5. Est-ce qu'ils sont sortis tous les soirs ? {{L}}" },
+        { "seq": 7, "type": "open", "stem_html": "6. Est-ce qu'ils sont sortis les deux derniers jours ? {{L}}" }
+      ]
+    },
+    {
+      "page_no": 185, "seq": 30,
+      "instruction_fr": "Racontez vos dernières vacances. Où êtes-vous allé(e) ? Comment êtes-vous parti(e) ? Combien de temps êtes-vous resté(e) ?",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 187, "seq": 31,
+      "instruction_fr": "Répondez aux questions, selon le modèle.",
+      "label": "", "note_html": "– Vous vous êtes levé(e) tôt ce matin ?&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>– Oui, je me suis levé(e) tôt ce matin.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous vous êtes couché(e) tard hier soir ? {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous vous êtes reposé(e) dimanche dernier ? {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous vous êtes promené(e) dans les rues ? {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous vous êtes assis(e) dans les jardins ? {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous vous êtes arrêté(e) devant les vitrines ? {{L}}" }
+      ]
+    },
+    {
+      "page_no": 187, "seq": 32,
+      "instruction_fr": "Complétez le dialogue, selon le modèle.",
+      "label": "", "note_html": "– Ma fille s'est levée à midi.&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>– Nos enfants se sont levés à midi, eux aussi !</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Mon fils s'est bien amusé au cirque. – Ma fille {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Mes amis se sont ennuyés au théâtre. – Ma femme {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Je me suis dépêché pour arriver à l'heure. – Je {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – On s'est couchés tard hier soir. – Nous {{L}}" }
+      ]
+    },
+    {
+      "page_no": 187, "seq": 33,
+      "instruction_fr": "Répondez en utilisant des pronominaux réciproques, selon le modèle.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Quand avez-vous connu vos amis espagnols ? (1990, Barcelone)<br><em class='model'>– Nous nous sommes connus en 1990, à Barcelone.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Où avez-vous rencontré votre femme ? (plage de Saint-Tropez, hiver)<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Où vous êtes-vous mariés ? (église de la Madeleine, printemps)<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Quand avez-vous connu Arthur ? (1981, concert des Clash)<br>– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Quand vous êtes-vous revus ? (2007, concert des Rita Mitsuko)<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 187, "seq": 34,
+      "instruction_fr": "Énumérez vos activités de ce matin",
+      "label": "", "note_html": "",
+      "has_image": true, "scan_pages": [187],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "<em class='model'>Je me suis réveillé(e) à 7 h, puis je me</em> {{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 187, "seq": 35,
+      "instruction_fr": "Racontez au passé en utilisant les verbes pronominaux ci-dessous.",
+      "label": "", "note_html": "Une bagarre : se disputer, s'insulter, se battre, se réconcilier, se serrer la main.",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "<em class='model'>Les deux hommes se sont</em> {{L}}<br>{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 188, "seq": 36,
+      "instruction_fr": "Complétez avec « être » ou « avoir » et les formes pronominales, si c'est nécessaire.",
+      "label": "Confusion", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Hier matin, Paula <em class='model'>s'est</em> levée très tôt. Elle {{b}} monté les escaliers en vitesse. Elle {{b}} arrêtée au bar pour prendre un café. Quand elle {{b}} sorti son portefeuille pour payer, une photo {{b}} tombée par terre. Un garçon brun {{b}} ramassé la photo. Il {{b}} regardé Paula et il {{b}} souri. Ils {{b}} commencé à bavarder et ils {{b}} passé toute la matinée ensemble. Paula {{b}} tout oublié ce jour-là. C'est à dix heures du soir qu'elle {{b}} souvenue de son rendez-vous chez le dentiste." }
+      ]
+    },
+    {
+      "page_no": 188, "seq": 37,
+      "instruction_fr": "De votre fenêtre, vous observez l'immeuble d'en face. Racontez au passé composé.",
+      "label": "Scène de ménage", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Un homme et une femme sortent d'une voiture blanche. Ils entrent dans l'immeuble d'en face. Ils montent<br><em class='model'>Un homme et une femme sont sortis</em><br>au 5<sup>e</sup> en ascenseur. Ils vont quelques minutes dans le salon. Ensuite, ils vont dans la cuisine. L'homme<br>{{L}}<br>se lave les mains, mais aïe, aïe, aïe ! il se trompe de robinet. Il se brûle. Il se met en colère. La femme se<br>{{L}}<br>précipite, sa robe s'accroche à la table. La table se renverse. Les verres et les assiettes tombent par terre<br>{{L}}<br>et se cassent. L'homme se fâche. La femme se met à pleurer. Ils se disputent. Ils se battent. Alors, furieux,<br>{{L}}<br>l'homme part dans sa chambre. Il s'enferme. Il se déshabille. Il se met au lit. La femme reste longtemps à la<br>{{L}}<br>fenêtre. Puis elle sort. Elle descend au 4<sup>e</sup>. Elle s'arrête devant une porte. Elle entre. Elle se jette<br>{{L}}<br>dans les bras d'une femme plus âgée. Plus tard, elle se couche sur le divan du salon et elle s'endort. Le matin,<br>{{L}}<br>elle sort, elle va au café du coin. Son mari et elle se rencontrent dans la rue. Ils se regardent et ils s'embrassent.<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 188, "seq": 38,
+      "instruction_fr": "Mettez au passé composé avec « être » ou « avoir ».",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "1. Il descend à pied. {{L}}" },
+        { "seq": 2, "type": "transform", "stem_html": "2. Il passe une mauvaise nuit. {{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "3. Elle descend la rue. {{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "4. Elle passe devant le bar. {{L}}" },
+        { "seq": 5, "type": "transform", "stem_html": "5. Ils rentrent chez eux. {{L}}" },
+        { "seq": 6, "type": "transform", "stem_html": "6. Ils se recouchent. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 189, "seq": 39,
+      "instruction_fr": "Mettez au passé composé avec « être » ou « avoir ».",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. (sortir)&nbsp;&nbsp;&nbsp;&nbsp;– Paul {{L}} le chien ? – Oui, il {{L}} avec Pif !" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. (monter)&nbsp;&nbsp;&nbsp;&nbsp;– Vous {{L}} sur la tour Eiffel ? – Oui, et nous {{L}} les escaliers à pied !" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. (passer)&nbsp;&nbsp;&nbsp;&nbsp;Briget {{L}} à la banque et elle {{L}} l'après-midi dans les boutiques." }
+      ]
+    },
+    {
+      "page_no": 189, "seq": 40,
+      "instruction_fr": "Complétez avec « être » ou « avoir ».",
+      "label": "Les techniciens", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Les techniciens <em class='model'>ont</em> examiné la turbine. Ils {{b}} démonté tous les éléments. Ils {{b}} allés contrôler la chaudière. Ils {{b}} passé plusieurs heures au sous-sol. Ils {{b}} restés très tard à l'usine. L'ingénieur en chef {{b}} arrivé dans la soirée. Il {{b}} posé beaucoup de questions. Il {{b}} contrôlé la pression de la machine. Tous les employés {{b}} partis à vingt heures. Les techniciens {{b}} retournés à l'usine le lendemain matin." }
+      ]
+    },
+    {
+      "page_no": 189, "seq": 41,
+      "instruction_fr": "Complétez avec « être » ou « avoir ».",
+      "label": "À Lisbonne", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Bernard et moi, nous <em class='model'>sommes</em> arrivés à Lisbonne le jour de la fête de la Saint-Jean. Nous nous {{b}} promenés dans le quartier de l'Alfama. Nous nous {{b}} assis sur les escaliers au milieu des enfants et nous {{b}} mangé des sardines grillées. Je {{b}} réussi à dire quelques mots de portugais. Les enfants se {{b}} moqués de moi gentiment et nous {{b}} devenus amis. Un orchestre {{b}} commencé à jouer et tout le monde {{b}} dansé. Nous {{b}} chanté et nous nous {{b}} amusés comme des fous. Bernard {{b}} bu beaucoup de porto et moi, je {{b}} dansé toute la nuit. Le lendemain, nous {{b}} dû aller à la pharmacie pour acheter de l'aspirine (pour sa migraine) et du sparadrap (pour mes pieds)." }
+      ]
+    },
+    {
+      "page_no": 189, "seq": 42,
+      "instruction_fr": "Les années 60. Mettez au passé composé.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "<strong>1960</strong>&nbsp;&nbsp;&nbsp;&nbsp;John Kennedy devient président des États-Unis.<br><em class='model'>En 1960,</em> {{L}}" },
+        { "seq": 2, "type": "transform", "stem_html": "<strong>1961</strong>&nbsp;&nbsp;&nbsp;&nbsp;Le Mur de Berlin est construit en une nuit.<br>{{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "<strong>1962</strong>&nbsp;&nbsp;&nbsp;&nbsp;Marilyn Monroe se suicide.<br>{{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "<strong>1963</strong>&nbsp;&nbsp;&nbsp;&nbsp;Le président Kennedy est assassiné.<br>{{L}}" },
+        { "seq": 5, "type": "transform", "stem_html": "<strong>1967</strong>&nbsp;&nbsp;&nbsp;&nbsp;Les colonels prennent le pouvoir en Grèce.<br>{{L}}" },
+        { "seq": 6, "type": "transform", "stem_html": "<strong>1968</strong>&nbsp;&nbsp;&nbsp;&nbsp;En France, les étudiants manifestent et les ouvriers font la grève.<br>{{L}}" },
+        { "seq": 7, "type": "transform", "stem_html": "<strong>1969</strong>&nbsp;&nbsp;&nbsp;&nbsp;Neil Armstrong marche sur la Lune !<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 189, "seq": 43,
+      "instruction_fr": "Énumérez quelques grands événements du siècle dernier.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 191, "seq": 44,
+      "instruction_fr": "Accordez si c'est nécessaire.",
+      "label": "Confidences", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Hier soir, Marie est <em class='model'>allée</em> au cinéma avec son amie Julia. Elles sont rentr{{b}} à neuf heures pour dîner. Ensuite, elles sont mont{{b}} dans la chambre et elles se sont enferm{{b}} pour se raconter des secrets. Elles se sont endorm{{b}} tard et, ce matin, elles sont rest{{b}} au lit jusqu'à une heure." }
+      ]
+    },
+    {
+      "page_no": 191, "seq": 45,
+      "instruction_fr": "Accordez si c'est nécessaire.",
+      "label": "Love story", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Paul et Marie se sont rencontr{{b}} dans la queue du cinéma. Ils se sont regard{{b}} et ils se sont sour{{b}}. Ils se sont retrouv{{b}} à la sortie : ils se sont parl{{b}} et ils se sont promen{{b}} toute la soirée. Ils se sont rev{{b}} le lendemain et, depuis, ils ne se sont plus quit{{b}} !" }
+      ]
+    },
+    {
+      "page_no": 191, "seq": 46,
+      "instruction_fr": "Mettez les terminaisons manquantes.",
+      "label": "Grandir", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Anna est tomb{{b}} dans l'escalier. Elle s'est cass{{b}} la jambe et elle est all{{b}} à l'hôpital. Pendant sa convalescence, ses enfants se sont débrouill{{b}} tout seuls ; ils se sont lev{{b}} tôt, ils se sont lav{{b}} les cheveux, ils se sont prépar{{b}} pour aller à l'école et ils se sont occup{{b}} de la maison : en un mois, ils sont deven{{b}} complètement autonomes !" }
+      ]
+    },
+    {
+      "page_no": 191, "seq": 47,
+      "instruction_fr": "Mettez les terminaisons manquantes.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Dimanche dernier, nous nous sommes promen<em class='model'>és</em> dans les bois et nous avons ramass{{b}} des champignons. Mais les champignons que nous avons ramass{{b}} étaient vénéneux et nous les avons jet{{b}} ." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Ma sœur a organis{{b}} une fête et elle a invit{{b}} des amis. Les garçons qu'elle a invit{{b}} étaient sympathiques, mais les filles qui sont ven{{b}} étaient désagréables. Elles ont tout critiqu{{b}} et elles sont rest{{b}} toute la soirée dans leur coin." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Les enfants sont rest{{b}} sous la pluie pendant une heure et ils ont attrap{{b}} un rhume. Je les ai soign{{b}} à ma manière : je leur ai donn{{b}} un bain chaud, je les ai frott{{b}} avec de l'eau de Cologne, je leur ai donn{{b}} une tisane et je les ai envoy{{b}} au lit tout de suite." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Quand j'ai trouv{{b}} dans ce petit magasin les disques de Murolo que je cherchais depuis des années, j'étais si contente que je les ai tous achet{{b}} . Je les ai enregistr{{b}} et je les ai écout{{b}} toute la soirée. Les chansons que j'ai enregistr{{b}} sont une pure merveille." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Isabelle et sa sœur se sont inscri{{b}} à un cours de dessin. Le professeur a beaucoup aimé les peintures qu'elles ont fai{{b}} . Il les a mi{{b}} sur le mur et le journal de l'école les a reprodui{{b}} ." }
+      ]
+    },
+    {
+      "page_no": 193, "seq": 48,
+      "instruction_fr": "Posez les questions et répondez avec des pronoms, selon le modèle.",
+      "label": "Balade en Bourgogne", "note_html": "Téléphoner à Pierre<br>Aller en Bourgogne<br>Boire du vin rouge<br>Parler aux viticulteurs<br>Acheter du vin",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Téléphoner à Pierre<br><em class='model'>– Vous avez téléphoné à Pierre ? – Oui, je lui ai téléphoné.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "Aller en Bourgogne<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Boire du vin rouge<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Parler aux viticulteurs<br>– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "Acheter du vin<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 193, "seq": 49,
+      "instruction_fr": "Complétez en utilisant des pronoms.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. (manger)&nbsp;&nbsp;&nbsp;&nbsp;J'ai acheté des pêches <em class='model'>et je les ai mangées.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. (inviter)&nbsp;&nbsp;&nbsp;&nbsp;J'ai rencontré des amis {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. (offrir)&nbsp;&nbsp;&nbsp;&nbsp;J'ai acheté des fleurs {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. (trouver)&nbsp;&nbsp;&nbsp;&nbsp;J'ai cherché mes lunettes {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. (mettre)&nbsp;&nbsp;&nbsp;&nbsp;J'ai acheté une robe et {{L}}" }
+      ]
+    },
+    {
+      "page_no": 193, "seq": 50,
+      "instruction_fr": "Répondez en utilisant des pronoms.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous avez pris vos clés ?<br><em class='model'>– Oui, je les ai prises.</em><br>– Où les avez-vous mises ?<br><em class='model'>– Je les ai mises dans mon sac.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous avez écrit vos lettres ?<br>– {{L}}<br>– Quand les avez-vous postées ?<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous avez parlé aux voisins ?<br>– {{L}}<br>– Quand les avez-vous vus ?<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 193, "seq": 51,
+      "instruction_fr": "Mettez au passé composé en changeant les adverbes.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Tu joues mal aux cartes, mais hier soir, <em class='model'>tu as bien joué.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Paul boit peu en général, mais hier soir, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je dors bien en hiver, mais hier soir, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Marie mange très peu, mais hier soir, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Ce pianiste joue bien, mais hier soir, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 193, "seq": 52,
+      "instruction_fr": "Répondez en utilisant un adverbe, selon le modèle.",
+      "label": "", "note_html": "1. – Votre chiffre d'affaire a augmenté ? (beaucoup)&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>– Oui, il a beaucoup augmenté.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Votre chiffre d'affaire a augmenté ? (beaucoup)&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>– Oui, il a beaucoup augmenté.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – La situation s'est améliorée ? (bien)&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Le personnel s'est investi ? (beaucoup)&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Les consommateurs ont réagi ? (bien)&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Les prix ont augmenté ? (un peu)&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 195, "seq": 53,
+      "instruction_fr": "Répondez à la forme négative.",
+      "label": "", "note_html": "– Êtes-vous allé au cinéma samedi dernier ?&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>– Non, je ne suis pas allé au cinéma.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Êtes-vous allé à la campagne ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Êtes-vous monté sur la tour Eiffel ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Avez-vous dîné au restaurant ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Avez-vous invité vos amis ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Avez-vous révisé vos leçons ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 195, "seq": 54,
+      "instruction_fr": "Donnez un avis opposé, à la forme négative.",
+      "label": "Au théâtre", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Ma femme a aimé.<br><em class='model'>Moi, je n'ai pas aimé.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "Elle a ri.<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Elle a pleuré.<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Elle a crié.<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "Elle a applaudi.<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 195, "seq": 55,
+      "instruction_fr": "Répondez en utilisant la négation et les pronoms, et en faisant les accords si c'est nécessaire.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous avez retrouvé vos clés ? <em class='model'>– Non, je ne les ai pas retrouvées.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous avez fini vos exercices ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous avez fait votre valise ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous avez pris vos affaires ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous avez payé vos impôts ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 195, "seq": 56,
+      "instruction_fr": "Posez les questions, selon le modèle. ➤ Interrogez des amis sur leurs dernières vacances.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. <em class='model'>– Où êtes-vous allés pour les vacances ?</em> – Nous sommes allés en Russie." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – {{L}} – Nous y sommes restés deux semaines." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – {{L}} – Nous sommes allés à l'hôtel Kalinka." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – {{L}} – Nous avons visité Saint-Pétersbourg et Moscou." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – {{L}} – Nous sommes partis le 15 juillet." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – {{L}} – Nous avons dépensé deux mille euros." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – {{L}} – Nous sommes rentrés samedi." }
+      ]
+    },
+    {
+      "page_no": 195, "seq": 57,
+      "instruction_fr": "Répondez négativement.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Vous avez mangé quelque chose à onze heures ? Vous avez bu quelque chose ? Vous avez rencontré quelqu'un ?<br>Vous avez fait quelque chose le week-end dernier ? Vous avez invité quelqu'un ?<br>{{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 196, "seq": 58,
+      "instruction_fr": "Complétez le dialogue en utilisant la forme négative et un pronom.",
+      "label": "", "note_html": "– Je n'ai pas vu le dernier film de Li Wang.&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>– Ah bon, vous ne l'avez pas vu !</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Aline n'a pas répondu à Juliette. – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Je n'ai pas reconnu Carla dans la rue. – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Antoine n'a pas acheté de pain. – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Les enfants ne sont pas allés à l'école. – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Nous n'avons pas mangé de gâteau. – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 196, "seq": 59,
+      "instruction_fr": "Complétez les dialogues en utilisant des pronoms.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. (laisser dehors)<br>– Le vélo de Paul est tout rouillé.<br><em class='model'>– Il l'a sûrement laissé dehors.</em><br><em class='model'>– Oui, il a dû le laisser dehors.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. (oublier au bureau)<br>– Je ne trouve plus mes lunettes.<br>– Tu {{L}}<br>– Oui, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. (noter quelque part)<br>– Je ne trouve plus l'adresse de Paul.<br>– Tu {{L}}<br>– Oui, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. (laver à l'eau chaude)<br>– La robe de Marie a rétréci.<br>– Elle {{L}}<br>– Oui, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 196, "seq": 60,
+      "instruction_fr": "Complétez en utilisant « en » et le passé composé.",
+      "label": "", "note_html": "Aujourd'hui, je ne mets qu'un sucre dans mon café, mais hier, <em class='model'>j'en ai mis trois.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Ce matin, je ne mange qu'un croissant, mais {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Cette semaine, je n'ai que deux rendez-vous, mais {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Ce mois-ci, je ne reçois que deux magazines, mais {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Aujourd'hui, je ne bois qu'un café, mais {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Cette semaine, je n'ai que vingt heures de cours, mais {{L}}" }
+      ]
+    },
+    {
+      "page_no": 196, "seq": 61,
+      "instruction_fr": "Mettez au passé composé avec les pronoms et les adverbes.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Marie met trop de vinaigre dans la salade et hier encore, <em class='model'>elle en a trop mis.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Tu parles mal à ta mère et, ce matin encore, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. La secrétaire renseigne mal les clients et hier, de nouveau, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Peter parle beaucoup à ma femme, et hier, comme d'habitude, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Tu mets trop de rouge à lèvres et, hier encore, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 197, "seq": 62,
+      "instruction_fr": "Mettez les verbes au passé composé.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. avoir/rester&nbsp;&nbsp;&nbsp;&nbsp;Marta {{L}} un bébé et elle {{L}} trois jours à l'hôpital." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. se perdre/marcher&nbsp;&nbsp;&nbsp;&nbsp;Les randonneurs {{L}} et ils {{L}} longtemps dans la forêt." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. manger/être&nbsp;&nbsp;&nbsp;&nbsp;Nous {{L}} beaucoup de cerises et nous {{L}} malades." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. se tromper/devoir&nbsp;&nbsp;&nbsp;&nbsp;Je {{L}} dans mon calcul et je {{L}} tout recommencer." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. devoir/sortir&nbsp;&nbsp;&nbsp;&nbsp;Marie est malade : elle {{L}} prendre froid quand elle {{L}} sans veste." }
+      ]
+    },
+    {
+      "page_no": 197, "seq": 63,
+      "instruction_fr": "Mettez les auxiliaires manquants.",
+      "label": "Une vie de chien", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Nous <em class='model'>sommes</em> allés dans les bois, nous nous {{b}} promenés et nous {{b}} ramassé des champignons rouges avec des points blancs. Quand nous {{b}} rentrés, ma mère {{b}} jeté les champignons à la poubelle. Le chien {{b}} renversé la poubelle, il {{b}} mangé les champignons et il {{b}} resté cinq minutes complètement immobile. Nous {{b}} eu très peur et nous {{b}} observé son comportement toute la journée. Notre petit chien {{b}} aboyé un peu plus fort, il {{b}} sauté un peu plus haut, il {{b}} couru un peu plus vite, il {{b}} monté et il {{b}} descendu les escaliers au moins cent fois, mais il {{b}} vécu sa vie de chien, sans problèmes…" }
+      ]
+    },
+    {
+      "page_no": 197, "seq": 64,
+      "instruction_fr": "Mettez les terminaisons manquantes.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Le directeur : Vous avez tap{{b}} toutes les lettres que je vous ai dict{{b}} ?<br>La secrétaire : Oui, je les ai pos{{b}} sur votre bureau.<br>Le directeur : Vous êtes descend{{b}} chercher les nouvelles affiches ?<br>La secrétaire : Quand le gardien est mont{{b}} , il les a apport{{b}} .<br>Le directeur : Vous les avez mi{{b}} dans mon bureau ?<br>La secrétaire : J'en ai mi{{b}} une dans votre bureau et j'en ai pos{{b}} deux dans l'entrée." }
+      ]
+    },
+    {
+      "page_no": 197, "seq": 65,
+      "instruction_fr": "Faites des dialogues, selon le modèle.",
+      "label": "", "note_html": "1. (grèves)&nbsp;&nbsp;&nbsp;&nbsp;– L'année dernière, <em class='model'>il y a eu des grèves ?</em> (une dizaine)&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>– Oui, il y en a eu une dizaine.</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. (grèves)&nbsp;&nbsp;&nbsp;&nbsp;– L'année dernière, <em class='model'>il y a eu des grèves ?</em> (une dizaine)&nbsp;&nbsp;&nbsp;&nbsp;<em class='model'>– Oui, il y en a eu une dizaine.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. (tempêtes)&nbsp;&nbsp;&nbsp;&nbsp;– L'année dernière, {{L}} (deux)<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. (inondations)&nbsp;&nbsp;&nbsp;&nbsp;– Le mois dernier, {{L}} (plusieurs)<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 197, "seq": 66,
+      "instruction_fr": "Mettez au passé composé négatif.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. D'habitude, le bus passe à 7 h, mais il est 8 h et {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. En général, les employés arrivent à 9 h, mais il est 10 h et {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. D'habitude, le gardien m'apporte le courrier à 8 h, mais il est 10 h et {{L}}" }
+      ]
+    }
+  ]
+}

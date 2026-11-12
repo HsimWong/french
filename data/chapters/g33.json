@@ -1,0 +1,170 @@
+{
+  "course": "grammaire",
+  "seq": 33,
+  "title_fr": "L'INTERROGATION (2)",
+  "page_start": 148,
+  "page_end": 151,
+  "pdf_start": 150,
+  "pdf_end": 153,
+  "sections": [
+    { "title_fr": "« OÙ », « QUAND », « COMMENT », « COMBIEN », « POURQUOI »", "page_no": 148 },
+    { "title_fr": "« QUI », « QUE », « QUOI » interrogatifs", "page_no": 148 },
+    { "title_fr": "« QUEL », « QUELLE », « QUELS », « QUELLES »", "page_no": 150 },
+    { "title_fr": "L'EXCLAMATION", "page_no": 150 }
+  ],
+  "blocks": [
+    { "page_no": 148, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">33</span> L'INTERROGATION (2)" },
+    { "page_no": 148, "seq": 2, "type": "keypoint", "body_html": "– <strong>Comment</strong> allez-vous ?&nbsp;&nbsp;&nbsp;&nbsp;– <strong>Où</strong> habitez-vous ?<br>– <strong>Quand</strong> partez-vous ?&nbsp;&nbsp;&nbsp;&nbsp;– <strong>Qui</strong> cherchez-vous ?" },
+    { "page_no": 148, "seq": 3, "type": "section_title", "body_html": "« OÙ », « QUAND », « COMMENT », « COMBIEN », « POURQUOI »" },
+    { "page_no": 148, "seq": 4, "type": "table", "body_html": "<p class='bullet'>L'interrogatif en début de phrase entraîne une <strong>inversion</strong> du verbe et du pronom sujet :</p><table class='data-table'><tr><td><em>– <strong>Où</strong> allez-vous ?</em></td><td><em>– À Rome.</em></td><td>(lieu)</td></tr><tr><td><em>– <strong>Quand</strong> partez-vous ?</em></td><td><em>– Demain.</em></td><td>(temps)</td></tr><tr><td><em>– <strong>Combien</strong> payez-vous ?</em></td><td><em>– 1 000 euros.</em></td><td>(quantité)</td></tr><tr><td><em>– <strong>Comment</strong> partez-vous ?</em></td><td><em>– En train.</em></td><td>(manière)</td></tr><tr><td><em>– <strong>Pourquoi</strong> partez-vous en train ?</em></td><td><em>– Parce que j'ai peur de l'avion.<br>– Pour mon travail.</em></td><td>(cause)<br>(but)</td></tr></table>" },
+    { "page_no": 148, "seq": 5, "type": "para", "body_html": "<p class='bullet'>En langage courant, on renforce souvent l'interrogation avec « est-ce que » sans inversion :</p><p class='sample'><em>– Où <strong>est-ce que</strong> vous allez ? – Quand <strong>est-ce que</strong> vous partez ?</em></p>" },
+    { "page_no": 148, "seq": 6, "type": "para", "body_html": "<p class='bullet'>En français familier, on place l'interrogatif en fin de phrase :</p><p class='sample'><em>– Vous allez <strong>où</strong> ? – Vous partez <strong>quand</strong> ?</em></p>" },
+    { "page_no": 148, "seq": 7, "type": "para", "body_html": "<p class='bullet'>Avec les noms, on utilise un pronom de rappel :</p><p class='sample'><em>– Où vos <u>amis</u> vont-<strong>ils</strong> ?</em><br><em>– Où Paul va-t-<strong>il</strong> ? – Quand arrive-t-<strong>il</strong> ?</em>&nbsp;&nbsp;&nbsp;♪&nbsp;&nbsp;(+ « -t- » entre deux voyelles)</p>" },
+    { "page_no": 148, "seq": 8, "type": "section_title", "body_html": "« QUI », « QUE », « QUOI » interrogatifs" },
+    { "page_no": 148, "seq": 9, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'><strong>« Qui »</strong> renvoie à une <strong>personne</strong> :</p><p class='sample'><em>– <strong>Qui</strong> cherchez-vous ?<br>– <strong>Qui</strong> est-ce que vous cherchez ?<br>– Vous cherchez <strong>qui</strong> ?<br>(= M. Dupond)</em></p></div><div><p class='bullet'><strong>« Que »</strong>/<strong>« quoi »</strong> renvoie à une <strong>chose</strong> :</p><p class='sample'><em>– <strong>Que</strong> cherchez-vous ?<br>– <strong>Qu'</strong>est-ce que vous cherchez ?<br>– Vous cherchez <strong>quoi</strong> ?<br>(= mes clés)</em></p></div></div>" },
+    { "page_no": 148, "seq": 10, "type": "warning", "body_html": "<p class='bullet'>En position sujet, distinguez :</p><p class='sample'><em>– <strong>Qui</strong> est-ce <strong>qui</strong> sonne ? – C'est le facteur.</em>&nbsp;&nbsp;&nbsp;&nbsp;(personne)<br><em>– <strong>Qu'</strong>est-ce <strong>qui</strong> sonne ? – C'est le téléphone.</em>&nbsp;&nbsp;&nbsp;&nbsp;(chose)</p>" },
+    { "page_no": 148, "seq": 11, "type": "xref", "body_html": "« Qui/Que » relatifs, p. 140" },
+
+    { "page_no": 150, "seq": 12, "type": "running_head", "body_html": "L'INTERROGATION (2)" },
+    { "page_no": 150, "seq": 13, "type": "keypoint", "body_html": "– <strong>Quelle</strong> heure est-il ? – <strong>Quel</strong> jour sommes-nous ?<br>– <strong>Quel</strong> beau temps ! – <strong>Qu'est-ce qu'</strong>il fait beau !" },
+    { "page_no": 150, "seq": 14, "type": "section_title", "body_html": "« QUEL », « QUELLE », « QUELS », « QUELLES »" },
+    { "page_no": 150, "seq": 15, "type": "para", "body_html": "<p class='bullet'><strong>« Quel(s) », « quelle(s) »</strong> interrogatifs portent sur un <strong>nom</strong> :</p><p class='sample'><em><strong>Quel</strong> âge avez-vous ?<br><strong>Quelle</strong> est votre nationalité ?<br><strong>Quels</strong> pays connaissez-vous ?<br><strong>Quelles</strong> langues parlez-vous ?</em></p>" },
+    { "page_no": 150, "seq": 16, "type": "table", "body_html": "<table class='data-table'><tr><th></th><th>Masculin</th><th>Féminin</th></tr><tr><td>Singulier</td><td><em><strong>quel</strong></em></td><td><em><strong>quelle</strong></em></td></tr><tr><td>Pluriel</td><td><em><strong>quels</strong></em></td><td><em><strong>quelles</strong></em></td></tr></table>" },
+    { "page_no": 150, "seq": 17, "type": "warning", "body_html": "<p class='bullet'>Dites :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne dites pas :</p><p class='sample'><em>– Quelle est votre profession ?</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>– <s>Qu'est-ce que</s> votre profession ?</em></p>" },
+    { "page_no": 150, "seq": 18, "type": "para", "body_html": "<p class='bullet'>Pour choisir entre plusieurs possibilités, on utilise « <strong>lequel</strong> » :</p><div class='two-col'><div><p class='sample'><em>– Passe-moi le stylo.</em></p></div><div><p class='sample'><em>– <strong>Quel</strong> stylo ? (je ne vois pas de stylo…)<br>– <strong>Lequel</strong> ? (le bleu ou le rouge ?)</em></p></div></div>" },
+    { "page_no": 150, "seq": 19, "type": "table", "body_html": "<table class='data-table'><tr><th></th><th>Masculin</th><th>Féminin</th></tr><tr><td>Singulier</td><td><em><strong>lequel</strong></em></td><td><em><strong>laquelle</strong></em></td></tr><tr><td>Pluriel</td><td><em><strong>lesquels</strong></em></td><td><em><strong>lesquelles</strong></em></td></tr></table>" },
+    { "page_no": 150, "seq": 20, "type": "section_title", "body_html": "L'<strong>EXCLAMATION</strong> exprime un sentiment intense (joie, étonnement, etc.) :" },
+    { "page_no": 150, "seq": 21, "type": "example", "body_html": "<div class='two-col'><div><p class='sample'><em>Le temps est splendide !<br>L'eau est glacée !</em></p></div><div><p class='sample'><em>Il fait chaud !<br>Cette fille est superbe !</em></p></div></div>" },
+    { "page_no": 150, "seq": 22, "type": "para", "body_html": "<p class='bullet'>Pour renforcer l'exclamation, on peut utiliser :</p><div class='two-col'><div><p class='bullet'>« <strong>Quel(s)</strong> », « <strong>quelles(s)</strong> »</p><p class='sample'><em>– <strong>Quel</strong> temps splendide !<br>– <strong>Quelle</strong> jolie fille !<br>– <strong>Quel</strong> idiot !</em></p></div><div><p class='bullet'>« <strong>Qu'est-ce que</strong> »/« <strong>que</strong> »/« <strong>comme</strong> »</p><p class='sample'><em>– <strong>Qu'est-ce qu'</strong>il fait chaud !</em>&nbsp;&nbsp;&nbsp;&nbsp;(fam.)<br><em>– <strong>Qu'</strong>elle est jolie !<br>– <strong>Comme</strong> je suis bête !</em></p></div></div>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 149, "seq": 1,
+      "instruction_fr": "Posez des questions avec « où », « quand », « comment », selon le modèle.",
+      "label": "", "note_html": "– Vous n'habitez pas à Paris ? <em class='model'>Mais alors, où habitez-vous ?</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous ne travaillez pas en France ? {{L}} ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous ne partez pas en vacances en <strong>août</strong> ? {{L}} ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous n'allez pas en <strong>Italie</strong> ? {{L}} ?" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous ne partez pas en <strong>avion</strong> ? {{L}} ?" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous ne rentrez pas <strong>dimanche soir</strong> ? {{L}} ?" }
+      ]
+    },
+    {
+      "page_no": 149, "seq": 2,
+      "instruction_fr": "Posez des questions, selon le modèle.",
+      "label": "", "note_html": "– Il travaille à Rome. – <em class='model'>Où travaille-t-il ? – Où est-ce qu'il travaille ? – Il travaille où ?</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. – Il habite à Ostie. {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. – Il arrive dimanche. {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. – Il voyage en train. {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "5. – Il porte une valise. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 149, "seq": 3,
+      "instruction_fr": "Complétez avec « qui », « que » ou « quoi ».",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – <em class='model'>Que</em> faites-vous les enfants ? – On dessine." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – {{b}} dessinez-vous ? – Des moutons." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous mangez {{b}} ? – Des tartines." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – {{b}} voulez-vous boire ? – Du lait." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – {{b}} chante à la radio ? – C'est Johnny." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – {{b}} veut un bonbon ? – Moi ! Moi ! Moi !" }
+      ]
+    },
+    {
+      "page_no": 149, "seq": 4,
+      "instruction_fr": "Complétez les questions.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – {{b}} vous appelez-vous ? (– Steve.)" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – {{b}} buvez-vous le matin ? (– Du thé.)" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – {{b}} habitez-vous ? (– À Paris.)" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – {{b}} payez-vous de loyer ? (– 1200 €.)" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – {{b}} partez-vous en vacances ? (– En août.)" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – {{b}} attendez-vous ? (– Mon professeur.)" }
+      ]
+    },
+    {
+      "page_no": 149, "seq": 5,
+      "instruction_fr": "Complétez avec « qu'est-ce qui » ou « qui est-ce qui ».",
+      "label": "", "note_html": "– <em class='model'>Qu'est-ce qui</em> fait ce bruit ? – C'est mon ordinateur.",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – {{L}} chante <em>Carmen</em> ?&nbsp;&nbsp;&nbsp;&nbsp;– C'est le voisin." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – {{L}} sonne ?&nbsp;&nbsp;&nbsp;&nbsp;– C'est mon téléphone portable." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – {{L}} brûle dans le four ?&nbsp;&nbsp;&nbsp;&nbsp;– C'est ma tarte !" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – {{L}} parle à la télé ?&nbsp;&nbsp;&nbsp;&nbsp;– C'est le Premier ministre." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – {{L}} rit comme ça ?&nbsp;&nbsp;&nbsp;&nbsp;– C'est Marie." }
+      ]
+    },
+    {
+      "page_no": 149, "seq": 6,
+      "instruction_fr": "Créez des devinettes, selon le modèle.",
+      "label": "", "note_html": "<em class='model'>– Qu'est-ce qui est bleu le jour et noir la nuit ? – Qui est-ce qui marche à 4 pattes le matin, à 2 pattes à midi et à 3 pattes le soir ? – Qu'est-ce qui roule sous terre et qui traverse les villes ?</em>",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+
+    {
+      "page_no": 151, "seq": 7,
+      "instruction_fr": "Complétez avec « quel(s) » ou « quelle(s) ».",
+      "label": "", "note_html": "– <em class='model'>Quel</em> jour sommes-nous ? <em class='model'>Quelle</em> heure est-il ?",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – {{b}} âge avez-vous ? Vous êtes né {{b}} jour ? À {{b}} heure ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – {{b}} est votre nationalité ? Vous venez de {{b}} pays ? Vous parlez {{b}} langues ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – {{b}} est votre adresse ? Vous habitez à {{b}} étage ? {{b}} est votre numéro de téléphone ?" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – {{b}} sont vos jours de congé ? Vous travaillez pour {{b}} entreprise ?" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – {{b}} journaux lisez-vous ? Vous pratiquez {{b}} sports ? Vous portez {{b}} couleurs ?" }
+      ]
+    },
+    {
+      "page_no": 151, "seq": 8,
+      "instruction_fr": "Complétez les devinettes avec « lequel »/« laquelle »/« lesquels »/« lesquelles ».",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Un pont de Paris est construit avec des pierres de la Bastille : <em class='model'>lequel ? Le pont de la Concorde.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. La moutarde est la spécialité d'une ville française : {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Deux astronautes américains ont marché sur la Lune : {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Rabat est la capitale d'un pays d'Afrique du Nord : {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Une chanson des Beatles porte un prénom français : {{L}}" }
+      ]
+    },
+    {
+      "page_no": 151, "seq": 9,
+      "instruction_fr": "Posez les questions, puis répondez.",
+      "label": "Patrice Delonde", "note_html": "Je m'appelle Patrice Delonde. Je suis belge. Je suis ingénieur. J'ai trente-quatre ans. Je travaille à Marseille, mais j'habite à Aix-en-Provence, 10, rue de la Fontaine. Je vais à Marseille en voiture. Je pars à 6 heures du matin et je rentre vers 19 heures. Le week-end, je fais de l'escalade avec mes enfants, Pauline et Julien. Ils ont douze et quinze ans. En été, nous faisons de la voile. Nous allons souvent dans les îles grecques.",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – <em class='model'>Comment</em> s'appelle ce monsieur ?&nbsp;&nbsp;&nbsp;&nbsp;– <em class='model'>Il s'appelle Patrice Delonde.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – {{L}} est sa profession ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – {{L}} âge a-t-il ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – {{L}} travaille-t-il ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – {{L}} est son adresse ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – {{L}} il fait le week-end ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 151, "seq": 10,
+      "instruction_fr": "Complétez avec des exclamatifs au choix.",
+      "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. {{L}} jolie petite fille ! {{L}} elle est mignonne avec sa robe à fleurs !" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. {{L}} il fait chaud ! {{L}} belle journée ! {{L}} on est bien !" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. {{L}} film ennuyeux ! {{L}} il est long ! {{L}} il est compliqué !" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. {{L}} je suis bête ! Je ne retrouve plus ma voiture ! {{L}} idiot !" }
+      ]
+    }
+  ]
+}

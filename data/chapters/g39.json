@@ -1,0 +1,263 @@
+{
+  "course": "grammaire",
+  "seq": 39,
+  "title_fr": "LE FUTUR PROCHE",
+  "page_start": 166,
+  "page_end": 173,
+  "pdf_start": 168,
+  "pdf_end": 175,
+  "sections": [
+    { "title_fr": "UTILISATION", "page_no": 166 },
+    { "title_fr": "FORMATION : « aller » au présent + infinitif", "page_no": 166 },
+    { "title_fr": "QUELQUES EXPRESSIONS de TEMPS", "page_no": 166 },
+    { "title_fr": "LE FUTUR PROCHE, LE PRONOM et L'ADVERBE", "page_no": 170 },
+    { "title_fr": "LA PLACE DU PRONOM COMPLÉMENT", "page_no": 170 },
+    { "title_fr": "LA PLACE DE L'ADVERBE", "page_no": 170 },
+    { "title_fr": "LE FUTUR PROCHE, LA NÉGATION et L'INTERROGATION", "page_no": 172 },
+    { "title_fr": "LA PLACE DE LA NÉGATION", "page_no": 172 },
+    { "title_fr": "L'INTERROGATION", "page_no": 172 }
+  ],
+  "blocks": [
+    { "page_no": 166, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">39</span> LE FUTUR PROCHE" },
+    { "page_no": 166, "seq": 2, "type": "table", "body_html": "<table class='data-table'><tr><td><strong>Demain,</strong></td><td>je</td><td><strong>vais</strong></td><td>dîner</td><td>au restaurant.</td></tr><tr><td></td><td>tu</td><td><strong>vas</strong></td><td>rester</td><td>chez toi ?</td></tr><tr><td></td><td>il<br>elle<br>on</td><td><strong>va</strong></td><td>aller</td><td>au cinéma.</td></tr><tr><td></td><td>nous</td><td><strong>allons</strong></td><td>visiter</td><td>une expo.</td></tr><tr><td></td><td>vous</td><td><strong>allez</strong></td><td>partir</td><td>en week-end ?</td></tr><tr><td></td><td>ils<br>elles</td><td><strong>vont</strong></td><td>finir</td><td>leur travail.</td></tr></table>" },
+    { "page_no": 166, "seq": 3, "type": "section_title", "body_html": "UTILISATION" },
+    { "page_no": 166, "seq": 4, "type": "para", "body_html": "<p class='bullet'>Sans précision de temps, le futur proche indique un événement <strong>immédiat</strong> :</p><p class='sample'><em>– Vite : le train <strong>va partir</strong> !</em><br><em>– Regarde : il <strong>va pleuvoir</strong> !</em><br><em>– Attention : tu <strong>vas tomber</strong> !</em></p>" },
+    { "page_no": 166, "seq": 5, "type": "para", "body_html": "<p class='bullet'>Avec une précision de temps, il indique un futur plus ou moins <strong>lointain</strong> :</p><p class='sample'><em>Je vais partir <strong>en septembre</strong>.</em><br><em>Je vais rester <strong>six ou sept ans</strong> en France.</em></p>" },
+    { "page_no": 166, "seq": 6, "type": "section_title", "body_html": "FORMATION : « <strong>aller</strong> » au présent + <strong>infinitif</strong>" },
+    { "page_no": 166, "seq": 7, "type": "example", "body_html": "<em>Je <strong>vais</strong> partir.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Tu <strong>vas</strong> déjeuner ?</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Nous <strong>allons</strong> déménager.</em>" },
+    { "page_no": 166, "seq": 8, "type": "warning", "body_html": "• Pour le futur proche d'« <strong>aller</strong> », on utilise deux fois le verbe « aller » :<br><span class='example-line'><em>Je <strong>vais aller</strong> en Grèce.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Nous <strong>allons aller</strong> en Espagne.</em></span>" },
+    { "page_no": 166, "seq": 9, "type": "section_title", "body_html": "QUELQUES EXPRESSIONS de TEMPS" },
+    { "page_no": 166, "seq": 10, "type": "table", "body_html": "<table class='data-table'><tr><td>présent :</td><td><em>Aujourd'hui</em></td><td><em>Cette semaine</em></td><td><em>Ce mois-ci</em></td><td><em>Cette année</em></td></tr><tr><td>futur :</td><td><em><strong>Demain</strong></em></td><td><em>La semaine prochaine</em></td><td><em>Le mois prochain</em></td><td><em>L'année prochaine</em></td></tr></table>" },
+    { "page_no": 166, "seq": 11, "type": "xref", "body_html": "Futur simple, p. 224" },
+
+    { "page_no": 170, "seq": 12, "type": "section_title", "body_html": "<strong>LE FUTUR PROCHE</strong>, <strong>LE PRONOM</strong> et L'ADVERBE" },
+    { "page_no": 170, "seq": 13, "type": "keypoint", "body_html": "Ce soir, je vais <strong>me</strong> coucher tôt.<br>Je vais <strong>bien</strong> dormir." },
+    { "page_no": 170, "seq": 14, "type": "section_title", "body_html": "LA PLACE DU PRONOM COMPLÉMENT" },
+    { "page_no": 170, "seq": 15, "type": "para", "body_html": "<p class='bullet'>Le pronom complément se place <strong>devant</strong> l'infinitif :</p><table class='data-table'><tr><td><em>Je vais</em></td><td><strong>les</strong></td><td><em>inviter.</em></td></tr><tr><td><em>Je vais</em></td><td><strong>leur</strong></td><td><em>téléphoner.</em></td></tr><tr><td><em>Je vais</em></td><td><strong>me</strong></td><td><em>préparer.</em></td></tr></table>" },
+    { "page_no": 170, "seq": 16, "type": "para", "body_html": "<p class='bullet'>Le futur proche de « il y a » est « il va y avoir » :</p><p class='sample'><em>Il <strong>va y avoir</strong> du brouillard demain.</em><br><em>Il <strong>va y avoir</strong> des embouteillages.</em></p>" },
+    { "page_no": 170, "seq": 17, "type": "section_title", "body_html": "LA PLACE DE L'ADVERBE" },
+    { "page_no": 170, "seq": 18, "type": "para", "body_html": "<p class='bullet'>Les adverbes de <strong>quantité</strong> et de <strong>qualité</strong> se placent <strong>entre</strong> les deux verbes :</p><table class='data-table'><tr><td><em>Je vais</em></td><td><strong>beaucoup</strong></td><td><em>travailler.</em></td></tr><tr><td><em>Je vais</em></td><td><strong>bien</strong></td><td><em>dormir.</em></td></tr></table>" },
+    { "page_no": 170, "seq": 19, "type": "para", "body_html": "<p class='bullet'>Les adverbes de <strong>lieu</strong> et de <strong>temps</strong> et beaucoup d'adverbes en « -ment » se placent en général <strong>après</strong> le verbe à l'infinitif :</p><p class='sample'><em>– Tu vas dîner <strong>dehors</strong> ?</em><br><em>– Vous allez rentrer <strong>tard</strong> ?</em><br><em>– Il va conduire <strong>prudemment</strong>.</em></p>" },
+    { "page_no": 170, "seq": 20, "type": "para", "body_html": "<p class='bullet'>Les règles précédentes fonctionnent avec toutes les constructions infinitives :</p><p class='sample'><em>Je voudrais <strong>les</strong> inviter.</em><br><em>Ils peuvent <strong>en</strong> manger.</em><br><em>Vous devez <strong>beaucoup</strong> travailler.</em><br><em>Nous pensons dîner <strong>tôt</strong>.</em><br><em>Il faut conduire <strong>lentement</strong>.</em></p>" },
+
+    { "page_no": 172, "seq": 21, "type": "section_title", "body_html": "<strong>LE FUTUR PROCHE</strong>, <strong>LA NÉGATION</strong> et <strong>L'INTERROGATION</strong>" },
+    { "page_no": 172, "seq": 22, "type": "keypoint", "body_html": "– <strong>Est-ce que</strong> vous allez changer d'appartement ?<br>– Non, nous <strong>n'</strong>allons <strong>pas</strong> déménager." },
+    { "page_no": 172, "seq": 23, "type": "section_title", "body_html": "LA PLACE DE LA NÉGATION" },
+    { "page_no": 172, "seq": 24, "type": "para", "body_html": "<p class='bullet'>La négation se place <strong>avant</strong> et <strong>après</strong> le verbe conjugué :</p><table class='data-table'><tr><td><em>Je</em></td><td><strong>ne</strong></td><td><em>vais</em></td><td><strong>pas</strong></td><td><em>sortir.</em></td></tr><tr><td><em>Je</em></td><td><strong>ne</strong></td><td><em>vais</em></td><td><strong>plus</strong></td><td><em>le voir.</em></td></tr><tr><td><em>Je</em></td><td><strong>ne</strong></td><td><em>vais</em></td><td><strong>rien</strong></td><td><em>lui dire.</em></td></tr></table>" },
+    { "page_no": 172, "seq": 25, "type": "para", "body_html": "<p class='bullet'>« <strong>Personne</strong> » et « <strong>aucun</strong> » se placent après l'infinitif :</p><p class='sample'><em>Je <strong>ne</strong> vais inviter <strong>personne</strong>.</em><br><em>Je <strong>ne</strong> vais accepter <strong>aucune</strong> invitation.</em></p>" },
+    { "page_no": 172, "seq": 26, "type": "para", "body_html": "<p class='bullet'>Le pronom se place devant l'infinitif :</p><p class='sample'><em>Je <strong>ne</strong> vais pas <strong>les</strong> inviter.</em></p>" },
+    { "page_no": 172, "seq": 27, "type": "section_title", "body_html": "L'INTERROGATION" },
+    { "page_no": 172, "seq": 28, "type": "para", "body_html": "<p class='bullet'>On utilise l'intonation montante ou « <strong>est-ce que</strong> » en début de phrase :</p><p class='sample'><em>– Vous allez prendre des vacances ?</em><br><em>– <strong>Est-ce que</strong> vous allez partir en Autriche ?</em></p>" },
+    { "page_no": 172, "seq": 29, "type": "para", "body_html": "<p class='bullet'>On inverse le verbe et le pronom :</p><p class='sample'><em>– <strong>Allez-vous</strong> partir le matin ?</em><br><em>– <strong>Allez-vous</strong> prendre l'avion ?</em></p>" },
+    { "page_no": 172, "seq": 30, "type": "para", "body_html": "<p class='bullet'>Avec les noms, on utilise un pronom de rappel :</p><p class='sample'><em>– Vos parents <strong>vont-ils</strong> partir avec vous ?</em><br><em>– Jean <strong>va-t-il</strong> vous accompagner ?</em>&nbsp;&nbsp;&nbsp;&nbsp;(« -t- » entre deux voyelles)</p>" },
+    { "page_no": 172, "seq": 31, "type": "para", "body_html": "<p class='bullet'>Les règles précédentes fonctionnent avec toutes les constructions infinitives :</p><table class='data-table'><tr><td><em>Je <strong>ne veux pas</strong> travailler.</em></td><td><em>– <strong>Pensez-vous</strong> revenir ?</em></td></tr><tr><td><em>Je <strong>ne peux pas</strong> accepter.</em></td><td><em>– Jean pense<strong>-t-il</strong> revenir ?</em></td></tr><tr><td><em>Je <strong>ne pense pas</strong> revenir.</em></td><td></td></tr></table>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 167, "seq": 1,
+      "instruction_fr": "Complétez le texte en utilisant le futur proche, selon le modèle.",
+      "label": "", "note_html": "En général, je rentre assez tard le soir. <em class='model'>Ce soir, je vais rentrer plus tôt.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. D'habitude, je pars du bureau à 19 heures. {{L}} à 18 heures." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. D'habitude, je regarde un film. {{L}} la finale de foot." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. En général, je dîne chez moi. {{L}} chez Jo." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. D'habitude, je mange des légumes bouillis. {{L}} une pizza surgelée." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. D'habitude, je bois de l'eau. {{L}} de la bière." }
+      ]
+    },
+    {
+      "page_no": 167, "seq": 2,
+      "instruction_fr": "Complétez les phrases avec le futur proche.",
+      "label": "", "note_html": "Ce mois-ci, je travaille à Paris. <em class='model'>Le mois prochain, je vais travailler à Lyon.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Cette année, nous passons nos vacances en Corse.<br>{{L}} en Croatie." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Cette semaine, mes parents visitent Londres.<br>{{L}} Amsterdam." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Aujourd'hui, Paul range ses lettres et ses papiers.<br>{{L}} ses livres et ses revues." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Ce mois-ci, je vais au théâtre.<br>{{L}} à l'Opéra." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Cette semaine, il fait froid.<br>{{L}} beau." }
+      ]
+    },
+    {
+      "page_no": 167, "seq": 3,
+      "instruction_fr": "Complétez avec les verbes manquants.",
+      "label": "", "note_html": "pleuvoir&nbsp;&nbsp;&nbsp;&nbsp;fermer&nbsp;&nbsp;&nbsp;&nbsp;<s>partir</s>&nbsp;&nbsp;&nbsp;&nbsp;grossir&nbsp;&nbsp;&nbsp;&nbsp;décoller&nbsp;&nbsp;&nbsp;&nbsp;tomber&nbsp;&nbsp;&nbsp;&nbsp;commencer&nbsp;&nbsp;&nbsp;&nbsp;brûler", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Dépêche-toi le train <em class='model'>va partir</em> !" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Prends un parapluie : il {{b}} !" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Il est 7 h 25 : les magasins {{b}} !" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Entrez vite : le spectacle {{b}} !" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Attachez vos ceintures : nous {{b}} !" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Ne cours pas si vite ! Tu {{b}} !" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – Éteins le four : le gâteau {{b}} !" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. – Tu manges trop : tu {{b}}" }
+      ]
+    },
+    {
+      "page_no": 167, "seq": 4,
+      "instruction_fr": "Imaginez ce que vous allez faire en fin de journée.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [167],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 168, "seq": 5,
+      "instruction_fr": "Décrivez les activités de M. Blanchot, au futur proche.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [168],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "<div class='two-col'><div><strong>Lundi</strong><br><strong>9 h/12 h</strong><br>Préparation voyage Londres<br><br><strong>13 h</strong><br>Déjeuner M. Reiser<br>« La Bonne Assiette »<br>Discuter dossier Samson's<br><br><strong>15 h</strong><br>Départ aéroport Roissy<br><br><strong>16 h 45</strong><br>Arrivée Londres</div><div>– Que va faire M. Blanchot lundi ?<br>– <em class='model'>De neuf heures à midi, il va préparer son voyage à Londres.</em><br>{{T}}</div></div>" },
+        { "seq": 2, "type": "open", "stem_html": "<div class='two-col'><div><strong>Mardi</strong><br><strong>8 h 30/13 h</strong><br>Visite usine Samson's<br>Banque Pikslow<br><br><strong>13 h</strong><br>Déjeuner M. Shark<br>Signature nouveaux contrats<br><br><strong>17 h/20 h</strong><br>Étude dossier Europa<br><br><strong>20 h</strong><br>Dîner Mme Rover</div><div>– Quel est le programme de mardi ?<br>{{T}}</div></div>" },
+        { "seq": 3, "type": "open", "stem_html": "<div class='two-col'><div><strong>Mercredi</strong><br><strong>7 h</strong><br>(Taxi)<br><br><strong>8 h 15</strong><br>Départ avion Paris<br>..........................</div><div>– Décrivez la matinée de mercredi.<br>{{T}}</div></div>" }
+      ]
+    },
+    {
+      "page_no": 168, "seq": 6,
+      "instruction_fr": "Vous êtes Monsieur Shark, donnez votre agenda de la semaine prochaine.",
+      "label": "", "note_html": "Lundi, <em class='model'>je vais aller à Boston</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Lundi, <em class='model'>je vais aller à Boston</em> {{L}}<br>Mardi, {{L}}<br>Mercredi, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 169, "seq": 7,
+      "instruction_fr": "Faites des phrases, selon le modèle.",
+      "label": "", "note_html": "Faire des courses/inviter des amis<br>Annie <em class='model'>va faire des courses parce qu'elle va inviter des amis.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Économiser de l'argent/partir six mois en Chine<br>Mon frère {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Faire beaucoup d'exercices/passer un examen<br>Les étudiants {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Prendre un congé sabbatique/écrire un livre<br>Notre professeur {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Déménager/avoir un troisième enfant<br>Les voisins {{L}}" }
+      ]
+    },
+    {
+      "page_no": 169, "seq": 8,
+      "instruction_fr": "Transformez en utilisant le futur proche, selon le modèle.",
+      "label": "", "note_html": "avoir mal au ventre&nbsp;&nbsp;&nbsp;&nbsp;<s>prendre sa retraite</s>&nbsp;&nbsp;&nbsp;&nbsp;avoir un bébé<br>pleuvoir&nbsp;&nbsp;&nbsp;&nbsp;rater le dernier métro&nbsp;&nbsp;&nbsp;&nbsp;rentrer à l'école", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Mon frère a soixante-deux ans, <em class='model'>il va prendre sa retraite</em> dans deux mois." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Le temps est très nuageux, il {{L}} avant la fin de la journée." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Les enfants mangent trop de chocolat : ils {{L}}, cette nuit." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Marie est enceinte de 8 mois : elle {{L}} en janvier." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Ton fils a déjà trois ans ? – Oui, il {{L}} en septembre." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Dépêchons-nous : nous {{L}}. Il est minuit et demie !" }
+      ]
+    },
+    {
+      "page_no": 169, "seq": 9,
+      "instruction_fr": "Complétez librement, au futur proche.",
+      "label": "", "note_html": "Nos amis vont acheter une Peugeot. Leurs parents <em class='model'>vont acheter une Renault.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Tu vas aller au cinéma ce soir. Ton frère {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Mon père va boire un double whisky. Ma mère {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je vais partir en vacances en août. Mes enfants {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Ma fille va partir en Angleterre. Vos enfants {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Les enfants vont manger du poulet. Ma femme et moi, nous {{L}}" }
+      ]
+    },
+    {
+      "page_no": 169, "seq": 10,
+      "instruction_fr": "Répondez librement.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "– Qu'est-ce que vous allez manger ce soir ?<br>{{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "– Quels vêtements allez-vous mettre demain ?<br>{{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "– Qu'est-ce que vous allez faire samedi prochain ?<br>{{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "– À quelle heure allez-vous dîner ?<br>{{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "– Quel temps va-t-il faire, à votre avis ?<br>{{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "– Avec qui allez-vous sortir ?<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 171, "seq": 11,
+      "instruction_fr": "Répondez aux questions au futur proche en utilisant un pronom, selon le modèle.",
+      "label": "", "note_html": "– Vous allez inviter les voisins, samedi prochain ?&nbsp;&nbsp;&nbsp;&nbsp;– <em class='model'>Oui, je vais les inviter.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous allez inviter <strong>les voisins</strong>, samedi prochain ?&nbsp;&nbsp;&nbsp;&nbsp;– <em class='model'>Oui, je vais les inviter.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous allez regarder <strong>le match</strong> à la télé ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous allez arroser <strong>les fleurs</strong> ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous allez ranger <strong>vos papiers</strong> ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous allez écrire <strong>à votre mère</strong> ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Vous allez téléphoner <strong>à vos amis</strong> ?&nbsp;&nbsp;&nbsp;&nbsp;– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 171, "seq": 12,
+      "instruction_fr": "Répondez aux questions en utilisant un pronom.",
+      "label": "Ingrid", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "En général, je me lève à 7 heures. Je vais au bureau à pied. D'abord, je lis rapidement le courrier, puis je<br>téléphone aux clients. Je dicte des lettres à ma secrétaire. À midi, je vais à la piscine avec Rachel. À 14 heures,<br>je mange une pomme et je bois deux cafés. Vers 15 heures, je rencontre les fournisseurs et je paye les<br>factures. À 18 heures, je dis au revoir à mes collègues et je pars. En rentrant, j'achète deux baguettes. Je<br>dîne à 20 heures. Après le dîner, je téléphone à ma fille. Je me couche tôt.<br>1. Demain, Ingrid va se lever tard ? <em class='model'>Non, elle va se lever à 7 heures.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Ingrid va aller au bureau en métro ? {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Elle va téléphoner aux clients l'après-midi ? {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Elle va aller à la piscine seule ? {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Elle va rencontrer les fournisseurs à quelle heure ? {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Elle va acheter une ou deux baguettes ? {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Elle va téléphoner à sa fille avant le dîner ? {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Elle va se coucher tard ? {{L}}" }
+      ]
+    },
+    {
+      "page_no": 171, "seq": 13,
+      "instruction_fr": "Donnez le programme de la fête du village, selon le modèle.",
+      "label": "", "note_html": "15 août : bal en plein air&nbsp;&nbsp;&nbsp;&nbsp;16 août : concours de boules&nbsp;&nbsp;&nbsp;&nbsp;17 août : spectacle de variétés<br>18 août : dîner champêtre&nbsp;&nbsp;&nbsp;&nbsp;19 août : spectacle de magie&nbsp;&nbsp;&nbsp;&nbsp;20 août : feu d'artifice<br><em class='model'>Le 15 août, il va y avoir un bal en plein air.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<em class='model'>Le 15 août, il va y avoir un bal en plein air</em> {{L}}" }
+      ]
+    },
+    {
+      "page_no": 171, "seq": 14,
+      "instruction_fr": "Répondez oralement en utilisant « bien », « mal », « beaucoup », « lentement ».",
+      "label": "", "note_html": "– Vous allez manger dans un restaurant trois étoiles ?&nbsp;&nbsp;&nbsp;&nbsp;– Oui, on <em class='model'>va bien manger</em> !", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous allez manger dans un restaurant trois étoiles ? – Oui, on <em class='model'>va bien manger</em> !" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Tu sais comment va finir le film ? – Oui, malheureusement, ça {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous allez dormir pendant les vacances ? – Oui, je {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous allez conduire, malgré le verglas ? – Oui, mais nous {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – D'après la météo, il va pleuvoir ? – Oui, il {{L}}" }
+      ]
+    },
+    {
+      "page_no": 173, "seq": 15,
+      "instruction_fr": "Mettez à la forme négative, selon le modèle.",
+      "label": "Ne me quitte pas", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<div class='two-col'><div>Je vais pleurer !<br>Je vais crier !<br>Je vais tomber malade !<br>Je vais craquer !<br>Je vais tout casser !</div><div>Reste ! <em class='model'>Je ne vais pas pleurer…</em><br>{{L}}<br>{{L}}<br>{{L}}<br>{{L}}</div></div>" }
+      ]
+    },
+    {
+      "page_no": 173, "seq": 16,
+      "instruction_fr": "Posez la question en utilisant la forme négative, selon le modèle.",
+      "label": "", "note_html": "1. rester à Paris&nbsp;&nbsp;&nbsp;&nbsp;– <em class='model'>Est-ce que vous allez rester à Paris, cet été ?</em><br>– <em class='model'>Non, je ne vais pas rester à Paris,</em> je vais aller en Italie.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. rester à Paris&nbsp;&nbsp;&nbsp;&nbsp;– <em class='model'>Est-ce que vous allez rester à Paris, cet été ?</em><br>– <em class='model'>Non, je ne vais pas rester à Paris,</em> je vais aller en Italie." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. partir en train&nbsp;&nbsp;&nbsp;&nbsp;– {{L}} ?<br>– {{L}}, je vais partir en voiture." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. passer par les Alpes&nbsp;&nbsp;&nbsp;&nbsp;– {{L}} ?<br>– {{L}}, je vais passer par la Côte d'Azur." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. dormir à Nice&nbsp;&nbsp;&nbsp;&nbsp;– {{L}} ?<br>– {{L}}, je vais dormir à Menton." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. rentrer en août&nbsp;&nbsp;&nbsp;&nbsp;– {{L}} ?<br>– {{L}}, je vais rentrer en septembre." }
+      ]
+    },
+    {
+      "page_no": 173, "seq": 17,
+      "instruction_fr": "Complétez selon le modèle en utilisant des pronoms compléments.",
+      "label": "", "note_html": "<s>rater</s>&nbsp;&nbsp;&nbsp;&nbsp;perdre&nbsp;&nbsp;&nbsp;&nbsp;mordre&nbsp;&nbsp;&nbsp;&nbsp;abîmer&nbsp;&nbsp;&nbsp;&nbsp;punir<br>– Le bus arrive ! Courez, sinon <em class='model'>vous allez le rater</em> !&nbsp;&nbsp;&nbsp;&nbsp;– Mais non, on <em class='model'>ne va pas le rater.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Le bus arrive ! Courez, sinon <em class='model'>vous allez le rater</em> !&nbsp;&nbsp;&nbsp;&nbsp;– Mais non, on <em class='model'>ne va pas le rater.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Arrête d'agacer le chien, sinon il {{b}}&nbsp;&nbsp;&nbsp;&nbsp;– Mais non, il {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Ne prête pas tes DVD aux enfants : ils {{b}}&nbsp;&nbsp;&nbsp;&nbsp;– Mais non, ils {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Attache ton écharpe : tu {{b}}&nbsp;&nbsp;&nbsp;&nbsp;– Mais non, je {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Tu as eu zéro à ta dictée ! Tes parents {{b}}&nbsp;&nbsp;&nbsp;&nbsp;– Mais non, ils {{b}}" }
+      ]
+    },
+    {
+      "page_no": 173, "seq": 18,
+      "instruction_fr": "Répondez à la forme négative.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous allez repeindre votre appartement ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous pensez regarder le match de boxe ce soir ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous allez téléphoner à Paul ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous allez inviter vos voisins ce soir ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Voulez-vous refaire les exercices ? – {{L}}" }
+      ]
+    }
+  ]
+}
