@@ -1,0 +1,284 @@
+{
+  "course": "vocabulaire",
+  "seq": 13,
+  "title_fr": "LE COMMERCE",
+  "page_start": 84,
+  "page_end": 91,
+  "pdf_start": 86,
+  "pdf_end": 93,
+  "sections": [
+    { "title_fr": "LES PETITS COMMERCES", "page_no": 84 },
+    { "title_fr": "LES SUPERMARCHÉS", "page_no": 84 },
+    { "title_fr": "LES GRANDS MAGASINS", "page_no": 84 },
+    { "title_fr": "LES MARCHÉS", "page_no": 86 },
+    { "title_fr": "LES AUTRES COMMERCES", "page_no": 86 },
+    { "title_fr": "FAIRE LE MARCHÉ", "page_no": 88 },
+    { "title_fr": "LES PRIX", "page_no": 90 },
+    { "title_fr": "LE SERVICE", "page_no": 90 }
+  ],
+  "blocks": [
+    { "page_no": 84, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">13</span> LE COMMERCE" },
+    { "page_no": 84, "seq": 2, "type": "section_title", "body_html": "LES PETITS COMMERCES" },
+    { "page_no": 84, "seq": 3, "type": "list", "body_html": "<div class='bullet'>La France a conservé une tradition de « petits commerces ». Les clients apprécient d'acheter du bon pain frais dans une vraie boulangerie, ou du fromage dans une vraie fromagerie. Ils <b>demandent conseil aux commerçants</b>. <b>La relation</b> entre petits commerçants et clients joue un rôle important.</div>" },
+    { "page_no": 84, "seq": 4, "type": "list", "body_html": "<div class='bullet'>Les <b>produits</b> vendus sont parfois « fermiers » (= de bonne qualité). Un « poulet fermier », un « camembert fermier » sont meilleurs que les produits <b>industriels</b>.</div>" },
+    { "page_no": 84, "seq": 5, "type": "list", "body_html": "<div class='bullet'>Les produits « <b>bio</b> » (= <b>biologiques</b>) se développent de plus en plus : ils sont <b>naturels</b> et <b>respectueux de l'environnement</b>. On peut les acheter dans <b>des magasins spécialisés</b>, au marché ou dans les grandes surfaces. On les reconnaît à différents labels tels que <b>AB</b>.</div>" },
+    { "page_no": 84, "seq": 6, "type": "section_title", "body_html": "LES SUPERMARCHÉS" },
+    { "page_no": 84, "seq": 7, "type": "list", "body_html": "<div class='bullet'>Au centre-ville, les supermarchés ne sont pas immenses. À la périphérie au contraire, on trouve les « <b>grandes surfaces</b> », qui sont d'énormes supermarchés, avec un parking pour les voitures. Ces magasins vendent des produits <b>de consommation courante</b> (alimentation, vêtements, <b>produits pour le ménage, vaisselle, équipements de sport</b>…). Les prix sont en général plus bas que dans les petits commerces, mais il faut avoir une voiture pour y aller et il n'y a presque pas de contact humain.</div>" },
+    { "page_no": 84, "seq": 8, "type": "list", "body_html": "<div class='bullet'>Tous les supermarchés, grands ou petits, sont divisés en <b>rayons</b> : le rayon boucherie, le rayon jus de fruits… Quand le client <b>fait les courses</b>, il peut vérifier le prix sur <b>les étiquettes</b>. Il achète des produits <b>en promotion</b> ou <b>en solde</b>. Il remplit <b>son chariot / son caddie</b> et va à <b>la caisse</b> pour régler. Il peut demander <b>la livraison à domicile de ses achats</b>. On peut aussi faire ses courses <b>en ligne</b>, par Internet.</div>" },
+    { "page_no": 84, "seq": 9, "type": "section_title", "body_html": "LES GRANDS MAGASINS" },
+    { "page_no": 84, "seq": 10, "type": "list", "body_html": "<div class='bullet'>Les grands magasins (Galeries Lafayette, Printemps…) sont situés au centre des villes. Ils vendent surtout <b>des vêtements, de la parfumerie, de la lingerie, des bijoux, de l'électroménager, de la vaisselle, des meubles</b>.</div>" },
+    { "page_no": 84, "seq": 11, "type": "list", "body_html": "<div class='bullet'>Quand on regarde <b>les vitrines</b> de l'extérieur, on <b>fait du lèche-vitrines</b>. Ensuite, on entre et on demande un renseignement <b>au vendeur</b> ou <b>à la vendeuse</b>. Quand on achète quelque chose « <b>pour offrir</b> », on demande <b>un paquet-cadeau</b> : le vendeur <b>emballe</b> l'objet dans un joli papier.</div>" },
+    { "page_no": 84, "seq": 12, "type": "speech", "body_html": "<div class='speech'>– Ce stylo, c'est pour offrir ?<br>– Oui, s'il vous plaît (= non, c'est pour moi). <b>Vous pouvez me faire un paquet-cadeau ?</b></div>" },
+    { "page_no": 86, "seq": 13, "type": "running_head", "body_html": "LE COMMERCE" },
+    { "page_no": 86, "seq": 14, "type": "section_title", "body_html": "LES MARCHÉS" },
+    { "page_no": 86, "seq": 15, "type": "subhead", "body_html": "Les marchés alimentaires" },
+    { "page_no": 86, "seq": 16, "type": "list", "body_html": "<div class='bullet'>Il existe une solide et vivante tradition de marchés alimentaires. Ils sont particulièrement appréciés dans les petites villes et à Paris. <b>Animés</b> et <b>pittoresques</b>, ils permettent d'acheter de bons <b>produits frais</b>, <b>appétissants</b> et <b>bien présentés</b>. <b>Les marchands</b>, qui sont parfois <b>des producteurs locaux</b>, <b>servent les clients</b> qui remplissent <b>leur panier</b>.</div>" },
+    { "page_no": 86, "seq": 17, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>« Je vais au marché. » ≠ « Je reviens du marché. » (deux expressions neutres). « Je vais faire le marché » (= je vais au marché et je vais choisir les produits en fonction de mon humeur, de mes goûts et de la discussion avec le commerçant…)</i>" },
+    { "page_no": 86, "seq": 18, "type": "subhead", "body_html": "Les marchés aux puces" },
+    { "page_no": 86, "seq": 19, "type": "list", "body_html": "<div class='bullet'>Toutes les grandes villes ont un marché aux puces. On peut y acheter toutes sortes d'<b>objets anciens</b>, de plus ou moins grande valeur : <b>de vieux meubles, de la vaisselle, des tableaux, des bibelots, des vêtements</b>… Ces marchés sont un but de promenade. L'atmosphère est <b>agréable</b> et <b>détendue</b>. L'usage veut que le client <b>marchande</b> (= discute) le prix.</div>" },
+    { "page_no": 86, "seq": 20, "type": "section_title", "body_html": "LES AUTRES COMMERCES" },
+    { "page_no": 86, "seq": 21, "type": "para", "body_html": "Comme pour tous les commerces, on emploie soit le nom du magasin (avec la préposition « à » ou « dans »), soit le nom de la personne (avec la préposition « chez »)." },
+    { "page_no": 86, "seq": 22, "type": "list", "body_html": "<div class='bullet'><b>Chez le pharmacien</b> / <b>à la pharmacie</b>, on achète <b>des médicaments</b> bien sûr, mais aussi du <b>matériel médical</b> et des <b>produits de beauté</b>. Certains médicaments sont « <b>en vente libre</b> », d'autres sont vendus « <b>sur ordonnance</b> » du médecin.</div>" },
+    { "page_no": 86, "seq": 23, "type": "list", "body_html": "<div class='bullet'>Pour acheter <b>des livres d'art</b> ou de <b>littérature</b>, des <b>livres scolaires</b>, des <b>dictionnaires</b>, des <b>guides touristiques</b>, on va <b>à la librairie</b>. Souvent, on trouve aussi de la <b>papeterie</b> (des <b>cahiers</b>, des <b>enveloppes</b>, des <b>stylos</b>, des <b>classeurs</b>, du <b>papier à lettres</b>…). Pour acheter son journal, on doit aller <b>chez le marchand de journaux</b>.</div>" },
+    { "page_no": 86, "seq": 24, "type": "list", "body_html": "<div class='bullet'><b>Au bureau de tabac</b>, on trouve <b>des cigarettes</b> et <b>des cigares</b>, bien sûr, mais aussi <b>des billets de Loto</b> et autres <b>jeux</b>, <b>des timbres</b>, <b>des tickets de bus</b> et <b>de métro</b>, <b>des timbres fiscaux</b> (pour les passeports, par exemple).</div>" },
+    { "page_no": 86, "seq": 25, "type": "list", "body_html": "<div class='bullet'>On achète <b>un beau bouquet</b> ou <b>une plante verte chez le fleuriste</b>. Si le bouquet est pour offrir, le fleuriste emballe joliment les fleurs. On les donne ainsi, cela fait partie du plaisir du cadeau.</div>" },
+    { "page_no": 86, "seq": 26, "type": "list", "body_html": "<div class='bullet'>Pour faire <b>nettoyer à sec</b> un vêtement ou un tapis, on va <b>au pressing</b> / <b>à la teinturerie</b>. Pour <b>laver soi-même</b>, il faut aller <b>à la laverie</b>.</div>" },
+    { "page_no": 88, "seq": 27, "type": "running_head", "body_html": "LE COMMERCE" },
+    { "page_no": 88, "seq": 28, "type": "section_title", "body_html": "FAIRE LE MARCHÉ" },
+    { "page_no": 88, "seq": 29, "type": "subhead", "body_html": "Les produits" },
+    { "page_no": 88, "seq": 30, "type": "list", "body_html": "<div class='bullet'>un morceau, un beau (petit) morceau de… fromage, viande…</div><div class='bullet'>un pot de… confiture, crème</div><div class='bullet'>une barquette de… fraises, framboises</div><div class='bullet'>une boîte de… thon, petits pois</div><div class='bullet'>une bouteille de… vin, jus de pomme</div><div class='bullet'>une boîte de… radis, carottes…</div><div class='bullet'>une plaquette de… beurre</div><div class='bullet'>une tablette de… chocolat</div><div class='bullet'>une tranche (fine ≠ épaisse) de… jambon</div><div class='bullet'>un tube de… mayonnaise, concentré de tomates…</div><div class='bullet'>un paquet de… biscuits</div><div class='bullet'>un flacon de… parfum, eau de toilette</div>" },
+    { "page_no": 88, "seq": 31, "type": "remark", "body_html": "<span class='remark-label'>Remarques.</span> <i>1. En général, on ne demande pas un « gros » morceau, un « gros » poulet, mais un « <b>beau</b> » morceau / un « <b>beau</b> » poulet. 2. Le terme de « boîte » signifie « <b>une boîte de conserve</b> » ou « une boîte <b>en métal, en carton</b>… ».</i>" },
+    { "page_no": 88, "seq": 32, "type": "subhead", "body_html": "Les quantités" },
+    { "page_no": 88, "seq": 33, "type": "table", "body_html": "<table class='vocab'><tr><td>un kilo de… (= 1 000 grammes)</td><td>un litre de…</td></tr><tr><td>une livre de… / 500 g de…</td><td>un demi-litre de…</td></tr><tr><td>une demi-livre / 250 g de…</td><td>un quart de litre de…</td></tr><tr><td>une dizaine de… (environ 10)</td><td>une douzaine de… (environ 12)</td></tr><tr><td>une vingtaine de… (environ 20)</td><td>une trentaine de… (environ 30)</td></tr></table>" },
+    { "page_no": 88, "seq": 34, "type": "speech", "body_html": "<div class='speech'><b>LE FROMAGER :</b> Vous voulez un camembert <b>entier</b> ou un <b>demi-camembert</b> ?<br><b>LE CLIENT :</b> Je vais prendre <b>la moitié</b> que vous avez là, cela suffira.</div>" },
+    { "page_no": 88, "seq": 35, "type": "subhead", "body_html": "Demander un produit" },
+    { "page_no": 88, "seq": 36, "type": "list", "body_html": "<div class='bullet'><b>Je voudrais</b> un kilo de tomates bien mûres, s'il vous plaît.</div><div class='bullet'><b>Vous pouvez me donner</b> une livre de cerises, s'il vous plaît ?</div><div class='bullet'><b>Il me faudrait</b> deux barquettes de myrtilles, s'il vous plaît.</div><div class='bullet'><b>Donnez-moi</b> la moitié de ce morceau de comté, s'il vous plaît.</div><div class='bullet'><b>Est-ce qu'il vous reste</b> des croissants ? (juste avant la fermeture du magasin)</div><div class='bullet'><b>Est-ce que vous avez</b> du camembert au lait cru ?</div><div class='bullet'><b>Est-ce que vous auriez</b> des stylos violets ?</div>" },
+    { "page_no": 88, "seq": 37, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Le verbe « avoir » au présent ou au conditionnel change de sens. Comparez ces deux questions, dans une pâtisserie. <i>Est-ce que vous avez des tartes aux pommes ?</i> – Oui (ou non). <i>Est-ce que vous auriez des tartes à la mangue et à l'ananas ?</i> (Ce n'est pas certain. Peut-être oui, peut-être non).</i>" },
+    { "page_no": 90, "seq": 38, "type": "running_head", "body_html": "LE COMMERCE" },
+    { "page_no": 90, "seq": 39, "type": "section_title", "body_html": "LES PRIX" },
+    { "page_no": 90, "seq": 40, "type": "subhead", "body_html": "Demander le prix" },
+    { "page_no": 90, "seq": 41, "type": "list", "body_html": "<div class='bullet'>Dans la plupart des situations de commerce, on entend les phrases suivantes : <b>Je voudrais savoir le prix</b> des chaussures noires qui sont dans la vitrine, s'il vous plaît. <b>Quel est le prix</b> du billet Paris/Bruxelles, s'il vous plaît ? <b>Combien coûte</b> la location d'une voiture pour une journée ?</div>" },
+    { "page_no": 90, "seq": 42, "type": "list", "body_html": "<div class='bullet'>Au marché, le prix des produits change. On demande familièrement : <b>Les cerises sont à combien ?</b> <b>C'est combien, les abricots ?</b></div>" },
+    { "page_no": 90, "seq": 43, "type": "list", "body_html": "<div class='bullet'>Pour parler du total, on emploie la structure : <b>– Ça fait combien ?</b> – Ça fait 23,71 euros.</div>" },
+    { "page_no": 90, "seq": 44, "type": "list", "body_html": "<div class='bullet'>Quand on paye une personne (et non un produit) ou quand on va rembourser un ami, on dit : – <b>Je te dois combien ?</b> – <b>Je vous dois combien ?</b> – <b>Tu ne me dois rien</b> (= c'est gratuit). – <b>Vous me devez 65 €.</b></div>" },
+    { "page_no": 90, "seq": 45, "type": "subhead", "body_html": "Commenter le prix" },
+    { "page_no": 90, "seq": 46, "type": "list", "body_html": "<div class='bullet'>En général, les Français ne disent pas souvent à un vendeur « c'est trop cher ». Souvent, ils ne disent rien, ou simplement « <b>je vais réfléchir</b> » ou peut-être « <b>ce n'est pas donné !</b> »</div>" },
+    { "page_no": 90, "seq": 47, "type": "list", "body_html": "<div class='bullet'>En privé, à un(e) ami(e), on se sent beaucoup plus libre. On peut dire : <b>Ça coûte un peu trop cher</b> &lt; (<b>trop</b>) cher &lt; <b>beaucoup trop cher !</b> <b>C'est de la folie !</b> = <b>Ça coûte « les yeux de la tête » !</b> = <b>Ça coûte une fortune !</b></div>" },
+    { "page_no": 90, "seq": 48, "type": "list", "body_html": "<div class='bullet'>Si on ne conteste pas le prix, on peut dire : <b>C'est tout à fait raisonnable.</b> = <b>C'est un prix normal.</b></div>" },
+    { "page_no": 90, "seq": 49, "type": "list", "body_html": "<div class='bullet'>Si on « <b>a fait une bonne affaire</b> », si on a trouvé un produit pas très cher, on dit : <b>C'est donné !</b> = <b>Ça ne coûte rien !</b> Je l'ai acheté « <b>pour une bouchée de pain</b> » ! = Je l'ai eu « <b>pour trois fois rien</b> » !</div>" },
+    { "page_no": 90, "seq": 50, "type": "section_title", "body_html": "LE SERVICE" },
+    { "page_no": 90, "seq": 51, "type": "para", "body_html": "Dans la plupart des grands magasins, il existe <b>un service après-vente</b>, qui assure la <b>réparation</b> et <b>l'entretien</b> des appareils. Si on est mécontent d'un produit, on peut faire <b>une réclamation</b>." },
+    { "page_no": 90, "seq": 52, "type": "list", "body_html": "<div class='bullet'>Dans les grands magasins et les grandes surfaces, il est possible de <b>changer</b>, <b>échanger</b> ou <b>se faire rembourser</b> un produit, mais c'est moins courant que dans d'autres pays. Il faut alors avoir <b>le ticket de caisse</b> ou <b>la facture</b> (= un document officiel qui prouve l'achat).</div>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 85, "seq": 1, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Les grandes surfaces vendent des produits bio. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Les grands magasins ne sont pas situés dans des villages. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. On peut faire des courses dans des petits commerces. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Les produits industriels sont vendus dans des magasins spécialisés. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. On peut demander une promotion à domicile. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Les contacts humains sont plus faciles dans les petits commerces. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. Les produits fermiers ne sont pas industriels. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 85, "seq": 2, "instruction_fr": "Choisissez la bonne réponse.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Nous faisons les {{o:courses|rayons}} au supermarché." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Elle adore regarder les {{o:fenêtres|vitrine}} des magasins." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Vous pouvez {{o:me faire|m'emballer}} un paquet-cadeau ?" },
+        { "seq": 4, "type": "choice", "stem_html": "4. Les {{o:grands magasins|grandes surfaces}} ne se trouvent pas au centre-ville." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Je regarde le prix sur {{o:le rayon|l'étiquette}}." },
+        { "seq": 6, "type": "choice", "stem_html": "6. Nous allons dans un grand magasin pour acheter {{o:un vêtement|une voiture}}." },
+        { "seq": 7, "type": "choice", "stem_html": "7. Mon {{o:chariot|achat}} est plein, je vais à la caisse." }
+      ]
+    },
+    {
+      "page_no": 85, "seq": 3, "instruction_fr": "Complétez.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. La vendeuse {{b}} le joli stylo que je vais offrir à mon frère." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Il {{b}} ses courses au petit supermarché à côté de chez lui." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je remplis mon {{b}} avant de passer à la caisse." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Elle {{b}} un renseignement à la vendeuse." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Ce bouquet, c'est pour {{b}} ? – Non, c'est pour moi." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Mes filles adorent {{b}} du lèche-vitrines." }
+      ]
+    },
+    {
+      "page_no": 85, "seq": 4, "instruction_fr": "Devinette. De quoi parle-t-on ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Ils sont naturels et respectueux de l'environnement : {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. J'en demande un quand je veux offrir un objet : {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le prix est marqué dessus : {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. On les regarde de l'extérieur et avec plaisir : {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Ils sont de bonne qualité mais pas biologiques : {{b}}" }
+      ]
+    },
+    {
+      "page_no": 85, "seq": 5, "instruction_fr": "À vous ! Parlez des commerces dans votre pays.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Existe-t-il un équivalent des petits commerçants, des grands magasins et des grandes surfaces ? {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Vous-même, où et comment faites-vous vos courses ? {{T}}" }
+      ]
+    },
+    {
+      "page_no": 87, "seq": 6, "instruction_fr": "Choisissez la ou les bonne(s) réponse(s).", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Au marché aux puces, j'ai acheté {{o:un vase|un bibelot|un bouquet|un médicament}}." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Les {{o:cahiers|enveloppes|bibelots|stylos}} sont en vente à la papeterie." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Les {{o:pharmacies|marchands|marchés}} sont pittoresques." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Nous avons acheté {{o:un dictionnaire|un timbre|une plante verte}} à la librairie." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Le client {{o:va au marché|sert les clients|marchande|fait le marché}}." },
+        { "seq": 6, "type": "choice", "stem_html": "6. Au marché, nous avons acheté des {{o:fruits|timbres|jeux|clients}}." }
+      ]
+    },
+    {
+      "page_no": 87, "seq": 7, "instruction_fr": "Associez pour constituer une phrase complète.", "label": "a. scolaires. | b. médical. | c. verte. | d. libre. | e. touristique. | f. pittoresque. | g. sec. | h. fiscal.", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "1. Les médicaments sont en vente → {{b}}" },
+        { "seq": 2, "type": "assoc", "stem_html": "2. Cette jupe en soie doit être nettoyée à → {{b}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "3. Le marché de mon village est très → {{b}}" },
+        { "seq": 4, "type": "assoc", "stem_html": "4. Les enfants ont besoin de livres → {{b}}" },
+        { "seq": 5, "type": "assoc", "stem_html": "5. Pour votre passeport, il vous faut un timbre → {{b}}" },
+        { "seq": 6, "type": "assoc", "stem_html": "6. Elle aime bien cette plante → {{b}}" },
+        { "seq": 7, "type": "assoc", "stem_html": "7. Le vieux monsieur a besoin de matériel → {{b}}" },
+        { "seq": 8, "type": "assoc", "stem_html": "8. Avant de visiter Dresde, j'achète un guide → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 87, "seq": 8, "instruction_fr": "Dans quel(s) commerce(s) doivent-ils aller ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Denise voudrait trouver des tasses en porcelaine du XIXᵉ siècle. {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Sébastien va chercher des roses rouges pour offrir à sa fiancée. {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Joëlle cherche un roman de Camus. {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Matthieu a mal à la tête et a besoin d'aspirine. {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. François cherche un vrai fromage de chèvre de production locale. {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Guillaume voudrait se promener en regardant des fruits et des légumes. {{b}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Alain rêve de devenir millionnaire en gagnant au Loto. {{b}}" }
+      ]
+    },
+    {
+      "page_no": 87, "seq": 9, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. On marchande chez le marchand de journaux. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. J'ai fait le marché au marché aux puces. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. On peut emballer les fleurs à offrir. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. J'achète de la vaisselle à la papeterie. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Certains médicaments ne sont pas en vente libre. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Pour nettoyer mon manteau à sec, je vais à la laverie. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. Malheureusement, il n'y a plus de marchés à Paris. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 87, "seq": 10, "instruction_fr": "À vous ! Dans votre pays, existe-t-il des marchés et des marchés aux puces ? Si oui, y allez-vous ? Pourquoi ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 89, "seq": 11, "instruction_fr": "Complétez (plusieurs solutions sont parfois possibles). Je voudrais...", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. {{b}} de miel." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. {{b}} d'huile d'olive." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. {{b}} de framboises." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. {{b}} de Chanel n° 5." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. {{b}} de pâté." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. {{b}} d'oignons nouveaux." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. {{b}} de biscottes." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. {{b}} de dentifrice." }
+      ]
+    },
+    {
+      "page_no": 89, "seq": 12, "instruction_fr": "Choisissez la bonne réponse.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Roland achète {{o:un demi-litre|une livre}} d'olives." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Fabrice a besoin d' {{o:une douzaine|un kilo}} d'œufs." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Rémi cherche le {{o:tube|flacon}} de mayonnaise." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Béatrice a acheté un {{o:beau|gros}} canard à rôtir." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Vous pouvez me donner une {{o:botte|boîte}} de radis ?" },
+        { "seq": 6, "type": "choice", "stem_html": "6. Il me faudrait une {{o:tablette|tranche}} de chocolat au lait." }
+      ]
+    },
+    {
+      "page_no": 89, "seq": 13, "instruction_fr": "Trouvez une autre manière de dire.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je voudrais 500 grammes de haricots verts. → {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Il me faudrait environ dix oranges. → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Donnez-moi 250 grammes de beurre. → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Est-ce que vous auriez environ quinze boîtes de sardines ? → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Je voudrais deux demi-litres d'huile de tournesol. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 89, "seq": 14, "instruction_fr": "Chez quel(s) commerçant(s) pourriez-vous entendre les phrases suivantes ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. « Vous avez reçu Le Monde d'aujourd'hui ? » → {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. « Vous en voulez une barquette ? » → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. « C'est pour offrir ? » → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. « Vos camemberts sont fermiers ? » → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. « Vous avez une ordonnance ? » → {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. « Il me faudrait une livraison à domicile. » → {{b}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. « Je vous prends ces tasses et ce petit vase pour 15 € ! » → {{b}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. « Où sont les caddies, s'il vous plaît ? » → {{b}}" },
+        { "seq": 9, "type": "cloze", "stem_html": "9. « Vous auriez un dictionnaire français-roumain ? » → {{b}}" },
+        { "seq": 10, "type": "cloze", "stem_html": "10. « Donnez-m'en la moitié, s'il vous plaît ! » → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 91, "seq": 15, "instruction_fr": "Choisissez la bonne réponse.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Les abricots sont {{o:combien|à combien}} ?" },
+        { "seq": 2, "type": "choice", "stem_html": "2. Ça coûte {{o:une fortune|beaucoup}}." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Les courgettes {{o:sont|font}} à combien ?" },
+        { "seq": 4, "type": "choice", "stem_html": "4. Je vous {{o:coûte|dois}} combien ?" },
+        { "seq": 5, "type": "choice", "stem_html": "5. Le billet d'entrée ne {{o:coûte|fait}} rien !" },
+        { "seq": 6, "type": "choice", "stem_html": "6. C'est de la {{o:folie|tête}} !" },
+        { "seq": 7, "type": "choice", "stem_html": "7. 245 €, ce n'est pas {{o:gratuit|donné}} !" },
+        { "seq": 8, "type": "choice", "stem_html": "8. Je suis mécontent de ce produit, je vais faire une {{o:réparation|réclamation}}." },
+        { "seq": 9, "type": "choice", "stem_html": "9. Pour être remboursé, vous devez apporter {{o:le ticket|la facture}} de caisse." }
+      ]
+    },
+    {
+      "page_no": 91, "seq": 16, "instruction_fr": "Comment demanderiez-vous le prix dans ces situations ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Vous êtes au marché, vous parlez des fraises. → {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Vous êtes dans une boutique, vous parlez d'un manteau. → {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Vous êtes chez le médecin, vous voulez régler la consultation. → {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Vous allez payer les oignons et les tomates au marchand. → {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Vous désirez louer un vélo pour une demi-journée. → {{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. Vous allez acheter un ticket de bus. → {{T}}" },
+        { "seq": 7, "type": "open", "stem_html": "7. Vous allez rembourser un ami. → {{T}}" }
+      ]
+    },
+    {
+      "page_no": 91, "seq": 17, "instruction_fr": "Quel(s) commentaire(s) sur le prix serai(en)t approprié(s) ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Vous avez acheté une table et des chaises au marché aux puces. Vous avez bien marchandé. {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Vous désirez louer une petite chambre d'hôtel, on vous annonce 200 € comme prix ! {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Vous venez d'essayer un pantalon. Vous pensiez qu'il coûtait 80 €, mais il coûte en réalité 300 €. {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Vous avez acheté une voiture d'occasion pour un prix très bas. {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Vous ne contestez pas le prix de ce livre d'art. {{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. Vous regardez le prix d'un château du XVIIIᵉ siècle à vendre... {{T}}" }
+      ]
+    }
+  ]
+}
