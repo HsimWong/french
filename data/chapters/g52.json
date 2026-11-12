@@ -1,0 +1,217 @@
+{
+  "course": "grammaire",
+  "seq": 52,
+  "title_fr": "LES RELATIONS LOGIQUES",
+  "page_start": 250,
+  "page_end": 255,
+  "pdf_start": 252,
+  "pdf_end": 257,
+  "sections": [
+    { "title_fr": "LA CAUSE", "page_no": 250 },
+    { "title_fr": "LA CONSÉQUENCE <em>et</em> LE BUT", "page_no": 252 },
+    { "title_fr": "L'OPPOSITION <em>et</em> LA CONCESSION", "page_no": 254 }
+  ],
+  "blocks": [
+    { "page_no": 250, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">52</span> LES RELATIONS LOGIQUES" },
+    { "page_no": 250, "seq": 2, "type": "para", "body_html": "Pour expliciter les relations logiques entre plusieurs éléments de phrase, on utilise différentes expressions de cause, conséquence, but et opposition." },
+    { "page_no": 250, "seq": 3, "type": "section_title", "body_html": "LA CAUSE" },
+    { "page_no": 250, "seq": 4, "type": "keypoint", "body_html": "– Je pars, <strong>parce que</strong> j'ai un rendez-vous.<br>– Bon, <strong>puisque</strong> vous partez, je vous rappellerai plus tard." },
+    { "page_no": 250, "seq": 5, "type": "table", "body_html": "<table class='data-table'><tr><td class='bullet'><strong>« PARCE QUE »</strong> place la cause<br>en fin de phrase<br><em>Je reste à la maison<br><strong>parce que</strong> je suis malade.</em></td><td class='bullet'><strong>« COMME »</strong> place la cause<br>en début de phrase :<br><em><strong>Comme</strong> je suis malade,<br>je reste à la maison.</em></td></tr></table><p>• « <strong>Parce que</strong> » répond à « Pourquoi ? »</p><p class='sample'><em>Pourquoi as-tu appelé le médecin ? – <strong>Parce que</strong> Max est malade.</em></p>" },
+    { "page_no": 250, "seq": 6, "type": "para", "body_html": "<p class='bullet'>« <strong>PUISQUE</strong> » suppose que la cause est <strong>connue</strong> ou <strong>évidente</strong> pour l'interlocuteur.</p><p class='sample'><em>– Je sors. – <strong>Puisque</strong> tu sors, achète du pain, s'il te plaît.</em><br><em>– J'ai sommeil… – Eh bien, va te coucher <strong>puisque</strong> tu as sommeil…</em></p><p>• On l'emploie souvent dans une phrase exclamative.</p><p class='sample'><em>Je m'en vais, <strong>puisque</strong> personne ne m'écoute !</em><br><em><strong>Puisque</strong> tu sais tout, réponds-moi !</em></p><p>• « <strong>Car</strong> » / « <strong>en effet</strong> » sont surtout utilisés à l'écrit.</p><p class='sample'><em>Mon fils ne peut pas aller à l'école, <strong>car</strong> il est souffrant.</em></p>" },
+    { "page_no": 250, "seq": 7, "type": "table", "body_html": "<table class='data-table'><tr><td class='bullet'>« <strong>À CAUSE DE</strong> » + nom :<br>cause négative ou neutre.<br><em>La rue est barrée <strong>à cause des</strong> travaux.</em><br><em>Je dors mal <strong>à cause du</strong> bruit.</em></td><td class='bullet'>« <strong>GRÂCE À</strong> » + nom :<br>cause positive.<br><em>J'ai réussi <strong>grâce à</strong> toi.</em><br><em>Je dors bien <strong>grâce aux</strong> boules Quies.</em></td></tr></table><p>• <strong>De</strong> = effet physique &nbsp;&nbsp;&nbsp; <em>Être fou <strong>de</strong> joie</em> &nbsp;&nbsp; <em>Être mort <strong>de</strong> peur</em> &nbsp;&nbsp; <em>Être rouge <strong>de</strong> honte</em></p>" },
+
+    { "page_no": 252, "seq": 8, "type": "section_title", "body_html": "LA CONSÉQUENCE <em>et</em> LE BUT" },
+    { "page_no": 252, "seq": 9, "type": "keypoint", "body_html": "Mon rendez-vous est annulé. Je suis <strong>donc</strong> libre ce soir.<br><strong>C'est pour ça que</strong> je t'appelle." },
+    { "page_no": 252, "seq": 10, "type": "subhead", "body_html": "LA CONSÉQUENCE" },
+    { "page_no": 252, "seq": 11, "type": "para", "body_html": "<p>• « <strong>Donc</strong> », « <strong>par conséquent</strong> » introduisent une conséquence :</p><p class='sample'><em>Je n'ai pas de permis, <strong>donc</strong> je ne peux pas conduire.</em><br><em>Léo n'a pas dix-huit ans, <strong>par conséquent</strong> il ne peut pas voter.</em></p><p>• On utilise souvent <strong>alors</strong> en langage courant :</p><p class='sample'><em>La rue est barrée, <strong>alors</strong> passons par-derrière !</em></p>" },
+    { "page_no": 252, "seq": 12, "type": "para", "body_html": "<p>• « <strong>Si bien que</strong> » / « <strong>de sorte que</strong> » expriment une conséquence prévisible, en langage formel :</p><p class='sample'><em>La pollution ne cesse d'augmenter <strong>si bien que</strong> la planète est en danger.</em><br><em>L'examen était très difficile, <strong>de sorte que</strong> beaucoup ont abandonné.</em></p><p>• On utilise aussi « <strong>C'est la raison pour laquelle</strong> » / « <strong>C'est pourquoi</strong> » (écrit) ou « <strong>C'est pour ça que</strong> » (oral) :</p><p class='sample'><em>Je cherche un emploi. <strong>C'est la raison pour laquelle</strong> je m'adresse à vous.</em><br><em>Je cherche du travail. <strong>C'est pour ça que</strong> je t'écris.</em></p>" },
+    { "page_no": 252, "seq": 13, "type": "subhead", "body_html": "LE BUT" },
+    { "page_no": 252, "seq": 14, "type": "para", "body_html": "<p>• « <strong>Pour</strong> » (+ infinitif) ou « <strong>pour que</strong> » (+ subjonctif) expriment un but :</p><table class='data-table'><tr><td><em>Je me dépêche</em></td><td><em><strong>pour</strong> être à l'heure.<br><strong>pour que</strong> tout <strong>soit</strong> prêt.</em></td></tr></table><p>• « <strong>Afin de</strong> » (+ infinitif) ou « <strong>afin que</strong> » (+ subjonctif) s'utilisent en langage plus formel :</p><table class='data-table'><tr><td><em>Je vous écris</em></td><td><em><strong>afin de</strong> vous informer de la situation.<br><strong>afin que</strong> vous <strong>soyez</strong> informé de la situation.</em></td></tr></table>" },
+    { "page_no": 252, "seq": 15, "type": "warning", "body_html": "• Distinguer « <strong>pour que</strong> » et « <strong>parce que</strong> » :<br><em>J'utilise ce shampoing <strong>pour que</strong> mes cheveux <strong>frisent</strong>.</em> &nbsp;&nbsp;= but<br><em>J'utilise ce shampoing <strong>parce que</strong> mes cheveux frisent.</em> &nbsp;&nbsp;= cause" },
+
+    { "page_no": 254, "seq": 16, "type": "section_title", "body_html": "L'OPPOSITION <em>et</em> LA CONCESSION" },
+    { "page_no": 254, "seq": 17, "type": "keypoint", "body_html": "Anne est française, <strong>mais</strong> son mari est anglais.<br>Je suis fatigué, <strong>pourtant</strong> j'ai dormi neuf heures." },
+    { "page_no": 254, "seq": 18, "type": "para", "body_html": "<p class='bullet'><strong>L'OPPOSITION</strong> oppose deux réalités <strong>indépendantes</strong>.</p><p>• « <strong>Mais</strong> » constate une différence :</p><p class='sample'><em>Il fait froid dans le Nord, <strong>mais</strong> il fait beau dans le Sud.</em></p><p>• « <strong>Par contre</strong> » (en langage courant) et « <strong>en revanche</strong> » (en langage formel) renforcent l'opposition :</p><table class='data-table'><tr><td><em>Il fait froid à Paris,</em></td><td><em><strong>par contre,</strong><br><strong>en revanche,</strong></em></td><td><em>il fait chaud à Nice.</em></td></tr></table>" },
+    { "page_no": 254, "seq": 19, "type": "para", "body_html": "<p>• « <strong>Tandis que</strong> » et « <strong>alors que</strong> » opposent en comparant :</p><table class='data-table'><tr><td><em>C'est l'hiver en France,</em></td><td><em><strong>tandis que<br>alors que</strong></em></td><td><em>c'est l'été au Brésil.</em></td></tr></table>" },
+    { "page_no": 254, "seq": 20, "type": "subhead", "body_html": "LA CONCESSION <em>oppose</em> deux réalités <em>contradictoires</em> :" },
+    { "page_no": 254, "seq": 21, "type": "para", "body_html": "<p>• « <strong>Pourtant</strong> » contredit ce qui précède :</p><table class='data-table'><tr><td><em>Je suis fatigué, <strong>pourtant</strong>, j'ai dormi 9 h.</em><br><em>Mes enfants se disputent, <strong>pourtant</strong>, ils s'adorent.</em></td><td>= contre l'évidence</td></tr></table><p>• « <strong>Cependant</strong> », « <strong>toutefois</strong> » sont surtout utilisés à l'écrit :</p><table class='data-table'><tr><td><em>Tout est prêt.</em></td><td><em><strong>Cependant,<br>Toutefois,</strong></em></td><td><em>il reste quelques détails à régler.</em></td></tr></table>" },
+    { "page_no": 254, "seq": 22, "type": "para", "body_html": "<p>• « <strong>Bien que</strong> » + subjonctif ou « <strong>malgré</strong> » + nom signifient « même si » :</p><table class='data-table'><tr><td><em>Il fait froid, <strong>bien qu'</strong>il <strong>y ait</strong> du soleil.</em><br><em>Nous sortons <strong>malgré</strong> la pluie.</em></td><td>= même s'il y a du soleil<br>= même s'il pleut</td></tr></table><p>• « <strong>Quand même</strong> », très courant à l'oral, a plusieurs sens :</p><table class='data-table'><tr><td><em>Il fait froid, mais je sors <strong>quand même</strong> !</em><br><em>Tu pourrais <strong>quand même</strong> m'aider !</em></td><td>= malgré tout<br>= reproche</td></tr></table>" },
+    { "page_no": 254, "seq": 23, "type": "para", "body_html": "<p>• « <strong>Avoir beau</strong> » (+ infinitif) signifie faire des efforts sans résultat :</p><p class='sample'><em>J'ai <strong>beau</strong> chercher, je ne retrouve plus mes clés.</em></p>" },
+    { "page_no": 254, "seq": 24, "type": "xref", "body_html": "« Bien que » voir aussi, p. 248" }
+  ],
+  "exercises": [
+    {
+      "page_no": 251, "seq": 1,
+      "instruction_fr": "« Parce que ». Donnez la cause. être malade - rater ses examens - être en panne - faire la grève - avoir faim",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Jean est absent. Pourquoi ? – <em>Il est absent parce qu'il est malade.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Le bébé pleure. Pourquoi ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Marie est triste. Pourquoi ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Les employés ne sont pas là. Pourquoi ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – L'ascenseur ne descend pas. Pourquoi ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 251, "seq": 2,
+      "instruction_fr": "Utilisez « comme » ou « parce que ».",
+      "label": "Samedi soir", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Je n'ai pas pu t'appeler, <em>parce que</em> j'avais perdu ton numéro. {{b}} il y a beaucoup de « Duval » dans l'annuaire, j'ai cherché longtemps.<br>J'ai pris un taxi {{b}} j'étais en retard. {{b}} il y avait beaucoup de monde à la station, j'ai attendu longtemps.<br>{{b}} le magasin de fleurs était fermé, je t'ai apporté des bonbons." }
+      ]
+    },
+    {
+      "page_no": 251, "seq": 3,
+      "instruction_fr": "« Puisque ». Imaginez un dialogue.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Il pleut. – <em>Puisqu'il pleut, restons à la maison !</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – J'ai mal à la tête. – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Le frigo est vide. – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Je sors. – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 251, "seq": 4,
+      "instruction_fr": "« Comme », « parce que » ou « puisque » ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Je me dépêche {{b}} je suis en retard." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – {{b}} j'étais pressé, j'ai pris un taxi." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – {{b}} tu savais, pourquoi n'as-tu rien dit ?" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Pars, {{b}} tu ne m'aimes plus !" }
+      ]
+    },
+    {
+      "page_no": 251, "seq": 5,
+      "instruction_fr": "Complétez avec « parce que », « comme », « puisque », « grâce à » et « à cause de ».",
+      "label": "Hold-up", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Hier, il y a eu de l'agitation dans mon quartier {{L}} la banque a été attaquée. {{b}} l'attaque a eu lieu en pleine journée, il y avait beaucoup de monde. Le caissier a appelé la police {{L}} une alarme dissimulée sous son bureau. Mais la police est arrivée en retard {{L}} des embouteillages. Le gangster a pu s'échapper, {{L}} à la complicité d'une femme.<br>{{b}} le hold-up est tout à fait dans son style, la police a soupçonné tout de suite Pierrot Ferdinand. Mais ce n'est sûrement pas lui, {{L}} il est déjà en prison !" }
+      ]
+    },
+    {
+      "page_no": 251, "seq": 6,
+      "instruction_fr": "Créez des publicités avec « à cause de » et « grâce à » à partir du modèle. 1. Vos chaussures sont abîmées à cause de la pluie. Grâce à « Souplor », elles retrouveront leur souplesse.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "2. Votre peau est sèche {{L}} soleil. {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "3. Vous dormez mal {{L}} bruit. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 253, "seq": 7,
+      "instruction_fr": "Trouvez les conséquences.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "match", "stem_html": "Tu as fait une erreur de calcul → <em>donc ton résultat est faux.</em><br>Nos frais ont augmenté → {{L}}<br>La télé est en panne → {{L}}<br>Paul ment toujours → {{L}}" }
+      ]
+    },
+    {
+      "page_no": 253, "seq": 8,
+      "instruction_fr": "Complétez les conséquences sur le modèle de l'exercice 1.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. « A » égale « B » et « B » égale « C », {{b}} « A » égale « C ». C'est logique !" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Le chauffage est éteint : {{b}} il fait si froid !" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Marilyne n'était pas libre samedi soir, {{b}} j'ai invité Bernadette." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Votre dossier a été remis après la date limite, {{b}} nous ne pouvons l'accepter." }
+      ]
+    },
+    {
+      "page_no": 253, "seq": 9,
+      "instruction_fr": "Complétez avec des expressions de cause et de conséquence.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Tu as dix-huit ans : tu peux voter maintenant {{L}} tu es majeur !<br>Maintenant tu as dix-huit ans, tu es majeur. {{L}} tu peux voter !" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. {{L}} il n'y avait plus de pain, nous avons mangé des biscottes.<br>Il n'y avait plus de pain. {{L}} nous avons mangé des biscottes." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le feu a été maîtrisé rapidement {{L}} l'intervention des pompiers.<br>Les pompiers sont intervenus rapidement. {{L}} le feu a été maîtrisé." }
+      ]
+    },
+    {
+      "page_no": 253, "seq": 10,
+      "instruction_fr": "Complétez avec une expression de but.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Le professeur a répété son explication <em>pour que</em> tout le monde <em>comprenne</em> les explications." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. J'ai placé les enfants au premier rang {{L}} ils {{L}} bien le spectacle." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. J'ai corrigé le texte {{L}} chaque phrase {{L}} correcte." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Surveillez les enfants {{L}} ils ne {{L}} pas de bêtises." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. J'ai donné toutes les instructions {{L}} chacun {{L}} se débrouiller tout seul." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Anna ne sort pas de chez elle. Je l'ai invitée à la campagne {{L}} elle {{L}} un peu l'air…" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Je prépare mes affaires le soir {{L}} {{L}} moins stressée le lendemain matin." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Nous réservons nos billets de train à l'avance, {{L}} {{L}} de bons prix." }
+      ]
+    },
+    {
+      "page_no": 253, "seq": 11,
+      "instruction_fr": "Imaginez la suite en variant les expressions de conséquence.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Je n'ai pas assez dormi {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Léo est majeur, {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Max rentre de vacances, {{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. On a raté l'avion {{L}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Ma vue a baissé {{L}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. Aujourd'hui, c'est dimanche, {{L}}" },
+        { "seq": 7, "type": "open", "stem_html": "7. Je me suis coupé en me rasant, {{L}}" },
+        { "seq": 8, "type": "open", "stem_html": "8. L'ascenseur est en panne {{L}}" }
+      ]
+    },
+    {
+      "page_no": 255, "seq": 12,
+      "instruction_fr": "Établissez des parallèles en utilisant « tandis que » (ou « alors que »).",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [255],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "rouge : température ambiante / blanc : frais<br><em>Le vin rouge se boit à température ambiante<br>tandis que le vin blanc</em> {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "Nord : beurre / Sud : huile d'olive<br><em>Les gens du Nord consomment</em> {{L}}<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "La Grande-Bretagne : monarchie / La France : république<br><em>La Grande-Bretagne est</em> {{L}}<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Japon : baguettes / France : couteau et fourchette<br><em>Au Japon, on mange</em> {{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 255, "seq": 13,
+      "instruction_fr": "Transformez. Imaginez la suite. Jo est toujours à l'heure. Il ne court jamais. Il mange beaucoup et il a toujours faim. Il est carnivore et il déteste les légumes. Il rit rarement, il sort peu, il danse mal.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "<em>Jo est toujours à l'heure, par contre Jim</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 255, "seq": 14,
+      "instruction_fr": "Complétez librement avec « pourtant ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Notre équipe a perdu. <em>Pourtant elle avait bien joué.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Max a raté ses examens. {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je ne retrouve plus ma voiture. {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Tu n'as pas reçu ma lettre ? {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Il fait froid. {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Jo adore Jim. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 255, "seq": 15,
+      "instruction_fr": "Transformez avec des expressions de concession, selon le modèle.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Il pleut. Vous sortez <em>malgré la pluie ?</em><br>– Oui, <em>nous sortons, même s'il pleut.</em><br>Il pleut, mais <em>nous sortons quand même !</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Il y a du bruit. Le bébé dort {{L}} ?<br>– Oui, il {{L}}<br>Il y a du bruit, mais {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Paul a la migraine. Il travaille<br>– Oui, il {{L}}<br>Il a la migraine, mais {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Clara a des défauts. Ses amis l'aiment<br>– Oui, ils {{L}}<br>Elle a des défauts, mais {{L}}" }
+      ]
+    },
+    {
+      "page_no": 255, "seq": 16,
+      "instruction_fr": "Transformez avec « pourtant » et « avoir beau ». Continuez librement.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je continue à grossir ; pourtant, je fais un régime. <em>J'ai beau faire un régime, je continue à grossir.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Je suis fatiguée, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. J'étudie la grammaire, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Je fais du ménage, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Je dépense peu, {{L}}" }
+      ]
+    }
+  ]
+}
