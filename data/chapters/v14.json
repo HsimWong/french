@@ -1,0 +1,252 @@
+{
+  "course": "vocabulaire",
+  "seq": 14,
+  "title_fr": "CUISINE – RESTAURANT – CAFÉ",
+  "page_start": 92,
+  "page_end": 99,
+  "pdf_start": 94,
+  "pdf_end": 101,
+  "sections": [
+    { "title_fr": "FAIRE LA CUISINE", "page_no": 92 },
+    { "title_fr": "QUELQUES USTENSILES DE CUISINE", "page_no": 92 },
+    { "title_fr": "LES REPAS À LA MAISON", "page_no": 94 },
+    { "title_fr": "QUE BOIRE ?", "page_no": 96 },
+    { "title_fr": "AU RESTAURANT", "page_no": 96 },
+    { "title_fr": "AU CAFÉ", "page_no": 98 },
+    { "title_fr": "QUELQUES COMMENTAIRES", "page_no": 98 }
+  ],
+  "blocks": [
+    { "page_no": 92, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">14</span> CUISINE – RESTAURANT – CAFÉ" },
+    { "page_no": 92, "seq": 2, "type": "section_title", "body_html": "FAIRE LA CUISINE" },
+    { "page_no": 92, "seq": 3, "type": "para", "body_html": "Les Français sont réputés gourmands : ils apprécient la bonne cuisine, et beaucoup d'entre eux aiment faire la cuisine. Ils utilisent des livres de cuisine et échangent les recettes de leurs plats favoris. Un bon cuisinier ou une bonne cuisinière est un vrai « cordon-bleu ». Quand on fait la cuisine professionnellement, on est chef cuisinier. N'oublions pas que la cuisinière est aussi un équipement électroménager qui permet de faire la cuisine, précisément..." },
+    { "page_no": 92, "seq": 4, "type": "section_title", "body_html": "QUELQUES USTENSILES DE CUISINE" },
+    { "page_no": 92, "seq": 5, "type": "list", "body_html": "<div class='bullet'>une poêle</div><div class='bullet'>un manche</div><div class='bullet'>une casserole</div><div class='bullet'>une louche</div><div class='bullet'>un couvercle</div><div class='bullet'>une cocotte-minute</div><div class='bullet'>une cocotte</div><div class='bullet'>une râpe à fromage</div><div class='bullet'>une passoire</div><div class='bullet'>un moulin à café</div><div class='bullet'>une cafetière électrique</div><div class='bullet'>un mixeur</div><div class='bullet'>un batteur</div><div class='bullet'>un grille-pain</div><div class='bullet'>un rouleau à pâtisserie</div><div class='bullet'>une spatule</div><div class='bullet'>un fouet</div><div class='bullet'>une planche à découper</div><div class='bullet'>un plateau</div><div class='bullet'>des couverts à salade</div><div class='bullet'>un saladier</div><div class='bullet'>un presse-agrumes</div><div class='bullet'>une manique</div><div class='bullet'>un plat à four</div><div class='bullet'>un moule à gâteau</div><div class='bullet'>un ouvre-boîte</div><div class='bullet'>un tablier</div><div class='bullet'>une balance</div><div class='bullet'>une bouilloire</div><div class='bullet'>un entonnoir</div>" },
+    { "page_no": 94, "seq": 6, "type": "running_head", "body_html": "CUISINE – RESTAURANT – CAFÉ" },
+    { "page_no": 94, "seq": 7, "type": "section_title", "body_html": "LES REPAS À LA MAISON" },
+    { "page_no": 94, "seq": 8, "type": "subhead", "body_html": "Le petit déjeuner" },
+    { "page_no": 94, "seq": 9, "type": "list", "body_html": "<div class='bullet'>Le matin, les Français mangent en général des tartines, quelquefois grillées : du pain beurré (de la baguette ou une tranche de pain de campagne), avec, éventuellement, de la confiture ou du miel. Dans un grand bol ou une tasse, on verse le thé, le café, le chocolat chaud ou le lait. Certains prennent des céréales, du muesli, des œufs à la coque (cuits à l'eau), servis dans des coquetiers et boivent un jus de fruits frais. Les croissants, grande spécialité française, se mangent souvent dans les bistrots, ou à la maison pour une occasion spéciale (le dimanche, par exemple).</div>" },
+    { "page_no": 94, "seq": 10, "type": "subhead", "body_html": "Le déjeuner (entre 12 h et 14 h)" },
+    { "page_no": 94, "seq": 11, "type": "list", "body_html": "<div class='bullet'>Il comporte en général une entrée, un plat de viande ou de poisson, accompagné de légumes, puis un fromage ou un dessert (un yaourt, un fruit constituent des desserts courants à la maison). Les végétariens ne mangent pas de viande. Si nécessaire, un sandwich permet de manger « sur le pouce » (= très vite).</div>" },
+    { "page_no": 94, "seq": 12, "type": "subhead", "body_html": "Le goûter (vers 16 h)" },
+    { "page_no": 94, "seq": 13, "type": "list", "body_html": "<div class='bullet'>C'est un petit repas pour les enfants qui sortent de l'école. Il ressemble beaucoup au petit déjeuner. Souvent aussi, les mamans achètent un pain au chocolat ou une brioche à la pâtisserie du coin.</div>" },
+    { "page_no": 94, "seq": 14, "type": "subhead", "body_html": "Le dîner (entre 19 h et 21 h)" },
+    { "page_no": 94, "seq": 15, "type": "list", "body_html": "<div class='bullet'>Le dîner est un facteur de sociabilité très important. La famille, les amis se réunissent pour partager un bon repas. La convivialité (= manger ensemble) permet de discuter, de se connaître et de développer des relations, dans une atmosphère détendue et vivante.</div>" },
+    { "page_no": 94, "seq": 16, "type": "list", "body_html": "<div class='bullet'>une bouteille et son bouchon</div><div class='bullet'>un tire-bouchon pour déboucher</div><div class='bullet'>le plateau de fromages</div><div class='bullet'>une corbeille à pain</div><div class='bullet'>la salière</div><div class='bullet'>la poivrière</div><div class='bullet'>une carafe d'eau</div><div class='bullet'>un verre (à eau, à vin)</div><div class='bullet'>une assiette (plate, creuse)</div><div class='bullet'>une assiette à dessert</div><div class='bullet'>un dessous-de-plat</div><div class='bullet'>un cendrier</div><div class='bullet'>la serviette</div><div class='bullet'>une fourchette, un couteau, une cuillère = les couverts</div><div class='bullet'>la nappe</div>" },
+    { "page_no": 96, "seq": 17, "type": "running_head", "body_html": "CUISINE – RESTAURANT – CAFÉ" },
+    { "page_no": 96, "seq": 18, "type": "section_title", "body_html": "QUE BOIRE ?" },
+    { "page_no": 96, "seq": 19, "type": "list", "body_html": "<div class='bullet'>Pour l'apéritif, on peut prendre un kir, un porto, un whisky, un gin, un cocktail, ou du champagne, toujours accompagné d'amuse-gueules (cacahuètes, pistaches, biscuits d'apéritif, olives...), pour éviter d'avoir « la tête qui tourne »... Si on ne boit pas d'alcool, on peut prendre un jus de fruits.</div>" },
+    { "page_no": 96, "seq": 20, "type": "list", "body_html": "<div class='bullet'>Aux repas principaux, les Français boivent du vin, de la bière ou parfois des sodas. Les gastronomes savent choisir le vin qui va avec le plat : un bon vin blanc sec avec le poisson, du vin rouge avec les viandes et le fromage, un vin rosé bien frais avec une grillade, surtout en été. Avec les crêpes, on boit du cidre.</div>" },
+    { "page_no": 96, "seq": 21, "type": "list", "body_html": "<div class='bullet'>On distingue un « bon petit vin » (= un vin pas trop cher mais de bonne qualité) d'un « grand vin » (= un vin connu, cher, et de grande qualité). Il est usuel de parler du vin par régions : « Vous préférez le bourgogne ou le bordeaux ? » On peut aussi donner le nom du vin : « J'adore le sancerre, le saint-émilion et le sauternes. »</div>" },
+    { "page_no": 96, "seq": 22, "type": "list", "body_html": "<div class='bullet'>Les Français sont de grands consommateurs d'eau minérale en bouteille, mais l'eau du robinet est parfaitement potable (= on peut la boire). Une carafe d'eau est gratuite dans tous les restaurants et cafés (tout comme le pain, d'ailleurs).</div>" },
+    { "page_no": 96, "seq": 23, "type": "list", "body_html": "<div class='bullet'>À la fin du repas, on prend un café fort (un express) ou une infusion (de menthe, de camomille, de verveine...). On peut aussi préférer l'alcool et prendre un digestif, comme le cognac, l'armagnac, la prune, le calvados...</div>" },
+    { "page_no": 96, "seq": 24, "type": "section_title", "body_html": "AU RESTAURANT" },
+    { "page_no": 96, "seq": 25, "type": "list", "body_html": "<div class='bullet'>Aller au restaurant constitue « une sortie », c'est-à-dire un plaisir comme le théâtre ou le concert. Le repas dure assez longtemps pour avoir une bonne conversation amicale.</div>" },
+    { "page_no": 96, "seq": 26, "type": "list", "body_html": "<div class='bullet'>Les restaurants proposent une carte, une carte des vins et des menus à prix fixes / des formules. Le service est compris dans le prix, mais il est d'usage de laisser un pourboire.</div>" },
+    { "page_no": 96, "seq": 27, "type": "list", "body_html": "<div class='bullet'>On ne partage pas toujours le coût de l'addition. Il arrive que le serveur apporte l'addition et que plusieurs personnes se disputent pour régler : « C'est pour moi ! – Non, c'est moi qui invite ! » On peut annoncer, avant le repas : « Je vous / t'invite », ce qui signifie clairement que l'on paiera l'addition.</div>" },
+    { "page_no": 96, "seq": 28, "type": "list", "body_html": "<div class='bullet'>Si vous dînez dans un « grand restaurant » (= luxueux), la carte est parfois difficile à comprendre. Demandez des explications au maître d'hôtel, qui prendra la commande. Même dans les restaurants plus modestes, il est courant de demander des conseils au serveur ou à la serveuse, qui servent les clients. On les appelle en disant : « monsieur / madame, s'il vous plaît ! »</div>" },
+    { "page_no": 98, "seq": 29, "type": "running_head", "body_html": "CUISINE – RESTAURANT – CAFÉ" },
+    { "page_no": 98, "seq": 30, "type": "section_title", "body_html": "AU CAFÉ" },
+    { "page_no": 98, "seq": 31, "type": "para", "body_html": "Il y a partout des cafés = bistrots en France, même dans de très petits villages. Aller au café constitue une distraction, mais il est aussi courant d'y travailler et d'y étudier. Un client peut rester longtemps à une table de café, avec une simple consommation. Quand il fait beau, on peut s'installer à la terrasse." },
+    { "page_no": 98, "seq": 32, "type": "table", "body_html": "<table class='vocab'><tr><th>BUFFET</th><th>BOISSONS</th></tr><tr><td>SANDWICH (au jambon, au fromage, au pâté…)</td><td>CAFÉ 2,40 €</td></tr><tr><td>CROQUE-MONSIEUR 6,20 €</td><td>DÉCA (un café décaféiné) 2,40 €</td></tr><tr><td>OMELETTE (au jambon, au fromage, aux pommes de terre) 8,50 €</td><td>CAFÉ CRÈME 4,20 €</td></tr><tr><td>ASSIETTE DE FRITES 6,00 €</td><td>THÉ (nature, au lait, au citron) 4,60 €</td></tr><tr><td>PIZZA 8,00 €</td><td>CHOCOLAT CHAUD 4,20 €</td></tr><tr><td>QUICHE LORRAINE 8,00 €</td><td>DEMI PRESSION (bière) 4,50 €</td></tr><tr><td>ASSIETTE DE CRUDITÉS (carottes, concombres… crus) 7,70 €</td><td>JUS DE FRUIT 4,50 €</td></tr><tr><td></td><td>EAU MINÉRALE 3,90 €</td></tr><tr><td></td><td>INFUSION (de verveine, de menthe…) 4,60 €</td></tr></table>" },
+    { "page_no": 98, "seq": 33, "type": "section_title", "body_html": "QUELQUES COMMENTAIRES" },
+    { "page_no": 98, "seq": 34, "type": "para", "body_html": "La cuisine et le restaurant constituent en France un important sujet de conversation, qui n'est pas superficiel, mais culturel ! Quand on est invité chez quelqu'un, il est toujours poli de faire des compliments sur les plats." },
+    { "page_no": 98, "seq": 35, "type": "speech", "body_html": "<div class='speech'>– C'est magnifique !<br>– Que la décoration est belle !<br>– Mmm ! C'est appétissant ! En plus, c'est copieux (= abondant) !<br>– Cette viande est savoureuse et très tendre !<br>– Oui, c'est un délice…<br>– Je me régale !<br>– Vous reprendrez un peu de canard ?<br>– Non merci, c'était vraiment délicieux, mais j'ai assez mangé.<br>– Ce vin est absolument exquis…</div>" },
+    { "page_no": 98, "seq": 36, "type": "subhead", "body_html": "Et maintenant des convives mécontents…" },
+    { "page_no": 98, "seq": 37, "type": "speech", "body_html": "<div class='speech'>– Ce n'est pas fameux… et le vin est un peu amer…<br>– La viande est dure ! C'est immangeable !<br>– Ces légumes sont trop cuits et pas assez salés…<br>– La sauce n'a aucun goût, elle est très fade.<br>– Que c'est lourd ! Avec toute cette crème, je vais être malade…<br>– C'est trop fort ! Il y a beaucoup trop de poivre et de piment !</div>" },
+    { "page_no": 98, "seq": 38, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Ne confondez pas « c'est chaud » (= la température est élevée) et « c'est fort / relevé » (= il y a trop de piment, par exemple).</i>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 93, "seq": 1, "instruction_fr": "Choisissez la bonne réponse.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Nous faisons cuire les légumes dans une cocotte {{o:vapeur|minute}}." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Pour faire un gâteau, je me sers d' {{o:un moule|une moule}}." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Il pose {{o:le couvercle|la couverture}} sur la casserole." },
+        { "seq": 4, "type": "choice", "stem_html": "4. {{o:La manche|Le manche}} du couteau est en bois." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Pour faire du café, on utilise {{o:un moulin à café|une cafetière}}." },
+        { "seq": 6, "type": "choice", "stem_html": "6. Elle apporte les verres pour l'apéritif sur un {{o:plat|plateau}}." },
+        { "seq": 7, "type": "choice", "stem_html": "7. L'eau du riz passe dans {{o:un passage|une passoire}}." }
+      ]
+    },
+    {
+      "page_no": 93, "seq": 2, "instruction_fr": "De quel(s) ustensile(s) ces personnes auront-elles besoin ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Delphine veut faire des crêpes. → {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Claire prépare un gâteau au chocolat. → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Rachid doit faire cuire des légumes très vite. → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Dora a fait cuire le riz et doit maintenant enlever l'eau. → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Anne doit monter des œufs en neige. → {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Olivier voudrait couper la viande en morceaux. → {{b}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Christian va remuer la salade. → {{b}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Vincent voudrait peser de la farine. → {{b}}" },
+        { "seq": 9, "type": "cloze", "stem_html": "9. Claudine va préparer un gratin. → {{b}}" },
+        { "seq": 10, "type": "cloze", "stem_html": "10. Réjane voudrait ouvrir une boîte de conserve. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 93, "seq": 3, "instruction_fr": "Complétez (plusieurs solutions sont parfois possibles).", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Avant de {{b}} la cuisine, je mets mon {{b}} pour ne pas me salir." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Pour préparer une mousse au chocolat, je dois battre les œufs en neige avec le {{b}} ou le {{b}} et faire fondre le chocolat dans une {{b}} sur ma {{b}} à gaz." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Pour verser de l'huile dans cette bouteille, il faut un {{b}}." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. J'étale la pâte avec un {{b}} à pâtisserie, puis je la pose dans le {{b}} à gâteau." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Je prends une {{b}} pour sortir du four le gratin de courgettes." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Il reste de la sauce dans la {{b}}, où est la {{b}} pour l'enlever ?" }
+      ]
+    },
+    {
+      "page_no": 93, "seq": 4, "instruction_fr": "À vous !", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Faites-vous la cuisine ? Si oui, quels ustensiles utilisez-vous le plus souvent ? Quelles sont vos spécialités ? Pouvez-vous donner une de vos recettes favorites ? {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Dans votre langue, existe-t-il un mot ou un concept correspondant à « gourmand » ? {{T}}" }
+      ]
+    },
+    {
+      "page_no": 95, "seq": 5, "instruction_fr": "Le petit déjeuner, un matin comme les autres... Remplacez les mots suivants dans le dialogue.", "label": "cafetière | lait | beurre | miel | bol | pain | café | confiture", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Vincent : Oui, mais je ne trouve pas le {{b}}." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Vincent : Est-ce que tu veux de la {{b}} de framboises ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Élodie : Oui, mais je voudrais aussi du {{b}}." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Élodie : Le {{b}} est prêt ?" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Vincent : Oui, la {{b}} est sur la table." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Élodie : Oui, un grand {{b}}, s'il te plaît, mais sans {{b}}, je le préfère noir, aujourd'hui." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Élodie : Dis, chéri, il y a du {{b}} frais ?" }
+      ]
+    },
+    {
+      "page_no": 95, "seq": 6, "instruction_fr": "Complétez cet extrait de courrier électronique avec les mots de la liste.", "label": "bouteille | couteau | serviettes | tire-bouchon | nappe | assiettes | couverts | verres", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. J'avais emporté une {{b}} à carreaux que nous avons posée sur l'herbe." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Nous avons mangé dans des {{b}} en cartons avec des {{b}} en plastique, mais il est difficile de couper sa viande sans un vrai {{b}} !" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Comme d'habitude, j'avais oublié quelque chose. Cette fois-ci, c'étaient les {{b}} en papier." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Heureusement, je n'avais pas oublié le {{b}} pour ouvrir la {{b}} de bordeaux !" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Nous avons bu le vin dans des {{b}} en plastique aussi." }
+      ]
+    },
+    {
+      "page_no": 95, "seq": 7, "instruction_fr": "À vous ! Parlez de votre pays et de votre culture.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Décrivez le petit déjeuner traditionnel dans votre pays. Vous-même, que prenez-vous au petit déjeuner ? {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Quels sont les horaires habituels et la structure des repas ? {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Les objets présentés sur la page 94 vous sont-ils familiers ? Quels autres objets employez-vous ? {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Vous arrive-t-il de manger sur le pouce ? Comment faites-vous ? Pourquoi ? {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Pouvez-vous décrire un repas de fête ? {{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. La convivialité est-elle une valeur importante ? Et pour vous ? {{T}}" }
+      ]
+    },
+    {
+      "page_no": 97, "seq": 8, "instruction_fr": "A propos des boissons. Choisissez la ou les bonne(s) réponse(s).", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Les Français boivent souvent {{o:du café|une infusion|du vin}} pendant les repas." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Le cognac est un {{o:digestif|alcool|apéritif|vin blanc}}." },
+        { "seq": 3, "type": "choice", "stem_html": "3. On boit du café {{o:avant|après|pendant}} le repas." },
+        { "seq": 4, "type": "choice", "stem_html": "4. La verveine est {{o:une infusion|un thé|un jus de fruit}}." },
+        { "seq": 5, "type": "choice", "stem_html": "5. L'eau du robinet est {{o:minérale|comestible|potable}}." },
+        { "seq": 6, "type": "choice", "stem_html": "6. Le kir est un {{o:vin|apéritif|thé|digestif}}." },
+        { "seq": 7, "type": "choice", "stem_html": "7. Le vin peut être {{o:rouge|bordeaux|frais|sec|blanc}}." }
+      ]
+    },
+    {
+      "page_no": 97, "seq": 9, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Le bourgogne est un cidre. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Le sauternes est un vin. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Le service est compris dans l'addition. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. La carafe d'eau n'est pas payante. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. On ne boit pas de café en apéritif. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. En général, on ne laisse pas de pourboire. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. Le maître d'hôtel consulte la carte des vins. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 8, "type": "tf", "stem_html": "8. J'ai bu trop de jus de raisin, j'ai la tête qui tourne ! Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 97, "seq": 10, "instruction_fr": "Devinette. De quoi ou de qui parle-t-on ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. On la demande à la fin du repas. → {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Au restaurant, on en laisse un si on est content. → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. On la consulte pour choisir le vin. → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. On les mange avec l'apéritif. → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. On la sert en carafe. → {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Il est compris dans le prix du plat. → {{b}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Il accueille les clients dans un restaurant élégant. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 97, "seq": 11, "instruction_fr": "À vous ! Parlez de votre pays et de votre culture.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Quels types de restaurants sont courants dans votre pays ? Y allez-vous souvent ? Quelle cuisine préférez-vous ? Pourquoi ? {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Quelles sont les boissons les plus courantes pendant les repas ? Vous-même, que prenez-vous ? {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Invite-t-on facilement au restaurant ou plutôt à la maison ? Pourquoi ? {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Dans les restaurants, le service est-il compris ? Laisse-t-on un pourboire ? {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Si vous mangez avec des amis au restaurant, qui règle l'addition, en général ? {{T}}" }
+      ]
+    },
+    {
+      "page_no": 99, "seq": 12, "instruction_fr": "Au café. Que peuvent-ils choisir dans la carte de la page ci-contre ?", "label": "", "note_html": "",
+      "has_image": true, "scan_pages": [98],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Nicolas a très soif, mais ne prend pas d'alcool. → {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Sébastien voudrait manger, mais il n'a que 5 € en poche. → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Léa est végétarienne et voudrait un plat chaud. → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Qu'est-ce que Fabrice peut boire avec 3 € en poche ? → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Barbara est au régime, elle ne peut manger que des légumes. → {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Sami veut boire quelque chose de chaud. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 99, "seq": 13, "instruction_fr": "Où peut-on entendre les phrases suivantes ? Au café ? Au restaurant ? Les deux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Bonjour, messieurs-dames, vous avez réservé ? → {{o:Au café|Au restaurant|Les deux}}" },
+        { "seq": 2, "type": "choice", "stem_html": "2. Où sont les toilettes, s'il vous plaît ? → {{o:Au café|Au restaurant|Les deux}}" },
+        { "seq": 3, "type": "choice", "stem_html": "3. Un demi, pour moi. → {{o:Au café|Au restaurant|Les deux}}" },
+        { "seq": 4, "type": "choice", "stem_html": "4. Qu'est-ce que vous nous conseillez, comme vin ? → {{o:Au café|Au restaurant|Les deux}}" },
+        { "seq": 5, "type": "choice", "stem_html": "5. Vous désirez un apéritif ? → {{o:Au café|Au restaurant|Les deux}}" },
+        { "seq": 6, "type": "choice", "stem_html": "6. L'addition, s'il vous plaît ! → {{o:Au café|Au restaurant|Les deux}}" },
+        { "seq": 7, "type": "choice", "stem_html": "7. Je vais prendre un foie gras et des coquilles Saint-Jacques. → {{o:Au café|Au restaurant|Les deux}}" },
+        { "seq": 8, "type": "choice", "stem_html": "8. Un sandwich au fromage et un croque-monsieur. → {{o:Au café|Au restaurant|Les deux}}" },
+        { "seq": 9, "type": "choice", "stem_html": "9. Je vais prendre des crêpes flambées au Grand-Marnier. → {{o:Au café|Au restaurant|Les deux}}" },
+        { "seq": 10, "type": "choice", "stem_html": "10. Nous prendrons trois coupes de champagne. → {{o:Au café|Au restaurant|Les deux}}" }
+      ]
+    },
+    {
+      "page_no": 99, "seq": 14, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Je prends « un demi » = je bois un verre de bière. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Le plat est trop chaud = il est trop fort. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Ce n'est pas fameux = ce n'est pas très bon. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Ce plat est appétissant = on le mange au début du repas. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Il commande une infusion = il voudrait boire un jus de fruit. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Ce steak est dur = il n'est pas tendre. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. Cette sauce est fade = elle a du goût. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 8, "type": "tf", "stem_html": "8. Ce plat est lourd = il est trop relevé. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 99, "seq": 15, "instruction_fr": "Imaginez ce qu'elle dit.", "label": "", "note_html": "",
+      "has_image": true, "scan_pages": [99],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Imaginez ce qu'elle dit. {{T}}" }
+      ]
+    },
+    {
+      "page_no": 99, "seq": 16, "instruction_fr": "À vous ! Dans votre culture, fait-on des commentaires sur ce qu'on mange ? Doit-on faire des compliments ? Lesquels ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Dans votre culture, fait-on des commentaires sur ce qu'on mange ? Doit-on faire des compliments ? Lesquels ? {{T}}" }
+      ]
+    }
+  ]
+}
