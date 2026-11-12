@@ -1,0 +1,188 @@
+{
+  "course": "vocabulaire",
+  "seq": 19,
+  "title_fr": "LA VIE PROFESSIONNELLE",
+  "page_start": 130,
+  "page_end": 135,
+  "pdf_start": 132,
+  "pdf_end": 137,
+  "sections": [
+    { "title_fr": "LES CATÉGORIES SOCIO-PROFESSIONNELLES", "page_no": 132 }
+  ],
+  "blocks": [
+    { "page_no": 130, "seq": 1, "type": "chapter_title", "body_html": "<span class='ch-no'>19</span> LA VIE PROFESSIONNELLE" },
+    { "page_no": 130, "seq": 2, "type": "para", "body_html": "Le terme « un métier » insiste sur l'aspect concret de l'activité, sur un vrai savoir-faire. « La profession » désigne simplement une activité permettant de gagner sa vie. « Il connaît son métier » dit-on d'un professeur, d'un boulanger, d'un avocat..." },
+    { "page_no": 130, "seq": 3, "type": "subhead", "body_html": "LES QUESTIONS SUR LA PROFESSION" },
+    { "page_no": 130, "seq": 4, "type": "list", "body_html": "<div class='bullet'>Selon le contexte, les questions seront différentes.</div>" },
+    { "page_no": 130, "seq": 5, "type": "list", "body_html": "<div class='bullet'>Quelle est votre profession ? Vous avez / exercez une activité professionnelle ? (langue administrative, officielle).</div>" },
+    { "page_no": 130, "seq": 6, "type": "list", "body_html": "<div class='bullet'>Qu'est-ce que vous faites, dans la vie ? Qu'est-ce que vous faites comme métier ? Vous travaillez ? (langue courante)</div>" },
+    { "page_no": 130, "seq": 7, "type": "list", "body_html": "<div class='bullet'>Vous travaillez dans quoi* ? Vous êtes dans quoi* ? (langue familière)</div>" },
+    { "page_no": 130, "seq": 8, "type": "subhead", "body_html": "LE NOM DES PROFESSIONS" },
+    { "page_no": 130, "seq": 9, "type": "list", "body_html": "<div class='bullet'>Beaucoup de noms de professions ont une forme masculine et une forme féminine : un éducateur, une éducatrice ; un coiffeur, une coiffeuse ; un infirmier, une infirmière ; un caissier, une caissière ; un informaticien, une informaticienne. Pour certains noms, on ajoute un -e : un(e) avocat(e) ; un(e) assistant(e).</div>" },
+    { "page_no": 130, "seq": 10, "type": "list", "body_html": "<div class='bullet'>L'orthographe féminine de certaines professions a été inventée récemment. On écrit souvent « une auteure », une « ingénieure » ou une « professeure ».</div>" },
+    { "page_no": 130, "seq": 11, "type": "list", "body_html": "<div class='bullet'>Certains noms ne changent pas au féminin, surtout quand ils se terminent par un -e : un(e) fleuriste ; un(e) interprète ; un(e) juge ; un(e) libraire.</div>" },
+    { "page_no": 130, "seq": 12, "type": "list", "body_html": "<div class='bullet'>Certains termes restent masculins : un maître d'hôtel, un maçon, un pompier, un chauffeur... On dira « une femme pompier / chauffeur de taxi / écrivain... »</div>" },
+    { "page_no": 130, "seq": 13, "type": "list", "body_html": "<div class='bullet'>Certains noms, au contraire, sont féminins : une sage-femme (qui aide à la naissance des bébés), une femme de ménage, une hôtesse de l'air...</div>" },
+    { "page_no": 130, "seq": 14, "type": "list", "body_html": "<div class='bullet'>Des noms de professions sont abrégés dans la langue familière : un(e) instit* (= instituteur/trice) / un(e) prof* (professeur(e)), un(e) kiné* (= kinésithérapeute), un(e) technico-commercial(e)* (= ingénieur technico-commercial)</div>" },
+    { "page_no": 130, "seq": 15, "type": "list", "body_html": "<div class='bullet'>On emploie de plus en plus le nom du poste (= la fonction) : un(e) responsable des ventes, un(e) chargé(e) de mission, un(e) chef de projet, un(e) chef de produit, un(e) consultant(e), un(e) conseiller (ère)...</div>" },
+    { "page_no": 130, "seq": 16, "type": "list", "body_html": "<div class='bullet'>Enfin, certains postes sont désignés par un acronyme : le/la DRH (directeur des ressources humaines), le VRP (vendeur représentant placier)...</div>" },
+    { "page_no": 130, "seq": 17, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Ne confondez pas le poste (= la fonction) et la poste (pour le courrier).</i>" },
+    { "page_no": 132, "seq": 18, "type": "running_head", "body_html": "LA VIE PROFESSIONNELLE" },
+    { "page_no": 132, "seq": 19, "type": "section_title", "body_html": "LES CATÉGORIES SOCIO-PROFESSIONNELLES" },
+    { "page_no": 132, "seq": 20, "type": "para", "body_html": "On peut aussi décrire l'activité professionnelle de manière moins précise. On utilise alors un mot général qui définit plutôt une catégorie socio-professionnelle. On peut travailler dans le secteur public (= on est payé par l'État) ou le secteur privé, dans « le public* » ou « le privé* ». La plupart des catégories ont droit à des congés (= des vacances) payés." },
+    { "page_no": 132, "seq": 21, "type": "subhead", "body_html": "■ Ceux qui ont une activité professionnelle régulière" },
+    { "page_no": 132, "seq": 22, "type": "list", "body_html": "<div class='bullet'>Un(e) employé(e) travaille dans un bureau, une banque, une poste.</div>" },
+    { "page_no": 132, "seq": 23, "type": "list", "body_html": "<div class='bullet'>Un(e) ouvrier (ière) est spécialisé(e) dans un métier manuel (mécanique, électricité, couture...). Il/elle travaille dans une usine ou sur un chantier de construction, pour un patron(ne).</div>" },
+    { "page_no": 132, "seq": 24, "type": "list", "body_html": "<div class='bullet'>Un(e) artisan(e) est aussi spécialisé(e) dans un métier manuel, mais il/elle travaille « à son compte », dans son atelier. Il/elle est travailleur indépendant.</div>" },
+    { "page_no": 132, "seq": 25, "type": "list", "body_html": "<div class='bullet'>Un(e) commerçant(e) vend des produits et travaille dans sa boutique ou son magasin.</div>" },
+    { "page_no": 132, "seq": 26, "type": "list", "body_html": "<div class='bullet'>Un(e) agriculteur (-trice) cultive des fruits, des légumes, des céréales. Il/elle peut être viticulteur (-trice) (il/elle cultive la vigne et fait du vin).</div>" },
+    { "page_no": 132, "seq": 27, "type": "list", "body_html": "<div class='bullet'>Un(e) chef d'entreprise/un entrepreneur est à la tête d'une PME (petite et moyenne entreprise). Il/elle est le patron/la patronne de ses employés.</div>" },
+    { "page_no": 132, "seq": 28, "type": "list", "body_html": "<div class='bullet'>Un(e) fonctionnaire est employé(e) par l'État.</div>" },
+    { "page_no": 132, "seq": 29, "type": "list", "body_html": "<div class='bullet'>Un(e) cadre a un statut social élevé. Il/elle occupe un poste à hautes responsabilités.</div>" },
+    { "page_no": 132, "seq": 30, "type": "list", "body_html": "<div class='bullet'>On peut être aussi un(e) intellectuel(le) ou un(e) artiste.</div>" },
+    { "page_no": 132, "seq": 31, "type": "subhead", "body_html": "■ Ceux qui n'ont pas encore ou n'ont plus d'activité professionnelle" },
+    { "page_no": 132, "seq": 32, "type": "list", "body_html": "<div class='bullet'>Un(e) étudiant(e) en mathématiques, en histoire, va à l'université.</div>" },
+    { "page_no": 132, "seq": 33, "type": "list", "body_html": "<div class='bullet'>Un(e) apprenti(e) apprend son métier chez un artisan. Un(e) stagiaire fait un stage dans une entreprise. Il/elle travaille temporairement pour apprendre un métier et compléter ses études.</div>" },
+    { "page_no": 132, "seq": 34, "type": "list", "body_html": "<div class='bullet'>Un(e) chômeur (-euse) a perdu son emploi, souvent pour des raisons économiques. Il/elle est au chômage. Il/elle est en recherche d'emploi : il /elle envoie son CV (= Curriculum Vitae) à de futurs employeurs.</div>" },
+    { "page_no": 132, "seq": 35, "type": "list", "body_html": "<div class='bullet'>Un(e) retraité(e) est âgé(e) et a définitivement arrêté de travailler. Il/elle est en retraite et reçoit une pension. L'âge de la retraite varie selon les pays et les professions.</div>" },
+    { "page_no": 134, "seq": 36, "type": "running_head", "body_html": "LA VIE PROFESSIONNELLE" },
+    { "page_no": 134, "seq": 37, "type": "subhead", "body_html": "GAGNER SA VIE" },
+    { "page_no": 134, "seq": 38, "type": "list", "body_html": "<div class='bullet'>On travaille pour « gagner sa vie ». Les salariés reçoivent un salaire. Ils peuvent être bien ou mal payés. Il est agréable de recevoir une augmentation de salaire ! Cela se produit quand on reçoit / a / obtient une promotion.</div>" },
+    { "page_no": 134, "seq": 39, "type": "speech", "body_html": "<div class='speech'>– Serge gagne bien sa vie ?<br>– Oui, il gagne correctement sa vie (= il n'est ni riche, ni pauvre). Il est assez bien payé.</div>" },
+    { "page_no": 134, "seq": 40, "type": "list", "body_html": "<div class='bullet'>Les parents donnent souvent de l'argent de poche à leurs enfants.</div>" },
+    { "page_no": 134, "seq": 41, "type": "remark", "body_html": "<span class='remark-label'>Remarque culturelle.</span> <i>Attention, l'expression « gagner beaucoup d'argent » est plutôt négative en français. Culturellement, l'argent reste un sujet tabou ou, du moins, délicat.</i>" },
+    { "page_no": 134, "seq": 42, "type": "subhead", "body_html": "DÉFINIR SON ACTIVITÉ" },
+    { "page_no": 134, "seq": 43, "type": "list", "body_html": "<div class='bullet'>travailler dans ou être dans + secteur d'activité ou lieu de travail. Dora travaille dans l'informatique. Florence est dans l'enseignement. Ali travaille dans une boutique de vêtements.</div>" },
+    { "page_no": 134, "seq": 44, "type": "list", "body_html": "<div class='bullet'>travailler comme + fonction. Ariel a un diplôme de philosophie, mais il travaille comme serveur dans un restaurant !</div>" },
+    { "page_no": 134, "seq": 45, "type": "list", "body_html": "<div class='bullet'>faire + activité occasionnelle. Sophie fait du baby-sitting. Serge fait des gardes de nuit dans un grand hôtel.</div>" },
+    { "page_no": 134, "seq": 46, "type": "list", "body_html": "<div class='bullet'>s'occuper de + activité (surtout quand cette activité correspond à une fonction plutôt qu'à un métier bien précis). Je m'occupe de la promotion des nouveaux produits et mon mari s'occupe de personnes handicapées.</div>" },
+    { "page_no": 134, "seq": 47, "type": "subhead", "body_html": "PARLER DE SON TRAVAIL" },
+    { "page_no": 134, "seq": 48, "type": "speech", "body_html": "<div class='speech'>JÉRÔME : « Je suis responsable des achats dans une entreprise de mécanique. Je prospecte pour trouver des marchés, je signe des contrats et je m'occupe des fournisseurs (= entreprise qui vend des produits à une autre entreprise). Dans mon travail, je dois savoir négocier, calculer et gérer une équipe. Je gagne bien ma vie. Je fais une belle carrière. »</div>" },
+    { "page_no": 134, "seq": 49, "type": "speech", "body_html": "<div class='speech'>JOSEPH : « Je suis livreur. Le travail est fatigant, dur et ennuyeux et je suis mal payé. Mon rêve est de trouver un autre emploi plus intéressant. J'espère suivre une formation pour devenir technicien en logistique. »</div>" },
+    { "page_no": 134, "seq": 50, "type": "speech", "body_html": "<div class='speech'>PATRICIA : « Je suis aide-soignante à domicile. Je m'occupe principalement de personnes âgées. Je les aide dans leur vie quotidienne. Je dois être adroite, douce, bien organisée et toujours de bonne humeur ! C'est important pour mes patients. Je ne gagne pas beaucoup d'argent, mais j'adore mon métier. »</div>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 131, "seq": 1, "instruction_fr": "De quelle profession parle-t-on ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Tout le monde respecte mon beau métier. Je suis courageux, je sauve les personnes en danger. J'aide les victimes de feux ou d'accidents. Je suis {{b}}." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Mon travail est fondamental dans les institutions internationales, car il y a beaucoup de langues différentes, et tout le monde doit communiquer et se comprendre. Je suis {{b}}." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Quand mes patients ont des douleurs, ou font de la rééducation après un accident, ils viennent me voir. Je travaille aussi avec des sportifs. Je suis {{b}}." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Je travaille dans une grande entreprise, je m'occupe de la carrière des employés, je recrute de nouvelles personnes, je suis {{b}}." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Mon métier est magnifique, car je suis là pour aider les bébés à naître et les mamans à accoucher. Je suis {{b}}." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. C'est moi qui défends les accusés au tribunal, je suis {{b}}." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Je passe mes journées devant des ordinateurs, que je répare ou programme, je suis {{b}}." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Avec mon véhicule professionnel, je conduis mes clients à destination. Je connais parfaitement la ville. Je suis {{b}}." }
+      ]
+    },
+    {
+      "page_no": 131, "seq": 2, "instruction_fr": "Quelle(s) profession(s) auront besoin de ces objets ?", "label": "", "note_html": "Les objets numérotés 1 à 6 sont représentés sur l'image (scan de la page 131).",
+      "has_image": true, "scan_pages": [131],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. {{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. {{T}}" }
+      ]
+    },
+    {
+      "page_no": 131, "seq": 3, "instruction_fr": "Choisissez, parmi les métiers suivants, ceux qui conviennent à ces petites annonces.", "label": "", "note_html": "Métiers proposés : Responsable des achats – ingénieurs – électricien – coiffeuses – vétérinaire – maître d'hôtel – journalistes – couturières – dessinateur – professeurs – livreurs – assistante – esthéticienne – infirmières",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Recherchons pour notre directeur une {{b}} bilingue français-allemand." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Grand restaurant lyonnais recherche un {{b}} expérimenté." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Grand magasin recherche une {{b}} qualifiée." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Cabinet d'architectes recherche un {{b}} industriel expérimenté." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Magazine spécialisé en géographie recherche des {{b}}." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Hôpital régional recherche deux {{b}} expérimentées diplômées d'État." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Salon de beauté recherche une {{b}}." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Fabricant de produits ménagers recherche des {{b}} commerciaux." },
+        { "seq": 9, "type": "cloze", "stem_html": "9. Société de transport recherche des {{b}} disponibles immédiatement." }
+      ]
+    },
+    {
+      "page_no": 133, "seq": 4, "instruction_fr": "A quelle catégorie socio-professionnelle appartiennent ces personnes ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Léo possède une belle ferme en Normandie, il produit du lait, du beurre et de la crème. {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Denis était comptable, mais il a maintenant 70 ans et ne travaille plus. {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Anne est professeur d'université, elle enseigne l'histoire du cinéma. {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Michèle est directrice éditoriale dans une grande maison d'édition parisienne. {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. L'entreprise où travaillait Luc a fermé, et il est en recherche d'emploi. {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Roland vend d'excellents fromages dans une ville de province. {{b}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Véronique est couturière et travaille dans une usine de textile. {{b}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Mourad a maintenant quinze employés qui travaillent pour lui. {{b}}" }
+      ]
+    },
+    {
+      "page_no": 133, "seq": 5, "instruction_fr": "Mots croisés.", "label": "", "note_html": "Horizontalement : 1. Il a une boutique de vêtements. Il est... 2. Il est plombier et travaille à son compte. Il est... 3. Il a terminé ses études de communication. Il passe deux mois dans une agence de publicité pour perfectionner sa formation. Il est... 4. Il a perdu son emploi. Il est... 5. Il fait des études de médecine à l'université. Il est... 6. Il assemble des pièces de voiture à l'usine Renault. Il est... Verticalement : a. Elle a commencé comme vendeuse, puis est devenue directrice des achats. Elle est devenue... b. Elle ne travaille plus, car elle a 70 ans. Elle est en... c. Il travaille à la campagne, il cultive des céréales. Il est... d. Il a 17 ans, il apprend son métier chez un artisan. Il est... e. Elle travaille au ministère de la Culture, payée par l'État. Elle est... f. Il travaille dans une banque, sans hautes responsabilités. Il est...",
+      "has_image": true, "scan_pages": [133],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. (Horizontalement) Il a une boutique de vêtements. Il est... {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. (Horizontalement) Il est plombier et travaille à son compte. Il est... {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. (Horizontalement) Il a terminé ses études de communication. Il passe deux mois dans une agence de publicité pour perfectionner sa formation. Il est... {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. (Horizontalement) Il a perdu son emploi. Il est... {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. (Horizontalement) Il fait des études de médecine à l'université. Il est... {{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. (Horizontalement) Il assemble des pièces de voiture à l'usine Renault. Il est... {{T}}" },
+        { "seq": 7, "type": "open", "stem_html": "a. (Verticalement) Elle a commencé comme vendeuse, puis est devenue directrice des achats. Elle est devenue... {{T}}" },
+        { "seq": 8, "type": "open", "stem_html": "b. (Verticalement) Elle ne travaille plus, car elle a 70 ans. Elle est en... {{T}}" },
+        { "seq": 9, "type": "open", "stem_html": "c. (Verticalement) Il travaille à la campagne, il cultive des céréales. Il est... {{T}}" },
+        { "seq": 10, "type": "open", "stem_html": "d. (Verticalement) Il a 17 ans, il apprend son métier chez un artisan. Il est... {{T}}" },
+        { "seq": 11, "type": "open", "stem_html": "e. (Verticalement) Elle travaille au ministère de la Culture, et est donc payée par l'État. Elle est... {{T}}" },
+        { "seq": 12, "type": "open", "stem_html": "f. (Verticalement) Il travaille dans une banque, mais n'a pas de hautes responsabilités. Il est... {{T}}" }
+      ]
+    },
+    {
+      "page_no": 135, "seq": 6, "instruction_fr": "Choisissez la bonne réponse.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Clément travaille {{o:dans|comme}} l'industrie pharmaceutique." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Sébastien est responsable {{o:pour|de}} la promotion des produits." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Héloïse {{o:s'occupe|fait}} du baby-sitting pour ses voisins." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Lise {{o:gère|négocie}} une équipe d'infirmières." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Emma déteste son travail, qui est {{o:ennuyeux|intéressant}}." },
+        { "seq": 6, "type": "choice", "stem_html": "6. Isabelle a eu une belle {{o:promotion|vie}}, elle est devenue {{o:employée|cadre}}." }
+      ]
+    },
+    {
+      "page_no": 135, "seq": 7, "instruction_fr": "Complétez par un terme approprié.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Sonia est très contente, son patron lui a donné une {{b}} de salaire." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Malheureusement, Éric ne {{b}} pas bien sa vie." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Ma fille de 16 ans {{b}} du baby-sitting pour gagner de l'argent de {{b}}." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Roland travaille {{b}} réceptionniste dans un hôtel, mais il est mal {{b}} !" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Caroline {{b}} d'enfants handicapés dans une école spécialisée." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Naïma travaille {{b}} les médias." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Philippe a fait de grosses opérations financières, il a gagné beaucoup {{b}} !" }
+      ]
+    },
+    {
+      "page_no": 135, "seq": 8, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Il est bien payé = il gagne bien sa vie. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Elle s'occupe des fournisseurs = elle adore son métier. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Ils travaillent dans l'enseignement = ils sont artistes. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Il a reçu une augmentation de salaire = il sera mieux payé. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Elle travaille comme vendeuse = elle est chef d'entreprise. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Il gagne correctement sa vie = il gagne énormément d'argent. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. Elle reçoit de l'argent de poche = elle est salariée d'une entreprise. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 135, "seq": 9, "instruction_fr": "À vous !", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Avez-vous une activité professionnelle ? Laquelle ? Pouvez-vous expliquer ce que vous faites, exactement ? {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Dans votre langue, comment parle-t-on des professions ? Y a-t-il des formes masculines et féminines des mêmes professions ? {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Trouvez-vous, dans votre langue, des mots équivalents à « métier », « profession » et « poste » ? {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Est-il poli / normal / rare / bizarre de demander à quelqu'un sa profession ? {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Dans votre culture, parle-t-on facilement de son salaire ? {{T}}" }
+      ]
+    }
+  ]
+}
