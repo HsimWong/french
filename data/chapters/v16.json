@@ -1,0 +1,282 @@
+{
+  "course": "vocabulaire",
+  "seq": 16,
+  "title_fr": "TRANSPORTS – CIRCULATION",
+  "page_start": 108,
+  "page_end": 115,
+  "pdf_start": 110,
+  "pdf_end": 117,
+  "sections": [
+    { "title_fr": "LE TRAIN", "page_no": 108 },
+    { "title_fr": "L'AVION", "page_no": 110 },
+    { "title_fr": "LE BATEAU", "page_no": 110 },
+    { "title_fr": "LES TRANSPORTS EN COMMUN", "page_no": 110 },
+    { "title_fr": "LES VÉHICULES PERSONNELS", "page_no": 112 },
+    { "title_fr": "CONDUIRE", "page_no": 112 },
+    { "title_fr": "CIRCULER", "page_no": 114 }
+  ],
+  "blocks": [
+    { "page_no": 108, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">16</span> TRANSPORTS – CIRCULATION" },
+    { "page_no": 108, "seq": 2, "type": "section_title", "body_html": "LE TRAIN" },
+    { "page_no": 108, "seq": 3, "type": "list", "body_html": "<div class='bullet'>Les voyageurs prennent le train à la gare. Ils prennent un billet de train au guichet, dans une agence de voyage ou sur Internet. Ils voyagent en seconde (classe) ou en première (plus confortable et plus chère).</div>" },
+    { "page_no": 108, "seq": 4, "type": "list", "body_html": "<div class='bullet'>Pour aller de Lille à Dijon, je prends un aller simple (≠ un aller-retour). Pour avoir une place assise dans le train, il faut une réservation, donc je réserve une place. Dans certains trains, la réservation est obligatoire.</div>" },
+    { "page_no": 108, "seq": 5, "type": "list", "body_html": "<div class='bullet'>Les billets peuvent être remboursables ou échangeables. Dans certains cas, c'est le contraire, ils sont ni échangeables, ni remboursables.</div>" },
+    { "page_no": 108, "seq": 6, "type": "list", "body_html": "<div class='bullet'>Il est possible de consulter les horaires des trains sur Internet ou de trouver une fiche horaire à la gare.</div>" },
+    { "page_no": 108, "seq": 7, "type": "list", "body_html": "<div class='bullet'>Si le trajet de Lille à Dijon n'est pas direct, je dois prendre une correspondance à Paris, je dois changer de train à Paris.</div>" },
+    { "page_no": 108, "seq": 8, "type": "list", "body_html": "<div class='bullet'>Avant de monter dans le train, il faut composter / valider le billet, sinon le contrôleur peut vous faire payer une amende.</div>" },
+    { "page_no": 108, "seq": 9, "type": "list", "body_html": "<div class='bullet'>On attend le train sur le quai. Dans certaines gares, on emprunte le passage souterrain, car il est interdit de traverser à pied les voies de chemin de fer / les rails.</div>" },
+    { "page_no": 108, "seq": 10, "type": "list", "body_html": "<div class='bullet'>Si l'on arrive trop tard à la gare, on rate / manque le train. Si on arrive en avance, on peut s'asseoir dans la salle d'attente ou bien prendre un café au buffet de la gare.</div>" },
+    { "page_no": 108, "seq": 11, "type": "list", "body_html": "<div class='bullet'>En France, la SNCF est l'entreprise qui gère les trains. Il existe : – les trains régionaux (les TER, qui font de courts trajets) et les trains de banlieue (autour des grandes villes) ; – les trains de grandes lignes (qui traversent la France) ; – les TGV (trains à grande vitesse, qui relient les grandes villes).</div>" },
+    { "page_no": 108, "seq": 12, "type": "list", "body_html": "<div class='bullet'>Le train est composé de wagons (on dit aussi « voitures »). En général, il existe un wagon-bar.</div>" },
+    { "page_no": 108, "seq": 13, "type": "subhead", "body_html": "Les annonces dans les gares" },
+    { "page_no": 108, "seq": 14, "type": "speech", "body_html": "<div class='speech'>« Le TGV n° 9268 en provenance de Lausanne et à destination de Paris va entrer en gare quai n° 3. Éloignez-vous de la bordure du quai, s'il vous plaît. »<br>« Dijon, Dijon, deux minutes d'arrêt ! Correspondance pour Besançon, voie A. »<br>« Le TGV n° 9315 à destination d'Amsterdam va partir dans quelques instants. Prenez garde à la fermeture automatique des portières. Attention au départ. »</div>" },
+    { "page_no": 110, "seq": 15, "type": "running_head", "body_html": "TRANSPORTS – CIRCULATION" },
+    { "page_no": 110, "seq": 16, "type": "section_title", "body_html": "L'AVION" },
+    { "page_no": 110, "seq": 17, "type": "list", "body_html": "<div class='bullet'>Les passagers achètent un billet d'avion (par Internet, dans une agence de voyages ou à l'aéroport). Ils prennent l'avion à l'aéroport, qui, parfois, comprend plusieurs aérogares.</div>" },
+    { "page_no": 110, "seq": 18, "type": "list", "body_html": "<div class='bullet'>Le pilote, les hôtesses de l'air et les stewards constituent l'équipage de l'avion.</div>" },
+    { "page_no": 110, "seq": 19, "type": "list", "body_html": "<div class='bullet'>Les passagers embarquent = montent à bord de l'avion (ou, au contraire, descendent de l'avion).</div>" },
+    { "page_no": 110, "seq": 20, "type": "list", "body_html": "<div class='bullet'>Un vol direct est sans escale. Sinon, l'avion fait escale en chemin. « Passagers du vol Air France n° 2356 à destination de Bucarest, embarquement immédiat, porte D. »</div>" },
+    { "page_no": 110, "seq": 21, "type": "list", "body_html": "<div class='bullet'>L'avion décolle d'une piste de décollage, et atterrit sur une piste d'atterrissage.</div>" },
+    { "page_no": 110, "seq": 22, "type": "section_title", "body_html": "LE BATEAU" },
+    { "page_no": 110, "seq": 23, "type": "list", "body_html": "<div class='bullet'>Les passagers prennent un bateau au port : ils embarquent (≠ débarquent), ils montent à bord (≠ descendent du bateau). Le bateau part du quai.</div>" },
+    { "page_no": 110, "seq": 24, "type": "list", "body_html": "<div class='bullet'>Le personnel du bateau et le capitaine constituent l'équipage.</div>" },
+    { "page_no": 110, "seq": 25, "type": "list", "body_html": "<div class='bullet'>Sur un paquebot, on fait une croisière (un long voyage) et on loue une cabine, plus ou moins luxueuse. Quand c'est une simple traversée (un court trajet), on peut rester sur le pont.</div>" },
+    { "page_no": 110, "seq": 26, "type": "section_title", "body_html": "LES TRANSPORTS EN COMMUN" },
+    { "page_no": 110, "seq": 27, "type": "para", "body_html": "Pour prendre un transport en commun, il faut avoir un « titre de transport » : un ticket ou bien une carte d'abonnement (qui a des noms différents selon les villes)." },
+    { "page_no": 110, "seq": 28, "type": "list", "body_html": "<div class='bullet'>À la campagne, on prend un car (= un bus) pour aller à la ville la plus proche.</div>" },
+    { "page_no": 110, "seq": 29, "type": "list", "body_html": "<div class='bullet'>Dans les grandes villes, on prend le bus ou le tramway (le tram). On les attend à un arrêt (de bus, de tram).</div>" },
+    { "page_no": 110, "seq": 30, "type": "list", "body_html": "<div class='bullet'>On prend le métro (généralement souterrain, mais parfois aérien) dans une station de métro. On attend le métro sur le quai. Aux heures de pointe, il y a foule dans le métro. – Je vais de Concorde à Daumesnil. Je prends la ligne 8, en direction de Créteil-Préfecture, et c'est direct. – Je vais de Bercy à Porte-Dorée, ce n'est pas direct, j'ai un changement / une correspondance. Je dois changer à Daumesnil.</div>" },
+    { "page_no": 110, "seq": 31, "type": "speech", "body_html": "<div class='speech'>– VOUS DESCENDEZ ?<br>– OUI, JE DESCENDS À LA PROCHAINE.</div>" },
+    { "page_no": 112, "seq": 32, "type": "running_head", "body_html": "TRANSPORTS – CIRCULATION" },
+    { "page_no": 112, "seq": 33, "type": "section_title", "body_html": "LES VÉHICULES PERSONNELS" },
+    { "page_no": 112, "seq": 34, "type": "list", "body_html": "<div class='bullet'>la voiture : le siège</div><div class='bullet'>la ceinture de sécurité</div><div class='bullet'>le volant</div><div class='bullet'>le coffre</div><div class='bullet'>le phare</div><div class='bullet'>la roue</div><div class='bullet'>le moteur</div><div class='bullet'>la portière</div><div class='bullet'>le clignotant</div>" },
+    { "page_no": 112, "seq": 35, "type": "list", "body_html": "<div class='bullet'>le camion</div><div class='bullet'>le vélo</div><div class='bullet'>le scooter</div><div class='bullet'>la moto</div><div class='bullet'>la voiture</div>" },
+    { "page_no": 112, "seq": 36, "type": "subhead", "body_html": "Les deux-roues :" },
+    { "page_no": 112, "seq": 37, "type": "list", "body_html": "<div class='bullet'>Pour circuler à moto, il est obligatoire de porter un casque sur la tête.</div>" },
+    { "page_no": 112, "seq": 38, "type": "section_title", "body_html": "CONDUIRE" },
+    { "page_no": 112, "seq": 39, "type": "list", "body_html": "<div class='bullet'>Pour pouvoir conduire un véhicule, il faut un permis de conduire et une assurance automobile.</div>" },
+    { "page_no": 112, "seq": 40, "type": "list", "body_html": "<div class='bullet'>Le conducteur (-trice) / l'automobiliste fait démarrer sa voiture : il met le moteur en marche ≠ il coupe le contact. Il attache / met sa ceinture de sécurité. Il recule (= il va en arrière) ou il avance (= il va en avant).</div>" },
+    { "page_no": 112, "seq": 41, "type": "list", "body_html": "<div class='bullet'>Il tourne le volant pour prendre un virage / un tournant. Il accélère (= il va plus vite) ≠ il freine, il appuie sur la pédale de frein pour ralentir (= aller moins vite). Si la voiture n'est pas automatique, il change de vitesse : il passe en troisième, en quatrième...</div>" },
+    { "page_no": 112, "seq": 42, "type": "list", "body_html": "<div class='bullet'>La nuit, il allume ses feux / phares pour voir et être vu.</div>" },
+    { "page_no": 112, "seq": 43, "type": "list", "body_html": "<div class='bullet'>Il va à la station-service pour prendre du carburant / de l'essence : du super sans plomb ou du gasoil (pour les voitures diesel). S'il remplit le réservoir, il « fait le plein ».</div>" },
+    { "page_no": 112, "seq": 44, "type": "list", "body_html": "<div class='bullet'>Régulièrement, il laisse sa voiture au garage pour une révision : il fait réviser sa voiture.</div>" },
+    { "page_no": 112, "seq": 45, "type": "list", "body_html": "<div class='bullet'>Si la voiture est en panne (= si elle ne marche pas), il la fait réparer par un garagiste / mécanicien.</div>" },
+    { "page_no": 112, "seq": 46, "type": "list", "body_html": "<div class='bullet'>Je dois sortir ma voiture du garage ≠ je rentre / mets ma voiture dans le garage.</div>" },
+    { "page_no": 112, "seq": 47, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Le mot « garage » signifie l'endroit de la maison où l'on gare la voiture, ou bien l'entreprise qui répare les voitures.</i>" },
+    { "page_no": 114, "seq": 48, "type": "running_head", "body_html": "TRANSPORTS – CIRCULATION" },
+    { "page_no": 114, "seq": 49, "type": "section_title", "body_html": "CIRCULER" },
+    { "page_no": 114, "seq": 50, "type": "subhead", "body_html": "En dehors des villes" },
+    { "page_no": 114, "seq": 51, "type": "list", "body_html": "<div class='bullet'>Pour aller de Reims à Troyes, vous prenez / empruntez la route ou l'autoroute. La plupart des autoroutes de France sont payantes : vous devez payer au péage.</div>" },
+    { "page_no": 114, "seq": 52, "type": "list", "body_html": "<div class='bullet'>Quand un véhicule roule trop lentement, vous le doublez / dépassez.</div>" },
+    { "page_no": 114, "seq": 53, "type": "list", "body_html": "<div class='bullet'>Malheureusement, il y a beaucoup d'accidents de la route, car les automobilistes ne sont pas toujours prudents. Par exemple, ils ne respectent pas les limitations de vitesse. Sur les routes, la vitesse est limitée à 90 km/heure.</div>" },
+    { "page_no": 114, "seq": 54, "type": "subhead", "body_html": "En ville" },
+    { "page_no": 114, "seq": 55, "type": "list", "body_html": "<div class='bullet'>Vous êtes au point (A) et vous voulez aller en voiture au parking souterrain (5) : vous allez jusqu'au croisement (1), vous vous arrêtez au feu rouge (2) et vous laissez passer les piétons (3) qui traversent au passage piéton (4). Vous redémarrez au feu vert et vous prenez à droite, puis la première à gauche.</div>" },
+    { "page_no": 114, "seq": 56, "type": "list", "body_html": "<div class='bullet'>Du point (A) vous allez au point (B) : vous continuez tout droit jusqu'au rond-point (6). La deuxième à droite est en sens interdit (7), donc vous prenez la troisième à droite, qui est en sens unique (8) (≠ double sens), puis la première à gauche.</div>" },
+    { "page_no": 114, "seq": 57, "type": "list", "body_html": "<div class='bullet'>En ville, vous cherchez une place pour garer votre voiture : vous vous garez dans la rue. Le stationnement est généralement payant (≠ gratuit). Si vous ne prenez pas de ticket à l'horodateur (9), vous recevez / aurez une contravention / un P-V (10). L'amende coûte cher ! Il est aussi interdit de stationner sur les trottoirs (11).</div>" },
+    { "page_no": 114, "seq": 58, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Les Français disent généralement : « je me suis garé(e) » pour « j'ai garé la voiture ». C'est incorrect mais c'est la réalité de l'usage !</i>" },
+    { "page_no": 114, "seq": 59, "type": "list", "body_html": "<div class='bullet'>Dans les grandes villes, la circulation peut être difficile à cause des embouteillages ‹ des bouchons ›, qui se forment aux heures d'affluence / de pointe (≠ aux heures creuses) : ça roule mal (≠ bien).</div>" },
+    { "page_no": 114, "seq": 60, "type": "list", "body_html": "<div class='bullet'>De nombreuses villes de France ont mis en place un système de location de vélos (le Vélib' parisien).</div>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 109, "seq": 1, "instruction_fr": "Observez ce billet de train et répondez aux questions.", "label": "", "note_html": "",
+      "has_image": true, "scan_pages": [109],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. De quel type de train s'agit-il ? {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Ce billet comprend-il une réservation ? {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. D'où part ce train ? Quelle est sa destination ? {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Quel jour et à quelle heure part-il ? À quelle heure arrive-t-il ? {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. En quelle classe voyage la personne ? {{T}}" }
+      ]
+    },
+    {
+      "page_no": 109, "seq": 2, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Il faut composter son billet dans le train. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Le train est en provenance de Saint-Étienne = il va à Saint-Étienne. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Je change de train à Limoges, car j'ai une correspondance. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Le contrôleur vend des billets dans le train. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. J'ai raté le train, car je suis arrivé en avance. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Nous attendons le train sur les rails. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. On peut consulter des horaires de train sur Internet. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 109, "seq": 3, "instruction_fr": "Complétez par les termes appropriés.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Le trajet n'est pas direct, nous devons prendre une {{b}}." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Zut, je dois reporter mon voyage, mais mon billet n'est ni {{b}} ni {{b}}." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le train en {{b}} de Nice va entrer en gare, voie E." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Antoine est arrivé en retard, il a {{b}} le train pour Marseille." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Je suis en avance, je vais prendre un café au {{b}} de la gare." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Vous savez que la réservation est {{b}} dans ce train ?" }
+      ]
+    },
+    {
+      "page_no": 109, "seq": 4, "instruction_fr": "À vous !", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Dans votre pays, comment fonctionnent les trains ? Les réservations sont-elles obligatoires ? Existe-t-il des TGV ? {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Prenez-vous souvent le train ? Pourquoi ? {{T}}" }
+      ]
+    },
+    {
+      "page_no": 111, "seq": 5, "instruction_fr": "Quel mode de transport conseillez-vous à ces personnes ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Juliette aime la mer, le luxe et n'est pas pressée pour aller à Athènes. → {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Emma doit se rendre au plus vite à Berlin. → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Louis habite un petit village, n'a pas de voiture et veut aller en ville. → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Romain habite à Paris, n'a pas de voiture et veut aller à Reims. → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Mourad travaille et habite à Paris, et il n'aime pas prendre le métro. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 111, "seq": 6, "instruction_fr": "Devinette. De qui ou de quoi parle-t-on ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. C'est l'ensemble du personnel d'un avion ou d'un bateau. → {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. C'est l'endroit où l'on attend l'arrivée d'un bateau, d'un train ou d'un métro. → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. C'est le moment de la journée où il y a le plus de monde dans les transports en commun. → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Ce sont les voyageurs qui prennent l'avion ou le bateau. → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. C'est une étape dans un vol qui n'est pas direct. → {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. C'est le responsable, le « chef » du bateau. → {{b}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. C'est un grand bateau permettant de faire une croisière de luxe. → {{b}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. C'est le nom d'un déplacement en avion. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 111, "seq": 7, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Le métro n'est pas toujours souterrain. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Un car est un système de transport en ville. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. On peut faire une croisière en avion. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. On peut embarquer dans un avion. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. On attend le bus sur le quai. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Quand l'avion arrive, il décolle. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. Si je prends une correspondance, c'est parce que le trajet n'est pas direct. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 8, "type": "tf", "stem_html": "8. Un vol peut être sans escale. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 111, "seq": 8, "instruction_fr": "Complétez par un verbe approprié.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. L'avion va partir : il va {{b}} dans quelques instants." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Les passagers {{b}} à bord du bateau qui va partir." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Comme ce n'est pas direct, nous devons {{b}} à la station Jean-Jaurès." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Mes amis {{b}} une croisière en Méditerranée." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Elle est dans le métro, elle est presque arrivée. Elle va {{b}} à la prochaine station." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. L'avion {{b}} escale à Milan avant de repartir pour Palerme." }
+      ]
+    },
+    {
+      "page_no": 111, "seq": 9, "instruction_fr": "À vous !", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Dans votre ville/région, comment les transports en commun sont-ils organisés ? Est-il nécessaire d'avoir une voiture pour se déplacer ? Existe-t-il d'autres modes de transport ? Si oui, lesquels ? {{T}}" }
+      ]
+    },
+    {
+      "page_no": 113, "seq": 10, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Le scooter a quatre roues. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Pour conduire un camion, on doit porter un casque. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Il faut attacher sa ceinture de sécurité avant de démarrer. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Le vélo a un volant. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Pour ralentir, il faut freiner. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. La nuit, on doit allumer les phares. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. On prend de l'essence à la station-service. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 8, "type": "tf", "stem_html": "8. On peut sortir une voiture du garage. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 9, "type": "tf", "stem_html": "9. Pour faire démarrer la voiture, on coupe le contact. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 10, "type": "tf", "stem_html": "10. On doit mettre du gasoil dans le réservoir d'une voiture diesel. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 113, "seq": 11, "instruction_fr": "Complétez par le verbe approprié.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Roland va en arrière avec sa voiture, il {{b}}." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Hugues {{b}} sa ceinture de sécurité avant de démarrer." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le mécanicien {{b}} la voiture qui est en panne." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Leïla est en voiture, elle {{b}} pour s'arrêter devant un piéton." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Le réservoir est vide, je dois {{b}} le plein avant de partir." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Félix est pressé, il {{b}} pour rouler plus vite." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. En arrivant chez elle, Rachel {{b}} sa voiture dans son garage." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Bénédicte {{b}} de vitesse, elle {{b}} en quatrième." },
+        { "seq": 9, "type": "cloze", "stem_html": "9. Pour prendre à gauche, je dois {{b}} le volant." },
+        { "seq": 10, "type": "cloze", "stem_html": "10. Tous les ans, nous devons faire {{b}} notre voiture, pour qu'elle marche bien." }
+      ]
+    },
+    {
+      "page_no": 113, "seq": 12, "instruction_fr": "Remettez le texte suivant dans un ordre logique.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "a. Elle fait démarrer la voiture. b. Elle recule pour sortir la voiture de son garage. c. Elle voit que son réservoir est presque vide. d. Elle va prendre de l'essence. e. Solange attache sa ceinture. → Remettez dans un ordre logique. {{T}}" }
+      ]
+    },
+    {
+      "page_no": 113, "seq": 13, "instruction_fr": "Trouvez un synonyme aux termes soulignés.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Le conducteur de la voiture doit réduire sa vitesse. → {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Sur cette route de montagne, il y a beaucoup de tournants. → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le soir, les automobilistes doivent allumer leurs feux. → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Kevin met sa ceinture de sécurité. → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. La conductrice de la voiture augmente sa vitesse. → {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Amandine remplit le réservoir de sa voiture. → {{b}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. La voiture sera réparée par un mécanicien. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 115, "seq": 14, "instruction_fr": "Associez pour constituer une phrase complète.", "label": "a. les piétons peuvent traverser la rue. | b. il y a 10 km de bouchons. | c. vous allez le doubler. | d. ça roule bien. | e. il est interdit de doubler. | f. vous aurez peut-être un P-V ! | g. vous irez au parking souterrain.", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "1. Ce n'est pas une heure d'affluence, donc… → {{b}}" },
+        { "seq": 2, "type": "assoc", "stem_html": "2. Il y a beaucoup de virages sur cette petite route donc… → {{b}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "3. Vous n'avez pas pris de ticket à l'horodateur, donc… → {{b}}" },
+        { "seq": 4, "type": "assoc", "stem_html": "4. Impossible de stationner dans la rue, donc… → {{b}}" },
+        { "seq": 5, "type": "assoc", "stem_html": "5. Il y a eu un accident sur l'autoroute, donc… → {{b}}" },
+        { "seq": 6, "type": "assoc", "stem_html": "6. Le feu est au rouge pour les voitures, donc… → {{b}}" },
+        { "seq": 7, "type": "assoc", "stem_html": "7. Le camion roule très lentement, donc… → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 115, "seq": 15, "instruction_fr": "Complétez par un terme approprié.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. La vitesse est {{b}} à 50 km/heure en ville." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Nous partons en vacances, et nous allons essayer d'éviter les heures {{b}}." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Il y a trop de circulation, avec des kilomètres de {{b}} sur cette route !" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Le stationnement est difficile dans ce quartier, je ne trouve pas de {{b}}." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Ce véhicule roule trop lentement, je vais le {{b}}." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Au passage piéton, je laisse {{b}} les piétons qui veulent traverser." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Il est important de {{b}} les limitations de {{b}}." }
+      ]
+    },
+    {
+      "page_no": 115, "seq": 16, "instruction_fr": "Choisissez la bonne réponse.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Tu as trouvé une place ? {{o:Oui, à l'horodateur.|Oui, dans la rue.}}" },
+        { "seq": 2, "type": "choice", "stem_html": "2. Les piétons peuvent traverser ? {{o:Non, le feu est au vert pour les voitures.|Non, le feu est au rouge pour les voitures.}}" },
+        { "seq": 3, "type": "choice", "stem_html": "3. Le stationnement est gratuit ? {{o:Non, il est payant.|Non, c'est un parking.}}" },
+        { "seq": 4, "type": "choice", "stem_html": "4. La rue est en sens interdit ? {{o:Oui, il y a un feu rouge.|Non, elle est à double sens.}}" },
+        { "seq": 5, "type": "choice", "stem_html": "5. Tu as eu un P-V ? {{o:Oui, j'étais garé sur le trottoir !|Oui, j'ai pris un ticket à l'horodateur !}}" },
+        { "seq": 6, "type": "choice", "stem_html": "6. Il y a des embouteillages ? {{o:Non, ça roule mal.|Oui, il y a des bouchons.}}" },
+        { "seq": 7, "type": "choice", "stem_html": "7. Vous empruntez la route ? {{o:Non, je prends l'autoroute.|Non, je prends la route.}}" }
+      ]
+    },
+    {
+      "page_no": 115, "seq": 17, "instruction_fr": "À vous !", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Parlez de la circulation dans votre ville/région. Quand sont les heures d'affluence ? Comment se passe la circulation ? Y a-t-il beaucoup de bouchons ? Les automobilistes respectent-ils les limitations de vitesse ? Connaissez-vous le taux d'accidents de la route ? {{T}}" }
+      ]
+    }
+  ]
+}
