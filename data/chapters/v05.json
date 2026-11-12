@@ -1,0 +1,285 @@
+{
+  "course": "vocabulaire",
+  "seq": 5,
+  "title_fr": "LE TEMPS QUI PASSE",
+  "page_start": 28,
+  "page_end": 35,
+  "pdf_start": 30,
+  "pdf_end": 37,
+  "sections": [
+    {"title_fr": "LA SEMAINE", "page_no": 28},
+    {"title_fr": "QUEL JOUR SOMMES-NOUS ?", "page_no": 28},
+    {"title_fr": "L'HEURE", "page_no": 30},
+    {"title_fr": "Combien de temps ?", "page_no": 30},
+    {"title_fr": "Midi", "page_no": 30},
+    {"title_fr": "LA LUMIÈRE DU JOUR", "page_no": 30},
+    {"title_fr": "L'ORGANISATION DE LA JOURNÉE", "page_no": 32},
+    {"title_fr": "MATINS ET MATINÉES", "page_no": 32},
+    {"title_fr": "LA DATATION", "page_no": 32},
+    {"title_fr": "POUR PARLER DU TEMPS", "page_no": 34}
+  ],
+  "blocks": [
+    {"page_no": 28, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">5</span> LE TEMPS QUI PASSE"},
+    {"page_no": 28, "seq": 2, "type": "table", "body_html": "<table class='vocab'><tr><td>Il y a<br>60 secondes dans une minute<br>60 minutes dans une heure<br>24 heures dans une journée<br>7 jours dans une semaine</td><td>28, 29, 30 ou 31 jours dans un mois<br>52 semaines dans une année<br>100 ans dans un siècle<br>1 000 ans dans un millénaire.</td></tr></table>"},
+    {"page_no": 28, "seq": 3, "type": "section_title", "body_html": "LA SEMAINE"},
+    {"page_no": 28, "seq": 4, "type": "list", "body_html": "<div class='bullet'>Mon appartement se transforme en hôtel ! <b>Aujourd'hui, nous sommes le 10.</b> Ève est arrivée mercredi <b>dernier</b>, le 2. Elle m'a téléphoné <b>la veille</b> (le 1<sup>er</sup>). Comme elle est repartie <b>hier soir</b> (le 9), elle ne verra pas Maxime, qui sera chez moi <b>demain matin</b> (le 11). Gaëlle arrivera <b>la semaine prochaine</b>, mardi <b>prochain</b> (le 15). Les deux repartiront <b>le lendemain après-midi</b> (le 16).</div>"},
+    {"page_no": 28, "seq": 5, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Les Français disent « huit jours » pour « une semaine » et « quinze jours » pour « deux semaines » : « Je pars en vacances pendant huit jours. » « Il reviendra dans quinze jours. »</i>"},
+    {"page_no": 28, "seq": 6, "type": "list", "body_html": "<div class='bullet'><b>Dans 8 jours</b> (le 17), ma sœur, qui prend un cours le jeudi <b>(= tous les jeudis)</b> viendra aussi, mais <b>dans 15 jours</b> (le 24, qui est un jour férié), <b>c'est moi qui ferai le pont</b> : je ne travaillerai pas vendredi et je serai absent de jeudi à dimanche.</div>"},
+    {"page_no": 28, "seq": 7, "type": "list", "body_html": "<div class='bullet'>En France, des jours fériés correspondent à <b>une fête religieuse catholique</b> : <b>Pâques et le lundi de Pâques, Noël</b> (le 25 décembre), <b>l'Ascension, la Pentecôte, l'Assomption</b> (le 15 août), <b>la Toussaint</b> (le 1<sup>er</sup> novembre). Des jours importants du point de vue historique ou symbolique sont aussi fériés : le 1<sup>er</sup> janvier, 1<sup>er</sup> mai (la fête du travail), le 8 mai (fin de la Seconde Guerre mondiale), le 14 juillet (la fête nationale), le 11 novembre (fin de la Première Guerre mondiale).</div>"},
+    {"page_no": 28, "seq": 8, "type": "section_title", "body_html": "QUEL JOUR SOMMES-NOUS ?"},
+    {"page_no": 28, "seq": 9, "type": "list", "body_html": "<div class='bullet'>On est quel jour, aujourd'hui ? <i>(familier)</i><br>– On est vendredi.</div>"},
+    {"page_no": 28, "seq": 10, "type": "list", "body_html": "<div class='bullet'>On est le combien ? <i>(familier)</i> Nous sommes le combien ?<br>– On est le 14. Nous sommes le 14.</div>"},
+    {"page_no": 28, "seq": 11, "type": "list", "body_html": "<div class='bullet'>Le 1<sup>er</sup> mai <b>tombe</b> quel jour, cette année ?<br>– Le 1<sup>er</sup> mai <b>tombe un</b> jeudi. Tu feras le pont ?</div>"},
+    {"page_no": 28, "seq": 12, "type": "list", "body_html": "<div class='bullet'><b>C'est quand</b>, ton anniversaire ? <i>(familier)</i><br>– C'est le 28 septembre.</div>"},
+    {"page_no": 28, "seq": 13, "type": "list", "body_html": "<div class='bullet'>Le mariage d'Anaïs, <b>c'est le combien</b> ? <i>(familier)</i><br>– C'est le 1<sup>er</sup> juin.</div>"},
+    {"page_no": 30, "seq": 14, "type": "running_head", "body_html": "LE TEMPS QUI PASSE"},
+    {"page_no": 30, "seq": 15, "type": "section_title", "body_html": "L'HEURE"},
+    {"page_no": 30, "seq": 16, "type": "subhead", "body_html": "Quelle heure est-il ? Il est quelle heure* ?"},
+    {"page_no": 30, "seq": 17, "type": "para", "body_html": "On peut répondre très précisément : « il est 14h50 », ou plus souvent : « il est trois heures moins dix ». Si la situation est claire, on peut aussi dire : « il est moins dix »."},
+    {"page_no": 30, "seq": 18, "type": "table", "body_html": "<table class='vocab'><tr><td>• Tu as / Vous avez l'heure ?<br>– Oui, il est midi.<br><br>• Quelle heure il est* ?<br>– Il est moins vingt*.</td><td>• À quelle heure est ton train ?<br>– À la demie*.<br><br>• Julie est arrivée à quelle heure ?<br>– À dix heures pile* (= exactes).</td></tr></table>"},
+    {"page_no": 30, "seq": 19, "type": "keypoint", "body_html": "<div class='bullet'><b>avancer ≠ retarder</b></div>"},
+    {"page_no": 30, "seq": 20, "type": "para", "body_html": "Il est dix heures. La pendule marque 10h10, elle <b>avance</b>. Si elle marque 9h50, elle <b>retarde</b>. Si elle marque 10 heures, elle est <b>à l'heure</b>."},
+    {"page_no": 30, "seq": 21, "type": "subhead", "body_html": "Combien de temps ?"},
+    {"page_no": 30, "seq": 22, "type": "list", "body_html": "<div class='bullet'>Dans la vie courante, les Français emploient les expressions « <b>un quart d'heure</b> », « <b>une demi-heure</b> » et « <b>trois quarts d'heure</b> » plus souvent que « 15 minutes », « 30 minutes », « 45 minutes ». Nous avons attendu le bus pendant <b>un quart d'heure</b>. Je suis resté <b>trois quarts d'heure</b> chez le dentiste. Elle sera là dans <b>une demi-heure</b>.</div>"},
+    {"page_no": 30, "seq": 23, "type": "list", "body_html": "<div class='bullet'>La gare est ouverte <b>7 jours sur 7</b>, <b>24 heures sur 24</b>.</div>"},
+    {"page_no": 30, "seq": 24, "type": "list", "body_html": "<div class='bullet'><b>Un moment</b> dure assez longtemps, mais l'expression est très vague. « Je suis resté <b>un bon moment</b> avec elle. » (= 30 minutes ? Une après-midi ? <i>On ne sait pas…</i>)</div>"},
+    {"page_no": 30, "seq": 25, "type": "subhead", "body_html": "Midi"},
+    {"page_no": 30, "seq": 26, "type": "list", "body_html": "<div class='bullet'>L'expression « à midi » signifie…<br>– à 12 heures exactement : « mon train part à midi » ;<br>– à l'heure du déjeuner : « j'ai vu Vanessa à midi, nous avons déjeuné ensemble ».</div>"},
+    {"page_no": 30, "seq": 27, "type": "list", "body_html": "<div class='bullet'><b>Le Midi</b> (avec une majuscule) désigne le sud de la France : « Nicole a l'accent du Midi. » « Mes amis habitent dans le Midi / dans un petit village du midi de la France. »</div>"},
+    {"page_no": 30, "seq": 28, "type": "section_title", "body_html": "LA LUMIÈRE DU JOUR"},
+    {"page_no": 30, "seq": 29, "type": "table", "body_html": "<table class='vocab'><tr><td>En été, le jour se lève à 6 heures.<br><b>Le soleil se lève.</b><br>Il y a un beau lever de soleil.<br><b>Il fait jour / il fait grand jour.</b></td><td><b>La nuit tombe à 9 heures.</b><br><b>Le soleil se couche.</b><br>est splendide.<br><b>Il fait nuit / il fait nuit noire.</b></td></tr></table>"},
+    {"page_no": 32, "seq": 30, "type": "running_head", "body_html": "LE TEMPS QUI PASSE"},
+    {"page_no": 32, "seq": 31, "type": "section_title", "body_html": "L'ORGANISATION DE LA JOURNÉE"},
+    {"page_no": 32, "seq": 32, "type": "list", "body_html": "<div class='bullet'>Élodie et Basile ont des journées très différentes, « <b>c'est le jour et la nuit</b> ! ».</div>"},
+    {"page_no": 32, "seq": 33, "type": "list", "body_html": "<div class='bullet'>Basile est comédien. Il joue <b>tous les soirs</b>, mais quelquefois, il ne travaille pas <b>trois jours de suite / d'affilée</b> (= lundi, mardi, mercredi, par exemple).</div>"},
+    {"page_no": 32, "seq": 34, "type": "list", "body_html": "<div class='bullet'><b>Deux fois par jour</b>, il prend le métro pour aller au théâtre. <b>Le matin</b>, comme il n'est <b>pas matinal</b>, il se lève <b>tard</b>. Il passe <b>la matinée</b> au lit, il « <b>fait la grasse matinée</b> ». <b>Le soir</b>, il se couche tard. Il aime son travail et <b>un jour</b>, peut-être, il sera un acteur célèbre…</div>"},
+    {"page_no": 32, "seq": 35, "type": "list", "body_html": "<div class='bullet'>Élodie est infirmière. Elle travaille <b>de jour ou de nuit</b>, cela dépend des semaines. <b>Du jour au lendemain</b> (= soudainement), elle peut changer d'horaire. Quand elle fait <b>la journée continue</b>, elle part de chez elle <b>en début de matinée</b> et revient <b>en fin d'après-midi</b>. Mais souvent, elle va à l'hôpital <b>en fin de journée</b> et elle y passe <b>la nuit</b>.</div>"},
+    {"page_no": 32, "seq": 36, "type": "list", "body_html": "<div class='bullet'><b>Ce soir</b>, Élodie et Basile organisent <b>une soirée</b> chez eux avec des amis. <b>En semaine</b> (≠ le week-end), c'est rare, parce qu'Élodie travaille <b>du matin au soir</b>, et même, parfois, <b>jour et nuit</b>. Ils passeront certainement <b>une excellente soirée</b>. Pas comme la dernière fois, où ils s'étaient disputés <b>toute la soirée</b>. Ils avaient passé <b>une très mauvaise soirée</b> !</div>"},
+    {"page_no": 32, "seq": 37, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Le « soir » et la « nuit » se passent en même temps. Le « soir » ou la « soirée » désignent un moment public, où la vie sociale continue (« j'ai passé la soirée chez des amis » = « j'ai dîné, puis je suis rentré chez moi »). La « nuit », c'est le temps privé, où, en général, on dort (« j'ai passé la nuit chez des amis » = « j'ai dormi chez eux »).</i>"},
+    {"page_no": 32, "seq": 38, "type": "section_title", "body_html": "MATINS ET MATINÉES"},
+    {"page_no": 32, "seq": 39, "type": "para", "body_html": "Certains mots ont deux formes."},
+    {"page_no": 32, "seq": 40, "type": "table", "body_html": "<table class='vocab'><tr><th>Le jour, le matin, le soir, l'an</th><th>La journée, la matinée, la soirée,<br>l'année</th></tr><tr><td>• Avec un nombre :<br>Ils sont restés <b>trois jours</b> à Genève.<br>J'ai vécu <b>dix ans</b> à Dakar.<br><br>• Pour saluer :<br>Bonjour ! Bonsoir !</td><td>• Pour insister sur la totalité du temps passé :<br><b>Toute la journée / toute l'année…</b><br>• Avec le verbe « passer » + à + infinitif :<br><b>J'ai passé la journée à travailler</b> !<br>• Pour souhaiter :<br>Bonne journée ! Bonne soirée !<br><b>Je vous souhaite une bonne année</b> !</td></tr></table>"},
+    {"page_no": 32, "seq": 41, "type": "section_title", "body_html": "LA DATATION"},
+    {"page_no": 32, "seq": 42, "type": "list", "body_html": "<div class='bullet'><b>De quand date</b> ce château ? – <b>Il date du</b> XVII<sup>e</sup> siècle. Il a été construit en 1659.</div>"},
+    {"page_no": 32, "seq": 43, "type": "list", "body_html": "<div class='bullet'>Le 14 juillet 1789 est <b>une date importante</b> dans l'histoire de France.</div>"},
+    {"page_no": 32, "seq": 44, "type": "list", "body_html": "<div class='bullet'>Cette maison est <b>ancienne</b> ? – Non, elle est <b>récente</b>. Elle <b>est de</b> 2003.</div>"},
+    {"page_no": 32, "seq": 45, "type": "list", "body_html": "<div class='bullet'><b>Actuellement</b> = en ce moment, des travaux sont en cours.</div>"},
+    {"page_no": 34, "seq": 46, "type": "running_head", "body_html": "LE TEMPS QUI PASSE"},
+    {"page_no": 34, "seq": 47, "type": "section_title", "body_html": "POUR PARLER DU TEMPS"},
+    {"page_no": 34, "seq": 48, "type": "list", "body_html": "<div class='bullet'><b>prendre du temps / il faut du temps</b> (= c'est le temps habituellement nécessaire)<br><b>Il faut combien de temps</b> pour aller de Paris à Bruxelles ?<br>– En TGV, <b>ça prend / il faut</b> 1h30 environ. Le voyage prend une heure et demie.</div>"},
+    {"page_no": 34, "seq": 49, "type": "list", "body_html": "<div class='bullet'><b>mettre du temps</b> (<i>c'est le temps que l'on a réellement passé</i>)<br>– Hier, il y avait de la neige sur les routes, <b>j'ai mis quatre heures pour</b> faire 50 kilomètres !</div>"},
+    {"page_no": 34, "seq": 50, "type": "list", "body_html": "<div class='bullet'><b>en avoir pour…</b> (<i>c'est le temps nécessaire pour faire quelque chose</i>)<br>– Pour finir ce travail, <b>tu en as pour combien de temps</b> ?<br>– <b>J'en ai pour cinq minutes</b> !</div>"},
+    {"page_no": 34, "seq": 51, "type": "list", "body_html": "<div class='bullet'><b>passer du temps (à faire quelque chose)</b><br>Hier, <b>j'ai passé</b> un quart d'heure à bavarder avec ma voisine. Elle a <b>passé trois ans</b> au Pérou.<br>« <b>Le temps passe vite</b> », dit le proverbe.</div>"},
+    {"page_no": 34, "seq": 52, "type": "list", "body_html": "<div class='bullet'><b>perdre du temps ≠ gagner du temps</b><br>Il avait pris sa voiture pour <b>gagner du temps</b> (= pour aller plus vite), mais il a été bloqué dans des embouteillages. Finalement, <b>il a perdu deux heures</b>, <b>il a perdu son temps</b>, c'était <b>du temps perdu</b>.</div>"},
+    {"page_no": 34, "seq": 53, "type": "list", "body_html": "<div class='bullet'><b>avoir le temps ≠ être pressé</b><br>Excuse-moi, <b>je n'ai pas le temps de</b> déjeuner avec toi aujourd'hui, je suis <b>pressé(e)</b> !</div>"},
+    {"page_no": 34, "seq": 54, "type": "list", "body_html": "<div class='bullet'><b>prendre son temps ≠ se dépêcher</b><br>En semaine, le matin, <b>je me dépêche</b>, mais le week-end, <b>je prends mon temps</b> !</div>"},
+    {"page_no": 34, "seq": 55, "type": "list", "body_html": "<div class='bullet'><b>avancer ≠ reporter = repousser = remettre à une autre date…</b> une réunion, un rendez-vous<br>Nous avions une réunion mardi à 14 heures, mais Grégoire est malade. Nous <b>avons repoussé / remis / reporté</b> la réunion à jeudi matin.</div>"},
+    {"page_no": 34, "seq": 56, "type": "list", "body_html": "<div class='bullet'><b>décommander un rendez-vous = annuler</b> une réunion, une réservation<br>Elle est malade, elle doit <b>décommander son rendez-vous</b> chez le coiffeur.<br>Ils ont dû <b>annuler la réunion</b>, car aucun participant n'a pu arriver à cause de la neige !</div>"},
+    {"page_no": 34, "seq": 57, "type": "list", "body_html": "<div class='bullet'><b>arriver à temps ≠ rater quelque chose</b><br>Sonia est arrivée <b>juste à temps pour</b> attraper / <b>avoir*</b> le train ! (<i>Le train était à 9 h, elle est arrivée à 8 h 59.</i>) Elle ne voulait pas <b>rater son train</b>, car elle avait un rendez-vous très important.</div>"},
+    {"page_no": 34, "seq": 58, "type": "list", "body_html": "<div class='bullet'><b>il est temps que</b> (+ subjonctif) (= c'est le moment de)<br>Il est minuit, <b>il est temps que tu ailles</b> te coucher !</div>"}
+  ],
+  "exercises": [
+    {
+      "page_no": 29, "seq": 1,
+      "instruction_fr": "Complétez les phrases et répondez-y librement. Attention au temps des verbes.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. On {{b}} quel jour, aujourd'hui ?<br>– {{L}}"},
+        {"seq": 2, "type": "cloze", "stem_html": "2. On {{b}} le combien, mardi prochain ?<br>– {{L}}"},
+        {"seq": 3, "type": "cloze", "stem_html": "3. Le Premier de l'an {{b}} quel jour, cette année ?<br>– {{L}}"},
+        {"seq": 4, "type": "cloze", "stem_html": "4. {{b}}, votre anniversaire ?<br>– {{L}}"}
+      ]
+    },
+    {
+      "page_no": 29, "seq": 2,
+      "instruction_fr": "Devinez de quel jour on parle.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [29],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. C'est au printemps. C'est un dimanche, mais le lendemain est aussi un jour férié. On offre des œufs en chocolat. C'est {{L}}"},
+        {"seq": 2, "type": "cloze", "stem_html": "2. C'est aussi au printemps. C'est un jour férié, donc on ne travaille pas. Et pourtant, le nom de la fête est {{L}} et la date en est {{L}}."},
+        {"seq": 3, "type": "cloze", "stem_html": "3. C'est en été, au milieu d'un mois. Il y a partout des bals et des feux d'artifice, car c'est la fête nationale. C'est {{L}}"},
+        {"seq": 4, "type": "cloze", "stem_html": "4. C'est en hiver. On s'offre des cadeaux. Dans beaucoup de pays, le lendemain est férié, mais pas en France. C'est {{L}}"},
+        {"seq": 5, "type": "cloze", "stem_html": "5. C'est aussi en hiver. La veille au soir, on dîne très tard, et, quand minuit sonne, on se souhaite « bonne année ». C'est {{L}}"},
+        {"seq": 6, "type": "cloze", "stem_html": "6. C'est en automne. Ce jour férié n'est pas une fête religieuse, mais un jour historique. C'est {{L}}"}
+      ]
+    },
+    {
+      "page_no": 29, "seq": 3,
+      "instruction_fr": "À vous ! Répondez librement aux questions.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Nous sommes le combien, aujourd'hui ? {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Votre anniversaire tombe quel jour, cette année ? {{T}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. Combien de jours sont fériés dans votre pays ? {{T}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. Ces jours fériés sont-ils religieux ou historiques ? {{T}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. Quel est le jour de la fête nationale dans votre pays ? {{T}}"},
+        {"seq": 6, "type": "open", "stem_html": "6. Est-ce que vous faites parfois le pont ? {{T}}"}
+      ]
+    },
+    {
+      "page_no": 31, "seq": 4,
+      "instruction_fr": "Choisissez la bonne réponse.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "choice", "stem_html": "1. Vous {{o!:avez|prenez}} l'heure ?"},
+        {"seq": 2, "type": "choice", "stem_html": "2. Oui, {{o!:il y a|il est}} minuit."},
+        {"seq": 3, "type": "choice", "stem_html": "3. Le soleil {{o!:se réveille|se lève}} à sept heures."},
+        {"seq": 4, "type": "choice", "stem_html": "4. La nuit {{o!:se couche|tombe}} tôt, en hiver !"},
+        {"seq": 5, "type": "choice", "stem_html": "5. C'est bien, il fait {{o!:grand jour|midi}} !"},
+        {"seq": 6, "type": "choice", "stem_html": "6. Thomas est arrivé à {{o!:moins|plus}} dix."},
+        {"seq": 7, "type": "choice", "stem_html": "7. Hier soir, nous avons admiré un beau {{o!:lever|coucher}} de soleil."},
+        {"seq": 8, "type": "choice", "stem_html": "8. Mes amis sont originaires du {{o!:minuit|Midi}}."}
+      ]
+    },
+    {
+      "page_no": 31, "seq": 5,
+      "instruction_fr": "Associez une question à une réponse.",
+      "label": "a. Non, il fait encore nuit. &nbsp; b. À midi. &nbsp; c. Oui, 7 jours sur 7. &nbsp; d. Un bon moment ! &nbsp; e. Oui, il est midi. &nbsp; f. Non, elle avance. &nbsp; g. Du Midi.",
+      "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "assoc", "stem_html": "1. Vous avez l'heure ? → {{b}}"},
+        {"seq": 2, "type": "assoc", "stem_html": "2. Tu es resté combien de temps ? → {{b}}"},
+        {"seq": 3, "type": "assoc", "stem_html": "3. Elle vient de quelle région ? → {{b}}"},
+        {"seq": 4, "type": "assoc", "stem_html": "4. Il fait jour ? → {{b}}"},
+        {"seq": 5, "type": "assoc", "stem_html": "5. C'est ouvert tous les jours ? → {{b}}"},
+        {"seq": 6, "type": "assoc", "stem_html": "6. À quelle heure tu déjeunes ? → {{b}}"},
+        {"seq": 7, "type": "assoc", "stem_html": "7. Ta montre retarde ? → {{b}}"}
+      ]
+    },
+    {
+      "page_no": 31, "seq": 6,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "tf", "stem_html": "1. Le train est arrivé à 14h30 = il est arrivé à deux heures et demie. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 2, "type": "tf", "stem_html": "2. Ma pendule retarde = elle est à l'heure. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 3, "type": "tf", "stem_html": "3. J'ai attendu trois quarts d'heure = j'ai attendu 35 minutes. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 4, "type": "tf", "stem_html": "4. Il est midi, donc il fait nuit. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 5, "type": "tf", "stem_html": "5. La nuit tombe le matin. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 6, "type": "tf", "stem_html": "6. Le matin, le jour se lève. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 7, "type": "tf", "stem_html": "7. Je suis parti très tôt ce matin, à midi. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 8, "type": "tf", "stem_html": "8. Ce magasin est ouvert 7 jours sur 7 = tous les jours, sauf le dimanche. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"}
+      ]
+    },
+    {
+      "page_no": 31, "seq": 7,
+      "instruction_fr": "À vous ! Répondez librement aux questions.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Vous avez l'heure ? {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. À quelle heure est-ce que vous vous êtes couché(e), hier soir ? {{T}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. À quelle heure la nuit tombe-t-elle, en ce moment ? {{T}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. Au moment où vous faites cet exercice, est-ce qu'il fait jour ? {{T}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. Qu'est-ce que vous avez fait, hier, à midi ? {{T}}"},
+        {"seq": 6, "type": "open", "stem_html": "6. Dans votre pays, les magasins sont ouverts de quelle heure à quelle heure, en général ? {{T}}"},
+        {"seq": 7, "type": "open", "stem_html": "7. Est-ce que votre montre avance ? {{T}}"}
+      ]
+    },
+    {
+      "page_no": 33, "seq": 8,
+      "instruction_fr": "Choisissez la ou les réponse(s) possible(s).",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "choice", "stem_html": "1. Il a dîné chez des amis, où il a passé une excellente {{o:matinée|soirée|nuit}}."},
+        {"seq": 2, "type": "choice", "stem_html": "2. Nous avons rendez-vous à 9 heures, en début de {{o:matin|journée|matinée}}."},
+        {"seq": 3, "type": "choice", "stem_html": "3. En {{o:semaine|jour|week-end}}, la rue est très animée, les magasins sont ouverts."},
+        {"seq": 4, "type": "choice", "stem_html": "4. J'ai étudié du matin au {{o:lendemain|jour|soir}}."},
+        {"seq": 5, "type": "choice", "stem_html": "5. Nous avons des réunions deux jours {{o:d'affilée|de suite|au lendemain}}."},
+        {"seq": 6, "type": "choice", "stem_html": "6. Ils ont dû partir {{o:de la journée|du jour|de la nuit}} au lendemain."},
+        {"seq": 7, "type": "choice", "stem_html": "7. Vous êtes restés dix {{o:jours|ans|années}} à Montréal ?"},
+        {"seq": 8, "type": "choice", "stem_html": "8. Mon fils organise une grande {{o:nuit|soirée|année}} demain, avec tous ses copains."}
+      ]
+    },
+    {
+      "page_no": 33, "seq": 9,
+      "instruction_fr": "Complétez.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. Hier, il {{b}} la journée à étudier !"},
+        {"seq": 2, "type": "cloze", "stem_html": "2. Elle m'a téléphoné vers 18 h, en {{b}} de journée."},
+        {"seq": 3, "type": "cloze", "stem_html": "3. Ces deux quartiers sont très différents, c'est {{b}} et {{b}} !"},
+        {"seq": 4, "type": "cloze", "stem_html": "4. En {{b}}, elle se lève très tôt, mais {{b}} week-end, elle fait la {{b}} matinée."},
+        {"seq": 5, "type": "cloze", "stem_html": "5. Vous connaissez {{b}} des trains pour Lausanne ?"},
+        {"seq": 6, "type": "cloze", "stem_html": "6. Ils ont travaillé quatre jours {{b}} sans s'arrêter !"},
+        {"seq": 7, "type": "cloze", "stem_html": "7. J'ai rendez-vous chez le médecin à 8h30, en {{b}} de matinée."},
+        {"seq": 8, "type": "cloze", "stem_html": "8. Benjamin n'est pas {{b}}, il déteste se lever tôt !"}
+      ]
+    },
+    {
+      "page_no": 33, "seq": 10,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "tf", "stem_html": "1. Il lit du matin au soir = il lit tout le temps. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 2, "type": "tf", "stem_html": "2. Elle fait la journée continue = elle travaille le week-end. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 3, "type": "tf", "stem_html": "3. Il a déménagé du jour au lendemain = il a déménagé en une journée. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 4, "type": "tf", "stem_html": "4. Ils ont passé la soirée au bord de la mer = ils ont dormi sur la plage. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 5, "type": "tf", "stem_html": "5. Tu as fait la grasse matinée ? = Tu as dormi sans faire sonner le réveil ? <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 6, "type": "tf", "stem_html": "6. Elle joue du piano tous les soirs = elle joue du piano la nuit. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 7, "type": "tf", "stem_html": "7. Actuellement, il est en voyage = c'est vrai qu'il voyage. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"}
+      ]
+    },
+    {
+      "page_no": 33, "seq": 11,
+      "instruction_fr": "À vous ! Répondez librement aux questions.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Est-ce que vous aimez faire la grasse matinée ? Pourquoi ? {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Est-ce que vous sortez souvent, en semaine ? {{T}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. À quoi est-ce que vous avez passé la journée, hier ? {{T}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. De quand date le bâtiment où vous vous trouvez ? Est-il ancien ou récent ? {{T}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. Est-ce que vous avez passé une bonne journée, hier ? {{T}}"},
+        {"seq": 6, "type": "open", "stem_html": "6. Quelle est votre occupation principale, actuellement ? {{T}}"}
+      ]
+    },
+    {
+      "page_no": 35, "seq": 12,
+      "instruction_fr": "Répondez par le contraire.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. En semaine, tu prends ton temps ? – Non, au contraire, {{L}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Tu as gagné du temps, en prenant ton vélo ? – Non, au contraire, {{L}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. Vous avez le temps de répondre à mes questions ? – Non, au contraire, {{L}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. La réunion a été avancée ? – Non, au contraire, {{L}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. Vous en avez pour longtemps ? – Non, au contraire, {{L}}"},
+        {"seq": 6, "type": "open", "stem_html": "6. Elle a raté l'avion ? – Non, au contraire, {{L}}"}
+      ]
+    },
+    {
+      "page_no": 35, "seq": 13,
+      "instruction_fr": "Complétez par un verbe approprié. Plusieurs solutions sont parfois possibles.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. Ils {{b}} combien de temps à préparer le dîner ?"},
+        {"seq": 2, "type": "cloze", "stem_html": "2. Le temps {{b}} vite !"},
+        {"seq": 3, "type": "cloze", "stem_html": "3. Malheureusement, j'ai dû {{b}} mon rendez-vous avec Aude."},
+        {"seq": 4, "type": "cloze", "stem_html": "4. Il {{b}} combien de temps pour aller de Montréal à Québec, en voiture ?"},
+        {"seq": 5, "type": "cloze", "stem_html": "5. Hier soir, nous {{b}} deux heures pour rentrer ! C'était pénible !"},
+        {"seq": 6, "type": "cloze", "stem_html": "6. À cause des grèves, la réunion a été {{b}} à la semaine prochaine."},
+        {"seq": 7, "type": "cloze", "stem_html": "7. Vous en {{b}} pour combien de temps, pour réparer cet ordinateur ?"},
+        {"seq": 8, "type": "cloze", "stem_html": "8. Il {{b}} temps que je réponde à mes mails."}
+      ]
+    },
+    {
+      "page_no": 35, "seq": 14,
+      "instruction_fr": "Décrivez ces deux personnages.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [35],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. {{T}}"}
+      ]
+    },
+    {
+      "page_no": 35, "seq": 15,
+      "instruction_fr": "À vous ! Répondez librement aux questions.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Combien de temps faut-il pour aller de chez vous à votre travail / université / école ? {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Le matin, en général, vous dépêchez ? {{T}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. Est-ce qu'il vous arrive de perdre du temps ? Comment ? {{T}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. Est-ce que vous avez décommandé un rendez-vous, récemment ? Pourquoi ? {{T}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. Pour faire cet exercice, vous en avez eu pour combien de temps ? {{T}}"}
+      ]
+    }
+  ]
+}
