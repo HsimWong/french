@@ -1,0 +1,102 @@
+{
+  "course": "grammaire",
+  "seq": 29,
+  "title_fr": "LES PRONOMS TONIQUES",
+  "page_start": 132,
+  "page_end": 133,
+  "pdf_start": 134,
+  "pdf_end": 135,
+  "sections": [
+    { "title_fr": "Le pronom sujet est suivi d'un verbe, le pronom tonique peut être employé seul", "page_no": 132 },
+    { "title_fr": "En général, après une préposition, on utilise un pronom tonique", "page_no": 132 },
+    { "title_fr": "Après « c'est », on utilise un pronom tonique", "page_no": 132 },
+    { "title_fr": "Avec « aussi », « non plus », « pas », « et », « ni », on utilise un pronom tonique", "page_no": 132 },
+    { "title_fr": "Pour renforcer le sujet et marquer un contraste, on utilise un pronom tonique", "page_no": 132 }
+  ],
+  "blocks": [
+    { "page_no": 132, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">29</span> LES PRONOMS TONIQUES" },
+    { "page_no": 132, "seq": 2, "type": "keypoint", "body_html": "– Je pars avec <strong>elle</strong>. Vous allez chez <strong>eux</strong>. <strong>Lui</strong>, il reste ici." },
+    { "page_no": 132, "seq": 3, "type": "section_title", "body_html": "■ <strong>Le pronom sujet est suivi d'un verbe, le pronom tonique peut être employé seul :</strong>" },
+    { "page_no": 132, "seq": 4, "type": "table", "body_html": "– <strong>Je</strong> pars ! – <strong>Moi</strong> !<br>– <strong>Tu</strong> pars ! – <strong>Toi</strong> !<br>– <strong>Il</strong> part ! – <strong>Lui</strong> !<br>– <strong>Elle</strong> part ! – <strong>Elle</strong> !<br>– <strong>Nous</strong> partons ! – Qui ? – <strong>Nous</strong> !<br>– <strong>Vous</strong> partez ! – <strong>Vous</strong> !<br>– <strong>Ils</strong> partent ! – <strong>Eux</strong> !<br>– <strong>Elles</strong> partent ! – <strong>Elles</strong> !<br>= pronom sujet = pronom tonique" },
+    { "page_no": 132, "seq": 5, "type": "para", "body_html": "• « <strong>Soi</strong> » est le pronom tonique correspondant à « tout le monde » :" },
+    { "page_no": 132, "seq": 6, "type": "example", "body_html": "<em>On est bien, chez soi.</em>&nbsp;&nbsp;&nbsp;<em>Il faut prendre soin de soi.</em>" },
+    { "page_no": 132, "seq": 7, "type": "section_title", "body_html": "■ <strong>En général, après une préposition, on utilise un pronom tonique :</strong>" },
+    { "page_no": 132, "seq": 8, "type": "example", "body_html": "<em>Max travaille avec moi.</em>&nbsp;&nbsp;&nbsp;<em>Léa habite chez lui.</em>&nbsp;&nbsp;&nbsp;<em>On va chez toi ?</em>&nbsp;&nbsp;&nbsp;<em>Partons sans eux.</em>" },
+    { "page_no": 132, "seq": 9, "type": "section_title", "body_html": "■ <strong>Après « c'est », on utilise un pronom tonique :</strong>" },
+    { "page_no": 132, "seq": 10, "type": "example", "body_html": "<em>C'est toi ?</em>&nbsp;&nbsp;&nbsp;<em>C'est moi !</em>&nbsp;&nbsp;&nbsp;<em>C'est eux…</em>" },
+    { "page_no": 132, "seq": 11, "type": "section_title", "body_html": "■ <strong>Avec « aussi », « non plus », « pas », « et », « ni », on utilise un pronom tonique :</strong>" },
+    { "page_no": 132, "seq": 12, "type": "example", "body_html": "<em>Je suis fatigué. Et toi ?</em> – <em>Moi aussi.</em><br><em>Elle n'est pas sympa !</em> – <em>Lui non plus.</em><br><em>J'ai faim.</em> – <em>Pas moi.</em>" },
+    { "page_no": 132, "seq": 13, "type": "section_title", "body_html": "■ <strong>Pour renforcer le sujet et marquer un contraste, on utilise un pronom tonique :</strong>" },
+    { "page_no": 132, "seq": 14, "type": "example", "body_html": "<em>Je suis en forme, et toi ?</em> – <em>Moi, je suis fatiguée.</em><br><em>Jean est pour le nucléaire, et toi ?</em> – <em>Moi, je suis contre.</em>" },
+    { "page_no": 132, "seq": 15, "type": "warning", "body_html": "⚠️ • Ne dites pas : « <s>Moi, je…</s> » pour commencer une conversation." },
+    { "page_no": 132, "seq": 16, "type": "xref", "body_html": "Impératif, p. 134" }
+  ],
+  "exercises": [
+    {
+      "page_no": 133, "seq": 1,
+      "instruction_fr": "Répondez avec un pronom tonique, selon le modèle.",
+      "label": "", "note_html": "1. – C'est Pierre, là, sur la photo ? – Oui, c'est lui ! / Non, ce n'est pas lui.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – C'est Pierre, là, sur la photo ? – Oui, c'est lui ! / Non, ce n'est pas lui." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Qui est le responsable de l'agence, c'est vous ? – Non, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Qui est au téléphone, c'est ma fille ? – Oui, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – C'est Paul qui danse avec Madeleine ? – Non, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Ce sont les parents de Catherine, là-bas ? – Oui, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 133, "seq": 2,
+      "instruction_fr": "Répondez avec « aussi » et « non plus » et un pronom tonique, selon le modèle.",
+      "label": "", "note_html": "1. – Je travaille en juillet. – Moi aussi.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Je travaille en juillet. – Moi aussi.<br>– Et votre mari ? – {{L}}<br>– Et votre sœur ? – {{L}}<br>– Et vos enfants ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Je ne suis pas là en août. – Moi non plus.<br>– Et Paul ? – {{L}}<br>– Et vos parents ? – {{L}}<br>– Et vos filles ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 133, "seq": 3,
+      "instruction_fr": "Faites des phrases selon le modèle.",
+      "label": "", "note_html": "1. – Ce soir, je dîne chez Jean et Michèle. – Ah bon, vous dînez chez eux !", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Ce soir, je dîne chez Jean et Michèle. – Ah bon, vous dînez chez eux !" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – À midi, je déjeune avec le directeur. – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – En ce moment, j'habite chez Pierre et Anne. – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Ce soir, je sors avec Julien. – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Nous partons en vacances sans nos enfants. – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 133, "seq": 4,
+      "instruction_fr": "Complétez les phrases selon le modèle.",
+      "label": "", "note_html": "1. – J'aime la ville. – Ton mari aussi ? – Non, lui, il aime la campagne.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – J'aime la ville. – Ton mari aussi ? – Non, lui, il aime la campagne." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Jean habite dans le centre. – Paul aussi ? – Non, {{L}} en banlieue." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Marie va à la piscine à 5 h. – Toi aussi ? – Non, {{L}} au cinéma." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Le directeur arrive à 9 h 30. – Sa secrétaire aussi ? – Non, {{L}} à 8 h 30." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Roberto travaille à Rome. – Marco aussi ? – Non, {{L}} à Pise." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Nous aimons la montagne. – Vos enfants aussi ? – Non, {{L}} la mer." }
+      ]
+    },
+    {
+      "page_no": 133, "seq": 5,
+      "instruction_fr": "Complétez avec les pronoms toniques manquants.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Alice parle avec son copain : elle parle avec {{b}} pendant des heures." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Regarde, c'est Anne et Lucas : ce sont {{b}} !" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Ce parapluie est à vous ? – Oui, il est à {{b}}." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Charles garde tout pour {{b}}, c'est un garçon secret." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Quand on fait les choses {{b}}-même, on est plus satisfait !" }
+      ]
+    },
+    {
+      "page_no": 133, "seq": 6,
+      "instruction_fr": ">> Opposez vos goûts et vos habitudes à ceux d'une autre personne.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}

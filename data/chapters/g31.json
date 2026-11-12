@@ -1,0 +1,100 @@
+{
+  "course": "grammaire",
+  "seq": 31,
+  "title_fr": "LE CONDITIONNEL (1)",
+  "page_start": 136,
+  "page_end": 137,
+  "pdf_start": 138,
+  "pdf_end": 139,
+  "sections": [
+    { "title_fr": "L'EXPRESSION de la POLITESSE, des CONSEILS, du DÉSIR", "page_no": 136 },
+    { "title_fr": "FORMES COURANTES", "page_no": 136 }
+  ],
+  "blocks": [
+    { "page_no": 136, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">31</span> LE CONDITIONNEL (1)" },
+    { "page_no": 136, "seq": 2, "type": "keypoint", "body_html": "– Je <strong>voudrais</strong> parler à monsieur Durand.<br>– Il n'est pas là. Vous <strong>devriez</strong> rappeler dans un quart d'heure." },
+    { "page_no": 136, "seq": 3, "type": "section_title", "body_html": "L'EXPRESSION de la POLITESSE, des CONSEILS, du DÉSIR" },
+    { "page_no": 136, "seq": 4, "type": "subhead", "body_html": "■ On utilise le conditionnel pour demander <strong>poliment</strong> quelque chose :" },
+    { "page_no": 136, "seq": 5, "type": "example", "body_html": "– Je <strong>voudrais</strong> un renseignement.<br>– Est-ce que je <strong>pourrais</strong> parler à monsieur Bruni ?" },
+    { "page_no": 136, "seq": 6, "type": "remark", "body_html": "(verbes « vouloir » et « pouvoir »)" },
+    { "page_no": 136, "seq": 7, "type": "subhead", "body_html": "■ On utilise le conditionnel pour faire une suggestion, donner un <strong>conseil</strong> :" },
+    { "page_no": 136, "seq": 8, "type": "example", "body_html": "– Vous <strong>devriez</strong> moderniser votre entreprise.<br>– Tu <strong>devrais</strong> te faire couper les cheveux." },
+    { "page_no": 136, "seq": 9, "type": "remark", "body_html": "(verbe « devoir »)" },
+    { "page_no": 136, "seq": 10, "type": "subhead", "body_html": "■ On utilise le conditionnel pour exprimer un <strong>désir</strong> :" },
+    { "page_no": 136, "seq": 11, "type": "example", "body_html": "– J'<strong>aimerais</strong> savoir dessiner.<br>– Je <strong>voudrais</strong> être en vacances." },
+    { "page_no": 136, "seq": 12, "type": "remark", "body_html": "(verbes « aimer » et « vouloir »)" },
+    { "page_no": 136, "seq": 13, "type": "subhead", "body_html": "• « <strong>Bien</strong> » (= volontiers) accompagne souvent l'expression du désir :" },
+    { "page_no": 136, "seq": 14, "type": "example", "body_html": "– Je <strong>boirais</strong> bien un café.<br>– J'<strong>irais bien</strong> au cinéma." },
+    { "page_no": 136, "seq": 15, "type": "section_title", "body_html": "FORMES COURANTES" },
+    { "page_no": 136, "seq": 16, "type": "table", "body_html": "VOULOIR&nbsp;&nbsp;&nbsp;Je <em>voudrais</em> / Vous <em>voudriez</em><br>AIMER&nbsp;&nbsp;&nbsp;J'<em>aimerais</em> / Vous <em>aimeriez</em><br>DEVOIR&nbsp;&nbsp;&nbsp;Je <em>devrais</em> / Vous <em>devriez</em><br>POUVOIR&nbsp;&nbsp;&nbsp;Je <em>pourrais</em> / Vous <em>pourriez</em><br>FAIRE&nbsp;&nbsp;&nbsp;Je <em>ferais</em> / Vous <em>feriez</em><br>ALLER&nbsp;&nbsp;&nbsp;J'<em>irais</em> / Vous <em>iriez</em>" },
+    { "page_no": 136, "seq": 17, "type": "subhead", "body_html": "• Terminaisons :" },
+    { "page_no": 136, "seq": 18, "type": "table", "body_html": "<em>-rais</em>&nbsp;&nbsp;&nbsp;<em>-rions</em><br><em>-rais</em>&nbsp;&nbsp;&nbsp;<em>-riez</em><br><em>-rait</em>&nbsp;&nbsp;&nbsp;<em>-raient</em>" },
+    { "page_no": 136, "seq": 19, "type": "xref", "body_html": "Formation, p. 230" }
+  ],
+  "exercises": [
+    {
+      "page_no": 137, "seq": 1,
+      "instruction_fr": "Répondez aux questions en utilisant une formule de politesse.",
+      "label": "", "note_html": "– Vous voulez un thé ou un café ? – <em class='model'>Je voudrais un café.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous voulez un ou deux sucres ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous voulez une brioche ou un croissant ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous voulez faire une pause ou continuer ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous voulez sortir ou rester ici ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous voulez écouter un CD ou voir une vidéo ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 137, "seq": 2,
+      "instruction_fr": "Posez des questions en utilisant une formule de politesse.",
+      "label": "Au restaurant", "note_html": "une table près de la fenêtre<br>un peu de pain<br>des haricots à la place des frites<br>une carafe d'eau<br>le café avec le dessert<br>– Est-ce que je pourrais avoir une table près de la fenêtre ?", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "un peu de pain<br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "des haricots à la place des frites<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "une carafe d'eau<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "le café avec le dessert<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 137, "seq": 3,
+      "instruction_fr": ">> Donnez des conseils, selon le modèle.\nDormir au moins 8 heures – Partir un mois en vacances – Faire de la marche à pied – Boire beaucoup d'eau – Faire 15 minutes de gym – Manger des légumes verts",
+      "label": "", "note_html": "Pour être en forme, vous devriez dormir au moins 8 heures. À votre place, je dormirais...", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 137, "seq": 4,
+      "instruction_fr": "Exprimez des désirs, selon le modèle.",
+      "label": "", "note_html": "J'aimerais parler couramment français.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "{{L}} dix ans de moins." },
+        { "seq": 2, "type": "cloze", "stem_html": "{{L}} le tour du monde." },
+        { "seq": 3, "type": "cloze", "stem_html": "{{L}} heureux/heureuse !" }
+      ]
+    },
+    {
+      "page_no": 137, "seq": 5,
+      "instruction_fr": ">> Exprimez des désirs, selon le modèle.",
+      "label": "", "note_html": "Faire : <em class='model'>Je ferais bien une partie de tennis.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Faire : <em class='model'>Je ferais bien une partie de tennis.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "Prendre : {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Manger : {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Aller : {{L}}" }
+      ]
+    },
+    {
+      "page_no": 137, "seq": 6,
+      "instruction_fr": "Complétez avec les conditionnels manquants. Faites l'élision si c'est nécessaire.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Bonjour, madame, je {{b}} une brioche et un croissant." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Tu es trop fatigué : tu {{b}} prendre quelques jours de congé." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Est-ce que je {{b}} parler à Paul ?" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. J'ai sommeil ! Je {{b}} une sieste..." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Plus tard, je {{b}} avoir des enfants." }
+      ]
+    }
+  ]
+}

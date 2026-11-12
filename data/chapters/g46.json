@@ -1,0 +1,77 @@
+{
+  "course": "grammaire",
+  "seq": 46,
+  "title_fr": "« VENIR de », « ÊTRE EN TRAIN de », « ÊTRE sur LE POINT de »",
+  "page_start": 222,
+  "page_end": 223,
+  "pdf_start": 224,
+  "pdf_end": 225,
+  "sections": [
+    { "title_fr": "« VENIR DE » + INFINITIF", "page_no": 222 },
+    { "title_fr": "« ÊTRE EN TRAIN DE » + INFINITIF", "page_no": 222 },
+    { "title_fr": "« ÊTRE SUR LE POINT DE » + INFINITIF", "page_no": 222 }
+  ],
+  "blocks": [
+    { "page_no": 222, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">46</span> « VENIR de », « ÊTRE EN TRAIN de », « ÊTRE sur LE POINT de »" },
+    { "page_no": 222, "seq": 2, "type": "keypoint", "body_html": "Nous <strong>venons de</strong> quitter l'Angleterre.<br>Nous <strong>sommes en train de</strong> survoler la Manche.<br>Nous <strong>sommes sur le point d'</strong>arriver en France." },
+    { "page_no": 222, "seq": 3, "type": "section_title", "body_html": "« VENIR DE » + INFINITIF" },
+    { "page_no": 222, "seq": 4, "type": "keypoint", "body_html": "• « <strong>Venir de</strong> » + infinitif exprime un <strong>passé récent</strong> :<br><em>– Paul est là ? – Non, il <strong>vient de</strong> sortir.</em><br>= il est sorti il n'y a pas longtemps." },
+    { "page_no": 222, "seq": 5, "type": "subhead", "body_html": "• Pour insister on peut dire :" },
+    { "page_no": 222, "seq": 6, "type": "example", "body_html": "<em>Jean vient <strong>juste de</strong> partir.</em>" },
+    { "page_no": 222, "seq": 7, "type": "warning", "body_html": "⚠ • « Venir de » s'utilise sans précision de temps.<br>Dites :　　Ne dites pas :<br><em>Jean vient de sortir.</em>　　<em><s>Jean vient de sortir il y a 5 min.</s></em>" },
+    { "page_no": 222, "seq": 8, "type": "section_title", "body_html": "« ÊTRE EN TRAIN DE » + INFINITIF" },
+    { "page_no": 222, "seq": 9, "type": "keypoint", "body_html": "• Cette tournure exprime une action <strong>en cours de réalisation</strong> :<br><em>Je suis <strong>en train de</strong> dîner.</em><br>= en ce moment, je dîne." },
+    { "page_no": 222, "seq": 10, "type": "subhead", "body_html": "• On peut l'utiliser au passé :" },
+    { "page_no": 222, "seq": 11, "type": "example", "body_html": "<em>J'étais <strong>en train de</strong> dîner, quand le téléphone a sonné.</em>" },
+    { "page_no": 222, "seq": 12, "type": "section_title", "body_html": "« ÊTRE SUR LE POINT DE » + INFINITIF" },
+    { "page_no": 222, "seq": 13, "type": "keypoint", "body_html": "• Cette tournure exprime une action <strong>imminente</strong> :<br><em>Nous sommes <strong>sur le point</strong> d'atterrir.</em><br>= nous allons atterrir bientôt." }
+  ],
+  "exercises": [
+    {
+      "page_no": 223, "seq": 1,
+      "instruction_fr": "Transformez les phrases en utilisant « en train de », selon le modèle.",
+      "label": "", "note_html": "– Va aider Mireille : elle déplace le canapé toute seule.<br><em class='model'>– Va aider Mireille, elle est en train de déplacer le canapé toute seule.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – N'entrez pas dans la chambre, Paul fait la sieste.<br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Ne dérange pas Marie : elle fait des calculs compliqués.<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Ne parlez pas, s'il vous plaît, nous enregistrons la conférence.<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Approche la lampe, s'il te plaît, je retire une épine de mon pouce.<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 223, "seq": 2,
+      "instruction_fr": "Transformez les phrases avec « venir (juste) de ».",
+      "label": "", "note_html": "<em class='model'>– Le bus est passé il y a longtemps ? – Non, il vient (juste) de passer !</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Il y a longtemps que tu es rentré ? – Non, je {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Le match est commencé depuis longtemps ? – Non, il {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Ma femme n'a pas appelé ? – Si, elle {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Il y a longtemps que les enfants sont couchés ? – Non, ils {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Tu as acheté ce canapé récemment ? – Oui, je {{L}}" }
+      ]
+    },
+    {
+      "page_no": 223, "seq": 3,
+      "instruction_fr": "Transformez avec « être sur le point de », selon le modèle.",
+      "label": "Instantané", "note_html": "L'oiseau va s'envoler.<br><em class='model'>L'oiseau est sur le point de s'envoler.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "La nuit va tomber.<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "Les magasins vont fermer.<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Les lumières vont s'allumer.<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 223, "seq": 4,
+      "instruction_fr": "Complétez avec « être en train de », « être sur le point de » ou « venir de ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Allô, Marie, je ne te dérange pas ? – Rappelle-moi plus tard, je {{b}} sortir." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Qu'est-ce qu'Antoine {{b}} faire ? – Il dessine un mouton !" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous {{b}} écouter La Truite de Schubert. Ainsi s'achève notre programme musical." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Où sont les enfants ? – Ils {{b}} regarder la télévision." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Il faut arroser les fleurs ? – Non, je {{b}} arroser. Regarde, la terre est trempée." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Ne vous appuyez pas contre le mur : on {{b}} repeindre l'entrée." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "course": "grammaire",
+  "seq": 48,
+  "title_fr": "LE FUTUR ANTÉRIEUR",
+  "page_start": 228,
+  "page_end": 229,
+  "pdf_start": 230,
+  "pdf_end": 231,
+  "sections": [
+    { "title_fr": "UTILISATION et FORMATION", "page_no": 228 },
+    { "title_fr": "LES TEMPS DE L'INDICATIF : RÉSUMÉ", "page_no": 228 }
+  ],
+  "blocks": [
+    { "page_no": 228, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">48</span> LE FUTUR ANTÉRIEUR" },
+    { "page_no": 228, "seq": 2, "type": "keypoint", "body_html": "Je me marierai quand j'<strong>aurai terminé</strong> mes études." },
+    { "page_no": 228, "seq": 3, "type": "section_title", "body_html": "UTILISATION et FORMATION" },
+    { "page_no": 228, "seq": 4, "type": "keypoint", "body_html": "■ Le futur antérieur indique qu'un événement précède un autre événement dans l'avenir :<br><em>Je vais dîner et je vais sortir.</em><br><em>Quand j'<strong>aurai dîné</strong>, je sortirai.</em>" },
+    { "page_no": 228, "seq": 5, "type": "subhead", "body_html": "■ <strong>Formation :</strong> « être » ou « avoir » au futur simple + participe passé" },
+    { "page_no": 228, "seq": 6, "type": "example", "body_html": "<div class='two-col'><div><span class='wordlist'><em>J'<strong>aurai dîné</strong></em><br><em>Nous <strong>aurons fini</strong></em></span></div><div><span class='wordlist'><em>Il <strong>sera parti</strong></em><br><em>Je me <strong>serai couché</strong></em></span></div></div>" },
+    { "page_no": 228, "seq": 7, "type": "section_title", "body_html": "LES TEMPS DE L'INDICATIF : RÉSUMÉ" },
+    { "page_no": 228, "seq": 8, "type": "table", "body_html": "<table class='data-table'><tr><th>PASSÉ COMPOSÉ</th><th></th><th>FUTUR PROCHE</th></tr><tr><td><em>J'ai déménagé il y a six mois.</em></td><td></td><td><em>Je vais déménager dans six mois.</em></td></tr><tr><th>IMPARFAIT</th><th>PRÉSENT</th><th>FUTUR SIMPLE</th></tr><tr><td><em>J'habitais à Rome.</em></td><td><em>J'habite à Paris.</em></td><td><em>J'habiterai à Tokyo.</em></td></tr><tr><th>PLUS-QUE-PARFAIT</th><th></th><th>FUTUR ANTÉRIEUR</th></tr><tr><td><em>J'avais fini mes études (quand j'ai déménagé).</em></td><td></td><td><em>Tu me rejoindras quand j'aurai déménagé.</em></td></tr></table>" },
+    { "page_no": 228, "seq": 9, "type": "remark", "body_html": "• Les temps simples expriment des habitudes et des situations (statiques) ; les temps composés expriment des changements et des ruptures (dynamiques)." }
+  ],
+  "exercises": [
+    {
+      "page_no": 229, "seq": 1,
+      "instruction_fr": "Mettez au futur simple et au futur antérieur, selon le modèle.",
+      "label": "", "note_html": "1. Terminer le pot-au-feu / faire des crêpes<br><em class='model'>Je ferai des crêpes, quand j'aurai terminé le pot-au-feu.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. Télécharger le premier épisode/ télécharger le deuxième épisode de la série.<br>Tu {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. Passer le permis / acheter une voiture<br>Anne {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. Faire l'exercice n° 2 / faire l'exercice n° 3<br>Nous {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "5. Finir le stage / passer un examen<br>Ils {{L}}" }
+      ]
+    },
+    {
+      "page_no": 229, "seq": 2,
+      "instruction_fr": "Faites des phrases, selon le modèle.",
+      "label": "", "note_html": "– Terminez votre traitement et revenez me voir.<br><em class='model'>– Revenez me voir quand vous aurez terminé votre traitement.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Réfléchissez à ma proposition et téléphonez-moi.<br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Parlez à votre banquier et tenez-moi au courant.<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Terminez votre travail et venez dans mon bureau.<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Enregistrez les données et éteignez l'ordinateur.<br>– {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Prenez une décision et écrivez-moi.<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 229, "seq": 3,
+      "instruction_fr": "Faites des phrases avec un futur simple et un futur antérieur, puis donnez vos motifs d'espoir.",
+      "label": "Espoir", "note_html": "On supprimera les frontières<br>et on voyagera sans visa.<br>On remplacera le pétrole par l'énergie solaire<br>et la couche d'ozone se reconstituera.<br>On interrompra la destruction des forêts<br>et la nature revivra.<br><em class='model'>Quand on aura supprimé les frontières,</em><br><em class='model'>on voyagera sans visa.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Quand on aura remplacé le pétrole par l'énergie solaire,<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "Quand on aura interrompu la destruction des forêts,<br>{{L}}" }
+      ]
+    }
+  ]
+}

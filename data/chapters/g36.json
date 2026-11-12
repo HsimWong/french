@@ -1,0 +1,97 @@
+{
+  "course": "grammaire",
+  "seq": 36,
+  "title_fr": "LE GÉRONDIF",
+  "page_start": 158,
+  "page_end": 159,
+  "pdf_start": 160,
+  "pdf_end": 161,
+  "sections": [
+    { "title_fr": "FORMATION", "page_no": 158 },
+    { "title_fr": "UTILISATION", "page_no": 158 },
+    { "title_fr": "LE PARTICIPE PRÉSENT", "page_no": 158 }
+  ],
+  "blocks": [
+    { "page_no": 158, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">36</span> LE GÉRONDIF" },
+    { "page_no": 158, "seq": 2, "type": "keypoint", "body_html": "Je lis le journal <strong>en buvant</strong> du café.<br>J'apprends le français <strong>en lisant</strong>." },
+    { "page_no": 158, "seq": 3, "type": "section_title", "body_html": "FORMATION" },
+    { "page_no": 158, "seq": 4, "type": "subhead", "body_html": "« <strong>en</strong> » + verbe + « <strong>-ant</strong> »" },
+    { "page_no": 158, "seq": 5, "type": "para", "body_html": "On ajoute « <strong>-ant</strong> » au radical de la 1<sup>re</sup> personne du pluriel du présent :" },
+    { "page_no": 158, "seq": 6, "type": "example", "body_html": "<em>Nous <strong>lis</strong>ons</em> → <em>en <strong>lisant</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Nous <strong>buv</strong>ons</em> → <em>en <strong>buvant</strong></em><br><em>Nous <strong>mange</strong>ons</em> → <em>en <strong>mangeant</strong></em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Nous <strong>fais</strong>ons</em> → <em>en <strong>faisant</strong></em><br>• Mais : <em>en étant</em> (« être »)&nbsp;&nbsp;&nbsp;&nbsp;<em>en ayant</em> (« avoir »)&nbsp;&nbsp;&nbsp;&nbsp;<em>en sachant</em> (« savoir »)" },
+    { "page_no": 158, "seq": 7, "type": "section_title", "body_html": "UTILISATION" },
+    { "page_no": 158, "seq": 8, "type": "para", "body_html": "<strong>Simultanéité</strong> de deux actions réalisées par le même sujet :<br><em>Il travaille <strong>en chantant</strong>. Il lit <strong>en marchant</strong>.</em>" },
+    { "page_no": 158, "seq": 9, "type": "para", "body_html": "<strong>Cause</strong>, circonstance, manière (« comment ») :<br><em>Il a fait fortune <strong>en jouant</strong>. Je suis tombé <strong>en skiant</strong>.</em>" },
+    { "page_no": 158, "seq": 10, "type": "para", "body_html": "<strong>Condition</strong> (« si ») :<br><em><strong>En cherchant</strong>, on trouve. <strong>En signant</strong>, vous acceptez.</em>" },
+    { "page_no": 158, "seq": 11, "type": "para", "body_html": "« <strong>Tout</strong> » + gérondif insiste sur la <strong>simultanéité</strong> ou exprime une <strong>opposition</strong> :<br><em>Il travaille <strong>tout en écoutant</strong> la radio.</em> (simultanéité)<br><em>Il est malheureux, <strong>tout en étant</strong> très riche.</em> (opposition)" },
+    { "page_no": 158, "seq": 12, "type": "section_title", "body_html": "LE PARTICIPE PRÉSENT" },
+    { "page_no": 158, "seq": 13, "type": "para", "body_html": "Le participe présent est un gérondif <strong>sans</strong> « en »." },
+    { "page_no": 158, "seq": 14, "type": "para", "body_html": "À l'écrit, il remplace souvent « <strong>qui</strong> » + verbe :<br><em>Les personnes <strong>ayant</strong> plus de 18 ans peuvent voter.</em><br>= qui ont" },
+    { "page_no": 158, "seq": 15, "type": "warning", "body_html": "⚠ – Distinguez :<br><em>Je pense à Max <strong>en dansant</strong> le tango / <strong>dansant</strong> le tango.</em><br>(je danse)&nbsp;&nbsp;&nbsp;&nbsp;(Max danse)" },
+    { "page_no": 158, "seq": 16, "type": "xref", "body_html": "Formation : voir Préface, p. 4" }
+  ],
+  "exercises": [
+    {
+      "page_no": 159, "seq": 1,
+      "instruction_fr": "Utilisez un gérondif, selon le modèle.",
+      "label": "", "note_html": "Il téléphone en marchant.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Il téléphone et il marche en même temps. → <em class='model'>Il téléphone en marchant.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Il parle et il mange en même temps. → {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Il étudie et il écoute du rock en même temps. → {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Il téléphone et il conduit en même temps. → {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Il écrit des SMS et il boit son café en même temps. → {{L}}" }
+      ]
+    },
+    {
+      "page_no": 159, "seq": 2,
+      "instruction_fr": "Transformez en utilisant des gérondifs.",
+      "label": "", "note_html": "On progresse en faisant des exercices, en", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Pour progresser :<br>Faites des exercices ! Lisez des romans !<br>Parlez le plus possible ! Apprenez du vocabulaire !<br>Écoutez des chansons ! Écrivez des textes !<br>→ On progresse <em class='model'>en faisant des exercices, en</em> {{L}} {{L}} {{L}} {{L}} {{L}}" }
+      ]
+    },
+    {
+      "page_no": 159, "seq": 3,
+      "instruction_fr": "Donnez les contraires, selon le modèle.",
+      "label": "", "note_html": "Elle parle en pleurant.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Il parle sans pleurer. → <em class='model'>Elle parle en pleurant.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Il discute sans s'énerver. → {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Il dit au revoir sans sourire. → {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Il part sans fermer la porte. → {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Il s'éloigne sans regarder derrière lui. → {{L}}" }
+      ]
+    },
+    {
+      "page_no": 159, "seq": 4,
+      "instruction_fr": "Complétez avec des gérondifs de cause, de circonstance, de manière, de condition, etc.",
+      "label": "", "note_html": "faire&nbsp;&nbsp;&nbsp;&nbsp;marcher&nbsp;&nbsp;&nbsp;&nbsp;réserver&nbsp;&nbsp;&nbsp;&nbsp;appeler&nbsp;&nbsp;&nbsp;&nbsp;boire&nbsp;&nbsp;&nbsp;&nbsp;partir", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. J'ai perdu mes clés <em class='model'>en marchant</em> dans la rue." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Paul s'est cassé le bras {{L}} du ski." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. {{L}} à 8 h, on arrivera à 10 h." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. J'ai taché ma robe {{L}} du café." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Vous pouvez me joindre en {{L}} ce numéro." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. On paye moins cher {{L}} ses billets de train très tôt." }
+      ]
+    },
+    {
+      "page_no": 159, "seq": 5,
+      "instruction_fr": "Complétez avec les participes présents de « faire », « être », « avoir » ou « savoir ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Toutes les personnes {{b}} partie du club et {{b}} danser le rock sont invitées à notre soirée." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Tous les citoyens {{b}} en possession d'anciens billets sont priés de les apporter à la banque." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Toutes les personnes {{b}} un billet de loterie commençant par « 32 » ont gagné 1 000 euros." }
+      ]
+    },
+    {
+      "page_no": 159, "seq": 6,
+      "instruction_fr": "Trouvez des activités que l'on fait trop souvent en téléphonant.",
+      "label": "", "note_html": "On téléphone en mangeant au restaurant, en faisant la queue au supermarché, en", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "On téléphone <em class='model'>en mangeant au restaurant, en faisant la queue au supermarché, en</em> {{T}}" }
+      ]
+    }
+  ]
+}

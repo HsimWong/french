@@ -1,0 +1,79 @@
+{
+  "course": "grammaire",
+  "seq": 24,
+  "title_fr": "LE PRONOM « Y »",
+  "page_start": 104,
+  "page_end": 105,
+  "pdf_start": 106,
+  "pdf_end": 107,
+  "sections": [
+    { "title_fr": "« Y » remplace des compléments de lieu", "page_no": 104 },
+    { "title_fr": "« Y » remplace des noms de choses précédés de la préposition « à »", "page_no": 104 },
+    { "title_fr": "LA NÉGATION", "page_no": 104 }
+  ],
+  "blocks": [
+    { "page_no": 104, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">24</span> LE PRONOM « Y »" },
+    { "page_no": 104, "seq": 2, "type": "keypoint", "body_html": "– Vous allez à Rome en train ? – Non, j'<strong>y</strong> vais en avion." },
+    { "page_no": 104, "seq": 3, "type": "section_title", "body_html": "« Y » remplace des compléments de <strong>lieu</strong> :" },
+    { "page_no": 104, "seq": 4, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>Paul va à Lyon.</em><br><em>Anne habite à Athènes.</em><br><em>Je suis chez moi.</em></span></div><div><span class='wordlist'><em>Il <strong>y</strong> va en voiture.</em><br><em>Elle <strong>y</strong> habite depuis un an.</em><br><em>J'<strong>y</strong> suis jusqu'à six heures.</em></span></div></div>" },
+    { "page_no": 104, "seq": 5, "type": "section_title", "body_html": "« Y » remplace des noms de <strong>choses</strong> précédés de la préposition « <strong>à</strong> » :" },
+    { "page_no": 104, "seq": 6, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>Je pense <strong>à</strong> mon pays.</em><br><em>Je participe <strong>à</strong> ce projet.</em><br><em>Je m'intéresse <strong>à</strong> la politique.</em></span></div><div><span class='wordlist'><em>J'<strong>y</strong> pense moi aussi.</em><br><em>J'<strong>y</strong> participe aussi.</em><br><em>Je m'<strong>y</strong> intéresse aussi.</em></span></div></div>" },
+    { "page_no": 104, "seq": 7, "type": "subhead", "body_html": "Pour les <strong>personnes</strong>, on utilise un pronom tonique :" },
+    { "page_no": 104, "seq": 8, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>Je pense <strong>à</strong> Paul.</em><br><em>Je m'intéresse <strong>à</strong> Paul.</em></span></div><div><span class='wordlist'><em>Je pense <strong>à lui</strong>.</em><br><em>Je m'intéresse <strong>à lui</strong>.</em></span></div></div>" },
+    { "page_no": 104, "seq": 9, "type": "para", "body_html": "• Avec les verbes de communication, on utilise un pronom complément :" },
+    { "page_no": 104, "seq": 10, "type": "table", "body_html": "<div class='two-col'><div><span class='wordlist'><em>Je parle <strong>à</strong> Paul.</em><br><em>Je téléphone <strong>à</strong> Lucie.</em></span></div><div><span class='wordlist'><em>Je <strong>lui</strong> parle.</em><br><em>Je <strong>lui</strong> téléphone.</em></span></div></div>" },
+    { "page_no": 104, "seq": 11, "type": "subhead", "body_html": "<strong>Expressions courantes avec « y »</strong> :" },
+    { "page_no": 104, "seq": 12, "type": "list", "body_html": "<em>– Paul est un connaisseur en vin :</em> <strong>il s'y connaît.</strong><br><em>– Je ne suis pas responsable :</em> <strong>je n'y suis pour rien.</strong><br><em>– N'oubliez pas de passer demain ! – Je</em> <strong>n'y manquerai</strong> <em>pas !</em><br><em>– Voilà,</em> <strong>ça y est</strong><em>, c'est fini ! On peut partir.</em>" },
+    { "page_no": 104, "seq": 13, "type": "section_title", "body_html": "LA NÉGATION" },
+    { "page_no": 104, "seq": 14, "type": "para", "body_html": "se place <strong>avant</strong> et <strong>après</strong> le bloc formé par le pronom et le verbe." },
+    { "page_no": 104, "seq": 15, "type": "example", "body_html": "Il n' <u>y va</u> pas.&nbsp;&nbsp;&nbsp;&nbsp;Il n' <u>y en a</u> plus&nbsp;&nbsp;&nbsp;&nbsp;Je ne <u>m'y intéresse</u> pas." },
+    { "page_no": 104, "seq": 16, "type": "xref", "body_html": "Pronoms compléments, p. 126-128&nbsp;&nbsp;&nbsp;&nbsp;Pronoms toniques, p. 132" }
+  ],
+  "exercises": [
+    {
+      "page_no": 105, "seq": 1,
+      "instruction_fr": "Répondez aux questions, au choix.",
+      "label": "", "note_html": "– Vous restez à Genève deux ou trois jours ? – <em class='model'>J'y reste deux jours.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous êtes à Paris pour un ou deux ans ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous allez à Madrid jeudi ou vendredi ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous retournez à Londres en mars ou en avril ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous allez à l'aéroport en bus ou en taxi ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous êtes chez vous jusqu'à 8 h ou jusqu'à 9 h ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 105, "seq": 2,
+      "instruction_fr": "Répondez en utilisant « y », selon le modèle.",
+      "label": "", "note_html": "– Je <em class='model'>vais à la</em> piscine à 16 h. Et vous ? – <em class='model'>J'y vais aussi à</em> 16 h.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Nous {{b}} théâtre jeudi soir. Et vous ? – Nous {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Mon frère {{b}} Grèce en juin. Et vos amis ? – Ils {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Mes amis {{b}} États-Unis à Noël. Et Max ? – Il {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Nous {{b}} cinéma samedi. Et Paula ? – Elle {{b}}" }
+      ]
+    },
+    {
+      "page_no": 105, "seq": 3,
+      "instruction_fr": "Répondez aux questions à partir du texte en utilisant « y ».",
+      "label": "Arts et Sciences", "note_html": "Aujourd'hui, Antoine va au Louvre avec son amie Isabelle. Ils s'intéressent tous les deux à la peinture et ils vont toujours ensemble voir les expositions. Il fait beau, Antoine et Isabelle vont jusqu'au Louvre à pied en marchant le long de la Seine. La femme d'Antoine, Gloria, ne s'intéresse pas à l'art. Elle s'intéresse plutôt à la science et aux techniques. Ce soir, Gloria va à La Villette à bicyclette avec François, le mari d'Isabelle. Puis les deux couples se retrouvent dans une brasserie vers 22 h.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Antoine va au Louvre avec qui ? {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Est-ce que Gloria s'intéresse à la science ? {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Est-ce qu'elle s'intéresse à la peinture ? {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Antoine va au Louvre en voiture ? {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Gloria et François vont à la Villette en métro ? {{L}}" }
+      ]
+    },
+    {
+      "page_no": 105, "seq": 4,
+      "instruction_fr": "➤ Répondez à la forme négative et imaginez des explications.",
+      "label": "", "note_html": "1. Vous allez à la piscine le samedi ? – <em class='model'>Non, je n'y vais pas le samedi parce qu'il y a trop de monde.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. Vous allez au bureau à pied ? {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. Vous allez au cinéma en semaine ? {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. Vous allez à la plage à midi ? {{L}}" }
+      ]
+    }
+  ]
+}

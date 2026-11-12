@@ -1,0 +1,102 @@
+{
+  "course": "grammaire",
+  "seq": 27,
+  "title_fr": "LES VERBES PRONOMINAUX",
+  "page_start": 122,
+  "page_end": 123,
+  "pdf_start": 124,
+  "pdf_end": 125,
+  "sections": [
+    { "title_fr": "LES PRONOMINAUX RÉFLÉCHIS", "page_no": 122 },
+    { "title_fr": "LES PRONOMINAUX RÉCIPROQUES", "page_no": 122 },
+    { "title_fr": "LES CONSTRUCTIONS PRONOMINALES", "page_no": 122 },
+    { "title_fr": "LA NÉGATION", "page_no": 122 }
+  ],
+  "blocks": [
+    { "page_no": 122, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">27</span> LES VERBES PRONOMINAUX" },
+    { "page_no": 122, "seq": 2, "type": "keypoint", "body_html": "Je me couche tôt.<br>Tu te couches tard.<br>Il<br>Elle<br>On } se couche à dix heures.<br>Nous nous couchons à minuit.<br>Vous vous couchez à onze heures.<br>Ils<br>Elles } se couchent à huit heures." },
+    { "page_no": 122, "seq": 3, "type": "para", "body_html": "Les verbes pronominaux se construisent avec un pronom personnel." },
+    { "page_no": 122, "seq": 4, "type": "list", "body_html": "<em>se coucher&nbsp;&nbsp;&nbsp;se lever&nbsp;&nbsp;&nbsp;se marier&nbsp;&nbsp;&nbsp;se tromper</em>" },
+    { "page_no": 122, "seq": 5, "type": "section_title", "body_html": "■ <strong>LES PRONOMINAUX RÉFLÉCHIS</strong>" },
+    { "page_no": 122, "seq": 6, "type": "para", "body_html": "• Le sujet et l'objet du verbe sont identiques. On utilise un pronom <strong>réfléchi</strong> :" },
+    { "page_no": 122, "seq": 7, "type": "example", "body_html": "<em>Je couche ma fille et je <strong>me</strong> couche.</em> (« me » = moi-même)" },
+    { "page_no": 122, "seq": 8, "type": "para", "body_html": "• Le pronom réfléchi se place <strong>devant</strong> le verbe et varie avec les personnes :" },
+    { "page_no": 122, "seq": 9, "type": "example", "body_html": "<em>Je me lave.&nbsp;&nbsp;&nbsp;Il se lave.&nbsp;&nbsp;&nbsp;Nous nous lavons.</em>" },
+    { "page_no": 122, "seq": 10, "type": "section_title", "body_html": "■ <strong>LES PRONOMINAUX RÉCIPROQUES</strong>" },
+    { "page_no": 122, "seq": 11, "type": "para", "body_html": "• Le sujet et l'objet entretiennent une relation de <strong>réciprocité</strong> :" },
+    { "page_no": 122, "seq": 12, "type": "example", "body_html": "<em>Nous nous connaissons bien.</em> (l'un, l'autre)<br><em>Les enfants se battent.</em> (les uns, les autres)" },
+    { "page_no": 122, "seq": 13, "type": "section_title", "body_html": "■ <strong>LES CONSTRUCTIONS PRONOMINALES</strong>" },
+    { "page_no": 122, "seq": 14, "type": "subhead", "body_html": "sans valeur logique sont nombreuses :" },
+    { "page_no": 122, "seq": 15, "type": "list", "body_html": "<em>se promener&nbsp;&nbsp;&nbsp;s'arrêter&nbsp;&nbsp;&nbsp;s'amuser&nbsp;&nbsp;&nbsp;s'ennuyer&nbsp;&nbsp;&nbsp;se tromper</em>" },
+    { "page_no": 122, "seq": 16, "type": "list", "body_html": "<em>s'intéresser à&nbsp;&nbsp;&nbsp;s'occuper de&nbsp;&nbsp;&nbsp;se moquer de&nbsp;&nbsp;&nbsp;se souvenir de&nbsp;&nbsp;&nbsp;s'améliorer</em>" },
+    { "page_no": 122, "seq": 17, "type": "example", "body_html": "<em>Je me promène dans la rue et je m'arrête devant les vitrines.</em>" },
+    { "page_no": 122, "seq": 18, "type": "section_title", "body_html": "■ <strong>LA NÉGATION</strong>" },
+    { "page_no": 122, "seq": 19, "type": "subhead", "body_html": "se place avant et après le bloc du pronom et du verbe :" },
+    { "page_no": 122, "seq": 20, "type": "example", "body_html": "<em>Je ne me lève <strong>pas</strong> tôt.</em><br><em>Nous ne nous connaissons <strong>pas</strong>.</em>" },
+    { "page_no": 122, "seq": 21, "type": "xref", "body_html": "Passé composé, p. 186" }
+  ],
+  "exercises": [
+    {
+      "page_no": 123, "seq": 1,
+      "instruction_fr": "Répondez aux questions au choix, selon le modèle.",
+      "label": "", "note_html": "– Vous vous levez tôt ou tard, le samedi ? – <em class='model'>Le samedi, je me lève tard.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous vous réveillez tôt ou tard, le matin ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous vous préparez vite ou lentement ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous vous couchez avant ou après minuit ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous vous endormez facilement ou avec difficulté ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Vous vous souvenez de vos rêves ? Quelquefois ? Toujours ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 123, "seq": 2,
+      "instruction_fr": "Complétez librement.",
+      "label": "", "note_html": "1. – Paul se lève tard.<br>– Et Pierre ? – <em class='model'>Il se lève tôt.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Paul se lève tard.<br>– Et Pierre ? – <em class='model'>Il se lève tôt.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Nous nous couchons à minuit le samedi.<br>– Et vos enfants ? – Ils {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Ma fille se parfume avec « Onyx ».<br>– Et votre fils ? – Il {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Anne s'habille toujours en noir.<br>– Et Julie ? – Elle {{L}}" }
+      ]
+    },
+    {
+      "page_no": 123, "seq": 3,
+      "instruction_fr": "Mettez à la forme négative.",
+      "label": "", "note_html": "1. – Tu t'intéresses au cricket ?<br>– Non, je <em class='model'>ne m'intéresse pas au cricket.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Tu t'intéresses au cricket ?<br>– Non, je <em class='model'>ne m'intéresse pas au cricket.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Tu t'énerves facilement ?<br>– Non, je {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous vous ennuyez en classe ?<br>– Non, je {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous vous arrêtez à midi ?<br>– Non, nous {{L}}" }
+      ]
+    },
+    {
+      "page_no": 123, "seq": 4,
+      "instruction_fr": "Faites des phrases avec les verbes ci-dessous.\nse parfumer se regarder se tromper s'énerver s'intéresser (à)",
+      "label": "", "note_html": "1. Je <em class='model'>m'intéresse</em> beaucoup <em class='model'>à</em> la politique, c'est passionnant.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je <em class='model'>m'intéresse</em> beaucoup <em class='model'>à</em> la politique, c'est passionnant." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Mon mari {{b}} tous les jours avec « Parfum d'Homme »." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Les étudiants {{b}} souvent quand ils parlent français." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Vous êtes très calme : vous {{b}} rarement !" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Aline est coquette : elle {{b}} souvent dans la glace." }
+      ]
+    },
+    {
+      "page_no": 123, "seq": 5,
+      "instruction_fr": "Complétez avec les pronoms et les négations manquants.",
+      "label": "Père et fils", "note_html": "Je <em class='model'>m'appelle</em> Léo.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Je <em class='model'>m'appelle</em> Léo. Mon père {{b}} appelle Max. {{b}} ressemblons beaucoup : {{b}} habillons souvent de la même manière et {{b}} intéressons aux mêmes choses. Souvent, on {{b}} énerve quand on parle de politique, mais on {{b}} fâche pas vraiment. Comme je suis le plus têtu, je {{b}} laisse pas convaincre facilement et parfois je {{b}} contrôle plus, mais si on {{b}} bagarre beaucoup, tous les deux, on {{b}} amuse aussi beaucoup !" }
+      ]
+    },
+    {
+      "page_no": 123, "seq": 6,
+      "instruction_fr": ">> Trouvez des verbes réciproques.",
+      "label": "", "note_html": "Les amoureux : <em class='model'>Ils s'aiment, ils se disputent, ils s'embrassent,</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Les amoureux : <em class='model'>Ils s'aiment, ils se disputent, ils s'embrassent,</em> {{L}}" }
+      ]
+    }
+  ]
+}

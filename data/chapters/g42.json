@@ -1,0 +1,92 @@
+{
+  "course": "grammaire",
+  "seq": 42,
+  "title_fr": "LE PASSIF",
+  "page_start": 204,
+  "page_end": 205,
+  "pdf_start": 206,
+  "pdf_end": 207,
+  "sections": [
+    { "title_fr": "UTILISATION", "page_no": 204 },
+    { "title_fr": "FORMATION", "page_no": 204 }
+  ],
+  "blocks": [
+    { "page_no": 204, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">42</span> LE PASSIF" },
+    { "page_no": 204, "seq": 2, "type": "keypoint", "body_html": "Le directeur <strong>a convoqué</strong> les employés.<br>Les employés <strong>ont été convoqués par</strong> le directeur." },
+    { "page_no": 204, "seq": 3, "type": "section_title", "body_html": "UTILISATION" },
+    { "page_no": 204, "seq": 4, "type": "para", "body_html": "On utilise le passif quand on met l'accent sur <strong>l'objet</strong> du verbe au lieu du sujet :<br><em>John Baird a inventé la télévision.</em><br><em>La télévision <strong>a été inventée</strong> par John Baird.</em>" },
+    { "page_no": 204, "seq": 5, "type": "para", "body_html": "On peut mettre l'accent sur <strong>l'événement</strong>, sans mentionner le sujet de l'action :<br><em>Le président Kennedy <strong>a été assassiné</strong>.</em>" },
+    { "page_no": 204, "seq": 6, "type": "para", "body_html": "On utilise surtout le passif pour les inventions, les lois et les événements subis :<br><em>Un vaccin <strong>a été découvert</strong>. — Un homme <strong>a été agressé</strong>.</em><br><em>Une loi <strong>a été votée</strong>. — J'ai été <strong>opéré/trahi/décoré</strong>.</em>" },
+    { "page_no": 204, "seq": 7, "type": "para", "body_html": "Dans les autres cas, on utilise de préférence la forme impersonnelle avec « on » :<br><strong>On</strong> m'a envoyé en mission. — (= J'ai été envoyé en mission.)" },
+    { "page_no": 204, "seq": 8, "type": "section_title", "body_html": "FORMATION" },
+    { "page_no": 204, "seq": 9, "type": "subhead", "body_html": "« <strong>être</strong> » + participe passé + « <strong>par</strong> » + sujet de l'action" },
+    { "page_no": 204, "seq": 10, "type": "example", "body_html": "Les enfants <strong>sont vaccinés</strong> à l'école<br>Les enfants <strong>ont été vaccinés</strong> à l'école&nbsp;&nbsp;&nbsp;&nbsp;(<strong>par</strong> un médecin scolaire).<br>Les enfants <strong>seront vaccinés</strong> à l'école" },
+    { "page_no": 204, "seq": 11, "type": "para", "body_html": "Le participe passé s'accorde toujours avec le sujet :<br><em>Les salles ont été repeintes. Les mouquettes ont été changées.</em>" },
+    { "page_no": 204, "seq": 12, "type": "warning", "body_html": "⚠ – On évite la forme passive quand le sujet de l'action est un pronom.<br>Dites :<br><em>J'ai fait ce dessin.</em> — Ne dites pas : <em>Ce dessin <s>a été fait par moi</s>.</em>" },
+    { "page_no": 204, "seq": 13, "type": "para", "body_html": "« <strong>De</strong> » remplace « par » avec les verbes « <strong>aimer</strong> », « <strong>connaître</strong> », « <strong>respecter</strong> » :<br><em>Cette personne est aimée <strong>de</strong> tous, connue <strong>de</strong> tous, respectée <strong>de</strong> tous.</em>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 205, "seq": 1,
+      "instruction_fr": "Mettez les phrases au passif, selon le modèle.",
+      "label": "", "note_html": "Le téléphone a été inventé par Graham Bell.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Qui a inventé le téléphone ? – <em class='model'>Le téléphone a été inventé par Graham Bell.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Qui a réalisé le film <em>Titanic</em> ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Qui a écrit <em>Le Petit Prince</em> ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Qui a découvert la pénicilline ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Qui a inventé l'imprimerie ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 205, "seq": 2,
+      "instruction_fr": "Complétez à la forme passive.",
+      "label": "", "note_html": "La réunion a été annulée.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<em class='model'>La réunion a été annulée.</em><br>La date {{L}}<br>Nos clients {{L}}<br>Un courrier {{L}}" }
+      ]
+    },
+    {
+      "page_no": 205, "seq": 3,
+      "instruction_fr": "Complétez à la forme passive.",
+      "label": "", "note_html": "Des maisons ont été inondées.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<em class='model'>Des maisons ont été inondées.</em><br>Des arbres {{L}}<br>L'électricité {{L}}<br>Des familles {{L}}" }
+      ]
+    },
+    {
+      "page_no": 205, "seq": 4,
+      "instruction_fr": "Mettez à la forme passive.",
+      "label": "", "note_html": "Le mur de Berlin a été démoli en 1989.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. 1989 : démolation du mur de Berlin. <em class='model'>Le mur de Berlin a été démoli en 1989.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. 1202 : introduction des chiffres arabes en Occident {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. 1253 : fondation de l'université de la Sorbonne {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. 1789 : prise de la Bastille {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. 1981 : abolition de la peine de mort en France {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. 1945 : création de l'ONU {{L}}" }
+      ]
+    },
+    {
+      "page_no": 205, "seq": 5,
+      "instruction_fr": "Mettez à la forme passive.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<p class='sample'><strong>Conflits</strong></p>Le Président français a reçu le Premier ministre anglais. Ils ont abordé le problème de la pêche. Ils ont pris des mesures communes. Les syndicats de pêcheurs ont refusé les propositions du gouvernement.<br>Le Premier ministre anglais {{T}}" }
+      ]
+    },
+    {
+      "page_no": 205, "seq": 6,
+      "instruction_fr": "Répondez au passif : Qui a inventé la radio ? Qui a réalisé Le Parrain ? Qui a peint Guernica ? Qui a déchiffré les hiéroglyphes ? Qui a découvert le Canada ? Qui a conçu la Statue de la Liberté ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Qui a inventé la radio ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Qui a réalisé <em>Le Parrain</em> ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Qui a peint <em>Guernica</em> ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Qui a déchiffré les hiéroglyphes ? – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Qui a découvert le Canada ? – {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Qui a conçu <em>la Statue de la Liberté</em> ? – {{L}}" }
+      ]
+    }
+  ]
+}

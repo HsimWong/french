@@ -1,0 +1,91 @@
+{
+  "course": "grammaire",
+  "seq": 23,
+  "title_fr": "LE VERBE « ALLER »",
+  "page_start": 102,
+  "page_end": 103,
+  "pdf_start": 104,
+  "pdf_end": 105,
+  "sections": [
+    { "title_fr": "« ALLER » + LIEU", "page_no": 102 },
+    { "title_fr": "« EN TRAIN », « EN AVION »…", "page_no": 102 }
+  ],
+  "blocks": [
+    { "page_no": 102, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">23</span> LE VERBE « ALLER »" },
+    { "page_no": 102, "seq": 2, "type": "keypoint", "body_html": "<table class='data-table'><tr><td>Je</td><td><strong>vais</strong></td><td>à Paris.</td></tr><tr><td>Tu</td><td><strong>vas</strong></td><td>à Rome.</td></tr><tr><td>Il</td><td><strong>va</strong></td><td>en Suisse.</td></tr><tr><td>Elle</td><td><strong>va</strong></td><td>en Suisse.</td></tr><tr><td>On</td><td><strong>va</strong></td><td>en Suisse.</td></tr><tr><td>Nous</td><td><strong>allons</strong></td><td>au Maroc.</td></tr><tr><td>Vous</td><td><strong>allez</strong></td><td>au cinéma.</td></tr><tr><td>Ils</td><td><strong>vont</strong></td><td>à la piscine.</td></tr><tr><td>Elles</td><td><strong>vont</strong></td><td>à la piscine.</td></tr></table>" },
+    { "page_no": 102, "seq": 3, "type": "example", "body_html": "Comme les verbes très fréquents, le verbe « aller » est irrégulier :<br><em>Je vais à Rome. Vous allez à Madrid. Ils vont à Berlin.</em>" },
+    { "page_no": 102, "seq": 4, "type": "section_title", "body_html": "« ALLER » + LIEU" },
+    { "page_no": 102, "seq": 5, "type": "para", "body_html": "Le verbe « aller » est en général suivi d'un <strong>lieu</strong> :" },
+    { "page_no": 102, "seq": 6, "type": "example", "body_html": "<span class='example-line'><em>Je vais</em> <strong>à</strong> <em>Berlin.</em><br><em>Je vais</em> <strong>à</strong> <em>l'hôtel.</em><br><em>Je vais</em> <strong>chez</strong> <em>des amis.</em></span>" },
+    { "page_no": 102, "seq": 7, "type": "example", "body_html": "Avec des personnes, on utilise « <strong>chez</strong> » :<br><em>Je vais à la boucherie/<strong>chez</strong> le boucher.</em>" },
+    { "page_no": 102, "seq": 8, "type": "para", "body_html": "Quand le lieu n'est pas précisé, on utilise le pronom « <strong>y</strong> » :" },
+    { "page_no": 102, "seq": 9, "type": "example", "body_html": "– On <strong>y</strong> va ? – Allons-<strong>y</strong> !" },
+    { "page_no": 102, "seq": 10, "type": "section_title", "body_html": "« EN TRAIN », « EN AVION »…" },
+    { "page_no": 102, "seq": 11, "type": "para", "body_html": "Pour <strong>la plupart</strong> des moyens de transport, on utilise « <strong>en</strong> » :" },
+    { "page_no": 102, "seq": 12, "type": "example", "body_html": "<span class='example-line'><em>Je vais à Berlin</em> <strong>en</strong> <em>voiture.</em><br><em>Je vais à Berlin</em> <strong>en</strong> <em>avion.</em><br><em>Je vais à Berlin</em> <strong>en</strong> <em>train.</em></span>" },
+    { "page_no": 102, "seq": 13, "type": "para", "body_html": "<strong>Mais :</strong> <em>Il va au village</em> <strong>à</strong> <em>pied,</em> <strong>à</strong> <em>bicyclette et</em> <strong>à</strong> <em>cheval.</em>" },
+    { "page_no": 102, "seq": 14, "type": "xref", "body_html": "« Au », « à la », « à l' », p. 30" }
+  ],
+  "exercises": [
+    {
+      "page_no": 103, "seq": 1,
+      "instruction_fr": "Répondez aux questions, selon le modèle.",
+      "label": "", "note_html": "1. Vous allez à la mer ou à la montagne en été ? – <em class='model'>Je vais à la mer.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. Vous allez au restaurant ou à la cantine à midi ? – {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. Vous allez à la piscine ou au bureau le matin ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. Vous allez chez l'épicier ou au supermarché ? – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "5. Vous allez dans une école de langue ou chez un professeur ? – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 103, "seq": 2,
+      "instruction_fr": "Faites des phrases en utilisant « avoir mal à » et « aller », selon le modèle.",
+      "label": "", "note_html": "gorge → médecin – dents → dentiste – yeux → ophtalmo(logue) – dos → kiné(sithérapeute)<br><em class='model'>Quand j'ai mal à la gorge, je vais chez le médecin.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Quand j'ai mal aux dents, je vais {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "Quand j'ai mal aux yeux, je vais {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Quand j'ai mal au dos, je vais {{L}}" }
+      ]
+    },
+    {
+      "page_no": 103, "seq": 3,
+      "instruction_fr": "Complétez les phrases, selon le modèle.",
+      "label": "", "note_html": "1. Ils <em class='model'>vont en</em> Corse <em class='model'>en</em> ferry.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. Vous {{b}} {{b}} Belgique {{b}} train ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. Il {{b}} {{b}} Angola {{b}} bateau." },
+        { "seq": 3, "type": "cloze", "stem_html": "4. Elles {{b}} {{b}} Mexique {{b}} avion." },
+        { "seq": 4, "type": "cloze", "stem_html": "5. Tu {{b}} {{b}} Hollande {{b}} car ?" },
+        { "seq": 5, "type": "cloze", "stem_html": "6. Nous {{b}} {{b}} Portugal {{b}} voiture." }
+      ]
+    },
+    {
+      "page_no": 103, "seq": 4,
+      "instruction_fr": "@ Cherchez des moyens de transport.",
+      "label": "", "note_html": "voiture – bus – camion – pousse-pousse – train stop – métro – pied – tuk-tuk – cheval – rollers – bicyclette – canoté – trottinette – ski<br><em class='model'>On peut voyager en camion,</em> {{L}}", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "On peut voyager en camion, {{L}}<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 103, "seq": 5,
+      "instruction_fr": "Complétez le texte avec « aller », les prépositions et les articles manquants.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Ma femme et moi, nous allons au bureau {{b}} voiture, mon fils {{b}} {{b}} université {{b}} bus et ma fille {{b}} {{b}} école {{b}} pied." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Quand nous {{b}} {{b}} Grèce, nous {{b}} d'Athènes à Héraklion {{b}} avion, d'Héraklion à Santorin {{b}} bateau et nous {{b}} du port {{b}} village {{b}} cheval, ou plutôt {{b}} dos d'âne. Ensuite, nous circulons dans l'île {{b}} jeep, {{b}} bicyclette ou {{b}} pied." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. L'hiver, les enfants {{b}} {{b}} montagne, {{b}} Alpes. Au printemps, ils {{b}} {{b}} campagne, {{b}} Provence ou {{b}} Cévennes." }
+      ]
+    },
+    {
+      "page_no": 103, "seq": 6,
+      "instruction_fr": "➤➤ Décrivez vos déplacements habituels (destinations et moyens de transport).",
+      "label": "", "note_html": "– dans la journée : <em class='model'>A huit heures, je vais à l'université en métro. À midi,</em> {{L}} – dans l'année : <em class='model'>En juillet,</em> {{L}}", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "– dans la journée : A huit heures, je vais à l'université en métro. À midi, {{L}}<br>{{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "– dans l'année : En juillet, {{L}}<br>{{T}}" }
+      ]
+    }
+  ]
+}

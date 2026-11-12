@@ -1,0 +1,106 @@
+{
+  "course": "grammaire",
+  "seq": 30,
+  "title_fr": "L'IMPÉRATIF",
+  "page_start": 134,
+  "page_end": 135,
+  "pdf_start": 136,
+  "pdf_end": 137,
+  "sections": [
+    { "title_fr": "UTILISATION et FORMATION", "page_no": 134 },
+    { "title_fr": "PLACE DES PRONOMS COMPLÉMENTS", "page_no": 134 }
+  ],
+  "blocks": [
+    { "page_no": 134, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">30</span> L'IMPÉRATIF" },
+    { "page_no": 134, "seq": 2, "type": "keypoint", "body_html": "Viens ! Prends ton manteau ! Dépêche-toi !" },
+    { "page_no": 134, "seq": 3, "type": "section_title", "body_html": "UTILISATION et FORMATION" },
+    { "page_no": 134, "seq": 4, "type": "subhead", "body_html": "■ On utilise l'impératif pour donner une instruction, un conseil ou un ordre :" },
+    { "page_no": 134, "seq": 5, "type": "example", "body_html": "<em><strong>Attachez</strong> vos ceintures !</em>&nbsp;&nbsp;&nbsp;<em><strong>Mangez</strong> des fruits !</em>&nbsp;&nbsp;&nbsp;<em><strong>Ne bougez</strong> pas !</em>" },
+    { "page_no": 134, "seq": 6, "type": "subhead", "body_html": "■ L'impératif est un présent <strong>sans sujet</strong>. On l'utilise seulement pour « tu », « nous » et « vous » :" },
+    { "page_no": 134, "seq": 7, "type": "example", "body_html": "<em>Tu pars. Pars !&nbsp;&nbsp;&nbsp;Nous partons. Partons !&nbsp;&nbsp;&nbsp;Vous partez. Partez !</em>" },
+    { "page_no": 134, "seq": 8, "type": "subhead", "body_html": "• Pas de « s » à la 2ᵉ personne des verbes en « er » et du verbe « aller » :" },
+    { "page_no": 134, "seq": 9, "type": "example", "body_html": "<em>Regarde !&nbsp;&nbsp;&nbsp;Écoute !&nbsp;&nbsp;&nbsp;Va vite à l'école !</em>" },
+    { "page_no": 134, "seq": 10, "type": "subhead", "body_html": "• Devant « en » et « y », on garde le « s » :" },
+    { "page_no": 134, "seq": 11, "type": "example", "body_html": "<em><strong>Parles-en</strong> à Paul !</em>&nbsp;&nbsp;&nbsp;<em><strong>Penses-y</strong> !&nbsp;&nbsp;&nbsp;<strong>Vas-y</strong> !</em>" },
+    { "page_no": 134, "seq": 12, "type": "subhead", "body_html": "• « Être », « avoir », « savoir » et « vouloir » ont un impératif irrégulier :" },
+    { "page_no": 134, "seq": 13, "type": "example", "body_html": "<em><strong>Sois</strong> tranquille.&nbsp;&nbsp;&nbsp;<strong>Aie</strong> confiance.&nbsp;&nbsp;&nbsp;<strong>Sache</strong> que je suis là.</em><br><em><strong>Soyons</strong> prudents.&nbsp;&nbsp;&nbsp;<strong>Ayons</strong> du courage.&nbsp;&nbsp;&nbsp;<strong>Sachons</strong> répondre.</em><br><em><strong>Soyez</strong> heureux.&nbsp;&nbsp;&nbsp;<strong>Ayez</strong> l'obligance...&nbsp;&nbsp;&nbsp;<strong>Sachez</strong> accepter.</em><br><em><strong>Veuillez</strong> patienter.&nbsp;&nbsp;&nbsp;<strong>Veuillez</strong> insérer votre carte.</em>" },
+    { "page_no": 134, "seq": 14, "type": "section_title", "body_html": "PLACE DES PRONOMS COMPLÉMENTS" },
+    { "page_no": 134, "seq": 15, "type": "subhead", "body_html": "■ À la forme affirmative, les pronoms se placent <strong>après</strong> le verbe :" },
+    { "page_no": 134, "seq": 16, "type": "example", "body_html": "<em>Écoute-le !&nbsp;&nbsp;&nbsp;Téléphone-lui !&nbsp;&nbsp;&nbsp;Allons-y !</em>&nbsp;&nbsp;&nbsp;<em>Écoute-les !&nbsp;&nbsp;&nbsp;Téléphone-leur !&nbsp;&nbsp;&nbsp;Prends-en !</em>" },
+    { "page_no": 134, "seq": 17, "type": "subhead", "body_html": "• « Me » et « te » deviennent « moi » et « toi » :" },
+    { "page_no": 134, "seq": 18, "type": "example", "body_html": "<em>Téléphone-moi !&nbsp;&nbsp;&nbsp;Lève-toi !&nbsp;&nbsp;&nbsp;Dépêche-toi !</em>" },
+    { "page_no": 134, "seq": 19, "type": "subhead", "body_html": "■ À la forme négative, les pronoms restent <strong>devant</strong> le verbe, sans changer de forme :" },
+    { "page_no": 134, "seq": 20, "type": "example", "body_html": "<em>Ne me téléphone pas !&nbsp;&nbsp;&nbsp;Ne te lève pas !&nbsp;&nbsp;&nbsp;Ne t'inquiète pas !</em>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 135, "seq": 1,
+      "instruction_fr": "Mettez à l'impératif, selon le modèle.",
+      "label": "De bons conseils", "note_html": "Boire de l'eau. <em class='model'>Buvez de l'eau !</em><br>Boire de l'alcool. <em class='model'>Ne buvez pas d'alcool !</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Manger des fruits. {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "Respirer. {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Faire du sport. {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Être positif. {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "Avoir confiance. {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "Manger de la viande. {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "Fumer. {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "Prendre du poids. {{L}}" },
+        { "seq": 9, "type": "cloze", "stem_html": "Être négatif. {{L}}" },
+        { "seq": 10, "type": "cloze", "stem_html": "Avoir peur. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 135, "seq": 2,
+      "instruction_fr": "Refaites oralement l'exercice précédent à la 2e personne du singulier.",
+      "label": "", "note_html": "Bois de l'eau !", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Bois de l'eau ! {{L}}" }
+      ]
+    },
+    {
+      "page_no": 135, "seq": 3,
+      "instruction_fr": "Complétez avec les verbes et les pronoms.",
+      "label": "", "note_html": "1. – J'ai besoin d'un dictionnaire. Donne-moi un dictionnaire, s'il te plaît.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – J'ai besoin d'un dictionnaire. Donne-moi un dictionnaire, s'il te plaît." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Khaled a besoin d'un classeur. {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Marie a besoin d'un stylo. {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Les étudiants ont besoin d'un livre. {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – J'ai besoin d'une feuille. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 135, "seq": 4,
+      "instruction_fr": "Transformez.",
+      "label": "", "note_html": "S'asseoir <em class='model'>Assieds-toi !</em> <em class='model'>Asseyez-vous !</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "S'asseoir <em class='model'>Assieds-toi !</em> <em class='model'>Asseyez-vous !</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "Se concentrer {{L}} {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Se dépêcher {{L}} {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Se détendre {{L}} {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "Ne pas se décourager {{L}} {{L}}" }
+      ]
+    },
+    {
+      "page_no": 135, "seq": 5,
+      "instruction_fr": ">> Donnez deux types de réponse, puis imaginez d'autre dialogues.",
+      "label": "", "note_html": "1. – Je n'ai pas envie de téléphoner à Louis. – Eh bien, ne lui téléphone pas ! / Mais si, téléphone-lui...", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Je n'ai pas envie de téléphoner à Louis. – Eh bien, ne lui téléphone pas ! / Mais si, téléphone-lui..." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Je n'ai pas envie d'aller au cinéma ! – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Je n'ai pas envie de prendre de thé. – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Je n'ai pas envie d'écrire à mes parents. – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Je n'ai pas envie d'inviter les voisins. – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 135, "seq": 6,
+      "instruction_fr": ">> Vous êtes professeur de gymnastique. Que dites-vous à vos élèves ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}

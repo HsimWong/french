@@ -1,0 +1,87 @@
+{
+  "course": "grammaire",
+  "seq": 25,
+  "title_fr": "LA SITUATION dans l'ESPACE (3)",
+  "page_start": 106,
+  "page_end": 107,
+  "pdf_start": 108,
+  "pdf_end": 109,
+  "sections": [
+    { "title_fr": "« À » indique un point dans l'espace ou dans le temps", "page_no": 106 },
+    { "title_fr": "« DE... À » indique une distance d'un point à un autre, dans l'espace ou le temps", "page_no": 106 },
+    { "title_fr": "« JUSQU'À » indique une limite dans l'espace ou le temps", "page_no": 106 },
+    { "title_fr": "« À PARTIR DE » indique un point de départ dans l'espace ou le temps", "page_no": 106 },
+    { "title_fr": "« VERS » et « ENVIRON » indiquent une approximation dans l'espace ou le temps", "page_no": 106 },
+    { "title_fr": "« ENTRE » et « PARMI »", "page_no": 106 }
+  ],
+  "blocks": [
+    { "page_no": 106, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">25</span> LA SITUATION dans L'ESPACE et LE TEMPS (3)" },
+    { "page_no": 106, "seq": 2, "type": "keypoint", "body_html": "Je travaille <strong>environ</strong> dix heures : <strong>de</strong> huit heures <strong>à</strong> dix-huit heures." },
+    { "page_no": 106, "seq": 3, "type": "section_title", "body_html": "« <strong>À</strong> » indique un <strong>point</strong> dans l'espace ou dans le temps :" },
+    { "page_no": 106, "seq": 4, "type": "example", "body_html": "<em>Je termine mon travail <strong>à</strong> dix-huit heures.</em><br><em>Nous sommes <strong>à</strong> Paris (<strong>à</strong> l'école, <strong>au</strong> deuxième étage).</em>" },
+    { "page_no": 106, "seq": 5, "type": "section_title", "body_html": "« <strong>DE... À</strong> » indique une <strong>distance</strong> d'un point à un autre, dans l'espace ou le temps :" },
+    { "page_no": 106, "seq": 6, "type": "example", "body_html": "<em>Je travaille <strong>de</strong> 8 heures <strong>à</strong> midi, <strong>du</strong> lundi <strong>au</strong> vendredi.</em><br><em>Il y a huit cents kilomètres <strong>de</strong> Paris <strong>à</strong> Avignon.</em>" },
+    { "page_no": 106, "seq": 7, "type": "section_title", "body_html": "« <strong>JUSQU'À</strong> » indique une <strong>limite</strong> dans l'espace ou le temps :" },
+    { "page_no": 106, "seq": 8, "type": "example", "body_html": "<em>En France, on travaille en général <strong>jusqu'à</strong> soixante-deux ans.</em><br><em>Le TGV Atlantique va <strong>jusqu'au</strong> Croisic.</em>" },
+    { "page_no": 106, "seq": 9, "type": "section_title", "body_html": "« <strong>À PARTIR DE</strong> » indique un <strong>point de départ</strong> dans l'espace ou le temps :" },
+    { "page_no": 106, "seq": 10, "type": "example", "body_html": "<em>L'horaire d'hiver commence <strong>à partir du</strong> 22 septembre.</em><br><em>Il y a des embouteillages <strong>à partir de</strong> Versailles.</em>" },
+    { "page_no": 106, "seq": 11, "type": "section_title", "body_html": "« <strong>VERS</strong> » et « <strong>ENVIRON</strong> » indiquent une <strong>approximation</strong> dans l'espace ou le temps :" },
+    { "page_no": 106, "seq": 12, "type": "example", "body_html": "<em>Nous roulons <strong>vers</strong> le sud. Nous arriverons <strong>vers</strong> midi.</em><br><em>Il reste <strong>environ</strong> 100 km, c'est-à-dire <strong>environ</strong> une heure de route.</em>" },
+    { "page_no": 106, "seq": 13, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'>« <strong>Environ</strong> » + quantité :</p><p class='sample'><em>Paul a <strong>environ</strong> 30 ans.</em><br><em>Il gagne <strong>environ</strong> 2 000 euros.</em></p></div><div><p class='bullet'>« <strong>Vers</strong> » + heure, sauf avec « il est » :</p><p class='sample'><em>Nous dînons <strong>vers</strong> huit heures.</em><br><em>Il est <strong>environ</strong> sept heures.</em></p></div></div>" },
+    { "page_no": 106, "seq": 14, "type": "section_title", "body_html": "« <strong>ENTRE</strong> » et « <strong>PARMI</strong> »" },
+    { "page_no": 106, "seq": 15, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'>« <strong>Entre</strong> » deux éléments :</p><p class='sample'><em>« B » est <strong>entre</strong> « A » et « C ».</em><br><em>J'hésite <strong>entre</strong> deux métiers.</em></p></div><div><p class='bullet'>« <strong>Parmi</strong> » plusieurs éléments :</p><p class='sample'><em>« B » est une lettre <strong>parmi</strong> les lettres de l'alphabet.</em></p></div></div>" },
+    { "page_no": 106, "seq": 16, "type": "para", "body_html": "« <strong>Entre nous</strong> », « <strong>entre eux</strong> » signifie « à l'exclusion d'autres personnes » :" },
+    { "page_no": 106, "seq": 17, "type": "example", "body_html": "<em><strong>Entre nous,</strong> je vais vous confier un secret : <strong>parmi</strong> nous, il y a un espion.</em>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 107, "seq": 1,
+      "instruction_fr": "« À », « de », « à partir de/du », « jusqu'à/au ». Complétez.",
+      "label": "", "note_html": "1. L'école est obligatoire <em class='model'>jusqu'à</em> seize ans.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. J'ai rendez-vous {{b}} cinq heures {{b}} la gare de Lyon." },
+        { "seq": 2, "type": "cloze", "stem_html": "3. Il y a 1 000 kilomètres {{b}} Paris {{b}} Nice." },
+        { "seq": 3, "type": "cloze", "stem_html": "4. Je commence à travailler {{b}} 9 heures et je travaille {{b}} 18 heures sans m'arrêter." },
+        { "seq": 4, "type": "cloze", "stem_html": "5. Les soldes d'hiver commencent en général {{b}} 15 janvier et durent {{b}} 15 février." },
+        { "seq": 5, "type": "cloze", "stem_html": "6. Le bus est payant pour les enfants {{b}} quatre ans." },
+        { "seq": 6, "type": "cloze", "stem_html": "7. Le métro fonctionne {{b}} 5 heures {{b}} minuit." }
+      ]
+    },
+    {
+      "page_no": 107, "seq": 2,
+      "instruction_fr": "Complétez avec « environ » ou « vers ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Vous travaillez combien d'heures par jour ?<br>– Je travaille {{b}} dix heures.<br>J'arrive au bureau {{b}} huit heures et je termine {{b}} dix-huit heures.<br>– Il est quelle heure quand vous rentrez ?<br>– Il est {{b}} sept heures du soir.<br><br>– Vous dormez combien de temps ?<br>– Je dors {{b}} sept heures. Je me couche {{b}} onze heures et je me lève {{b}} six heures.<br>– Votre bureau est loin de chez vous ?<br>– Il est à {{b}} six kilomètres.<br>Je mets {{b}} vingt minutes à vélo." }
+      ]
+    },
+    {
+      "page_no": 107, "seq": 3,
+      "instruction_fr": "Complétez avec « à », « de », « environ », « vers » et les articles (contractés), si nécessaire.",
+      "label": "Longs week-ends", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "J'habite à Paris et je travaille {{b}} Orly, {{b}} aéroport, {{b}} premier étage, {{b}} guichet n° 7. Tous les jours, je commence {{b}} 5 heures pile et je termine {{b}} midi, midi et quart. Parfois, je travaille 24 heures sans interruption : {{b}} 7 heures du soir le lundi {{b}} 7 heures du soir le mardi. Je pars en week-end le vendredi matin : il faut {{b}} une heure de vol pour arriver en Provence. J'y reste {{b}} vendredi {{b}} lundi. Je rentre le lundi {{b}} trois heures." }
+      ]
+    },
+    {
+      "page_no": 107, "seq": 4,
+      "instruction_fr": "Complétez les phrases avec « parmi » ou « entre ».",
+      "label": "", "note_html": "1. – Est-ce qu'il y a un médecin, <em class='model'>parmi</em> les spectateurs ?", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. Choisissez au hasard {{b}} ces cartes." },
+        { "seq": 2, "type": "cloze", "stem_html": "3. Des bateaux-mouches circulent en permanence {{b}} la tour Eiffel et Notre-Dame." },
+        { "seq": 3, "type": "cloze", "stem_html": "4. S'il faut choisir {{b}} la ville et la campagne, je préfère la ville." },
+        { "seq": 4, "type": "cloze", "stem_html": "5. À Paris, le métro ne circule plus {{b}} 1 h 15 et 5 h 30 du matin." },
+        { "seq": 5, "type": "cloze", "stem_html": "6. Des voleurs sont cachés {{b}} les invités." }
+      ]
+    },
+    {
+      "page_no": 107, "seq": 5,
+      "instruction_fr": "Complétez avec « à », « au », « environ », « jusqu'à », « entre », « parmi ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Il est {{b}} seize heures. Éric est {{b}} cinéma. Il est assis {{b}} deuxième rang, {{b}} une dame rousse et un monsieur barbu. En attendant le film, il prépare son programme de la soirée. Il hésite encore {{b}} un concert de jazz et une pièce de théâtre. Éric est {{b}} Paris seulement {{b}} mardi prochain et, {{b}} tous les spectacles qui passent actuellement, il a du mal à faire son choix." }
+      ]
+    }
+  ]
+}

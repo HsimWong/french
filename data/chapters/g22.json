@@ -1,0 +1,258 @@
+{
+  "course": "grammaire",
+  "seq": 22,
+  "title_fr": "LE COMPARATIF et LE SUPERLATIF",
+  "page_start": 96,
+  "page_end": 101,
+  "pdf_start": 98,
+  "pdf_end": 103,
+  "sections": [
+    { "title_fr": "LE COMPARATIF", "page_no": 96 },
+    { "title_fr": "LE SUPERLATIF se forme en plaçant « le », « la » ou « les » devant le comparatif et « de » devant le groupe de comparaison (facultatif) :", "page_no": 96 },
+    { "title_fr": "« MIEUX » et « MEILLEUR »", "page_no": 100 }
+  ],
+  "blocks": [
+    { "page_no": 96, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">22</span> LE COMPARATIF et LE SUPERLATIF" },
+    { "page_no": 96, "seq": 2, "type": "keypoint", "body_html": "Paul est <strong>plus</strong> riche <strong>que</strong> Jean, mais il travaille <strong>moins</strong>.<br>Le diesel est <strong>moins</strong> cher que l'essence, mais il pollue <strong>plus</strong>." },
+    { "page_no": 96, "seq": 3, "type": "section_title", "body_html": "LE COMPARATIF" },
+    { "page_no": 96, "seq": 4, "type": "subhead", "body_html": "La comparaison porte sur un <strong>adjectif</strong> ou sur un <strong>adverbe</strong> (on compare des qualités) :" },
+    { "page_no": 96, "seq": 5, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'><em>Jean est</em> <strong>plus / aussi / moins</strong> <em>rapide <strong>que</strong> Max.</em></p></div><div><p class='bullet'><em>Jean travaille</em> <strong>plus / aussi / moins</strong> <em>vite <strong>que</strong> Max.</em></p></div></div>" },
+    { "page_no": 96, "seq": 6, "type": "subhead", "body_html": "La comparaison porte sur un <strong>verbe</strong> ou sur un <strong>nom</strong> (on compare des quantités) :" },
+    { "page_no": 96, "seq": 7, "type": "table", "body_html": "<div class='two-col'><div><p class='bullet'><em>Max travaille</em> <strong>plus / autant / moins</strong> <em><strong>que</strong> Jean.</em></p></div><div><p class='bullet'><em>Max a</em> <strong>plus de / autant de / moins de</strong> <em>travail <strong>que</strong> Jean.</em></p></div></div>" },
+    { "page_no": 96, "seq": 8, "type": "warning", "body_html": "Dites : <em>Jean est plus rapide <strong>que</strong> Max.</em><br>Ne dites pas : <em>Jean est plus rapide <s>comme</s> Max.</em>" },
+    { "page_no": 96, "seq": 9, "type": "para", "body_html": "« <strong>Comme</strong> » : ressemblance sans idée de quantité.<br><em>Zoé est blonde <strong>comme</strong> sa mère.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Elle est belle <strong>comme</strong> le jour.</em>" },
+    { "page_no": 96, "seq": 10, "type": "section_title", "body_html": "LE SUPERLATIF se forme en plaçant « <strong>le</strong> », « <strong>la</strong> » ou « <strong>les</strong> » devant le comparatif et « <strong>de</strong> » devant le groupe de comparaison (facultatif) :" },
+    { "page_no": 96, "seq": 11, "type": "example", "body_html": "<em>Zoé est <strong>la</strong> plus grande <strong>de</strong> la classe.</em><br><em>Marc est <strong>le</strong> moins grand (<strong>de</strong> la classe).</em>" },
+    { "page_no": 96, "seq": 12, "type": "warning", "body_html": "Avec les superlatifs, on utilise souvent « <strong>c'est… qui</strong> » (mise en relief) :<br><em><strong>C'est</strong> Paul <strong>qui</strong> est le plus grand.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>C'est</strong> Annie <strong>qui</strong> écrit le mieux.</em>" },
+    { "page_no": 96, "seq": 13, "type": "phonetic", "body_html": "On prononce le « <strong>s</strong> » de « <strong>plus que</strong> », « <strong>plus de</strong> » et de « <strong>plus</strong> » en fin de phrase :<br><em>Je travaille <strong>plus que</strong> Jo. J'ai <strong>plus de</strong> responsabilités. Je gagne <strong>plus</strong>.</em><br>/pluss/ /pluss/ /pluss/" },
+    { "page_no": 96, "seq": 14, "type": "phonetic", "body_html": "Le « <strong>s</strong> » est muet devant une consonne. On fait la liaison devant une voyelle :<br><em>Jean est plus grand que Max. Il court plus vite. Il est plus<span class='liaison'>z</span>intelligent.</em><br>/plu/ /plu/ /pluz/" },
+    { "page_no": 96, "seq": 15, "type": "xref", "body_html": "Mieux/meilleur, p. 100" },
+
+    { "page_no": 100, "seq": 16, "type": "running_head", "body_html": "LE COMPARATIF ET LE SUPERLATIF" },
+    { "page_no": 100, "seq": 17, "type": "section_title", "body_html": "« <strong>MIEUX</strong> » et « <strong>MEILLEUR</strong> »" },
+    { "page_no": 100, "seq": 18, "type": "keypoint", "body_html": "Le gâteau est <strong>meilleur</strong> que la tarte. Julie cuisine <strong>mieux</strong> que Paula." },
+    { "page_no": 100, "seq": 19, "type": "para", "body_html": "Les comparatifs de supériorité de « <strong>bon</strong> » et de « <strong>bien</strong> » sont irréguliers." },
+    { "page_no": 100, "seq": 20, "type": "subhead", "body_html": "« <strong>MEILLEUR</strong> » est le comparatif de supériorité de « <strong>bon</strong> » :" },
+    { "page_no": 100, "seq": 21, "type": "example", "body_html": "<em>Le bordeaux blanc est</em> <strong>bon</strong>. — <em>Le bordeaux rouge est</em> <strong>meilleur</strong>.<br><em>La tarte de Sonia est</em> <strong>bonne</strong>. — <em>La tarte de Magda est</em> <strong>meilleure</strong>.<br><em>Les sorbets au citron sont</em> <strong>bons</strong>. — <em>Les sorbets à la fraise sont</em> <strong>meilleurs</strong>.<br><em>Les glaces au café sont</em> <strong>bonnes</strong>. — <em>Les glaces au chocolat sont</em> <strong>meilleures</strong>." },
+    { "page_no": 100, "seq": 22, "type": "subhead", "body_html": "« <strong>Le meilleur</strong> » est le superlatif de « bon » :" },
+    { "page_no": 100, "seq": 23, "type": "example", "body_html": "<em>Ce vin est</em> <strong>le meilleur</strong>.<br><em>Ces glaces sont</em> <strong>les meilleures</strong>." },
+    { "page_no": 100, "seq": 24, "type": "para", "body_html": "Pour les contraires, on dit :" },
+    { "page_no": 100, "seq": 25, "type": "example", "body_html": "<em>Ce vin est</em> <strong>plus mauvais que</strong> <em>l'autre.</em><br><em>C'est</em> <strong>le plus mauvais</strong> <em>(ou</em> <strong>le pire</strong>)." },
+    { "page_no": 100, "seq": 26, "type": "subhead", "body_html": "« <strong>MIEUX</strong> » est le comparatif de supériorité de « <strong>bien</strong> » :" },
+    { "page_no": 100, "seq": 27, "type": "example", "body_html": "<em>Paul danse</em> <strong>bien</strong>. — <em>John danse</strong> <strong>mieux</strong>.<br><em>John chante</em> <strong>bien</strong>. — <em>Luis chante</strong> <strong>mieux</strong>." },
+    { "page_no": 100, "seq": 28, "type": "subhead", "body_html": "« <strong>Le mieux</strong> » est le superlatif de « bien » :" },
+    { "page_no": 100, "seq": 29, "type": "example", "body_html": "<em>C'est John qui danse</em> <strong>le mieux</strong>.<br><em>C'est Luis qui chante</em> <strong>le mieux</strong>." },
+    { "page_no": 100, "seq": 30, "type": "para", "body_html": "Pour les contraires, on dit :" },
+    { "page_no": 100, "seq": 31, "type": "example", "body_html": "<em>Bruno chante</em> <strong>plus mal que</strong> <em>les autres.</em><br><em>C'est Bruno qui chante</em> <strong>le plus mal</strong>." },
+    { "page_no": 100, "seq": 32, "type": "para", "body_html": "« <strong>Il vaut mieux</strong> » est préférable à « c'est mieux » en début de phrase :" },
+    { "page_no": 100, "seq": 33, "type": "example", "body_html": "– <em>Réserver avant de partir,</em> <strong>c'est mieux</strong>. – <em>Oui,</em> <strong>il vaut mieux</strong> <em>réserver avant de partir.</em>" },
+    { "page_no": 100, "seq": 34, "type": "warning", "body_html": "Dites : <em>Il vaut mieux…</em>&nbsp;&nbsp;&nbsp;&nbsp;Ne dites pas : <em><s>C'est mieux…</s></em>" },
+    { "page_no": 100, "seq": 35, "type": "xref", "body_html": "Bon/bien, p. 82" }
+  ],
+  "exercises": [
+    {
+      "page_no": 97, "seq": 1,
+      "instruction_fr": "Complétez avec « plus… que »/« moins… que »/« aussi… que ».",
+      "label": "", "note_html": "1. Chinois/Français — (nombreux) — <em class='model'>Les Chinois sont plus nombreux que les Français.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. femmes/hommes — (musclé) — {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. garçons/filles — (intelligent) — {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. Lune/Terre — (petit) — {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "5. janvier/juillet — (long) — {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "6. voiture/ train — (rapide) — {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "7. 1 kg de plumes/1 kg de plomb — (lourd) — {{L}}" }
+      ]
+    },
+    {
+      "page_no": 97, "seq": 2,
+      "instruction_fr": "Comparez avec « plus/moins… que » et en utilisant des pronoms toniques (voir p. 132).",
+      "label": "", "note_html": "– Jo est un peu fou… – Oui, et sa femme <em class='model'>est encore plus folle que lui</em>.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Ton frère est très beau. — – Oui, et ma sœur {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – La voisine d'à côté est bruyante. — – Oui, et le voisin du dessus {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Le concierge n'est pas gentil. — – Oui, et sa femme {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Tes enfants sont désordonnés ! — – Oui, et mon mari {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Ton père n'est pas banal… — – Oui, c'est vrai, et ma mère {{L}}" }
+      ]
+    },
+    {
+      "page_no": 97, "seq": 3,
+      "instruction_fr": "Complétez avec « plus/moins/aussi… (que)/(de) ». Faites l'élision si c'est nécessaire.",
+      "label": "Avant et maintenant", "note_html": "Nous vivons <em class='model'>plus</em> longtemps qu'avant, grâce aux progrès de la médecine,", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Nous vivons plus longtemps qu'avant, grâce aux progrès de la médecine, mais la terre est beaucoup {{b}} peuplée et elle offre {{b}} ressources énergétiques. Les travaux domestiques sont {{b}} fatigants {{b}} dans les siècles passés, grâce aux appareils ménagers et on peut consacrer beaucoup {{b}} temps aux loisirs. Les voyages sont {{b}} chers et on voyage {{b}} vite, mais la nature est {{b}} sauvage à cause du développement de l'urbanisme et du tourisme. Les informations circulent {{b}} vite, grâce aux nouveaux médias, mais on passe {{b}} temps sur son écran {{b}} en compagnie des membres de sa famille.<br><br>Les conditions de vie changent, mais malheureusement, les hommes ne changent pas : ils se battent {{b}} aveuglément {{b}} autrefois et ils sont {{b}} intolérants." }
+      ]
+    },
+    {
+      "page_no": 97, "seq": 4,
+      "instruction_fr": "« Plus ». Soulignez le « s » sonore. Barrez le « s » muet. Marquez les liaisons.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Comparée à son ami Jim, Magda parle plus, elle est plu<s>s</s> communicative et plus ouverte. Elle lit plus et elle fait plus d'exercices. Elle est plus avancée et progresse plus vite. Son ami hésite plus quand il parle et il fait plus de fautes. Magda travaille plus que lui. Elle est plus sérieuse, mais elle est aussi plus douée." }
+      ]
+    },
+    {
+      "page_no": 98, "seq": 5,
+      "instruction_fr": "Complétez avec « aussi », ou « autant de ».",
+      "label": "Moderato !", "note_html": "Ne cours pas <em class='model'>aussi</em> vite !", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Ne mange pas {{b}} bonbons !" },
+        { "seq": 2, "type": "cloze", "stem_html": "Ne fais pas {{b}} bruit !" },
+        { "seq": 3, "type": "cloze", "stem_html": "Ne parle pas {{b}} fort !" },
+        { "seq": 4, "type": "cloze", "stem_html": "Ne pose pas {{b}} questions !" },
+        { "seq": 5, "type": "cloze", "stem_html": "Ne te couche pas {{b}} tard !" }
+      ]
+    },
+    {
+      "page_no": 98, "seq": 6,
+      "instruction_fr": "Faites des phrases en utilisant « aussi » et « autant (de) ».",
+      "label": "", "note_html": "sociable/amis — Léo est <em class='model'>aussi sociable que</em> Léa. Il a <em class='model'>autant d'amis qu'</em>elle.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "beau/charme — Il est {{b}} Léa. Il a {{b}} elle." },
+        { "seq": 2, "type": "cloze", "stem_html": "vêtements/élégant — Il a {{b}} Léa. Il est {{b}} elle." },
+        { "seq": 3, "type": "cloze", "stem_html": "cultivé/livres — Il est {{b}} Léa. Il a {{b}} elle." },
+        { "seq": 4, "type": "cloze", "stem_html": "argent/riche — Il a {{b}} Léa. Il est {{b}} elle." }
+      ]
+    },
+    {
+      "page_no": 98, "seq": 7,
+      "instruction_fr": "Comparez avec « aussi » ou « autant ».",
+      "label": "Les adultes et les enfants", "note_html": "Les enfants jouent beaucoup. Les enfants sont beaux. Les enfants bougent beaucoup. Les enfants sont confiants. Les enfants pleurent beaucoup. Les enfants sont amusants. <em class='model'>Les adultes ne jouent pas autant.</em> <em class='model'>Les adultes ne sont pas aussi beaux.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Les enfants bougent beaucoup. Les adultes {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "Les enfants sont confiants. Les adultes {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "Les enfants pleurent beaucoup. Les adultes {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "Les enfants sont amusants. Les adultes {{L}}" }
+      ]
+    },
+    {
+      "page_no": 98, "seq": 8,
+      "instruction_fr": "Comparez les hôtels.",
+      "label": "", "note_html": "<table class='data-table'><tr><th>Panorama **</th><th>Luxor ****</th></tr><tr><td>Prix : 80 €</td><td>Prix : 210 €</td></tr><tr><td>Chambres : 10 m²</td><td>Chambres : 17 m²</td></tr><tr><td>Calme : 3 icônes</td><td>Calme : 1 icône</td></tr><tr><td>Confort : 12/20</td><td>Confort : 17/20</td></tr><tr><td>Charme : 3 cœurs</td><td>Charme : 1 cœur</td></tr></table>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "À l'hôtel Panorama, les chambres sont {{L}}<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 98, "seq": 9,
+      "instruction_fr": "➤ Imaginez un hôtel sans étoile et un hôtel cinq étoiles. Créez des superlatifs.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 98, "seq": 10,
+      "instruction_fr": "➤ Imaginez d'autres comparaisons :",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Paul est comme son père : il est aussi grand que lui, aussi têtu que lui, mais il est plus sportif que lui, moins bavard {{L}}<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 99, "seq": 11,
+      "instruction_fr": "La ville et la campagne. Comparez.",
+      "label": "", "note_html": "Bruit – Balades dans la nature – Cinémas, théâtres, musées – Pollution – Variété d'emplois – Taille des logements – Possibilités de rencontres<br>Stress – Nombre de boutiques – Promiscuité – Solidarité entre voisins – Prix des fruits et légumes – Transports en commun – Convivialité", "has_image": true, "scan_pages": [99],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "À la campagne, il y a moins de bruit et on peut faire plus de balades dans la nature, mais {{L}}<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 99, "seq": 12,
+      "instruction_fr": "Superlatifs. Répondez librement. ➢➢ Donnez d'autres palmarès (chanteur, série télé, etc).",
+      "label": "", "note_html": "chanteur belge connu — À mon avis, <em class='model'>Jacques Brel est le chanteur belge le plus connu!</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "grand pays — Je pense {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "animal fidèle — À mon avis, {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "homme politique célèbre — Selon moi, {{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "profession intéressante — {{L}}" },
+        { "seq": 5, "type": "open", "stem_html": "sport difficile — {{L}}" },
+        { "seq": 6, "type": "open", "stem_html": "beau prénom de fille — {{L}}" },
+        { "seq": 7, "type": "open", "stem_html": "beau prénom de garçon — {{L}}" }
+      ]
+    },
+    {
+      "page_no": 99, "seq": 13,
+      "instruction_fr": "Répondez librement.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Passez-vous plus de temps en famille qu'avec des amis ? – {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Avez-vous plus d'amies filles que d'amis garçons ? – {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Dormez-vous autant en semaine que pendant le week-end ? – {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Regardez-vous plus de films que de séries télé? – {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Mangez-vous plus, moins, autant à midi que le soir? – {{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. Communiquez-vous plus par textos que par téléphone ? – {{T}}" },
+        { "seq": 7, "type": "open", "stem_html": "7. Vous occupez-vous autant du ménage que votre femme/mari ? – {{T}}" },
+        { "seq": 8, "type": "open", "stem_html": "8. Faites-vous moins de fautes de français qu'avant ? – {{T}}" },
+        { "seq": 9, "type": "open", "stem_html": "9. Êtes-vous aussi à l'aise en français que dans votre langue maternelle? – {{T}}" },
+        { "seq": 10, "type": "open", "stem_html": "10. Avez-vous autant de vocabulaire en français qu'en anglais? – {{T}}" },
+        { "seq": 11, "type": "open", "stem_html": "11. Qui est le plus jeune dans votre famille? – {{T}}" },
+        { "seq": 12, "type": "open", "stem_html": "12. Quel est l'aliment qu'on consomme le plus dans votre pays? – {{T}}" },
+        { "seq": 13, "type": "open", "stem_html": "13. Quels sont les journaux/les magazines qu'on lit le plus ? – {{T}}" }
+      ]
+    },
+    {
+      "page_no": 99, "seq": 14,
+      "instruction_fr": "@ Paris, New York, Tokyo : quelle est la ville la plus ancienne, la plus peuplée, la plus vaste ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 101, "seq": 15,
+      "instruction_fr": "Complétez avec « c'est bon », « c'est bien », « c'est mieux » ou « c'est meilleur ».",
+      "label": "", "note_html": "La crème caramel, <em class='model'>c'est bon</em>, mais les profiteroles, <em class='model'>c'est meilleur !</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Le poisson surgelé, {{b}}, mais le poisson frais, {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Visiter Paris en bus, {{b}}, mais visiter Paris à pied, {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le vin blanc, {{b}}, mais le champagne, {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Les crêpes au sucre, {{b}}, mais les crêpes au chocolat, {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Parler deux langues, {{b}}, mais parler trois langues, {{b}}" }
+      ]
+    },
+    {
+      "page_no": 101, "seq": 16,
+      "instruction_fr": "Trouvez les superlatifs, selon le modèle. ➢➢ Donnez d'autres palmarès (chanteur, série télé, etc).",
+      "label": "Les Oscars", "note_html": "Un Oscar est attribué, chaque année, <em class='model'>au meilleur</em> acteur, {{b}} actrice {{b}} mise en scène, {{b}} scénario {{b}} effets spéciaux, {{b}} musique, {{b}} seconds rôles, {{b}} film étranger.", "has_image": true, "scan_pages": [101],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Un Oscar est attribué, chaque année, au meilleur acteur, {{b}} actrice {{b}} mise en scène, {{b}} scénario {{b}} effets spéciaux, {{b}} musique, {{b}} seconds rôles, {{b}} film étranger." }
+      ]
+    },
+    {
+      "page_no": 101, "seq": 17,
+      "instruction_fr": "Complétez avec « mieux »/« le mieux », « meilleur(e)(s) »/« le meilleur », « la meilleure ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – On mange mieux à la cafétéria qu'au restaurant : le steak est {{b}} et les frites sont {{b}} ! –" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Mon père danse {{b}} que moi : de toute la famille, c'est lui qui danse {{b}}. –" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Pierre travaille {{b}} que Paul et ses résultats sont {{b}}. –" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Votre gâteau est {{b}} que le mien, vous cuisinez {{b}} que moi ! –" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. De tous les étudiants, c'est John qui parle {{b}} et qui a {{b}} accent. –" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. La pizza de « Pietro » est vraiment {{b}} de Paris, d'après Federico." }
+      ]
+    },
+    {
+      "page_no": 101, "seq": 18,
+      "instruction_fr": "Complétez les phrases avec « il vaut mieux », selon le modèle.",
+      "label": "", "note_html": "– Partir quinze jours, <em class='model'>c'est bien, mais partir un mois, c'est mieux.</em> – Oui, <em class='model'>il vaut mieux partir un mois.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Dormir six heures par nuit, {{L}} – Oui, {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Faire une heure de gymnastique, {{L}} – Oui, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Partir en week-end le samedi, {{L}} – Oui, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Travailler seul, {{L}} – Oui, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 101, "seq": 19,
+      "instruction_fr": "➢➢ Donnez votre opinion avec « il vaut mieux » et justifiez, selon le modèle.",
+      "label": "", "note_html": "voir un film à la télévision/au cinéma – prendre ses vacances en hiver/en été – acheter des plats cuisinés/cuisiner soi-même – dépenser son argent/économiser. <em class='model'>Il vaut mieux voir un film au cinéma parce que...</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "voir un film à la télévision/au cinéma — {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "prendre ses vacances en hiver/en été — {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "acheter des plats cuisinés/cuisiner soi-même — {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "dépenser son argent/économiser — {{T}}" }
+      ]
+    }
+  ]
+}

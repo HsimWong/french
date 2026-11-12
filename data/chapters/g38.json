@@ -1,0 +1,88 @@
+{
+  "course": "grammaire",
+  "seq": 38,
+  "title_fr": "LES VERBES de DÉPLACEMENT",
+  "page_start": 164,
+  "page_end": 165,
+  "pdf_start": 166,
+  "pdf_end": 167,
+  "sections": [
+    { "title_fr": "« ALLER », « VENIR », etc.", "page_no": 164 },
+    { "title_fr": "« ALLER VOIR » (« VENIR VOIR ») / « VISITER »", "page_no": 164 }
+  ],
+  "blocks": [
+    { "page_no": 164, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">38</span> LES VERBES de DÉPLACEMENT" },
+    { "page_no": 164, "seq": 2, "type": "keypoint", "body_html": "Je <strong>vais</strong> en Italie pour <strong>voir</strong> des amis et <strong>visiter</strong> la Toscane." },
+    { "page_no": 164, "seq": 3, "type": "section_title", "body_html": "« ALLER », « VENIR », etc." },
+    { "page_no": 164, "seq": 4, "type": "para", "body_html": "« <strong>Aller</strong> » = d'un lieu vers un autre lieu :<br><em>Je <strong>vais</strong> à Paris.</em><br>(Je ne suis pas à Paris.)" },
+    { "page_no": 164, "seq": 5, "type": "para", "body_html": "« <strong>Venir</strong> » = d'un lieu vers le lieu où on est :<br><em>⟵ <strong>Venez</strong> me voir à Paris !</em><br>(Je suis à Paris.)" },
+    { "page_no": 164, "seq": 6, "type": "para", "body_html": "« <strong>Retourner</strong> » = « aller » une <strong>nouvelle</strong> fois :<br><em>Je <strong>retourne</strong> à Paris.</em>" },
+    { "page_no": 164, "seq": 7, "type": "para", "body_html": "« <strong>Revenir</strong> » = « venir » une <strong>nouvelle</strong> fois :<br><em>Attendez-moi, ici, je <strong>reviens</strong>.</em>" },
+    { "page_no": 164, "seq": 8, "type": "para", "body_html": "« <strong>Rentrer</strong> » = « revenir » à son <strong>domicile</strong> ou dans son <strong>pays</strong> d'origine :<br><em>Je <strong>rentre</strong> chez moi à 8 heures du soir.</em><br><em>Les touristes <strong>rentrent</strong> dans leur pays à la fin des vacances.</em>" },
+    { "page_no": 164, "seq": 9, "type": "warning", "body_html": "⚠ – « Avec moi » et « avec nous » se construisent avec « venir » :<br><em>On <strong>va</strong> en Afrique et Joan <strong>vient</strong> avec nous.</em>" },
+    { "page_no": 164, "seq": 10, "type": "para", "body_html": "Les verbes de déplacement (« aller », « venir », « monter », « passer », etc.) sont suivis d'un infinitif <strong>sans</strong> préposition :<br><em>Je viens chercher Pierre.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>Je descends acheter le journal.</em>" },
+    { "page_no": 164, "seq": 11, "type": "section_title", "body_html": "« ALLER VOIR » (« VENIR VOIR ») / « VISITER »" },
+    { "page_no": 164, "seq": 12, "type": "para", "body_html": "« <strong>Aller voir</strong> » + personne :<br><em>Je <strong>vais voir</strong> mes parents le dimanche.</em><br><em>Mes cousins <strong>viennent</strong> me <strong>voir</strong> souvent.</em>" },
+    { "page_no": 164, "seq": 13, "type": "para", "body_html": "« <strong>Visiter</strong> » + lieu <strong>touristique</strong> :<br><em>Je <strong>visite</strong> Notre-Dame.</em><br><em>Nous <strong>visitons</strong> l'église avec un guide.</em>" },
+    { "page_no": 164, "seq": 14, "type": "warning", "body_html": "⚠ – Ne dites pas :<br><em>Je <s>visite</s> ma grand-mère.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>– Est-ce que je peux <s>visiter</s> les toilettes ?</em><br>– Dites :<br><em>Je vais voir ma grand-mère.</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>– Où sont les toilettes, s'il vous plaît ?</em>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 165, "seq": 1,
+      "instruction_fr": "Complétez avec « aller », « venir », « retourner », « rentrer ».",
+      "label": "", "note_html": "Je <em class='model'>vais</em> souvent en Bourgogne", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Je <em class='model'>vais</em> souvent en Bourgogne, chez des amis américains, David et Eléonore, qui vivent là-bas, dans un village minuscule. David et sa femme {{b}} me voir à Paris de temps en temps, mais ils {{b}} vite dans leur petit village, car ils ne supportent plus les grandes villes. L'été, ils {{b}} en Provence ou en Italie. David et Eléonore pensent {{b}} définitivement chez eux, aux États-Unis, après leur retraite." }
+      ]
+    },
+    {
+      "page_no": 165, "seq": 2,
+      "instruction_fr": "Complétez le dialogue avec « aller », « venir » et « revenir ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<p class='sample'><strong>Tentations</strong></p>– Tu {{b}} avec moi ou tu {{b}} avec Marc et Laurent ?<br>– Je {{b}} avec eux : ils {{b}} au cinéma, puis au bowling.<br><br>– Moi, je {{b}} à la mer, puis je {{b}} ici chercher Béa et nous {{b}} manger une pizza.<br>– Une pizza ! Oh alors, je {{b}} avec vous !" }
+      ]
+    },
+    {
+      "page_no": 165, "seq": 3,
+      "instruction_fr": "Complétez avec « venir », « aller », « revenir », « retourner », « rentrer ».",
+      "label": "", "note_html": "– Ta femme de ménage <em class='model'>vient</em> chez toi le matin ou l'après-midi ?", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Nous {{b}} aux sports d'hiver : vous voulez {{b}} avec nous ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Les enfants français {{b}} à l'école le matin et ils y {{b}} l'après-midi." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Le directeur est occupé : pouvez-vous {{b}} dans une heure ?" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Zut ! J'ai oublié le lait : je dois {{b}} à l'épicerie." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Attends-moi ici : je {{b}} juste à la banque et je {{b}}." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – J'ai encore mal aux dents. Je dois {{b}} chez le dentiste pour la troisième fois." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – Il est tard, les enfants, il faut vite {{b}} à la maison !" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Les touristes {{b}} dans leur pays à la fin des vacances." }
+      ]
+    },
+    {
+      "page_no": 165, "seq": 4,
+      "instruction_fr": "Complétez avec « voir » ou « visiter ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Quand Jacques va {{b}} Madeleine, il lui apporte des bonbons." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. J'aime {{b}} les musées avec un guide." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Nous allons {{b}} Versailles et nous emmenons les enfants" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Venez me {{b}} demain !" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Si vous allez {{b}} la Bretagne, emportez un parapluie !" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Chaque fois que ma fille Zoé vient nous {{b}}, elle amène un nouveau fiancé." }
+      ]
+    },
+    {
+      "page_no": 165, "seq": 5,
+      "instruction_fr": "Imaginez votre programme en utilisant « visiter », « retourner » et « aller voir ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. lundi : musée du Louvre {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. mardi : Juliette {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. mercredi : tante Mimi {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. jeudi : musée du Louvre {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. vendredi : musée d'Orsay {{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. samedi : cathédrale de Chartres {{T}}" }
+      ]
+    }
+  ]
+}

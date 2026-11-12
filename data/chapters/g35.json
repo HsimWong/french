@@ -1,0 +1,56 @@
+{
+  "course": "grammaire",
+  "seq": 35,
+  "title_fr": "LE DISCOURS INDIRECT au PRÉSENT",
+  "page_start": 156,
+  "page_end": 157,
+  "pdf_start": 158,
+  "pdf_end": 159,
+  "sections": [],
+  "blocks": [
+    { "page_no": 156, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">35</span> LE DISCOURS INDIRECT au PRÉSENT" },
+    { "page_no": 156, "seq": 2, "type": "keypoint", "body_html": "Pierre dit <strong>qu'</strong>il part à 5 heures. Il demande <strong>si</strong> on est d'accord.<br>Je lui demande <strong>où</strong> il va et <strong>ce qu'</strong>il va faire." },
+    { "page_no": 156, "seq": 3, "type": "para", "body_html": "<strong>LE DISCOURS INDIRECT</strong> permet de rapporter des paroles ou des pensées." },
+    { "page_no": 156, "seq": 4, "type": "table", "body_html": "<div class='two-col'><div><span class='lead'>Discours direct</span><span class='wordlist'><strong>Affirmation :</strong><br>Paul dit : « Il pleut. »<br>Il pense : « C'est dommage. »<br><strong>Question simple (réponse « oui » ou « non ») :</strong><br>– Est-ce que vous sortez ?<br>– Il fait froid ?<br><strong>Question avec interrogatif :</strong><br>– Où allez-vous ?<br>– Quand partez-vous ?<br><strong>« Qu'est-ce que »/« qui », « Que »</strong><br>– Qu'est-ce que vous faites ?<br>– Qu'est-ce qui se passe ?<br>– Que voulez-vous ?<br><strong>Impératif :</strong><br>– Partez !</span></div><div><span class='lead'>Discours indirect</span><span class='wordlist'><strong>+ « que » :</strong><br>Paul dit <strong>qu'</strong>il pleut.<br>Il pense <strong>que</strong> c'est dommage.<br><strong>+ « si » :</strong><br>Il demande <strong>si</strong> vous sortez.<br>Il demande <strong>s'</strong>il fait froid.<br><strong>+ interrogatif sans inversion :</strong><br>Il demande <strong>où</strong> vous allez.<br>Il demande <strong>quand</strong> vous partez.<br><strong>+ « ce que »/« ce qui » :</strong><br>Il demande <strong>ce que</strong> vous faites.<br>Il demande <strong>ce qui</strong> se passe.<br>Il demande <strong>ce que</strong> vous voulez.<br><strong>+ « de » + infinitif :</strong><br>Il lui dit <strong>de</strong> partir.</span></div></div>" },
+    { "page_no": 156, "seq": 5, "type": "warning", "body_html": "– Dites : <em>Je sais <strong>ce qu'</strong>il veut.</em><br>– Ne dites pas : <em>Je sais <s>qu'est-ce</s> qu'il veut.</em>" },
+    { "page_no": 156, "seq": 6, "type": "para", "body_html": "■ Quand il y a plusieurs phrases, on répète les éléments de liaison :<br><em>– Je pars et j'emmène ma fille.</em> — <em>Il dit <strong>qu'</strong>il part et <strong>qu'</strong>il emmène sa fille.</em><br><em>– Tu es prêt ? On y va ?</em> — <em>Il demande <strong>si</strong> tu es prêt et <strong>si</strong> on y va.</em>" },
+    { "page_no": 156, "seq": 7, "type": "para", "body_html": "■ Verbes utiles : « dire », « demander », « répondre », « affirmer », « déclarer », etc. :<br><em>L'accusé affirme qu'il est innocent.</em> — <em>Le juge déclare qu'il est coupable.</em>" },
+    { "page_no": 156, "seq": 8, "type": "xref", "body_html": "Discours indirect au passé, p. 216" }
+  ],
+  "exercises": [
+    {
+      "page_no": 157, "seq": 1,
+      "instruction_fr": "Mettez au discours indirect, selon le modèle.",
+      "label": "", "note_html": "– Il lui dit qu'il est en retard à son rendez-vous, qu'il", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "« Je suis en retard pour mon rendez-vous. Je pars tout de suite. J'emporte les dossiers. »<br>– Que dit André à son ami ? – <em class='model'>– Il lui dit qu'il est en retard à son rendez-vous, qu'il</em> {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "« Allô, Sophie ? C'est Charlie ! Tu es libre pour le déjeuner ? Qu'est-ce que tu fais cet après-midi ? »<br>– Que demande Charlie à Sophie ? – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "« Mademoiselle Juliard, avez-vous une liste des hôtels du quartier ? Où se trouve Le Bristol ? Combien coûte une chambre double ? Notez toutes ces informations, s'il vous plaît. »<br>– Que demande le directeur à sa secrétaire ? – {{L}}<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 157, "seq": 2,
+      "instruction_fr": "Le facteur est à l'interphone, Mme Dubois est sourde. Elle pose des questions. Sa fille explique.",
+      "label": "", "note_html": "C'est le facteur. Il dit qu'", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<table class='data-table'><tr><th>Le facteur dit…</th><th>Question de Mme Dubois</th><th>Sa fille explique</th></tr><tr><td>« C'est le facteur ! J'ai un paquet. »</td><td>Qui est-ce ?</td><td><em class='model'>C'est le facteur. Il dit qu'</em>{{L}}</td></tr><tr><td>« Je n'ai pas le code. »</td><td>Qu'est-ce qu'il dit ?</td><td>{{L}}</td></tr><tr><td>« Vous pouvez ouvrir la porte ? »</td><td>Qu'est-ce qu'il dit ?</td><td>{{L}}</td></tr><tr><td>« L'ascenseur est en panne. »</td><td>Qu'est-ce qu'il dit ?</td><td>{{L}}</td></tr><tr><td>« Quelqu'un peut descendre ? »</td><td>Qu'est-ce qu'il dit ?</td><td>{{L}}</td></tr></table>" }
+      ]
+    },
+    {
+      "page_no": 157, "seq": 3,
+      "instruction_fr": "Vous êtes metteur en scène. Donnez les indications aux acteurs au style indirect.",
+      "label": "", "note_html": "Max demande à Léa ce qu'elle fait samedi. Elle lui répond qu'elle va au cinéma avec Jules.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<table class='data-table'><tr><th>Dialogue</th><th>Indications (style indirect)</th></tr><tr><td>Max : Qu'est-ce que tu fais, samedi ?</td><td><em class='model'>Max demande à Léa ce qu'elle fait samedi. Elle lui répond qu'elle va au cinéma avec Jules.</em></td></tr><tr><td>Léa : Je vais au cinéma avec Jules.</td><td>{{L}}</td></tr><tr><td>Max : Tu es libre dimanche ?</td><td>{{L}}</td></tr><tr><td>Léa : Je vais écouter un concert.</td><td>{{L}}</td></tr><tr><td>Max : Où vas-tu ?</td><td>{{L}}</td></tr><tr><td>Léa : À l'église Saint-Médard.</td><td>{{L}}</td></tr><tr><td>Max : Tu y vas seule ? J'adore le piano.</td><td>{{L}}</td></tr><tr><td>Léa : Alors, viens à dix heures pile !</td><td>{{L}}</td></tr></table>" }
+      ]
+    },
+    {
+      "page_no": 157, "seq": 4,
+      "instruction_fr": "Imaginez, puis racontez le dialogue entre un client et le serveur d'un restaurant.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}

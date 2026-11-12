@@ -1,0 +1,66 @@
+{
+  "course": "grammaire",
+  "seq": 44,
+  "title_fr": "LE PLUS-QUE-PARFAIT",
+  "page_start": 214,
+  "page_end": 215,
+  "pdf_start": 216,
+  "pdf_end": 217,
+  "sections": [
+    { "title_fr": "UTILISATION et FORMATION", "page_no": 214 },
+    { "title_fr": "LES TEMPS DU PASSÉ : RÉSUMÉ", "page_no": 214 }
+  ],
+  "blocks": [
+    { "page_no": 214, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">44</span> LE PLUS-QUE-PARFAIT" },
+    { "page_no": 214, "seq": 2, "type": "keypoint", "body_html": "J'ai vendu en 1998 l'appartement que j'<strong>avais acheté</strong> en 1992.<br>Je suis retourné dans le quartier où j'<strong>avais vécu</strong> avec toi." },
+    { "page_no": 214, "seq": 3, "type": "section_title", "body_html": "UTILISATION et FORMATION" },
+    { "page_no": 214, "seq": 4, "type": "keypoint", "body_html": "■ Le plus-que-parfait indique qu'un événement précède un autre événement dans le passé :<br><em>La maison a brûlé. Les pompiers sont arrivés.</em><br><em>Quand les pompiers <strong>sont arrivés</strong>, la maison <strong>avait déjà brûlé</strong>.</em><br><em>Le train est parti. Nous sommes arrivés à la gare.</em><br><em>Quand nous <strong>sommes arrivés</strong> à la gare, le train <strong>était déjà parti</strong>.</em>" },
+    { "page_no": 214, "seq": 5, "type": "subhead", "body_html": "■ <strong>Formation :</strong> « être » ou « avoir » à l'imparfait + participe passé" },
+    { "page_no": 214, "seq": 6, "type": "example", "body_html": "<em>J'avais dîné.</em><br><em>Nous avions fini.</em><br><em>Il était parti.</em><br><em>Je m'étais couché.</em>" },
+    { "page_no": 214, "seq": 7, "type": "section_title", "body_html": "LES TEMPS DU PASSÉ : RÉSUMÉ" },
+    { "page_no": 214, "seq": 8, "type": "keypoint", "body_html": "■ Le plus-que-parfait, l'imparfait et le passé composé permettent de distinguer différents moments du passé :<br><em>Quand je me suis levé,</em><br><em>ma mère <strong>avait préparé</strong> le café.</em> (avant)<br><em>ma mère <strong>préparait</strong> le café.</em> (pendant)<br><em>ma mère <strong>a préparé</strong> le café.</em> (après)" },
+    { "page_no": 214, "seq": 9, "type": "xref", "body_html": "Tableau des temps, p. 228" }
+  ],
+  "exercises": [
+    {
+      "page_no": 215, "seq": 1,
+      "instruction_fr": "Répondez aux questions, selon le modèle.",
+      "label": "", "note_html": "– Quand votre mari est arrivé, vous aviez déjà dîné ?<br><em class='model'>– Oui, quand il est arrivé, j'avais déjà dîné.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Quand vous avez trouvé du travail, vous aviez déjà terminé vos études ?<br>– {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Quand vous avez commencé le cours, vous aviez déjà rencontré le professeur ?<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Quand vous avez passé le test, vous aviez déjà étudié le français ?<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Quand le cours a commencé, vous aviez déjà acheté vos livres ?<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 215, "seq": 2,
+      "instruction_fr": "Complétez avec des verbes au plus-que-parfait, selon le modèle.",
+      "label": "", "note_html": "Les voyageurs ont récupéré les bagages qu'<em class='model'>ils avaient laissés</em> à la consigne.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. J'ai revu les amis que nous {{L}} en Grèce l'année dernière." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. J'ai perdu le stylo que ma mère {{L}} pour mon anniversaire." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Bernard a répondu en juin à la lettre que je {{L}} en février l'année dernière." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Annie a retrouvé l'agenda qu'elle {{L}} la semaine dernière." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Hier soir, je n'ai plus retrouvé l'endroit où {{L}} ma voiture !" }
+      ]
+    },
+    {
+      "page_no": 215, "seq": 3,
+      "instruction_fr": "Complétez au passé composé, à l'imparfait ou au plus-que-parfait.",
+      "label": "", "note_html": "avant : finir ses devoirs / prendre son bain – dîner : Quand je suis arrivé, <em class='model'>mon fils avait fini ses devoirs</em>, il {{b}} et il {{b}}", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "pendant : lire – caresser son chat / écouter de la musique : Quand je suis monté dans sa chambre, il {{b}} et il {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "après : embrasser – raconter sa journée – donner un dessin : Quand il m'a vu, il m'{{b}} et il m'{{b}}" }
+      ]
+    },
+    {
+      "page_no": 215, "seq": 4,
+      "instruction_fr": "Complétez avec des verbes au plus-que-parfait.",
+      "label": "Négligence", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Hier quand je suis rentrée, la femme de ménage <em class='model'>n'avait pas aspiré</em> la moquette, elle {{b}} les plantes, elle {{b}} les vitres. Elle {{b}} la vaisselle, elle {{b}} le linge et elle {{b}} mes affaires qui traînaient un peu partout…" }
+      ]
+    }
+  ]
+}

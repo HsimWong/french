@@ -1,0 +1,71 @@
+{
+  "course": "grammaire",
+  "seq": 49,
+  "title_fr": "LE CONDITIONNEL (2)",
+  "page_start": 230,
+  "page_end": 231,
+  "pdf_start": 232,
+  "pdf_end": 233,
+  "sections": [
+    { "title_fr": "L'EXPRESSION de L'IMAGINAIRE", "page_no": 230 },
+    { "title_fr": "FORMATION", "page_no": 230 }
+  ],
+  "blocks": [
+    { "page_no": 230, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">49</span> LE CONDITIONNEL (2)" },
+    { "page_no": 230, "seq": 2, "type": "keypoint", "body_html": "Imagine :<br>je <strong>serais</strong> une sirène.<br>tu <strong>serais</strong> un capitaine.<br>il ⎫<br>elle ⎬ <strong>serait</strong> sur l'océan.<br>on ⎭<br>nous <strong>serions</strong> heureux.<br>vous <strong>seriez</strong> sur une île.<br>ils ⎫<br>elles ⎭ <strong>seraient</strong> sur un radeau." },
+    { "page_no": 230, "seq": 3, "type": "section_title", "body_html": "L'EXPRESSION de L'IMAGINAIRE" },
+    { "page_no": 230, "seq": 4, "type": "keypoint", "body_html": "■ On utilise le conditionnel pour <strong>imaginer</strong> une autre réalité :<br><em>Sans toi, je <strong>serais</strong> perdu. Je <strong>ferais</strong> n'importe quoi.</em><br><em>Sans mon psy, j'<strong>aurais raté</strong> ma vie.</em>" },
+    { "page_no": 230, "seq": 5, "type": "para", "body_html": "• On rencontre surtout ces formes dans l'expression de l'hypothèse avec « si ».<br><em>Si tu n'étais pas là, je <strong>serais</strong> perdu.</em>" },
+    { "page_no": 230, "seq": 6, "type": "keypoint", "body_html": "■ On utilise le conditionnel avec « <strong>au cas où</strong> », pour faire une <strong>supposition</strong> :<br><em><strong>Au cas où</strong> vous <strong>auriez</strong> des problèmes, téléphonez-moi.</em><br><em><strong>Au cas où</strong> vous <strong>auriez trouvé</strong> des clés, laissez-les au concierge.</em>" },
+    { "page_no": 230, "seq": 7, "type": "keypoint", "body_html": "■ On utilise le conditionnel pour donner une information <strong>non confirmée</strong> :<br><em>Le président <strong>devrait</strong> se rendre à Tokyo.</em><br><em>L'accident d'avion <strong>aurait fait</strong> deux cents victimes.</em>" },
+    { "page_no": 230, "seq": 8, "type": "keypoint", "body_html": "■ On utilise le conditionnel pour exprimer <strong>des regrets</strong> :<br><em>J'<strong>aurais aimé</strong> faire du piano. J'<strong>aurais dû</strong> travailler plus.</em>" },
+    { "page_no": 230, "seq": 9, "type": "section_title", "body_html": "FORMATION" },
+    { "page_no": 230, "seq": 10, "type": "subhead", "body_html": "CONDITIONNEL PRÉSENT :<br>radical du futur<br>+ terminaisons de l'imparfait" },
+    { "page_no": 230, "seq": 11, "type": "example", "body_html": "<em>Je <strong>voudrais</strong></em>　　<em>Je <strong>devrais</strong></em>" },
+    { "page_no": 230, "seq": 12, "type": "subhead", "body_html": "CONDITIONNEL PASSÉ :<br>conditionnel de « être » ou « avoir »<br>+ participe passé" },
+    { "page_no": 230, "seq": 13, "type": "example", "body_html": "<em>J'<strong>aurais voulu</strong></em>　　<em>J'<strong>aurais dû</strong></em>" },
+    { "page_no": 230, "seq": 14, "type": "xref", "body_html": "Conditionnel (1), p. 136&nbsp;&nbsp;&nbsp;&nbsp;Hypothèses, p. 232, 234" }
+  ],
+  "exercises": [
+    {
+      "page_no": 231, "seq": 1,
+      "instruction_fr": "Mettez au conditionnel, pour reconstituer le texte de Georges Perec (extrait d'Espèces d'espaces).",
+      "label": "L'utopie villageoise", "note_html": "Bien sûr, on connaîtrait tout le monde", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Bien sûr on connaît tout le monde et les histoires de tout le monde. Tous les mercredis, le charcutier de Dampierre klaxonne devant chez vous pour vous apporter les andouillettes. Tous les lundis madame Blaise vient laver. On va avec les enfants cueillir des mûres... On est attentif au passage du car de sept heures. On aime aller s'asseoir sur le banc du village... On sait reconnaître les oiseaux à leur chant. On attend le retour des saisons.<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 231, "seq": 2,
+      "instruction_fr": "Transformez avec « au cas où », selon le modèle.",
+      "label": "", "note_html": "Appelez-moi si vous avez un problème. <em class='model'>Appelez-moi au cas où vous auriez un problème.</em>", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Avertissez-moi si vous quittez votre appartement.<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Achète une pizza. Il y aura peut-être des invités.<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Prenez un gros pull : il fera peut-être froid.<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Racontez tout à Pierre, s'il demande des explications.<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Regardez la règle de grammaire, si vous avez des doutes.<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 231, "seq": 3,
+      "instruction_fr": "Complétez avec un conditionnel passé et un ou plusieurs pronoms compléments.",
+      "label": "", "note_html": "– J'ai perdu votre numéro de téléphone, sinon je vous aurais appelé.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je ne savais pas qu'il y avait une fête dans le quartier, sinon<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Heureusement que le train avait un peu de retard, sinon<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. J'ai oublié que c'était l'anniversaire de Marie, sinon<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Je ne savais pas que vous n'aimiez pas le fromage, sinon<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Heureusement que le chauffeur a évité mon chien, sinon<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 231, "seq": 4,
+      "instruction_fr": "Monsieur Dupond est vieux et il a des regrets. Exprimez-les. Continuez librement",
+      "label": "voyager – parler plusieurs langues – être un artiste – acheter une maison – profiter davantage de la vie – avoir des enfants – faire des économies – être plus tolérant", "note_html": "J'aurais aimé / J'aurais voulu<br>J'aurais dû", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}
