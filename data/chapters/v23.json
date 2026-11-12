@@ -1,0 +1,782 @@
+{
+  "course": "vocabulaire",
+  "seq": 23,
+  "title_fr": "LA COMMUNICATION",
+  "page_start": 156,
+  "page_end": 161,
+  "pdf_start": 158,
+  "pdf_end": 163,
+  "sections": [
+    {
+      "title_fr": "AU TÉLÉPHONE",
+      "page_no": 156
+    },
+    {
+      "title_fr": "SUR LE RÉPONDEUR",
+      "page_no": 156
+    },
+    {
+      "title_fr": "INVITER",
+      "page_no": 158
+    },
+    {
+      "title_fr": "PROPOSER",
+      "page_no": 158
+    },
+    {
+      "title_fr": "EXPRIMER LA DÉCEPTION",
+      "page_no": 158
+    },
+    {
+      "title_fr": "COMMUNIQUER",
+      "page_no": 160
+    },
+    {
+      "title_fr": "LES CONSEILS",
+      "page_no": 160
+    }
+  ],
+  "blocks": [
+    {
+      "page_no": 156,
+      "seq": 1,
+      "type": "chapter_title",
+      "body_html": "<span class='ch-no'>23</span> LA COMMUNICATION"
+    },
+    {
+      "page_no": 156,
+      "seq": 2,
+      "type": "section_title",
+      "body_html": "AU TÉLÉPHONE"
+    },
+    {
+      "page_no": 156,
+      "seq": 3,
+      "type": "subhead",
+      "body_html": "En contexte professionnel"
+    },
+    {
+      "page_no": 156,
+      "seq": 4,
+      "type": "speech",
+      "body_html": "Allô, pourrais-je parler à monsieur Baudoin, s'il vous plaît ?<br>– Oui, c'est de la part de qui ? (= vous êtes madame... ?)<br>– De la part de Manon Gaubert.<br>– Un instant, s'il vous plaît. (...) Il est en ligne, vous patientez ?<br>– Non merci, je le rappellerai plus tard."
+    },
+    {
+      "page_no": 156,
+      "seq": 5,
+      "type": "speech",
+      "body_html": "Allô, bonjour, est-ce que je pourrais parler à Sébastien Garcia, s'il vous plaît ?<br>– Non, je suis désolé(e), il n'est pas là. Je peux prendre un message ?<br>– Oui, s'il vous plaît. Vous pouvez lui demander de rappeler Étienne ?<br>– Il a vos coordonnées ?<br>– Oui, je crois, mais je vous donne mon numéro. C'est le 01 72 36 30 65.<br>– Je lui transmettrai votre message. Au revoir, monsieur."
+    },
+    {
+      "page_no": 156,
+      "seq": 6,
+      "type": "subhead",
+      "body_html": "En contexte personnel"
+    },
+    {
+      "page_no": 156,
+      "seq": 7,
+      "type": "speech",
+      "body_html": "Allô, bonjour, je voudrais parler à Joëlle, s'il vous plaît.<br>– Ne quittez pas / Un instant, s'il vous plaît, je vous la passe."
+    },
+    {
+      "page_no": 156,
+      "seq": 8,
+      "type": "speech",
+      "body_html": "Allô, bonjour, je suis bien chez M. et Mme Meyer ?<br>– Oui.<br>– Bonjour, madame, Je suis Tiphaine, une amie de Franck... Est-ce qu'il est là ?"
+    },
+    {
+      "page_no": 156,
+      "seq": 9,
+      "type": "speech",
+      "body_html": "Allô, Magali ? C'est Romain, à l'appareil.<br>– Non, vous avez fait erreur, je ne suis pas Magali !<br>– Oh, excusez-moi, madame !<br>– Je vous en prie."
+    },
+    {
+      "page_no": 156,
+      "seq": 10,
+      "type": "section_title",
+      "body_html": "SUR LE RÉPONDEUR"
+    },
+    {
+      "page_no": 156,
+      "seq": 11,
+      "type": "list",
+      "body_html": "<div class='bullet'>« Bonjour, vous êtes bien chez Ninon et Frédéric. Nous sommes absents pour le moment, mais vous pouvez nous laisser un message après le bip qui va suivre. Nous vous rappellerons dès que possible. »</div>"
+    },
+    {
+      "page_no": 156,
+      "seq": 12,
+      "type": "list",
+      "body_html": "<div class='bullet'>« Bonjour, vous êtes bien au 01 72 36 30 65, mais je ne peux pas vous répondre à l'instant. Laissez-moi votre message et vos coordonnées, et je vous rappellerai. Merci et à bientôt. »</div>"
+    },
+    {
+      "page_no": 156,
+      "seq": 13,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarques.</span> <i>1. Les « coordonnées » sont les informations permettant de joindre quelqu'un : nom, numéro de téléphone ou de mobile, adresse, adresse électronique... 2. L'adverbe « bien » s'emploie pour vérifier ou confirmer une information. « Vous habitez bien à Lausanne ? – Oui, j'habite bien à Lausanne. »</i>"
+    },
+    {
+      "page_no": 158,
+      "seq": 14,
+      "type": "running_head",
+      "body_html": "LA COMMUNICATION"
+    },
+    {
+      "page_no": 158,
+      "seq": 15,
+      "type": "section_title",
+      "body_html": "INVITER"
+    },
+    {
+      "page_no": 158,
+      "seq": 16,
+      "type": "list",
+      "body_html": "<div class='bullet'>Tu es libre, vendredi soir ? Tu veux venir au cinéma avec nous ?</div>"
+    },
+    {
+      "page_no": 158,
+      "seq": 17,
+      "type": "list",
+      "body_html": "<div class='bullet'>① Accepter avec enthousiasme : « Oui, je veux bien ! Avec plaisir ! Bien volontiers ! » – « Super ! Ça tombe bien, je n'ai rien de prévu, ce soir-là ! » ② Accepter de manière neutre : « Peut-être, je vais voir. Je peux te confirmer un peu plus tard ? » – « Vendredi, ça devrait aller. Je crois que je n'ai rien, ce soir-là. » ③ Refuser : « Non, je suis désolé(e), je suis pris(e), samedi soir ! » – « C'est dommage, je suis invité(e), samedi soir. Ce sera pour une autre fois ! » – « Oh zut ! Ça tombe mal ! Je ne suis pas libre, samedi soir ! »</div>"
+    },
+    {
+      "page_no": 158,
+      "seq": 18,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarque.</span> <i>Le verbe « vouloir bien » signifie « accepter ». « Je veux bien » = « j'accepte votre proposition. »</i>"
+    },
+    {
+      "page_no": 158,
+      "seq": 19,
+      "type": "section_title",
+      "body_html": "PROPOSER"
+    },
+    {
+      "page_no": 158,
+      "seq": 20,
+      "type": "list",
+      "body_html": "<div class='bullet'>Si on allait au cinéma, ce soir ? (si + imparfait : structure de la proposition) ① – Oui, c'est une bonne idée ! ② – Oui, pourquoi pas ? Qu'est-ce que tu voudrais voir ? ③ – Oh non, une autre fois, peut-être... – Oh non, franchement, je n'ai pas très envie de sortir, ce soir.</div>"
+    },
+    {
+      "page_no": 158,
+      "seq": 21,
+      "type": "list",
+      "body_html": "<div class='bullet'>Ça te/vous dirait de faire une promenade en forêt, dimanche ? ① – Ah oui, avec grand plaisir, j'adore marcher en forêt ! ③ – Non, à vrai dire, ça ne me dit rien. Je n'aime pas beaucoup marcher.</div>"
+    },
+    {
+      "page_no": 158,
+      "seq": 22,
+      "type": "list",
+      "body_html": "<div class='bullet'>Tu veux / vous voulez que je te/vous ramène chez toi/vous ? ① – Ah oui, c'est vraiment gentil de ta/votre part ! Merci beaucoup. – Vraiment ? Tu es / vous êtes sûr(e) ? Ça ne te/vous dérange pas ? ③ – Non merci, c'est très gentil, mais j'habite juste à côté. – Non merci, ce n'est pas la peine, je prendrai le bus.</div>"
+    },
+    {
+      "page_no": 158,
+      "seq": 23,
+      "type": "section_title",
+      "body_html": "EXPRIMER LA DÉCEPTION"
+    },
+    {
+      "page_no": 158,
+      "seq": 24,
+      "type": "list",
+      "body_html": "<div class='bullet'>Désolé(e), il n'y a plus de place pour le concert. C'est complet ! – Tant pis ! Ce sera pour une autre fois / pour la prochaine fois ! – C'est dommage, je suis vraiment déçu(e) !</div>"
+    },
+    {
+      "page_no": 158,
+      "seq": 25,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarque.</span> <i>L'expression « Tant pis ! » est bien utile pour répondre poliment à une phrase négative, un refus, etc. « Le coiffeur n'est pas là, aujourd'hui. – Tant pis ! Je reviendrai demain. »</i>"
+    },
+    {
+      "page_no": 160,
+      "seq": 26,
+      "type": "running_head",
+      "body_html": "LA COMMUNICATION"
+    },
+    {
+      "page_no": 160,
+      "seq": 27,
+      "type": "section_title",
+      "body_html": "COMMUNIQUER"
+    },
+    {
+      "page_no": 160,
+      "seq": 28,
+      "type": "list",
+      "body_html": "<div class='bullet'>Jérôme communique des informations à Yasmina. Jérôme informe Yasmina des décisions de l'entreprise. Jérôme et Yasmina communiquent facilement, la communication est facile entre eux. En revanche, avec Bertrand, il y a de gros problèmes de communication = ils communiquent mal.</div>"
+    },
+    {
+      "page_no": 160,
+      "seq": 29,
+      "type": "list",
+      "body_html": "<div class='bullet'>Le monde moderne emploie toutes sortes de moyens de communication. Les politiciens ont des conseillers en communication, pour savoir comment parler aux médias.</div>"
+    },
+    {
+      "page_no": 160,
+      "seq": 30,
+      "type": "list",
+      "body_html": "<div class='bullet'>Je voudrais des renseignements sur les cours de musique. Où est-ce que je peux me renseigner ? – Vous pouvez aller au guichet n° 7. Quelqu'un vous renseignera.</div>"
+    },
+    {
+      "page_no": 160,
+      "seq": 31,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarque.</span> <i>Ne confondez pas « renseigner » (= donner des informations) et « se renseigner » (= demander, chercher des informations).</i>"
+    },
+    {
+      "page_no": 160,
+      "seq": 32,
+      "type": "list",
+      "body_html": "<div class='bullet'>La situation provoque des interrogations (= questions). Nous avons donc interrogé des collègues pour obtenir des précisions (= des informations précises). – Vous êtes au courant de la situation ? – Oui, on m'a mis(e) au courant : je sais que l'entreprise a obtenu un nouveau marché. – Moi, on ne m'a pas informé. Je ne suis au courant de rien ! – Dans ce cas, je vous tiendrai au courant des prochaines négociations. Je vous transmettrai les informations.</div>"
+    },
+    {
+      "page_no": 160,
+      "seq": 33,
+      "type": "list",
+      "body_html": "<div class='bullet'>Damien avait promis à son fils de l'emmener au cinéma. Samedi après-midi, Damien a tenu sa promesse : ils sont allés ensemble voir un bon film.</div>"
+    },
+    {
+      "page_no": 160,
+      "seq": 34,
+      "type": "list",
+      "body_html": "<div class='bullet'>Quand ils jouent, les enfants parlent extrêmement fort, ils crient même. Les cris sont joyeux, mais cela fait du bruit !</div>"
+    },
+    {
+      "page_no": 160,
+      "seq": 35,
+      "type": "section_title",
+      "body_html": "LES CONSEILS"
+    },
+    {
+      "page_no": 160,
+      "seq": 36,
+      "type": "list",
+      "body_html": "<div class='bullet'>On peut demander, donner ou recevoir des conseils. On conseille = recommande à quelqu'un de faire quelque chose. On peut, au contraire, déconseiller quelque chose, ne pas le recommander. – J'ai un conseil à te demander. Quel livre est-ce que tu me recommandes de lire ? – Tu devrais lire La Vie devant soi, de Romain Gary, c'est un très beau livre. Tu ferais bien de l'acheter à la librairie. Cela vaut la peine de l'avoir.</div>"
+    }
+  ],
+  "exercises": [
+    {
+      "page_no": 157,
+      "seq": 1,
+      "instruction_fr": "Associez les phrases de sens équivalent.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "assoc",
+          "stem_html": "1. C'est de la part de qui ? → {{b}}"
+        },
+        {
+          "seq": 2,
+          "type": "assoc",
+          "stem_html": "2. Elle est en ligne. → {{b}}"
+        },
+        {
+          "seq": 3,
+          "type": "assoc",
+          "stem_html": "3. Tu peux me passer Camille, s'il te plaît ? → {{b}}"
+        },
+        {
+          "seq": 4,
+          "type": "assoc",
+          "stem_html": "4. Je vais prendre vos coordonnées. → {{b}}"
+        },
+        {
+          "seq": 5,
+          "type": "assoc",
+          "stem_html": "5. Camille, à l'appareil. → {{b}}"
+        },
+        {
+          "seq": 6,
+          "type": "assoc",
+          "stem_html": "6. Ne quittez pas, je vous la passe. → {{b}}"
+        },
+        {
+          "seq": 7,
+          "type": "assoc",
+          "stem_html": "7. Je peux prendre un message ? → {{b}}"
+        }
+      ]
+    },
+    {
+      "page_no": 157,
+      "seq": 2,
+      "instruction_fr": "Choisissez la ou les réponse(s) possible(s).",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. Je vais prendre vos coordonnées. {{o:D'accord. Mon numéro est le 01 72 36 30 65.|Vous avez fait erreur.|Je suis bien au 01 72 36 30 65 ?}}"
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. Je voudrais parler à Solène, s'il te plaît. {{o:Ne me quitte pas !|Un instant, je te la passe.|Ne quitte pas, elle arrive.}}"
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. Je peux lui laisser un message ? {{o:Bien sûr ! Je prends un stylo.|Oui, je te le passe tout de suite.|Oui, vous êtes monsieur ?}}"
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. Je suis bien chez Pierre Pahin ? {{o:Non, pas du tout, monsieur !|Non, il est absent.|Oui, vous voulez lui parler ?}}"
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. Est-ce que Michel est là, s'il vous plaît ? {{o:Je suis désolé, je vous le passe.|C'est de la part de qui ?|Il a vos coordonnées ?}}"
+        },
+        {
+          "seq": 6,
+          "type": "choice",
+          "stem_html": "6. Allô, Dominique ? {{o:Oui, c'est moi !|Oui, je vais noter votre nom.|Non, vous avez fait erreur.}}"
+        }
+      ]
+    },
+    {
+      "page_no": 157,
+      "seq": 3,
+      "instruction_fr": "Complétez cette annonce sur un répondeur.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "« {{b}}, vous êtes {{b}} chez Hélène et Éric Foster. Nous sommes {{b}}, mais laissez-nous votre {{b}} et vos {{b}} et nous vous {{b}} au plus vite. Merci, à bientôt. »"
+        }
+      ]
+    },
+    {
+      "page_no": 157,
+      "seq": 4,
+      "instruction_fr": "À vous ! Vous cherchez à joindre quelqu'un, dans une entreprise. Que répondez-vous à ces phrases ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. C'est de la part de qui ?"
+        },
+        {
+          "seq": 2,
+          "type": "open",
+          "stem_html": "2. Il/elle est en ligne, vous patientez ?"
+        },
+        {
+          "seq": 3,
+          "type": "open",
+          "stem_html": "3. Vous voulez laisser un message ?"
+        },
+        {
+          "seq": 4,
+          "type": "open",
+          "stem_html": "4. Il/elle a vos coordonnées ?"
+        },
+        {
+          "seq": 5,
+          "type": "open",
+          "stem_html": "5. Vous avez fait erreur, vous vous êtes trompé(e) de numéro."
+        },
+        {
+          "seq": 6,
+          "type": "open",
+          "stem_html": "6. Désolé(e), il/elle n'est pas là."
+        }
+      ]
+    },
+    {
+      "page_no": 159,
+      "seq": 5,
+      "instruction_fr": "Associez pour constituer une phrase complète.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "assoc",
+          "stem_html": "1. Ça tombe bien, → {{b}}"
+        },
+        {
+          "seq": 2,
+          "type": "assoc",
+          "stem_html": "2. Ça te dirait → {{b}}"
+        },
+        {
+          "seq": 3,
+          "type": "assoc",
+          "stem_html": "3. C'est très gentil → {{b}}"
+        },
+        {
+          "seq": 4,
+          "type": "assoc",
+          "stem_html": "4. Ce sera → {{b}}"
+        },
+        {
+          "seq": 5,
+          "type": "assoc",
+          "stem_html": "5. Ça ne me dit → {{b}}"
+        },
+        {
+          "seq": 6,
+          "type": "assoc",
+          "stem_html": "6. Ce n'est pas → {{b}}"
+        }
+      ]
+    },
+    {
+      "page_no": 159,
+      "seq": 6,
+      "instruction_fr": "Choisissez la ou les bonne(s) réponse(s).",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. Tu veux un thé ? {{o:Avec plaisir !|Ça ne me dérange pas.|Non merci, ça ne me dit rien.}}"
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. Je peux te raccompagner ? {{o:Je n'ai rien de prévu.|Ce sera pour une autre fois !|Oui, c'est gentil.}}"
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. Tu as envie d'aller au restaurant ? {{o:Tant pis !|Pourquoi pas ?|Oui, je veux bien !}}"
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. Vous êtes libre, jeudi soir ? {{o:Non, jeudi soir, je ne suis pas libre.|Oui, jeudi soir, ça devrait aller.|Non, jeudi soir, je suis pris.}}"
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. Si on faisait une randonnée ? {{o:Quel dommage !|Franchement, ça ne me dit rien...|Oui, bonne idée !}}"
+        },
+        {
+          "seq": 6,
+          "type": "choice",
+          "stem_html": "6. Je peux vous aider ? {{o:Non merci, ce n'est pas la peine.|C'est très gentil de votre part !|Je suis vraiment déçu !}}"
+        }
+      ]
+    },
+    {
+      "page_no": 159,
+      "seq": 7,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "tf",
+          "stem_html": "1. « Je veux bien » quand vous voulez quelque chose. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 2,
+          "type": "tf",
+          "stem_html": "2. « Ce n'est pas la peine » quand vous refusez de l'aide. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 3,
+          "type": "tf",
+          "stem_html": "3. « Désolé, je suis pris » quand vous refusez une invitation. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 4,
+          "type": "tf",
+          "stem_html": "4. « Ça te dirait de sortir ? » quand vous faites une proposition. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 5,
+          "type": "tf",
+          "stem_html": "5. « Tant pis ! » quand vous acceptez une invitation. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 6,
+          "type": "tf",
+          "stem_html": "6. « Quel dommage ! » quand vous êtes déçu(e). Vrai {{c:g}} Faux {{c:g}}"
+        }
+      ]
+    },
+    {
+      "page_no": 159,
+      "seq": 8,
+      "instruction_fr": "À vous ! Que pouvez-vous répondre ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. Vous êtes libre, samedi soir, pour un dîner ?"
+        },
+        {
+          "seq": 2,
+          "type": "open",
+          "stem_html": "2. Vous voulez que je vous ramène chez vous ?"
+        },
+        {
+          "seq": 3,
+          "type": "open",
+          "stem_html": "3. Ça vous dirait d'aller au cinéma ?"
+        },
+        {
+          "seq": 4,
+          "type": "open",
+          "stem_html": "4. Si on allait à la campagne, ce week-end ?"
+        },
+        {
+          "seq": 5,
+          "type": "open",
+          "stem_html": "5. J'ai essayé de prendre des places pour le match, mais c'est complet !"
+        },
+        {
+          "seq": 6,
+          "type": "open",
+          "stem_html": "6. Vous avez quelque chose de prévu, dimanche après-midi ?"
+        }
+      ]
+    },
+    {
+      "page_no": 161,
+      "seq": 9,
+      "instruction_fr": "Choisissez les termes possibles. Attention à la construction des verbes.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. Nous vous {{o:tenons|faisons|mettons|conseillons}} au courant de la situation."
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. Il {{o:donne|fait|reçoit|tient|parle}} des conseils."
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. Elle essaye d'obtenir des {{o:problèmes|renseignements|informations|précisions}}."
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. Un collègue m'a {{o:communiqué|renseigné|conseillé}} de partir."
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. Ils {{o:parlent|rient|communiquent|déconseillent}} pendant la réunion."
+        }
+      ]
+    },
+    {
+      "page_no": 161,
+      "seq": 10,
+      "instruction_fr": "Associez les phrases de sens équivalent.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "assoc",
+          "stem_html": "1. Je suis au courant. → {{b}}"
+        },
+        {
+          "seq": 2,
+          "type": "assoc",
+          "stem_html": "2. Je me renseigne. → {{b}}"
+        },
+        {
+          "seq": 3,
+          "type": "assoc",
+          "stem_html": "3. J'ai interrogé un collègue. → {{b}}"
+        },
+        {
+          "seq": 4,
+          "type": "assoc",
+          "stem_html": "4. J'ai donné des conseils. → {{b}}"
+        },
+        {
+          "seq": 5,
+          "type": "assoc",
+          "stem_html": "5. J'ai renseigné quelqu'un. → {{b}}"
+        },
+        {
+          "seq": 6,
+          "type": "assoc",
+          "stem_html": "6. J'ai reçu des conseils. → {{b}}"
+        }
+      ]
+    },
+    {
+      "page_no": 161,
+      "seq": 11,
+      "instruction_fr": "Trouvez le nom correspondant à ces verbes.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. conseiller : le {{b}}"
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. informer : {{b}}"
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. interroger : {{b}}"
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. communiquer : {{b}}"
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. renseigner : {{b}}"
+        },
+        {
+          "seq": 6,
+          "type": "cloze",
+          "stem_html": "6. préciser : {{b}}"
+        },
+        {
+          "seq": 7,
+          "type": "cloze",
+          "stem_html": "7. promettre : {{b}}"
+        },
+        {
+          "seq": 8,
+          "type": "cloze",
+          "stem_html": "8. crier : {{b}}"
+        }
+      ]
+    },
+    {
+      "page_no": 161,
+      "seq": 12,
+      "instruction_fr": "Complétez. Plusieurs solutions sont parfois possibles.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. Vous vous êtes renseigné ? – Oui, j'ai enfin obtenu des {{b}}."
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. Est-ce que tes amis {{b}} au courant de la situation ?"
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. Mon chéri, arrête de {{b}}, je ne suis pas sourd !"
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. Quel film est-ce que vous me {{b}} ?"
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. C'est désagréable, elle parle {{b}} dans le métro, cela gêne tout le monde."
+        },
+        {
+          "seq": 6,
+          "type": "cloze",
+          "stem_html": "6. J'espère que mes collègues me {{b}} au courant de la situation."
+        },
+        {
+          "seq": 7,
+          "type": "cloze",
+          "stem_html": "7. Cela vaut la {{b}} de visiter cette exposition, elle est magnifique !"
+        }
+      ]
+    },
+    {
+      "page_no": 161,
+      "seq": 13,
+      "instruction_fr": "À vous !",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. En général, est-ce que vous parlez fort ?"
+        },
+        {
+          "seq": 2,
+          "type": "open",
+          "stem_html": "2. Pour connaître les activités culturelles dans votre région, où et comment est-ce que vous vous renseignez ?"
+        },
+        {
+          "seq": 3,
+          "type": "open",
+          "stem_html": "3. Est-ce que vous êtes au courant de la situation internationale ?"
+        },
+        {
+          "seq": 4,
+          "type": "open",
+          "stem_html": "4. En général, est-ce que vous communiquez facilement avec votre entourage ?"
+        },
+        {
+          "seq": 5,
+          "type": "open",
+          "stem_html": "5. Est-ce que vous aimez donner des conseils ? Dans quel domaine ?"
+        },
+        {
+          "seq": 6,
+          "type": "open",
+          "stem_html": "6. Quels conseils donneriez-vous à un touriste venant visiter votre région / ville ?"
+        }
+      ]
+    }
+  ]
+}
