@@ -1,0 +1,206 @@
+{
+  "course": "vocabulaire",
+  "seq": 9,
+  "title_fr": "L'APPARENCE",
+  "page_start": 56,
+  "page_end": 61,
+  "pdf_start": 58,
+  "pdf_end": 63,
+  "sections": [
+    {"title_fr": "LES STRUCTURES FONDAMENTALES", "page_no": 56},
+    {"title_fr": "Il (elle) est comment* ? Comment est-il (elle) ?", "page_no": 56},
+    {"title_fr": "LA TAILLE ET LE POIDS", "page_no": 56},
+    {"title_fr": "Combien est-ce qu'il mesure ?", "page_no": 56},
+    {"title_fr": "Combien est-ce qu'elle pèse ?", "page_no": 56},
+    {"title_fr": "LA BEAUTÉ… ET LA LAIDEUR", "page_no": 58},
+    {"title_fr": "LES SIGNES PARTICULIERS", "page_no": 58},
+    {"title_fr": "L'ÂGE", "page_no": 58},
+    {"title_fr": "LE VISAGE ET LES YEUX", "page_no": 60},
+    {"title_fr": "LES CHEVEUX ET LA COIFFURE", "page_no": 60}
+  ],
+  "blocks": [
+    {"page_no": 56, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">9</span> L'APPARENCE"},
+    {"page_no": 56, "seq": 2, "type": "section_title", "body_html": "LES STRUCTURES FONDAMENTALES"},
+    {"page_no": 56, "seq": 3, "type": "subhead", "body_html": "Il (elle) est comment* ? Comment est-il (elle) ?"},
+    {"page_no": 56, "seq": 4, "type": "list", "body_html": "<div class='bullet'><b>être + adjectif qualificatif</b><br><i>Qu'est-ce qu'il* est beau !</i><br><b>Qu'elle est belle ! Elle est vraiment très belle !</b></div>"},
+    {"page_no": 56, "seq": 5, "type": "list", "body_html": "<div class='bullet'><b>avoir + nom précédé de l'article indéfini + adjectif</b><br><b>Adèle a un beau visage</b>, un très beau visage. Emma a <b>des cheveux magnifiques</b> !<br>Cyrano de Bergerac a <b>un grand nez, un très grand nez</b> !</div>"},
+    {"page_no": 56, "seq": 6, "type": "list", "body_html": "<div class='bullet'><b>avoir + nom précédé de l'article défini + adjectif</b><br><b>Frank a les yeux verts et les cheveux châtains</b>. Laurent a <b>le teint pâle</b>.<br>Jacotte a <b>la peau claire</b> et <b>les cheveux gris</b>.</div>"},
+    {"page_no": 56, "seq": 7, "type": "list", "body_html": "<div class='bullet'><b>être + article indéfini + adjectif + caractéristiques des cheveux</b><br>Christian est <b>un beau brun</b>. Virginie est <b>une jolie rousse</b>.<br><b>C'est un grand blond aux yeux verts</b> (= il est grand, blond et il a les yeux verts).<br><b>C'est une petite brune aux cheveux courts.</b><br><b>C'est une fausse blonde</b> (= ce n'est pas sa couleur naturelle).</div>"},
+    {"page_no": 56, "seq": 8, "type": "section_title", "body_html": "LA TAILLE ET LE POIDS"},
+    {"page_no": 56, "seq": 9, "type": "subhead", "body_html": "Combien est-ce qu'il mesure ?"},
+    {"page_no": 56, "seq": 10, "type": "table", "body_html": "<table class='vocab'><tr><td>Il est…</td><td>tout petit</td><td>petit</td><td>de taille moyenne</td><td>grand</td><td>très grand</td><td><b>immense</b></td></tr><tr><td>Il mesure…</td><td>1m55</td><td>1m65</td><td>1m75</td><td>1m80</td><td>1m90</td><td>1m95</td></tr></table>"},
+    {"page_no": 56, "seq": 11, "type": "subhead", "body_html": "Combien est-ce qu'elle pèse ?"},
+    {"page_no": 56, "seq": 12, "type": "para", "body_html": "Chloé <b>s'est pesée sur sa balance</b> : elle <b>pèse 65 kilos</b>, elle a <b>pris 5 kilos</b> en deux mois, elle a <b>grossi de 5 kilos</b> ! Quelle horreur ! Elle doit <b>maigrir / perdre du poids</b>, si elle veut <b>garder la ligne</b>. « Demain, c'est décidé, je commence <b>un régime (amaigrissant)</b>. » Et bien sûr, elle va faire de la gymnastique pour <b>rester souple</b>, car elle se sent un peu <b>raide</b> en ce moment."},
+    {"page_no": 56, "seq": 13, "type": "table", "body_html": "<table class='vocab'><tr><td>elle est maigre</td><td>mince</td><td>ronde</td><td>grosse</td><td>obèse</td></tr></table>"},
+    {"page_no": 58, "seq": 14, "type": "running_head", "body_html": "L'APPARENCE"},
+    {"page_no": 58, "seq": 15, "type": "section_title", "body_html": "LA BEAUTÉ… ET LA LAIDEUR"},
+    {"page_no": 58, "seq": 16, "type": "list", "body_html": "<div class='bullet'>Raphaël <b>n'est pas mal…</b> il est même plutôt <b>mignon</b>. Grégoire est <b>beau comme un dieu</b> ! C'est vraiment <b>un bel homme</b> !</div>"},
+    {"page_no": 58, "seq": 17, "type": "list", "body_html": "<div class='bullet'>Anandine est <b>très jolie</b>, très <b>mignonne</b>, <b>adorable</b>, elle est même <b>ravissante</b> !</div>"},
+    {"page_no": 58, "seq": 18, "type": "list", "body_html": "<div class='bullet'>Anne est <b>belle</b>, elle est <b>superbe, magnifique</b> ! C'est <b>une très belle femme</b>.</div>"},
+    {"page_no": 58, "seq": 19, "type": "list", "body_html": "<div class='bullet'>Clémence est une femme <b>séduisante</b>, elle <b>plaît aux hommes</b> ! Michel a beaucoup <b>de charme</b>, il <b>plaît aux femmes</b>.</div>"},
+    {"page_no": 58, "seq": 20, "type": "list", "body_html": "<div class='bullet'>Henri <b>n'est pas beau</b>, il est <b>moche*</b>, il est même <b>laid</b>. <b>Il est d'une laideur incroyable</b> !</div>"},
+    {"page_no": 58, "seq": 21, "type": "list", "body_html": "<div class='bullet'>Raymond est <b>laid et antipathique</b>, il est vraiment <b>affreux</b> !</div>"},
+    {"page_no": 58, "seq": 22, "type": "list", "body_html": "<div class='bullet'>Cécile <b>non plus n'est pas belle</b>, elle <b>aussi est moche*, laide comme un pou*</b> !</div>"},
+    {"page_no": 58, "seq": 23, "type": "list", "body_html": "<div class='bullet'>Madeleine est danseuse, elle est <b>gracieuse</b>.</div>"},
+    {"page_no": 58, "seq": 24, "type": "list", "body_html": "<div class='bullet'>Adèle est <b>élégante</b> (= elle est bien habillée), <b>coquette</b> (= elle aime les beaux vêtements, le maquillage, les bijoux…) <b>et soignée (propre et bien coiffée)</b>.<br>Son mari, au contraire, est <b>mal habillé, négligé et mal coiffé</b>.</div>"},
+    {"page_no": 58, "seq": 25, "type": "remark", "body_html": "<span class='remark-label'>Remarques.</span> <i>1. Les adjectifs « mignon » et « adorable » évoquent quelque chose ou quelqu'un de petit. Les adjectifs « beau », « magnifique », « splendide », au contraire, évoquent quelque chose ou quelqu'un de grand. 2. « Il n'est pas mal » change de sens avec l'intonation. Avec une intonation neutre : « il est assez beau », avec une intonation admirative : « il est vraiment beau ! ». 3. On ne dit pas d'un homme qu'il est « joli »…</i>"},
+    {"page_no": 58, "seq": 26, "type": "section_title", "body_html": "LES SIGNES PARTICULIERS"},
+    {"page_no": 58, "seq": 27, "type": "table", "body_html": "<table class='vocab'><tr><td>Il a/porte des lunettes.</td><td>Elle a des taches de rousseur.</td><td>Elle a un grain de beauté.</td></tr><tr><td>Il a/porte la moustache, il est moustachu.</td><td>Il a/porte la barbe, il est barbu.</td><td></td></tr></table>"},
+    {"page_no": 58, "seq": 28, "type": "section_title", "body_html": "L'ÂGE"},
+    {"page_no": 58, "seq": 29, "type": "list", "body_html": "<div class='bullet'>Antoine a 35 ans, mais il <b>fait / paraît plus vieux que son âge</b>, il <b>fait 45 ans</b> ! Florence, au contraire, <b>fait plus jeune que son âge</b>. Elle a <b>une cinquantaine d'années</b>, mais elle <b>ne fait pas son âge</b>, elle <b>paraît 40 ans</b>.</div>"},
+    {"page_no": 58, "seq": 30, "type": "list", "body_html": "<div class='bullet'><b>Pour donner une idée de l'âge</b>, on peut dire :<br>– <b>une petite fille, un petit garçon</b> : entre 2 et 10/11 ans ;<br>– <b>une jeune fille, un jeune homme</b>, « <b>des jeunes</b> » : entre 17 et 25 ans environ ;<br>– <b>une jeune femme, un homme jeune</b> : entre 30 et … ans ! (<i>la limite est délicate à définir</i>) ;<br>– <b>une vieille dame, un vieux monsieur, une dame âgée, un monsieur âgé</b> : plus de 70 ans.</div>"},
+    {"page_no": 60, "seq": 31, "type": "running_head", "body_html": "L'APPARENCE"},
+    {"page_no": 60, "seq": 32, "type": "section_title", "body_html": "LE VISAGE ET LES YEUX"},
+    {"page_no": 60, "seq": 33, "type": "list", "body_html": "<div class='bullet'>Clotilde a un beau visage <b>harmonieux</b>. Elle a <b>les traits fins</b>. Lydie n'est pas belle, mais elle a un visage <b>expressif</b>. Elle a <b>un beau sourire</b>.</div>"},
+    {"page_no": 60, "seq": 34, "type": "list", "body_html": "<div class='bullet'><b>La forme du visage varie. Il peut être…</b></div>"},
+    {"page_no": 60, "seq": 35, "type": "table", "body_html": "<table class='vocab'><tr><td>rond</td><td>allongé</td><td>carré</td></tr></table>"},
+    {"page_no": 60, "seq": 36, "type": "list", "body_html": "<div class='bullet'>Le bébé a <b>la peau toute lisse</b>, tandis que le vieux monsieur a beaucoup de <b>rides</b>, il a le visage tout <b>ridé</b>.</div>"},
+    {"page_no": 60, "seq": 37, "type": "list", "body_html": "<div class='bullet'>Thomas a <b>le teint pâle / clair</b>, tandis que Zohra a <b>le teint mat</b> (= foncé). Yoshiko a <b>le type asiatique</b> et <b>les yeux bridés</b>. Ali a <b>le type méditerranéen</b> et <b>le teint basané</b>. <b>Joe est noir</b>. Pavel a <b>le type slave</b> et Bjorn a <b>le type nordique</b>.</div>"},
+    {"page_no": 60, "seq": 38, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Ne confondez pas « il est noir » (= il a la peau noire) et « il est brun » (= il a les cheveux bruns ou noirs).</i>"},
+    {"page_no": 60, "seq": 39, "type": "list", "body_html": "<div class='bullet'>Julien est <b>métis</b>, Sophie est <b>métisse</b> (ils ont, par exemple, un père noir et une mère blanche).</div>"},
+    {"page_no": 60, "seq": 40, "type": "list", "body_html": "<div class='bullet'>Dora a de beaux yeux noirs <b>en amande</b>. Michel a les yeux <b>noisette</b>. Émilie a les yeux <b>gris-vert</b> et sa sœur, les yeux <b>bleu pâle</b>.</div>"},
+    {"page_no": 60, "seq": 41, "type": "section_title", "body_html": "LES CHEVEUX ET LA COIFFURE"},
+    {"page_no": 60, "seq": 42, "type": "list", "body_html": "<div class='bullet'>Outre les termes usuels (<b>blond, châtain, brun, roux, noir, gris, blanc</b>, etc.), on peut nuancer : Léon avait <b>les cheveux bruns</b>, maintenant, il a les cheveux <b>poivre et sel</b> (= gris). Léa a les cheveux <b>châtain clair</b> (≠ châtain foncé).</div>"},
+    {"page_no": 60, "seq": 43, "type": "table", "body_html": "<table class='vocab'><tr><td>Éléonore a les cheveux longs, bouclés et dégradés. Elle a la raie au milieu.</td><td>Fanny a les cheveux mi-longs, raides, coupés au carré, et elle porte une frange.</td><td>Edwige a les cheveux courts et frisés.</td></tr><tr><td>Chloé a la raie sur le côté, elle porte les cheveux attachés par une barrette,</td><td>en tresses,</td><td>ou en queue de cheval.</td></tr><tr><td>Paul est déjà dégarni.</td><td>Alain est chauve.</td><td></td></tr></table>"}
+  ],
+  "exercises": [
+    {
+      "page_no": 57, "seq": 1,
+      "instruction_fr": "Choisissez la bonne réponse.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "choice", "stem_html": "1. Il mesure 1,90 m, il est {{o!:très grand|assez grand|souple}}."},
+        {"seq": 2, "type": "choice", "stem_html": "2. Il pèse 150 kg, il est {{o!:grand|mince|obèse}}."},
+        {"seq": 3, "type": "choice", "stem_html": "3. Il mesure 1,60 m, il est {{o!:mince|petit|gros}}."},
+        {"seq": 4, "type": "choice", "stem_html": "4. Elle pèse 55 kg pour 1,70 m, elle est {{o!:petite|grande|mince}}."},
+        {"seq": 5, "type": "choice", "stem_html": "5. Elle pèse 45 kg pour 1,70 m, elle est {{o!:mince|immense|maigre}}."}
+      ]
+    },
+    {
+      "page_no": 57, "seq": 2,
+      "instruction_fr": "Constituez une seule phrase avec ces éléments.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "transform", "stem_html": "1. Il est grand, il est brun, il a les yeux bleus. → {{L}}"},
+        {"seq": 2, "type": "transform", "stem_html": "2. Elle est petite, elle est blonde, elle a les cheveux longs. → {{L}}"},
+        {"seq": 3, "type": "transform", "stem_html": "3. Il est beau, il est blond, il a les yeux gris. → {{L}}"},
+        {"seq": 4, "type": "transform", "stem_html": "4. Elle est grande, elle est rousse, elle a les cheveux courts. → {{L}}"},
+        {"seq": 5, "type": "transform", "stem_html": "5. Elle est petite, elle est brune, elle a les cheveux bouclés. → {{L}}"}
+      ]
+    },
+    {
+      "page_no": 57, "seq": 3,
+      "instruction_fr": "Complétez.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. Il {{b}} les yeux verts."},
+        {"seq": 2, "type": "cloze", "stem_html": "2. Et elle, elle a {{b}} cheveux châtains ?"},
+        {"seq": 3, "type": "cloze", "stem_html": "3. Je dois {{b}} du poids, j'ai pris dix {{b}} !"},
+        {"seq": 4, "type": "cloze", "stem_html": "4. Elle était déjà très mince, maintenant elle est vraiment trop {{b}} ! Elle a suivi un {{b}} amaigrissant beaucoup trop dur."},
+        {"seq": 5, "type": "cloze", "stem_html": "5. Il {{b}} 70 kilos."},
+        {"seq": 6, "type": "cloze", "stem_html": "6. Elle est grande et {{b}}, elle {{b}} 1,80 m et {{b}} 65 kilos."}
+      ]
+    },
+    {
+      "page_no": 57, "seq": 4,
+      "instruction_fr": "Décrivez les personnes suivantes.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [57],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. {{T}}"}
+      ]
+    },
+    {
+      "page_no": 57, "seq": 5,
+      "instruction_fr": "À vous ! Vous êtes comment ? Combien est-ce que vous mesurez ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "{{T}}"}
+      ]
+    },
+    {
+      "page_no": 59, "seq": 6,
+      "instruction_fr": "Choisissez la bonne réponse.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "choice", "stem_html": "1. Joëlle {{o!:est|a|fait}} plus jeune que son âge !"},
+        {"seq": 2, "type": "choice", "stem_html": "2. Flora a 6 ans, c'est une {{o!:jeune fille|petite fille|jeune femme}}."},
+        {"seq": 3, "type": "choice", "stem_html": "3. Lucien a {{o!:une soixantaine|soixante|environ soixante}} d'années."},
+        {"seq": 4, "type": "choice", "stem_html": "4. Nabil a 18 ans, c'est un {{o!:monsieur|jeune homme|petit garçon}}."},
+        {"seq": 5, "type": "choice", "stem_html": "5. Eugénie a 85 ans, c'est une {{o!:âgée|ancienne|vieille}} dame."},
+        {"seq": 6, "type": "choice", "stem_html": "6. Alix a 32 ans, c'est une {{o!:vieille|jeune|petite}} femme."}
+      ]
+    },
+    {
+      "page_no": 59, "seq": 7,
+      "instruction_fr": "Répondez aux questions, en utilisant un autre mot dans la réponse.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Charlotte est jolie ? – Oh oui, {{L}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Vincent plaît aux femmes ? – Oh oui, {{L}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. François porte la moustache ? – Oui, {{L}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. Denis n'est vraiment pas beau, n'est-ce pas ? – Oh non, {{L}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. Nora s'habille bien ? – Oh oui, {{L}}"},
+        {"seq": 6, "type": "open", "stem_html": "6. Mathilde est vraiment belle, n'est-ce pas ? – Oh oui, {{L}}"},
+        {"seq": 7, "type": "open", "stem_html": "7. Pascal porte la barbe ? – Oui, {{L}}"},
+        {"seq": 8, "type": "open", "stem_html": "8. Ce petit garçon est vraiment mignon ? – Oh oui, {{L}}"}
+      ]
+    },
+    {
+      "page_no": 59, "seq": 8,
+      "instruction_fr": "Complétez ce dialogue entre deux adolescentes.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. – Il est {{b}}, Gaëtan ?"},
+        {"seq": 2, "type": "cloze", "stem_html": "2. – Ah, Gaëtan, il est beau comme {{b}} !"},
+        {"seq": 3, "type": "cloze", "stem_html": "3. – Oui, je sais, il n'est pas mal, mais il {{b}} quel âge ?"},
+        {"seq": 4, "type": "cloze", "stem_html": "4. – Une vingtaine d'{{b}}, je crois, mais il {{b}} un peu plus vieux que son {{b}}."},
+        {"seq": 5, "type": "cloze", "stem_html": "5. – Il est {{b}} ?"},
+        {"seq": 6, "type": "cloze", "stem_html": "6. – Oh oui, mais je ne sais pas {{b}} il mesure. Au moins 1,85 m, peut-être plus !"},
+        {"seq": 7, "type": "cloze", "stem_html": "7. – Il {{b}} les yeux de quelle {{b}} ?"},
+        {"seq": 8, "type": "cloze", "stem_html": "8. – Il a {{b}} verts…"},
+        {"seq": 9, "type": "cloze", "stem_html": "9. – Il a une copine ?"},
+        {"seq": 10, "type": "cloze", "stem_html": "10. – Oui, mais elle n'est pas jolie du tout, elle est vraiment {{b}} !"},
+        {"seq": 11, "type": "cloze", "stem_html": "11. – En plus, elle est trop {{b}}, elle devrait faire un régime !"},
+        {"seq": 12, "type": "cloze", "stem_html": "12. – Oui, mais apparemment, elle {{b}} aux garçons…"},
+        {"seq": 13, "type": "cloze", "stem_html": "13. – Pourtant, je me trouve beaucoup plus {{b}} qu'elle ! Et cet idiot de Gaëtan ne me regarde même pas !"}
+      ]
+    },
+    {
+      "page_no": 61, "seq": 9,
+      "instruction_fr": "Complétez.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. Cette petite fille a la {{b}} lisse."},
+        {"seq": 2, "type": "cloze", "stem_html": "2. La vieille dame a beaucoup de {{b}} sur le visage."},
+        {"seq": 3, "type": "cloze", "stem_html": "3. Léon a les cheveux gris, il a les cheveux {{b}}."},
+        {"seq": 4, "type": "cloze", "stem_html": "4. Henriette n'a pas les cheveux châtain clair, mais châtain {{b}}."},
+        {"seq": 5, "type": "cloze", "stem_html": "5. Serge n'a plus de cheveux, il est {{b}}."},
+        {"seq": 6, "type": "cloze", "stem_html": "6. Michel a un beau visage, il a les {{b}} fins."},
+        {"seq": 7, "type": "cloze", "stem_html": "7. Adrienne n'a pas les cheveux coupés au carré, mais {{b}}."}
+      ]
+    },
+    {
+      "page_no": 61, "seq": 10,
+      "instruction_fr": "Décrivez en détail les personnes suivantes.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [61],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. {{T}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. {{T}}"}
+      ]
+    },
+    {
+      "page_no": 61, "seq": 11,
+      "instruction_fr": "À vous ! Pouvez-vous faire une description précise de…",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Vous-même : {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Un(e) très bon(ne) ami(e) : {{T}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. Quelqu'un que vous détestez : {{T}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. Une personne âgée que vous aimez bien : {{T}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. Un petit garçon ou une petite fille : {{T}}"}
+      ]
+    }
+  ]
+}
