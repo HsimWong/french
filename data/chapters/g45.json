@@ -1,0 +1,141 @@
+{
+  "course": "grammaire",
+  "seq": 45,
+  "title_fr": "LE DISCOURS INDIRECT au PASSÉ",
+  "page_start": 216,
+  "page_end": 219,
+  "pdf_start": 218,
+  "pdf_end": 221,
+  "sections": [
+    { "title_fr": "UTILISATION <em>et</em> FORMATION", "page_no": 216 }
+  ],
+  "blocks": [
+    { "page_no": 216, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">45</span> LE DISCOURS INDIRECT au PASSÉ" },
+    { "page_no": 216, "seq": 2, "type": "keypoint", "body_html": "Il m'a dit qu'il <strong>était</strong> écrivain et qu'il <strong>avait écrit</strong> plusieurs romans.<br>Il m'a dit qu'il me <strong>donnerait</strong> ses livres." },
+    { "page_no": 216, "seq": 3, "type": "section_title", "body_html": "UTILISATION <em>et</em> FORMATION" },
+    { "page_no": 216, "seq": 4, "type": "para", "body_html": "<p class='bullet'>On utilise principalement le discours indirect pour rapporter un dialogue (ou des pensées) <strong>au passé</strong> :</p><p class='sample'><em>Il m'<strong>a dit</strong> qu'il <strong>était</strong> allemand.</em><br><em>Je <strong>croyais</strong> qu'il <strong>était</strong> anglais.</em></p>" },
+    { "page_no": 216, "seq": 5, "type": "para", "body_html": "<p class='bullet'>Après un verbe introducteur au passé, le reste de la phrase se met au passé. C'est un phénomène de <strong>concordance</strong> :</p><table class='data-table'><tr><td><em>Il <strong>dit</strong> qu'</em></td><td><em>il pleut.<br>il a plu.<br>il va pleuvoir.<br>il pleuvra.</em></td><td><em>Il <strong>a dit</strong> qu'</em></td><td><em>il <strong>pleuvait</strong>.<br>il <strong>avait plu</strong>.<br>il <strong>allait pleuvoir</strong>.<br>il <strong>pleuvrait</strong>.</em></td><td>♪ Le passé « s'entend »<br>dans les finales à<br>l'imparfait.</td></tr></table><table class='data-table'><tr><td>présent<br>passé composé<br>futur proche<br>futur simple</td><td>⟶<br>⟶<br>⟶<br>⟶</td><td>imparfait<br>plus-que-parfait<br>« aller » à l'imparfait + inf.<br>conditionnel</td></tr></table>" },
+    { "page_no": 216, "seq": 6, "type": "para", "body_html": "<p class='bullet'>L'imparfait de concordance a une valeur phonétique, ce n'est pas un vrai passé :</p><p class='sample'><em>Il m'a dit qu'il <strong>était</strong> allemand.</em> = <em>Il est allemand.</em><br><em>Il m'a dit qu'il <strong>viendrait</strong> en mars.</em> = <em>Il viendra en mars.</em></p>" },
+    { "page_no": 216, "seq": 7, "type": "para", "body_html": "<p>• Dans la principale, « <strong>dire</strong> » est souvent au passé composé, « <strong>croire</strong> » et « <strong>penser</strong> » à l'imparfait :</p><table class='data-table'><tr><td><em>On m'<strong>a dit</strong> que…</em></td><td>(un jour)</td></tr><tr><td><em>Je <strong>croyais</strong>/Je <strong>pensais</strong> que</em></td><td>(situation mentale)</td></tr></table>" },
+    { "page_no": 216, "seq": 8, "type": "para", "body_html": "<p>• Parfois, la concordance n'est pas appliquée quand on annonce un résultat ou quand on constate un fait nouveau :</p><p class='sample'><em>On a constaté que le mont Blanc fait 4 810 m (et pas 4 807 m).</em></p>" },
+    { "page_no": 216, "seq": 9, "type": "xref", "body_html": "Discours indirect au présent, p. 156" }
+  ],
+  "exercises": [
+    {
+      "page_no": 217, "seq": 1,
+      "instruction_fr": "Répondez en utilisant le discours indirect.",
+      "label": "", "note_html": "– Le directeur est malade, on vous l'a dit ? — Oui, on m'a dit qu'il était malade.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. – L'ascenseur est en panne, on vous l'a dit ?<br>{{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. – À midi, il y a du couscous à la cantine, on vous l'a dit ?<br>{{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. – On a volé le vélo du professeur, on vous l'a dit ?<br>{{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. – La secrétaire a démissionné, vous le saviez ?<br>{{L}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. – Monsieur Bidois va prendre sa retraite, on vous l'a dit ?<br>{{L}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. – L'école va fermer cet été, on vous l'a dit ?<br>{{L}}" },
+        { "seq": 7, "type": "open", "stem_html": "7. – Nous ferons une fête de fin d'année, vous le saviez ?<br>{{L}}" },
+        { "seq": 8, "type": "open", "stem_html": "8. – Il y aura un orchestre cubain et on dansera, on vous l'a dit ?<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 217, "seq": 2,
+      "instruction_fr": "Mettez les dialogues en discours indirect, selon le modèle.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "– Allô, Georges ? C'est Thérèse. Écoute, je suis dans le train, je vais à Nice voir mon père. J'ai signé tous les contrats. Je reviendrai mardi prochain.<br>– Thérèse a téléphoné ?<br>– Oui, elle a dit <em>qu'elle était dans le train</em>, et qu'elle {{L}} . Elle a dit qu'elle {{L}} et qu'elle {{L}} ." },
+        { "seq": 2, "type": "cloze", "stem_html": "– Allô, Isabelle ? C'est Arnaud. Je viens de rentrer. Je vais me changer et je vous rejoindrai devant le cinéma. Si j'arrive en retard, je vous attendrai à la sortie.<br>– Allô, Marie ! Écoute : Arnaud a appelé. Il a dit qu'il {{L}} . {{L}} . {{L}} ." },
+        { "seq": 3, "type": "cloze", "stem_html": "– Pardon, madame, je suis étudiant. J'ai perdu mes lunettes ce matin. Je les ai peut-être oubliées en salle 11. Je rappellerai dans l'après-midi.<br>– Un étudiant a téléphoné. Il a dit qu'il {{L}} . {{L}} . {{L}} ." }
+      ]
+    },
+    {
+      "page_no": 218, "seq": 3,
+      "instruction_fr": "Transformez le texte au discours indirect, selon le modèle.",
+      "label": "", "note_html": "– Jean-Luc a gagné à la loterie, tu le savais ? — Non, je ne savais pas qu'il avait gagné à la loterie.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. – Il est parti en croisière en Égypte, on te l'a dit ?<br>{{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. – Il est tombé malade pendant le voyage, tu ne le savais pas ?<br>{{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. – Un docteur chinois l'a guéri avec des algues, tu ne le savais pas ?<br>{{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. – Il est devenu l'associé d'un grand armateur, tu ne le savais pas ?<br>{{L}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. – Il va épouser une princesse arabe, on ne te l'a pas dit ?<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 218, "seq": 4,
+      "instruction_fr": "Mettez le texte au passé.",
+      "label": "", "note_html": "Je lis dans un magazine qu'un garçon de douze ans a réussi le bac. — J'ai lu dans un magazine qu'un garçon de douze ans avait réussi le bac.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je lis dans une revue que les chiens voient seulement en noir et blanc. {{T}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Je lis dans un magazine que les petites filles sont plus douées pour les langues, mais que les petits garçons savent mieux se situer dans l'espace. {{T}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je lis dans le journal que beaucoup d'animaux et de plantes disparaîtront d'ici vingt ans et qu'il faut les protéger de toute urgence. {{T}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Je lis dans un magazine qu'il y a un marché noir des armes nucléaires et que n'importe qui pourra bientôt s'acheter une bombe atomique. {{T}}" }
+      ]
+    },
+    {
+      "page_no": 218, "seq": 5,
+      "instruction_fr": "Rapportez des nouvelles qui vous ont marqué(e).",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "<em>J'ai lu dans le journal que…</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 219, "seq": 6,
+      "instruction_fr": "Mettez au discours indirect. Racontez d'autres rêves sur le même modèle. Rêve 1 : Je suis un oiseau. Je vole au-dessus de la ville. Je vois l'intérieur des maisons.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "<em>J'ai rêvé que j'étais un oiseau, que je volais</em> {{L}}" }
+      ]
+    },
+    {
+      "page_no": 219, "seq": 7,
+      "instruction_fr": "Rêve 2 : Je dois prendre l'avion, mais l'aéroport a disparu et je me retrouve au milieu du désert.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "<em>J'ai rêvé que…</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 219, "seq": 8,
+      "instruction_fr": "Rêve 3 : J'ai acheté un réveil, mais il se transforme en machine à remonter le temps et je me retrouve à l'époque préhistorique.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "<em>J'ai rêvé que…</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 219, "seq": 9,
+      "instruction_fr": "Rêve 4 : Je dois participer à un match de boxe et je suis un peu nerveux(se) parce que mon adversaire est un type énorme. Mais je sais qu'il a un point faible et que je gagnerai.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "<em>J'ai rêvé que…</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 219, "seq": 10,
+      "instruction_fr": "Reconstituez l'extrait du texte de Camus en le mettant oralement au passé.",
+      "label": "L'Étranger", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Le soir, Marie vient me chercher et me demande si je veux me marier avec elle, je dis que cela m'est égal et que nous pourrons le faire si elle veut. Elle veut savoir alors si je l'aime. Je réponds comme je l'ai déjà fait une fois, que cela ne signifie rien, mais que, sans doute, je ne l'aime pas. « Pourquoi m'épouser alors ? » dit-elle. Je lui explique que cela n'a aucune importance et que si elle le désire, nous pouvons nous marier. Elle observe alors que le mariage est une chose grave. Je réponds : « Non. » Elle me regarde en silence. Puis elle parle. Elle se demande si elle m'aime et moi je ne peux rien savoir sur ce point. Après un autre moment de silence, elle murmure que je suis bizarre, qu'elle m'aime sans doute à cause de cela mais que peut-être un jour je la dégoûterai pour les mêmes raisons. Comme je me tais, n'ayant rien à ajouter, elle me prend le bras en souriant et elle déclare qu'elle veut se marier avec moi. Je réponds que nous le ferons dès qu'elle le voudra.<br><em>Le soir, Marie est venue me chercher et elle m'a demandé si je voulais me marier</em> {{L}}" }
+      ]
+    },
+    {
+      "page_no": 219, "seq": 11,
+      "instruction_fr": "Mettez au discours indirect. Imaginez la suite du dialogue. Mon mari m'a dit : « J'ai besoin d'être un peu seul. Je vais louer un petit studio. Je t'appellerai tous les soirs. Il ne faut pas s'inquiéter. On se verra le week-end. »",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "<em>Mon mari m'a dit que</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 219, "seq": 12,
+      "instruction_fr": "Croyances enfantines. Transformez. Continuez.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [219],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Des feuilles et des fleurs poussent sur la tête des cerfs au printemps.<br><em>Quand j'étais petit(e), je croyais que</em> {{T}}" },
+        { "seq": 2, "type": "transform", "stem_html": "La petite souris construit des châteaux avec mes dents de lait.<br>{{T}}" },
+        { "seq": 3, "type": "transform", "stem_html": "Un monstre va manger ma jambe si elle dépasse du lit.<br>{{T}}" },
+        { "seq": 4, "type": "transform", "stem_html": "Si j'avale un noyau de cerise, un arbre poussera dans mon ventre.<br>{{T}}" },
+        { "seq": 5, "type": "transform", "stem_html": "Les spaghettis poussent sur des arbres en Italie.<br>{{T}}" }
+      ]
+    }
+  ]
+}
