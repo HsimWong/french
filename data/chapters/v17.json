@@ -1,0 +1,190 @@
+{
+  "course": "vocabulaire",
+  "seq": 17,
+  "title_fr": "LE TOURISME – LES VACANCES",
+  "page_start": 116,
+  "page_end": 121,
+  "pdf_start": 118,
+  "pdf_end": 123,
+  "sections": [
+    { "title_fr": "LE VOYAGE", "page_no": 116 },
+    { "title_fr": "OÙ PASSER DES VACANCES ?", "page_no": 118 }
+  ],
+  "blocks": [
+    { "page_no": 116, "seq": 1, "type": "chapter_title", "body_html": "<span class='ch-no'>17</span> LE TOURISME – LES VACANCES" },
+    { "page_no": 116, "seq": 2, "type": "section_title", "body_html": "LE VOYAGE" },
+    { "page_no": 116, "seq": 3, "type": "subhead", "body_html": "■ Les préparatifs" },
+    { "page_no": 116, "seq": 4, "type": "list", "body_html": "<div class='bullet'>Paul va partir en voyage en Italie. Il a choisi un itinéraire agréable, il a décidé de passer par les petites routes de campagne. Il aime beaucoup les préparatifs d'un voyage, il prend son temps pour faire ses valises. Il emporte une carte d'Italie, une carte de la Toscane et un plan de Florence. Comme il a préparé son voyage sur Internet, il n'a pas besoin de brochures ni de dépliants touristiques. Il emporte son appareil photo, car il prendra beaucoup de photos, bien sûr.</div>" },
+    { "page_no": 116, "seq": 5, "type": "list", "body_html": "<div class='bullet'>Isabelle va faire un voyage organisé en Inde, avec un groupe d'amis. Elle a besoin d'un visa sur son passeport. Quand elle arrivera à Bombay, il y aura des formalités de douane à la frontière. Elle devra changer de l'argent dans un bureau de change.</div>" },
+    { "page_no": 116, "seq": 6, "type": "list", "body_html": "<div class='bullet'>Certains emportent une valise, d'autres préfèrent un gros sac de voyage ou un sac à dos, qui est très commode. Dans la trousse de toilette, on met sa brosse à dents. Au retour de voyage, il faut défaire la valise/les bagages.</div>" },
+    { "page_no": 116, "seq": 7, "type": "list", "body_html": "<div class='bullet'>Dans les avions et les trains, les bagages doivent être étiquetés (= avoir une étiquette avec le nom et l'adresse du propriétaire).</div>" },
+    { "page_no": 116, "seq": 8, "type": "subhead", "body_html": "■ Où dormir ?" },
+    { "page_no": 116, "seq": 9, "type": "list", "body_html": "<div class='bullet'>On peut aller / être à l'hôtel, dans une chambre d'hôte ou passer des vacances dans une ferme-auberge. En pension complète, on prend tous les repas. En demi-pension, un seul repas et le petit déjeuner.</div>" },
+    { "page_no": 116, "seq": 10, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Ne confondez pas « être » à l'hôtel (= loger) et « rester » à l'hôtel (= ne pas sortir de sa chambre).</i>" },
+    { "page_no": 116, "seq": 11, "type": "list", "body_html": "<div class='bullet'>Pour réserver une chambre simple ou double, on peut téléphoner ou faire la réservation sur Internet. On donne alors un numéro de carte bancaire. Quelquefois, il faut envoyer des arrhes (une somme d'argent de garantie). Les jeunes vont dans une auberge de jeunesse (les chambres sont généralement à plusieurs lits).</div>" },
+    { "page_no": 116, "seq": 12, "type": "list", "body_html": "<div class='bullet'>Faire du camping (ou camper) est plus économique : on monte la tente ou on installe la caravane sur un terrain de camping. On dort dans un sac de couchage.</div>" },
+    { "page_no": 116, "seq": 13, "type": "list", "body_html": "<div class='bullet'>Les enfants et les adolescents peuvent partir en colonie de vacances, c'est-à-dire qu'ils partent en groupe, sans leurs parents, mais accompagnés d'adultes (les moniteurs/trices).</div>" },
+    { "page_no": 116, "seq": 14, "type": "list", "body_html": "<div class='bullet'>Dans un club de vacances, tout est compris dans le prix forfaitaire (transport, séjour à l'hôtel, repas, activités sportives).</div>" },
+    { "page_no": 118, "seq": 15, "type": "running_head", "body_html": "LE TOURISME – LES VACANCES" },
+    { "page_no": 118, "seq": 16, "type": "subhead", "body_html": "■ Comment se déplacer ? (voir chapitre 16)" },
+    { "page_no": 118, "seq": 17, "type": "list", "body_html": "<div class='bullet'>Certains font de l'auto-stop (ils demandent à un automobiliste de les conduire gratuitement) ou du co-voiturage (ils partagent les frais d'une seule voiture). On peut aussi se déplacer à vélo, à pied ou à cheval !</div>" },
+    { "page_no": 118, "seq": 18, "type": "section_title", "body_html": "OÙ PASSER DES VACANCES ?" },
+    { "page_no": 118, "seq": 19, "type": "list", "body_html": "<div class='bullet'>Prendre des vacances, cela veut d'abord dire « se reposer » (= ne rien faire, arrêter de travailler). Quand quelqu'un part en vacances, on lui dit : « Bonnes vacances, repose-toi bien ! Reposez-vous bien ! »</div>" },
+    { "page_no": 118, "seq": 20, "type": "list", "body_html": "<div class='bullet'>La plupart des salariés français ont au moins cinq semaines de congés payés. En été, beaucoup vont à la mer, à la campagne, à la montagne et, en hiver, aux sports d'hiver. Certains ont une résidence secondaire (une maison de campagne) où ils passent leurs vacances. D'autres encore font du tourisme et séjournent dans une ville ou dans une région touristique, en France ou à l'étranger.</div>" },
+    { "page_no": 118, "seq": 21, "type": "list", "body_html": "<div class='bullet'>L'été, beaucoup de gens sont en vacances à la mer. Ils s'installent sur la plage, plantent le parasol (1) dans le sable, se mettent de la crème solaire (2) et prennent le soleil (= ils prennent des bains de soleil), pour bronzer (= être bronzé). Les imprudents prennent des coups de soleil (3) : ils deviennent tout rouges ! Les enfants adorent jouer au bord de la mer : ils font des châteaux de sable (4), ils ramassent des coquillages (5), ils jouent au ballon (6). Si l'eau est bonne (= à une température agréable), ils vont se baigner (7) (= passer du temps dans l'eau). Pendant ce temps, les parents nagent (8) ou font de la planche à voile (9). Attention, quand il y a de hautes vagues (10), on risque de se noyer... C'est pourquoi les jeunes enfants portent toujours des bouées (11) quand ils ne savent pas nager...</div>" },
+    { "page_no": 120, "seq": 22, "type": "running_head", "body_html": "LE TOURISME – LES VACANCES" },
+    { "page_no": 120, "seq": 23, "type": "subhead", "body_html": "UNE CROISIÈRE" },
+    { "page_no": 120, "seq": 24, "type": "para", "body_html": "Pour leur voyage de noces, Sarah et Fabien vont <b>prendre le bateau et faire une belle croisière</b> en Méditerranée. Ils vont <b>se détendre</b> (= se reposer) à la piscine, à la salle de gym et au sauna. Au moment des <b>escales</b>, quand le bateau s'arrêtera dans <b>un port</b>, ils <b>feront des excursions</b> et <b>se promèneront</b> dans des <b>sites touristiques</b>. Ils <b>visiteront des monuments historiques</b> sous la conduite d'<b>un(e) guide</b>. Ils enverront des <b>cartes postales</b> à leurs amis et <b>rapporteront des souvenirs</b> de ce voyage inoubliable." },
+    { "page_no": 120, "seq": 25, "type": "subhead", "body_html": "UNE RANDONNÉE" },
+    { "page_no": 120, "seq": 26, "type": "para", "body_html": "Céline est très sportive et voudrait <b>se changer les idées</b>. Elle adore <b>la randonnée</b> et a décidé de faire <b>un trekking</b> au Maroc. <b>Le circuit</b> qu'elle a choisi lui permettra de <b>faire le tour du pays</b>, de <b>parcourir</b> le Maroc <b>en long et en large</b>. Comme elle habite une petite ville du nord de la France, elle sera très <b>dépaysée</b> : elle découvrira <b>des coutumes</b> et <b>des paysages</b> complètement différents de sa région d'origine. Par exemple, pour la première fois de sa vie, elle verra <b>le désert</b>, peut-être <b>à dos de chameau</b> ! Ce sera exotique pour elle. Elle <b>s'est renseignée</b> auprès <b>d'une agence de voyages</b> spécialisée dans ce genre de circuits." },
+    { "page_no": 120, "seq": 27, "type": "subhead", "body_html": "LES VOYAGES FORMENT LA JEUNESSE..." },
+    { "page_no": 120, "seq": 28, "type": "list", "body_html": "<div class='bullet'><b>Les voyages forment la jeunesse !</b></div><div class='bullet'><b>Partir, c'est mourir un peu...</b></div><div class='bullet'><b>Éric m'a mené en bateau</b> : il a inventé toute une histoire (fausse) que j'ai crue.</div><div class='bullet'>L'employé <b>m'a envoyé promener</b> quand je lui ai demandé un visa pour aujourd'hui : il m'a sèchement répondu de revenir dans une semaine.</div><div class='bullet'>La pauvre Germaine <b>se noie dans un verre d'eau</b> : la plus petite difficulté devient pour elle un énorme problème.</div><div class='bullet'><b>Je ne suis pas sorti(e) de l'auberge !</b> : les difficultés ne font que commencer...</div>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 117, "seq": 1, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. On consulte le plan d'une ville. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. On peut réserver une chambre simple dans une auberge de jeunesse. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. On envoie des arrhes à la douane. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Les parents peuvent partir en colonie de vacances. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Je mets mon pull et mon anorak dans ma trousse de toilette. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. La tente permet de faire du camping. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 117, "seq": 2, "instruction_fr": "Choisissez la bonne réponse.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Il déteste les {{o:préparatifs|bagages}} du voyage." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Ils {{o:restent|sont}} à l'hôtel pour toutes leurs vacances." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Elle emporte une {{o:carte|plan}} de Séville." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Les adolescents montent la {{o:caravane|tente}}." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Il {{o:loue|réserve}} une chambre d'hôte." },
+        { "seq": 6, "type": "choice", "stem_html": "6. Avant de partir, elle {{o:met|fait}} les valises." },
+        { "seq": 7, "type": "choice", "stem_html": "7. Mes enfants partent en {{o:camp|colonie}} de vacances." },
+        { "seq": 8, "type": "choice", "stem_html": "8. Nous aimons {{o:aller|partir}} en voyage." },
+        { "seq": 9, "type": "choice", "stem_html": "9. Il emporte un {{o:sac|valise}} à dos." }
+      ]
+    },
+    {
+      "page_no": 117, "seq": 3, "instruction_fr": "Que font-ils ? Quel genre de vacances ont-ils choisi ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. {{T}}" }
+      ]
+    },
+    {
+      "page_no": 117, "seq": 4, "instruction_fr": "À vous ! Parlez de vos vacances.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Comment choisissez-vous vos destinations de vacances ? {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. En général, vous préférez partir seul ou en groupe ? Pourquoi ? {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Quels pays/régions avez-vous visités ou avez-vous l'intention de visiter ? Pourquoi ? {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Quel mode de logement préférez-vous ? {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Quel genre de voyageur/euse êtes-vous ? Calme, stressé(e) ? Aventureux/euse ? Prudent(e) ? {{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. Qu'emportez-vous dans vos bagages, en général ? {{T}}" }
+      ]
+    },
+    {
+      "page_no": 119, "seq": 5, "instruction_fr": "Associez pour constituer une phrase complète.", "label": "a. il met une bouée. | b. ils doivent se reposer. | c. il a pris un coup de soleil. | d. ils sont bronzés. | e. il peut faire de la planche à voile. | f. ils se sont baignés.", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "1. Ils ont pris le soleil, alors → {{b}}" },
+        { "seq": 2, "type": "assoc", "stem_html": "2. Il y a du vent et des vagues, alors → {{b}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "3. L'eau était bonne, alors → {{b}}" },
+        { "seq": 4, "type": "assoc", "stem_html": "4. Il n'a pas mis de crème, alors → {{b}}" },
+        { "seq": 5, "type": "assoc", "stem_html": "5. Le petit garçon ne sait pas nager, alors → {{b}}" },
+        { "seq": 6, "type": "assoc", "stem_html": "6. Ils sont très fatigués, alors → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 119, "seq": 6, "instruction_fr": "Complétez par un verbe approprié (plusieurs solutions sont parfois possibles).", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Nous {{b}} du tourisme tout le mois de juillet." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Mes enfants {{b}} des coquillages sur la plage." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Est-ce que ta fille sait {{b}} le crawl ?" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Nos amis {{b}} leurs vacances à la montagne." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Hier, à la plage, l'eau n'était pas froide. Est-ce que vous {{b}} ?" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. La semaine prochaine, elle {{b}} en vacances." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Il doit {{b}} le parasol dans le sable, sinon il va {{b}} un coup de soleil !" }
+      ]
+    },
+    {
+      "page_no": 119, "seq": 7, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. On ouvre le parasol quand il pleut. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. On se baigne dans la baignoire. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Les enfants peuvent faire des châteaux de sable sur la plage. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. On met de la crème solaire pour éviter les bains de soleil. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Quand on est en congé, on ne travaille pas. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Si on ne sait pas nager, on risque de se baigner. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 119, "seq": 8, "instruction_fr": "Que font-ils ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. {{T}}" }
+      ]
+    },
+    {
+      "page_no": 119, "seq": 9, "instruction_fr": "À vous !", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Aimez-vous passer des vacances à la mer ? Si oui, qu'y faites-vous ? {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Êtes-vous déjà allé(e) aux sports d'hiver ? Si oui, qu'avez-vous fait ? {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Dans votre pays, comment fonctionnent les congés des salariés ? {{T}}" }
+      ]
+    },
+    {
+      "page_no": 121, "seq": 10, "instruction_fr": "Quelle publicité pourrait intéresser les personnes suivantes ?", "label": "a. Séjour de 15 jours en TUNISIE 980 € tout compris (avion + hôtel pension complète) | b. Découvrez L'AUVERGNE À CHEVAL | c. Randonnée à pied dans les Alpes | d. Ski de fond en Finlande Forfait (avion + hôtel) 1200 € | e. Visitez les châteaux de la Loire... | f. Croisière dans les îles grecques | g. un week-end à PRAGUE 530 € tout compris | h. Visitez l'Asie mystérieuse ! À LA DÉCOUVERTE DE LA THAÏLANDE", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "1. Vanessa aime la neige et le sport. → {{b}}" },
+        { "seq": 2, "type": "assoc", "stem_html": "2. Nathalie est très fatiguée et n'a pas assez d'énergie pour organiser un voyage. → {{b}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "3. Lise n'a pas beaucoup de temps, mais aime visiter des villes historiques. → {{b}}" },
+        { "seq": 4, "type": "assoc", "stem_html": "4. Pierre est passionné par l'Asie et recherche l'aventure. → {{b}}" },
+        { "seq": 5, "type": "assoc", "stem_html": "5. Claudine et Laurent aiment la mer, le soleil et les bateaux. → {{b}}" },
+        { "seq": 6, "type": "assoc", "stem_html": "6. Jean et Joëlle adorent la marche à pied en montagne. → {{b}}" },
+        { "seq": 7, "type": "assoc", "stem_html": "7. Anne aime la nature, les animaux, le calme. → {{b}}" },
+        { "seq": 8, "type": "assoc", "stem_html": "8. Claire s'intéresse à l'histoire de France et à l'architecture. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 121, "seq": 11, "instruction_fr": "Choisissez la bonne réponse.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Ils vont faire une belle {{o:croisière|randonnée}} dans les Pyrénées." },
+        { "seq": 2, "type": "choice", "stem_html": "2. À Rome, on peut visiter de très nombreux monuments {{o:historiques|touristiques}}." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Michel a besoin de se changer les {{o:vacances|idées}}." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Pour découvrir la Hongrie, nous avons choisi un {{o:circuit|site}} qui nous permettra de faire {{o:le tour|la tour}} du pays." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Nous allons {{o:prendre|faire}} le bateau à Marseille pour aller en Corse." },
+        { "seq": 6, "type": "choice", "stem_html": "6. Il va changer de pays et d'habitudes, il va être {{o:fatigué|dépaysé}}." },
+        { "seq": 7, "type": "choice", "stem_html": "7. Ils sont en Provence, ils vont faire beaucoup {{o:d'excursions|de voyages}} dans la région." }
+      ]
+    },
+    {
+      "page_no": 121, "seq": 12, "instruction_fr": "Complétez.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Nous adorons marcher, nous faisons souvent de la {{b}} en montagne." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Quand on habite en Alsace, aller en Inde, c'est vraiment {{b}} !" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le Sahara est un {{b}}." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Mes amis vont faire une {{b}} en bateau." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Le bateau fera des {{b}} dans différents ports." }
+      ]
+    },
+    {
+      "page_no": 121, "seq": 13, "instruction_fr": "À vous !", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Comment comprenez-vous les deux proverbes : « Partir, c'est mourir un peu » et « Les voyages forment la jeunesse » ? {{T}}" }
+      ]
+    }
+  ]
+}
