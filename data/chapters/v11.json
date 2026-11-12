@@ -1,0 +1,217 @@
+{
+  "course": "vocabulaire",
+  "seq": 11,
+  "title_fr": "LA MAISON – LE LOGEMENT",
+  "page_start": 70,
+  "page_end": 77,
+  "pdf_start": 72,
+  "pdf_end": 79,
+  "sections": [
+    { "title_fr": "L'IMMEUBLE", "page_no": 70 },
+    { "title_fr": "LA MAISON DE MON ONCLE", "page_no": 70 },
+    { "title_fr": "LOUER ET ACHETER", "page_no": 76 },
+    { "title_fr": "QUELQUES EXPRESSIONS IMAGÉES", "page_no": 76 }
+  ],
+  "blocks": [
+    { "page_no": 70, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">11</span> LA MAISON – LE LOGEMENT" },
+    { "page_no": 70, "seq": 2, "type": "section_title", "body_html": "L'IMMEUBLE" },
+    { "page_no": 70, "seq": 3, "type": "list", "body_html": "<div class='bullet'>À côté de la <b>porte d'entrée</b> de l'immeuble, <b>un interphone</b> permet d'appeler la personne que l'on vient voir. Quelquefois, il faut aussi connaître <b>un code</b>. Dans <b>le hall d'entrée</b> se trouvent <b>les boîtes aux lettres</b> et, parfois, <b>la loge du gardien</b> (de <b>la gardienne</b>) (= du/de la <b>concierge</b>). Si <b>l'ascenseur</b> est <b>en panne</b> (= s'il ne <b>marche</b> pas), on doit prendre <b>l'escalier</b> pour monter du <b>rez-de-chaussée</b> aux <b>étages</b>. Parfois, l'escalier est <b>raide</b> car les <b>marches</b> sont hautes et étroites.</div>" },
+    { "page_no": 70, "seq": 4, "type": "list", "body_html": "<div class='bullet'>Anaïs habite au troisième étage, et elle a deux <b>voisins de palier</b> (= qui habitent au même étage qu'elle). Elle <b>ferme sa porte à clé</b> quand elle part, mais une fois elle a oublié <b>la clé</b> dans <b>la serrure</b>...</div>" },
+    { "page_no": 70, "seq": 5, "type": "section_title", "body_html": "LA MAISON DE MON ONCLE" },
+    { "page_no": 70, "seq": 6, "type": "list", "body_html": "<div class='bullet'>Je gare ma voiture le long de <b>la clôture</b>, devant <b>le grand portail</b>. Je sonne, et mon oncle vient m'ouvrir. Nous allons vers la maison, par <b>une longue allée</b>.</div>" },
+    { "page_no": 70, "seq": 7, "type": "list", "body_html": "<div class='bullet'>Dans <b>l'entrée</b>, j'accroche mon manteau <b>au portemanteau</b>, puis j'entre dans <b>la salle de séjour</b>. Mon oncle a allumé <b>un feu dans la cheminée</b> pour <b>chauffer la pièce</b>, qui a <b>un plafond</b> très haut. <b>La table</b> est déjà <b>mise</b> dans <b>la salle à manger</b>, et je vais embrasser ma tante qui prépare le dîner dans <b>la cuisine</b>.</div>" },
+    { "page_no": 70, "seq": 8, "type": "list", "body_html": "<div class='bullet'>Mon oncle me conduit à <b>ma chambre</b>, qui est au deuxième étage, <b>sous les toits</b>. En fait, il <b>a aménagé</b>, dans l'ancien <b>grenier</b>, une <b>chambre d'amis</b> et un <b>bureau</b>.</div>" },
+    { "page_no": 70, "seq": 9, "type": "list", "body_html": "<div class='bullet'>Au premier étage, mon oncle est en train de <b>faire des travaux</b> dans la chambre de ma cousine : il <b>a enlevé le vieux papier peint</b> à fleurs, et il va <b>repeindre les murs en blanc</b>, tout simplement. Mon oncle est très <b>bricoleur</b>, il adore <b>réparer</b> ce qui ne marche pas, <b>peindre</b>, etc. Il va aussi transformer en <b>débarras</b> une petite <b>pièce au fond du couloir</b>, pour pouvoir <b>ranger</b> toutes les vieilles affaires, les valises, les cartons, etc.</div>" },
+    { "page_no": 72, "seq": 10, "type": "running_head", "body_html": "LA MAISON – LE LOGEMENT" },
+    { "page_no": 72, "seq": 11, "type": "list", "body_html": "<div class='bullet'>Avant le dîner, j'accompagne mon oncle dans <b>sa cave</b>, qu'il a aménagée <b>au sous-sol</b>, et où il entrepose ses bouteilles de vin. À côté de la cave, il y a <b>le garage</b> pour la voiture et <b>un atelier</b>, où mon oncle <b>range</b> tous ses <b>outils de bricolage</b>.</div>" },
+    { "page_no": 72, "seq": 12, "type": "list", "body_html": "<div class='bullet'>Ma tante est fière de sa grande cuisine <b>bien équipée</b> : un grand <b>frigo</b> (= <b>un réfrigérateur</b>) avec <b>un congélateur</b> (pour conserver les aliments longtemps), un double évier avec <b>les robinets</b> d'eau chaude et d'eau froide, <b>un lave-vaisselle</b> et <b>une cuisinière à gaz</b> avec <b>un four</b>. Ma tante utilise aussi <b>un four à micro-ondes</b>. Les placards sont « <b>pleins à craquer</b> » de <b>provisions</b>. Sous l'évier, dans un autre placard, il y a <b>une poubelle</b> où l'on <b>jette</b> les <b>ordures</b>.</div>" },
+    { "page_no": 72, "seq": 13, "type": "list", "body_html": "<div class='bullet'>Voyons un peu <b>le mobilier</b>. Mon oncle et ma tante préfèrent <b>les meubles anciens</b>, tandis que ma cousine a toujours aimé <b>le moderne</b>. Dans <b>le salon</b>, il y a donc <b>un vieux canapé</b> (= <b>un divan</b>) confortable, avec des <b>coussins</b> verts <b>assortis aux rideaux</b> verts et <b>un fauteuil en cuir</b> où mon oncle lit le journal. Le chat, lui, se couche sous <b>la table basse</b>. Contre un mur, à côté de <b>la télévision</b>, est placée <b>une grande bibliothèque</b>, remplie de livres.</div>" },
+    { "page_no": 72, "seq": 14, "type": "list", "body_html": "<div class='bullet'>La chambre de ma cousine est <b>en désordre</b> : quelle pagaille ! Elle ne <b>range</b> pas ses vêtements. Pourtant, elle a <b>une penderie</b> où elle pourrait les <b>suspendre</b> sur <b>des cintres</b>, <b>une armoire</b>, <b>une commode à trois tiroirs</b> où elle devrait mettre <b>son linge</b>. À droite du <b>lit</b>, il y a <b>une petite table de chevet</b>, avec <b>une lampe de chevet</b> et <b>un réveil électronique</b>, qui fait un bruit affreux quand il <b>sonne</b>. Contre le mur, <b>dans un coin</b>, je vois <b>le radiateur électrique</b> qu'on allume quand il fait froid. <b>Le bureau</b> et <b>la chaise</b> sont modernes. Seul le lit est traditionnel : <b>un matelas</b>, sur lequel est placé <b>un drap-housse</b>, puis un <b>drap</b> normal, <b>une couverture</b> en laine, <b>une couette</b> et par-dessus, <b>un dessus-de-lit</b> de couleur. Il y a aussi deux <b>oreillers</b> bien <b>moelleux</b> (= confortables et doux).</div>" },
+    { "page_no": 74, "seq": 15, "type": "running_head", "body_html": "LA MAISON – LE LOGEMENT" },
+    { "page_no": 74, "seq": 16, "type": "list", "body_html": "<div class='bullet'>Dans la grande <b>salle de bains</b>, il y a une belle <b>baignoire</b> où ma tante prend des <b>bains moussants</b> (mon oncle préfère prendre <b>une douche</b>) et <b>un lavabo</b>, surmonté d'<b>un miroir</b>. De chaque côté du lavabo, les <b>draps de bain</b>, les <b>serviettes</b> et les <b>gants de toilette</b> (pour se frotter le corps avec du savon) sont posés sur les <b>porte-serviettes</b>. Sous <b>les toilettes</b>, je vois de l'eau qui coule d'<b>un tuyau</b> : mon oncle va bientôt réparer cette petite <b>fuite d'eau</b>.</div>" },
+    { "page_no": 74, "seq": 17, "type": "list", "body_html": "<div class='bullet'>Sur <b>le sol</b> ? Dans la cuisine et la salle de bains, il y a <b>du carrelage</b>, bien sûr. Dans les chambres, de <b>la moquette</b> de couleur neutre, et dans la salle de séjour, <b>un</b> très beau <b>parquet en bois</b>. Ma tante aimerait mettre à côté du divan <b>un tapis</b> persan ou marocain.</div>" },
+    { "page_no": 74, "seq": 18, "type": "list", "body_html": "<div class='bullet'>Aux fenêtres, ma tante a mis <b>des voilages blancs</b> et <b>des rideaux</b> de couleur. Le soir, elle ferme <b>les volets</b>.</div>" },
+    { "page_no": 74, "seq": 19, "type": "list", "body_html": "<div class='bullet'>C'est ma tante qui s'est occupée de <b>la décoration</b> : elle a placé des <b>bibelots</b> (= de petits objets décoratifs) sur <b>les étagères</b>, elle a accroché <b>des tableaux</b> au mur. Sur <b>le rebord des fenêtres</b> et sur <b>le balcon</b>, elle cultive <b>des fleurs</b> et <b>des plantes vertes</b>. Elle met <b>le bouquet</b> que je lui ai offert dans <b>un vase</b>.</div>" },
+    { "page_no": 76, "seq": 20, "type": "running_head", "body_html": "LA MAISON – LE LOGEMENT" },
+    { "page_no": 76, "seq": 21, "type": "section_title", "body_html": "LOUER ET ACHETER" },
+    { "page_no": 76, "seq": 22, "type": "list", "body_html": "<div class='bullet'>Aurélie habite à Saint-Malo, dans <b>un petit studio, clair et moderne</b>. Elle a une pièce, une cuisine et une salle de bains. Elle <b>loue</b> l'appartement : elle est <b>locataire</b> et a <b>un bail</b> (= un contrat de location) pour 3 ans. <b>Son loyer</b> est <b>modéré</b> (= pas trop cher), car c'est un ami de son père qui <b>loue</b> le studio, c'est lui <b>le propriétaire</b>. Elle n'a pas été obligée de <b>payer une caution</b> (= une somme d'argent de garantie) avant d'<b>emménager</b> dans le studio.</div>" },
+    { "page_no": 76, "seq": 23, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Bizarrement, c'est le même verbe « louer » qui est employé pour le locataire et pour le propriétaire ! Aurélie loue un appartement / Son propriétaire loue l'appartement.</i>" },
+    { "page_no": 76, "seq": 24, "type": "list", "body_html": "<div class='bullet'>Les Delvaux voulaient <b>acheter une maison de campagne</b> en Bourgogne. Grâce à <b>une agence immobilière</b>, ils en <b>ont visité</b> plusieurs. Ils ont finalement choisi <b>une belle maison ancienne</b> et <b>pittoresque</b>, mais qui est <b>sale</b> et <b>en mauvais état</b>. Il faut la <b>restaurer</b> (= rénover = il y a <b>des travaux à faire</b>) : il faut <b>refaire l'électricité</b> et <b>la plomberie</b>, et <b>installer le chauffage central</b>. Les Delvaux ont demandé <b>un devis</b> (= une estimation du coût des travaux) à plusieurs artisans. Quand tout sera fini, la maison sera toute <b>propre</b> et <b>en bon état</b>. Les Delvaux pourront <b>s'installer</b> dans leur nouvelle <b>résidence secondaire</b>. Ils <b>prendront la crémaillère</b>, c'est-à-dire qu'ils organiseront une fête en l'honneur de leur nouvelle maison.</div>" },
+    { "page_no": 76, "seq": 25, "type": "list", "body_html": "<div class='bullet'>Alex va <b>déménager</b> et <b>quitter son ancien appartement</b>. Jusqu'à présent, il habitait un appartement <b>minuscule</b>, <b>bruyant</b> et assez <b>sombre</b>. Il vient de trouver, dans <b>un quartier résidentiel</b>, un appartement plus grand, <b>tout neuf</b> et bien <b>ensoleillé</b>, qui <b>donne sur</b> une rue calme. Les <b>déménageurs</b> vont venir avec <b>le camion de déménagement</b> pour transporter toutes <b>ses affaires</b> et tous <b>les cartons</b>. Alex pourra <b>emménager</b> dans son nouvel appartement au début du mois prochain.</div>" },
+    { "page_no": 76, "seq": 26, "type": "section_title", "body_html": "QUELQUES EXPRESSIONS IMAGÉES" },
+    { "page_no": 76, "seq": 27, "type": "list", "body_html": "<div class='bullet'>Ma voisine ne dit jamais bonjour, ne sourit jamais, elle est vraiment <b>aimable comme une porte de prison</b> !</div>" },
+    { "page_no": 76, "seq": 28, "type": "list", "body_html": "<div class='bullet'>Chloé n'est vraiment pas discrète. Chaque fois qu'on lui dit un secret, elle va <b>le crier sur les toits</b> ! Après cela, tout le monde connaît tous les secrets !</div>" },
+    { "page_no": 76, "seq": 29, "type": "list", "body_html": "<div class='bullet'>Nicolas a dit que le chat avait cassé le vase. Ce n'est pas vrai, il a fait un mensonge <b>gros comme une maison</b>, puisque c'est lui qui a cassé le vase.</div>" },
+    { "page_no": 76, "seq": 30, "type": "list", "body_html": "<div class='bullet'>Patricia manifeste très fortement sa surprise et sa colère : <b>elle saute au plafond</b> quand on lui demande quelque chose qui ne lui plaît pas.</div>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 71, "seq": 1, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Le couloir se trouve dans le jardin. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Dans le débarras, on peut dormir. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. La clé se met dans la serrure. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. On marche sur le plafond. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. L'escalier est parfois en panne. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Le grenier se trouve sous le toit. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 71, "seq": 2, "instruction_fr": "Le mystérieux Alfred. Remplacez les mots suivants dans le texte :", "label": "rez-de-chaussée – l'immeuble – escalier – l'entrée – porte d'entrée – une clé – l'ascenseur – serrure – boîtes aux lettres – l'interphone – gardienne – étage – la porte – clé", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "La {{b}} est ouverte, Alfred entre dans {{b}} sans difficulté. La {{b}} est dans sa loge, mais ne le voit pas, il peut prendre {{b}} sans être remarqué. Quand il arrive au sixième {{b}}, il sort {{b}} de sa poche et la met dans la {{b}}. À ce moment-là, {{b}} s'ouvre toute seule. Dans {{b}} de l'appartement, il voit par terre un objet brillant, c'est une autre {{b}} ; juste à côté, il trouve un petit papier sur lequel est écrit : « je vous attends au {{b}}, devant les {{b}}. » Au même moment, il entend la sonnerie de {{b}} puis quelqu'un qui monte lentement les marches de l'{{b}}." }
+      ]
+    },
+    {
+      "page_no": 71, "seq": 3, "instruction_fr": "Choisissez les bonnes réponses.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Je {{o:range|repeins|entre|accroche|chauffe}} la chambre." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Il {{o:ouvre|allume|aménage|répare}} la porte." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Nous {{o:allumons|réparons|peignons|accrochons}} le mur." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Elle {{o:répare|chauffe|peint|ferme|sonne}} le portail." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Tu {{o:allumes|ouvres|fermes|marches}} la boîte aux lettres." }
+      ]
+    },
+    {
+      "page_no": 71, "seq": 4, "instruction_fr": "Que se passe-t-il dans cette pièce ? Décrivez la situation.", "label": "", "note_html": "",
+      "has_image": true, "scan_pages": [71],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 73, "seq": 5, "instruction_fr": "Quel objet se trouve dans quelle pièce ? Choisissez la bonne réponse.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Dans le salon : {{o:un canapé|une douche|un four}}" },
+        { "seq": 2, "type": "choice", "stem_html": "2. Dans l'entrée : {{o:une clôture|un portail|un portemanteau}}" },
+        { "seq": 3, "type": "choice", "stem_html": "3. Dans la chambre : {{o:une couette|un évier|un interphone}}" },
+        { "seq": 4, "type": "choice", "stem_html": "4. Dans la salle à manger : {{o:une penderie|une allée|une chaise}}" },
+        { "seq": 5, "type": "choice", "stem_html": "5. Dans la cuisine : {{o:un cintre|une poubelle|un oreiller}}" },
+        { "seq": 6, "type": "choice", "stem_html": "6. Dans le débarras : {{o:un carton|un congélateur|une bibliothèque}}" }
+      ]
+    },
+    {
+      "page_no": 73, "seq": 6, "instruction_fr": "Complétez par le terme approprié.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je déteste ranger, mon bureau est toujours en {{b}}." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Nous {{b}} les ordres dans la {{b}}." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Sandrine et David sont installés sur le {{b}} pour regarder la télévision." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Élodie réchauffe un plat surgelé dans le four à {{b}}." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Avant de se coucher, Félix éteint sa lampe de {{b}}." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Mes vêtements sont suspendus sur des {{b}}, dans la {{b}}." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Il ouvre le {{b}} d'eau chaude pour se laver les mains." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Pour dormir, je pose ma tête sur un {{b}}." },
+        { "seq": 9, "type": "cloze", "stem_html": "9. L'ensemble des meubles s'appelle le {{b}}." },
+        { "seq": 10, "type": "cloze", "stem_html": "10. Je lave les légumes dans l' {{b}}." }
+      ]
+    },
+    {
+      "page_no": 73, "seq": 7, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Nous mettons la voiture dans le grenier. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. On peut manger dans la cuisine. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Il est confortablement installé sur le canapé. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Il range les bouteilles de vin dans la cave. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Au milieu du salon, il y a une table de chevet. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Le débarras est un élément du mobilier. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 73, "seq": 8, "instruction_fr": "Décrivez la pièce en détail.", "label": "", "note_html": "",
+      "has_image": true, "scan_pages": [73],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 75, "seq": 9, "instruction_fr": "Éliminez l'intrus.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. {{o:étagère|armoire|commode|parquet}}" },
+        { "seq": 2, "type": "choice", "stem_html": "2. {{o:drap|couverture|couverts|couette}}" },
+        { "seq": 3, "type": "choice", "stem_html": "3. {{o:évier|baignoire|douche|lavabo}}" },
+        { "seq": 4, "type": "choice", "stem_html": "4. {{o:serviette|plante verte|vase|tableau}}" },
+        { "seq": 5, "type": "choice", "stem_html": "5. {{o:frigo|moquette|évier|four}}" },
+        { "seq": 6, "type": "choice", "stem_html": "6. {{o:matelas|fauteuil|divan|chaise}}" },
+        { "seq": 7, "type": "choice", "stem_html": "7. {{o:tapis|moquette|miroir|carrelage}}" },
+        { "seq": 8, "type": "choice", "stem_html": "8. {{o:voilage|serviette|rideau|volet}}" }
+      ]
+    },
+    {
+      "page_no": 75, "seq": 10, "instruction_fr": "Devinez de quel objet on parle.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. On le pose par terre, pour décorer. Il vient de Turquie, d'Iran, de Tunisie... → {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. C'est un meuble sur lequel on range les livres. → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Sur ce siège confortable, plusieurs personnes peuvent s'asseoir. → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. C'est accroché au mur, pour décorer. Certains ont beaucoup de valeur ! → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. C'est relativement petit, cela sonne le matin pour nous réveiller. → {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. C'est sur le lit. On pose sa tête dessus quand on dort. → {{b}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Ils sont en tissu, colorés, et sont placés devant la fenêtre. → {{b}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Cet objet permet de se regarder. → {{b}}" },
+        { "seq": 9, "type": "cloze", "stem_html": "9. C'est l'objet dans lequel on peut prendre un bain. → {{b}}" },
+        { "seq": 10, "type": "cloze", "stem_html": "10. Ils ne sont pas utiles, mais on les place pour décorer. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 75, "seq": 11, "instruction_fr": "D'après vous, quel genre de personne pourrait avoir une de ces chambres ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Une chambre avec les rideaux, les coussins et le dessus-de-lit assortis, des plantes vertes, une moquette épaisse de couleur pêche. {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Une petite chambre rose, avec une commode blanche, des rideaux à fleurs et des coussins de toutes les couleurs. {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Une chambre en désordre, un lit défait, des photos de chanteurs rock au mur et une serviette sale par terre. {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Une chambre un peu sombre, des bibelots et des photos encadrées sur la commode, un dessus-de-lit en dentelle et un vieux tapis par terre. {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Une chambre avec un grand lit en bois, un parquet rustique, des plantes vertes et une étagère remplie de livres. {{T}}" }
+      ]
+    },
+    {
+      "page_no": 75, "seq": 12, "instruction_fr": "À vous ! Parlez de votre habitation (meubles, style, objets...).", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Décrivez votre logement (pièces, meubles et couleurs). {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Quels sont vos goûts pour la décoration de votre logement ? Comment est-ce que vous le décorez ? Est-ce que vous préférez le style ancien ou moderne ? Vous aimez avoir des bibelots, des tableaux au mur, des plantes ? Pourquoi ? {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Votre logement est-il généralement en ordre ou en désordre ? {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Faites-vous du bricolage ? Si oui, quel genre de choses ? {{T}}" }
+      ]
+    },
+    {
+      "page_no": 77, "seq": 13, "instruction_fr": "Devinette. Identifiez qui habite dans chacune des maisons.", "label": "• Une femme habite dans un immeuble moderne. • Nicole n'habite pas à côté d'un homme. • Le voisin de Solange a un balcon minuscule. • Une autre femme habite dans un immeuble en mauvais état. • La seule maison avec des volets est habitée par une autre femme. • Romain a les mêmes rideaux que Françoise. • Nicole est la voisine de Solange et de Françoise.", "note_html": "",
+      "has_image": true, "scan_pages": [77],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. {{b}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. {{b}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. {{b}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. {{b}}" }
+      ]
+    },
+    {
+      "page_no": 77, "seq": 14, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. La pièce est bruyante, elle donne sur une avenue. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Le château de Versailles est minuscule. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. La maison est propre, il faut faire des travaux. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Elle pend la crémaillère sur un cintre. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. L'appartement est clair, il est ensoleillé. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Il déménage, il change d'appartement. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. Il paye un loyer, puisqu'il est propriétaire. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 8, "type": "tf", "stem_html": "8. La maison est en mauvais état, il faut la restaurer. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 77, "seq": 15, "instruction_fr": "Parlez de la situation de l'immobilier dans votre pays / région / ville.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Est-il courant d'être locataire ? Le prix des loyers est-il élevé ? Vous-même, êtes-vous propriétaire ou locataire ? {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Comment fait-on pour trouver un logement ? Quelles sont les différentes solutions ? {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Savez-vous si beaucoup de gens possèdent une maison de campagne ? Pourquoi ? {{T}}" }
+      ]
+    }
+  ]
+}
