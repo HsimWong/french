@@ -1,0 +1,283 @@
+{
+  "course": "vocabulaire",
+  "seq": 8,
+  "title_fr": "LE CORPS – LA SANTÉ",
+  "page_start": 48,
+  "page_end": 55,
+  "pdf_start": 50,
+  "pdf_end": 57,
+  "sections": [
+    {"title_fr": "STRUCTURE GÉNÉRALE", "page_no": 48},
+    {"title_fr": "Quelques expressions imagées…", "page_no": 50},
+    {"title_fr": "LES CINQ SENS", "page_no": 50},
+    {"title_fr": "La vue", "page_no": 50},
+    {"title_fr": "L'ouïe", "page_no": 50},
+    {"title_fr": "L'odorat", "page_no": 50},
+    {"title_fr": "Le goût", "page_no": 50},
+    {"title_fr": "Le toucher", "page_no": 50},
+    {"title_fr": "QUELQUES PARTIES DU CORPS", "page_no": 52},
+    {"title_fr": "LA SANTÉ", "page_no": 54},
+    {"title_fr": "La bonne et la mauvaise santé", "page_no": 54},
+    {"title_fr": "La fatigue, le stress", "page_no": 54},
+    {"title_fr": "L'apparence du visage", "page_no": 54},
+    {"title_fr": "La douleur", "page_no": 54},
+    {"title_fr": "La dépendance", "page_no": 54},
+    {"title_fr": "La maladie", "page_no": 54},
+    {"title_fr": "Se soigner", "page_no": 54}
+  ],
+  "blocks": [
+    {"page_no": 48, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">8</span> LE CORPS – LA SANTÉ"},
+    {"page_no": 48, "seq": 2, "type": "section_title", "body_html": "STRUCTURE GÉNÉRALE"},
+    {"page_no": 48, "seq": 3, "type": "table", "body_html": "<table class='vocab'><tr><td><b>Structure générale</b><br>la tête<br>le cou<br>le buste<br>le bras<br>la jambe</td><td><b>Une femme enceinte</b><br>(qui attend un enfant)<br>le visage<br>la nuque<br>le haut du dos<br>le bas du dos (= les reins)<br>la poitrine (= les 2 seins)<br>le sein<br>le ventre<br>le dos<br>la fesse</td></tr></table>"},
+    {"page_no": 48, "seq": 4, "type": "table", "body_html": "<table class='vocab'><tr><td><b>Le squelette</b><br>(l'ensemble des os)<br>le crâne<br>la côte<br>la vertèbre<br>(la colonne vertébrale = les vertèbres)<br>la hanche</td><td><b>Le visage</b><br>le front<br>les cheveux<br>le sourcil<br>l'œil (les yeux)<br>l'oreille<br>le nez<br>la dent<br>la joue<br>la bouche<br>la langue<br>la lèvre<br>le menton</td></tr></table>"},
+    {"page_no": 48, "seq": 5, "type": "table", "body_html": "<table class='vocab'><tr><td><b>Le membre supérieur</b><br>l'épaule<br>le coude<br>le poignet<br>la main<br>l'ongle<br>le doigt</td><td><b>Le membre inférieur</b><br>la cuisse<br>le genou<br>le mollet<br>le poil<br>la cheville<br>le pied<br>l'orteil (ou doigt de pied)</td></tr></table>"},
+    {"page_no": 48, "seq": 6, "type": "para", "body_html": "L'épaule, le coude, le poignet, la hanche, le genou, la cheville sont des <b>articulations</b>."},
+    {"page_no": 50, "seq": 7, "type": "running_head", "body_html": "LE CORPS – LA SANTÉ"},
+    {"page_no": 50, "seq": 8, "type": "subhead", "body_html": "Quelques expressions imagées…"},
+    {"page_no": 50, "seq": 9, "type": "list", "body_html": "<div class='bullet'><b>En avoir plein le dos*</b> = en avoir par-dessus la tête = en avoir assez</div>"},
+    {"page_no": 50, "seq": 10, "type": "list", "body_html": "<div class='bullet'><b>Avoir la tête sur les épaules</b> = <b>avoir les pieds sur terre</b> = être réaliste</div>"},
+    {"page_no": 50, "seq": 11, "type": "list", "body_html": "<div class='bullet'><b>Ça se voit comme le nez au milieu de la figure</b> = <b>ça saute aux yeux</b> = c'est évident</div>"},
+    {"page_no": 50, "seq": 12, "type": "list", "body_html": "<div class='bullet'><b>Se retrouver nez à nez avec…</b> = se retrouver par hasard en face de…</div>"},
+    {"page_no": 50, "seq": 13, "type": "list", "body_html": "<div class='bullet'><b>Ne pas fermer l'œil de la nuit</b> = ne pas pouvoir dormir</div>"},
+    {"page_no": 50, "seq": 14, "type": "section_title", "body_html": "LES CINQ SENS"},
+    {"page_no": 50, "seq": 15, "type": "subhead", "body_html": "La vue"},
+    {"page_no": 50, "seq": 16, "type": "para", "body_html": "Yen a <b>une bonne vue</b>, elle a <b>de bons yeux</b>, elle <b>voit bien</b>.<br>Sa grand-mère, qui est très âgée, est devenue <b>malvoyante</b>, puis <b>aveugle</b>, (= elle ne voit plus du tout)."},
+    {"page_no": 50, "seq": 17, "type": "keypoint", "body_html": "<div class='bullet'><b><i>Regarder / voir</i></b></div>"},
+    {"page_no": 50, "seq": 18, "type": "para", "body_html": "– Est-ce que la clé de la voiture est dans le salon ?<br>– J'ai bien <b>regardé</b> partout, mais je ne l'ai pas <b>vue</b>. Pourtant, je <b>vois clair</b> !<br><b>Le regard</b> = l'expression des yeux → <i>Il a un beau regard.</i>"},
+    {"page_no": 50, "seq": 19, "type": "subhead", "body_html": "L'ouïe"},
+    {"page_no": 50, "seq": 20, "type": "para", "body_html": "Olivier est musicien. Il a <b>une très bonne oreille</b>, il a <b>l'ouïe fine</b> (= il <b>entend</b> très bien). Beethoven, qui était un compositeur célèbre, est devenu <b>malentendant</b> puis <b>sourd</b> (= il n'entendait plus du tout)."},
+    {"page_no": 50, "seq": 21, "type": "keypoint", "body_html": "<div class='bullet'><b><i>Écouter / entendre</i></b></div>"},
+    {"page_no": 50, "seq": 22, "type": "para", "body_html": "– Je n'ai pas <b>entendu</b> le bruit parce que <b>j'écoutais</b> la radio.<br>– Moi, je l'ai entendu car <b>je tendais l'oreille</b> (= j'écoutais très attentivement)."},
+    {"page_no": 50, "seq": 23, "type": "subhead", "body_html": "L'odorat"},
+    {"page_no": 50, "seq": 24, "type": "para", "body_html": "Les chiens ont <b>l'odorat</b> très développé : ils <b>sentent toutes les odeurs</b>.<br><b>Ça sent bon</b> ≠ <b>ça sent mauvais</b> (= ça pue*)."},
+    {"page_no": 50, "seq": 25, "type": "subhead", "body_html": "Le goût"},
+    {"page_no": 50, "seq": 26, "type": "para", "body_html": "– Est-ce que tu <b>sens le goût</b> de la vanille ?<br>– Attends, je <b>goûte</b>. (…) <b>C'est bon</b> (= ça a <b>un bon goût</b>) !<br>– Moi aussi, je veux goûter ! (…) Ah ! Non ! <b>Ce n'est pas bon</b> (= ça a <b>mauvais goût</b>). Tu as mis beaucoup trop de vanille !"},
+    {"page_no": 50, "seq": 27, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Ne confondez pas : « Ces tomates n'ont aucun goût » (= elles sont <b>fades</b>) avec : « Tim n'a aucun goût » (= il ne fait pas la différence entre ce qui est beau et ce qui est laid).</i>"},
+    {"page_no": 50, "seq": 28, "type": "subhead", "body_html": "Le toucher"},
+    {"page_no": 50, "seq": 29, "type": "para", "body_html": "On <b>touche</b>, on <b>caresse</b> avec la main."},
+    {"page_no": 52, "seq": 30, "type": "running_head", "body_html": "LE CORPS – LA SANTÉ"},
+    {"page_no": 52, "seq": 31, "type": "section_title", "body_html": "QUELQUES PARTIES DU CORPS"},
+    {"page_no": 52, "seq": 32, "type": "list", "body_html": "<div class='bullet'><b>le cœur → les battements du cœur, battre.</b><br><i>À mon premier rendez-vous avec Aurélien, mon cœur battait très fort.</i><br>Il est <b>cardiaque</b> : il a le cœur fragile. Il a déjà eu <b>une crise cardiaque</b>.<br><b>Avoir bon cœur = avoir le cœur sur la main</b> = être généreux</div>"},
+    {"page_no": 52, "seq": 33, "type": "list", "body_html": "<div class='bullet'><b>le sang → saigner</b><br>Il <b>s'est coupé le doigt = il s'est blessé au doigt</b>,<br>il <b>saigne</b>, il <b>perd du sang</b>.<br><b>Garder son sang-froid</b> = rester calme dans les moments difficiles<br><b>Se faire du mauvais sang = se faire un sang d'encre = être très inquiet</b></div>"},
+    {"page_no": 52, "seq": 34, "type": "list", "body_html": "<div class='bullet'><b>les poumons → la respiration, respirer</b><br><i>– Quand vous dormez, est-ce que vous respirez par le nez ou par la bouche ?</i><br><i>– Par la bouche, et je ronfle très fort</i> (= je fais beaucoup de bruit en respirant).<br>Il ment comme il <b>respire</b> = avec naturel et sans arrêt</div>"},
+    {"page_no": 52, "seq": 35, "type": "list", "body_html": "<div class='bullet'><b>l'estomac, le foie, les intestins → la digestion, digérer</b><br>Antoine aime beaucoup les fruits de mer, mais il <b>les digère mal</b>.<br>Malek a <b>les intestins fragiles</b>, il <b>est au régime</b>.<br>Agatha a mangé trop de chocolat : <b>elle a mal au cœur</b> ; elle a une « <b>crise de foie</b> ».<br><span class='remark-label'>Remarque.</span> <i>Avoir mal au cœur</i> ne signifie pas « avoir une douleur au cœur » (l'organe), mais « avoir un malaise digestif ».<br><b>Ça me reste sur l'estomac</b> = je n'arrive pas à accepter cela.</div>"},
+    {"page_no": 52, "seq": 36, "type": "list", "body_html": "<div class='bullet'><b>les reins</b> : ce sont les organes qui produisent <b>l'urine</b>, mais le mot désigne aussi tout le bas du dos.<br><b>Avoir mal aux reins = avoir mal dans le bas du dos</b></div>"},
+    {"page_no": 52, "seq": 37, "type": "list", "body_html": "<div class='bullet'><b>la peau → la transpiration, transpirer</b><br>Il faisait très chaud, on <b>transpirait</b> beaucoup, on était <b>en sueur, en nage</b>.<br><b>Être bien dans sa peau = être épanoui(e) ≠ être mal dans sa peau</b><br><b>Avoir quelqu'un dans la peau</b> = aimer quelqu'un avec passion</div>"},
+    {"page_no": 52, "seq": 38, "type": "list", "body_html": "<div class='bullet'><b>les nerfs → l'énervement, (s')énerver</b><br>Luc a <b>les nerfs fragiles</b>, il <b>s'énerve</b> facilement = il est <b>nerveux</b> (≠ avoir <b>les nerfs solides</b>, être calme)<br><b>Caroline me tape sur les nerfs</b> ! = <b>Elle m'énerve</b> ! Elle est vraiment <b>énervante</b>.<br><b>Je suis à bout de nerfs</b> = je suis très énervé</div>"},
+    {"page_no": 52, "seq": 39, "type": "list", "body_html": "<div class='bullet'><b>le cerveau → la pensée, l'esprit, l'intelligence, penser, réfléchir</b><br><b>C'est un cerveau</b> = c'est une personne très intelligente<br>• <b>les muscles → le mouvement, bouger, se muscler, être musclé.</b><br>Alexandre va chaque jour au club de gym pour <b>se muscler</b>.<br><b>Avoir des muscles = être fort</b></div>"},
+    {"page_no": 52, "seq": 40, "type": "para", "body_html": "Le cœur, les poumons, l'estomac, le foie, les reins sont des <b>organes</b>."},
+    {"page_no": 54, "seq": 41, "type": "running_head", "body_html": "LE CORPS – LA SANTÉ"},
+    {"page_no": 54, "seq": 42, "type": "section_title", "body_html": "LA SANTÉ"},
+    {"page_no": 54, "seq": 43, "type": "subhead", "body_html": "La bonne et la mauvaise santé"},
+    {"page_no": 54, "seq": 44, "type": "para", "body_html": "Martha <b>va/se sent (très) bien</b>. ≠ Pedro <b>va/se sent (très) mal</b>.<br>Elle <b>est en bonne/excellente santé</b>. ≠ Il <b>est en (très) mauvaise santé</b>.<br>Elle <b>est en (pleine) forme</b>. ≠ Il <b>n'est pas (du tout) en forme</b>.<br>Elle <b>a bon appétit</b> (elle mange bien). ≠ Il <b>n'a pas d'appétit</b>."},
+    {"page_no": 54, "seq": 45, "type": "subhead", "body_html": "La fatigue, le stress"},
+    {"page_no": 54, "seq": 46, "type": "para", "body_html": "Éric <b>se sent fatigué</b>, il est <b>épuisé, crevé*, lessivé*, mort de fatigue</b>, il n'en <b>peut plus</b>, il a vraiment besoin de <b>repos</b>, il <b>manque de sommeil, d'énergie</b>. Il travaille trop et s'inquiète. Il est <b>en état de (grand) stress</b>. Il est assez <b>déprimé</b>, il est presque <b>en dépression nerveuse</b>. Mais il <b>va se reposer</b> car il est en vacances ce soir. <b>Ça (lui) ira mieux après</b> !"},
+    {"page_no": 54, "seq": 47, "type": "subhead", "body_html": "L'apparence du visage"},
+    {"page_no": 54, "seq": 48, "type": "para", "body_html": "Louise était assez fatiguée, mais elle <b>a l'air d'aller mieux</b>. Elle <b>se sent mieux</b>. Elle a <b>bonne mine</b>, elle a même <b>une mine superbe</b>, elle a <b>meilleure mine</b> que la semaine dernière. Antoine, au contraire, a <b>mauvaise mine</b>, il est <b>blanc comme un linge</b>, il est <b>tout pâle</b>."},
+    {"page_no": 54, "seq": 49, "type": "subhead", "body_html": "La douleur"},
+    {"page_no": 54, "seq": 50, "type": "para", "body_html": "Léa <b>a mal au dos</b>, a <b>une douleur terrible dans le dos</b> : elle <b>s'est fait mal</b> en tombant. Il faut dire qu'elle <b>souffre souvent du dos</b> (= elle a le dos fragile)."},
+    {"page_no": 54, "seq": 51, "type": "subhead", "body_html": "La dépendance"},
+    {"page_no": 54, "seq": 52, "type": "para", "body_html": "Le <b>tabagisme</b>, l'<b>alcoolisme</b> et la <b>toxicomanie</b> (la dépendance au tabac, à l'alcool et aux <b>drogues dures</b>) sont très dangereux pour la santé."},
+    {"page_no": 54, "seq": 53, "type": "subhead", "body_html": "La maladie"},
+    {"page_no": 54, "seq": 54, "type": "list", "body_html": "<div class='bullet'>René est <b>atteint d'une grave maladie</b> : il a <b>un cancer</b>. Il <b>s'est fait opérer</b> (= il a <b>subi une opération</b>). René est <b>très faible</b>, mais son état <b>s'améliore</b>. Il va <b>guérir</b>, il sera bientôt <b>guéri</b> (= il ne sera plus malade).</div>"},
+    {"page_no": 54, "seq": 55, "type": "list", "body_html": "<div class='bullet'>Laurent, lui, a <b>le sida</b>. Il avait <b>perdu l'appétit</b> et avait beaucoup <b>maigri</b>, mais maintenant, il est <b>sous traitement</b> et va mieux !</div>"},
+    {"page_no": 54, "seq": 56, "type": "subhead", "body_html": "Se soigner"},
+    {"page_no": 54, "seq": 57, "type": "list", "body_html": "<div class='bullet'>Quand on <b>tombe malade</b>, <b>on se soigne</b>, <b>on se fait soigner par un médecin</b>, <b>on consulte</b>, <b>on va voir un médecin</b> et <b>on suit un traitement</b> : souvent, on <b>prend des médicaments</b>. Quelquefois, on est <b>hospitalisé en urgence</b>.</div>"},
+    {"page_no": 54, "seq": 58, "type": "list", "body_html": "<div class='bullet'><b>Le médecin soigne ses patients</b>. Il peut <b>prescrire des médicaments</b> (il fait <b>une ordonnance</b>) et/ou <b>des analyses</b>, par exemple <b>une analyse de sang</b>.</div>"}
+  ],
+  "exercises": [
+    {
+      "page_no": 49, "seq": 1,
+      "instruction_fr": "Devinez et complétez.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [49],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. Il lève le {{b}}."},
+        {"seq": 2, "type": "cloze", "stem_html": "2. Ils se serrent la {{b}}."},
+        {"seq": 3, "type": "cloze", "stem_html": "3. Elle salue de la {{b}}."},
+        {"seq": 4, "type": "cloze", "stem_html": "4. Il se pince le {{b}}."},
+        {"seq": 5, "type": "cloze", "stem_html": "5. Elle ouvre de grands {{b}}."},
+        {"seq": 6, "type": "cloze", "stem_html": "6. Il tire la {{b}}."},
+        {"seq": 7, "type": "cloze", "stem_html": "7. Il hausse les {{b}}."},
+        {"seq": 8, "type": "cloze", "stem_html": "8. Il a mal aux {{b}}."},
+        {"seq": 9, "type": "cloze", "stem_html": "9. Elle s'est cassé une {{b}}."},
+        {"seq": 10, "type": "cloze", "stem_html": "10. Il fronce les {{b}}."},
+        {"seq": 11, "type": "cloze", "stem_html": "11. Elle est allongée sur le {{b}}."},
+        {"seq": 12, "type": "cloze", "stem_html": "12. Il est allongé sur le {{b}}."},
+        {"seq": 13, "type": "cloze", "stem_html": "13. Ils se promènent {{b}} dessus, {{b}} dessous."},
+        {"seq": 14, "type": "cloze", "stem_html": "14. Elle lui donne un coup de {{b}} aux {{b}}."}
+      ]
+    },
+    {
+      "page_no": 49, "seq": 2,
+      "instruction_fr": "Éliminez l'intrus.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "choice", "stem_html": "1. {{o!:front|sourcil|cou|œil}}"},
+        {"seq": 2, "type": "choice", "stem_html": "2. {{o!:côte|orteil|doigt|ongle}}"},
+        {"seq": 3, "type": "choice", "stem_html": "3. {{o!:langue|dent|lèvre|vertèbre}}"},
+        {"seq": 4, "type": "choice", "stem_html": "4. {{o!:cheveu|cheville|poil|sourcil}}"},
+        {"seq": 5, "type": "choice", "stem_html": "5. {{o!:dos|fesses|nez|reins}}"},
+        {"seq": 6, "type": "choice", "stem_html": "6. {{o!:front|menton|sein|joue}}"},
+        {"seq": 7, "type": "choice", "stem_html": "7. {{o!:visage|coude|poignet|genou}}"},
+        {"seq": 8, "type": "choice", "stem_html": "8. {{o!:crâne|tête|visage|colonne vertébrale}}"}
+      ]
+    },
+    {
+      "page_no": 51, "seq": 3,
+      "instruction_fr": "À quel sens se rapporte chacune des phrases suivantes ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Hum ! Ça sent bon ici ! {{L}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Ce tissu est chaud, mais surtout très doux, n'est-ce pas ? {{L}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. Dans ces images, observez bien les couleurs. {{L}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. Ce gâteau est absolument délicieux ! {{L}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. Cette chanteuse interprète merveilleusement Mozart. {{L}}"},
+        {"seq": 6, "type": "open", "stem_html": "6. Ce parfum sent vraiment très fort. {{L}}"},
+        {"seq": 7, "type": "open", "stem_html": "7. C'est vraiment fade, ça manque de sel. {{L}}"}
+      ]
+    },
+    {
+      "page_no": 51, "seq": 4,
+      "instruction_fr": "Quelle(s) expression(s) imagée(s) pourriez-vous utiliser dans ces situations ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Omar a eu des réunions chaque jour de la semaine et de plus, elles sont inutiles ! {{L}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. C'est évident qu'elle est amoureuse de lui ! {{L}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. Il n'a pas d'argent, mais il veut acheter une maison de campagne ! {{L}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. Elle a rencontré son prof d'histoire tout à fait par hasard, à la caisse du supermarché. {{L}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. Impossible de dormir, il faisait trop chaud ! {{L}}"},
+        {"seq": 6, "type": "open", "stem_html": "6. Pierre a une voisine qui fait la fête chaque soir de la semaine. {{L}}"},
+        {"seq": 7, "type": "open", "stem_html": "7. Le petit garçon essaye de mentir à sa maman, cela se voit ! {{L}}"},
+        {"seq": 8, "type": "open", "stem_html": "8. Il avait prévu des vacances à l'étranger, mais son loyer vient d'augmenter et il a renoncé à son voyage. {{L}}"}
+      ]
+    },
+    {
+      "page_no": 51, "seq": 5,
+      "instruction_fr": "Complétez par le verbe « voir », « regarder », « entendre » ou « écouter ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. Je suis allé {{b}} un concert assez médiocre : on {{b}} très peu le violon."},
+        {"seq": 2, "type": "cloze", "stem_html": "2. Elle {{b}} le tableau avec beaucoup d'attention."},
+        {"seq": 3, "type": "cloze", "stem_html": "3. Avec ce brouillard, on ne {{b}} pas à dix mètres !"},
+        {"seq": 4, "type": "cloze", "stem_html": "4. Cet appartement est très bruyant : on {{b}} beaucoup la circulation."},
+        {"seq": 5, "type": "cloze", "stem_html": "5. J'aime bien ce médecin car il prend le temps d'{{b}} ses patients."},
+        {"seq": 6, "type": "cloze", "stem_html": "6. Tu n'arrêtes pas de {{b}} ta montre. Tu t'ennuies ? Tu es pressé ?"},
+        {"seq": 7, "type": "cloze", "stem_html": "7. Gérard a de gros problèmes avec ses yeux : il {{b}} de moins en moins bien."},
+        {"seq": 8, "type": "cloze", "stem_html": "8. {{b}} ! Il y a une mouche dans la salade !"}
+      ]
+    },
+    {
+      "page_no": 51, "seq": 6,
+      "instruction_fr": "À vous ! Dans quelles circonstances vous arrive-t-il d'en avoir par-dessus la tête ou de ne pas fermer l'œil de la nuit ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "{{T}}"}
+      ]
+    },
+    {
+      "page_no": 53, "seq": 7,
+      "instruction_fr": "Dites si on les voit et combien on en compte dans le corps humain.",
+      "label": "Exemple : ongle → oui, vingt",
+      "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. main → {{L}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. tête → {{L}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. cerveau → {{L}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. colonne vertébrale → {{L}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. doigt → {{L}}"},
+        {"seq": 6, "type": "open", "stem_html": "6. cœur → {{L}}"},
+        {"seq": 7, "type": "open", "stem_html": "7. estomac → {{L}}"},
+        {"seq": 8, "type": "open", "stem_html": "8. rein → {{L}}"},
+        {"seq": 9, "type": "open", "stem_html": "9. joue → {{L}}"},
+        {"seq": 10, "type": "open", "stem_html": "10. foie → {{L}}"},
+        {"seq": 11, "type": "open", "stem_html": "11. oreille → {{L}}"},
+        {"seq": 12, "type": "open", "stem_html": "12. poumon → {{L}}"}
+      ]
+    },
+    {
+      "page_no": 53, "seq": 8,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "tf", "stem_html": "1. On a le cœur qui bat et on transpire quand on a peur. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 2, "type": "tf", "stem_html": "2. Le cerveau se situe à l'intérieur du crâne. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 3, "type": "tf", "stem_html": "3. Les poumons servent à la digestion. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 4, "type": "tf", "stem_html": "4. Le chocolat provoque des crises cardiaques. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 5, "type": "tf", "stem_html": "5. Le cerveau est un muscle. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 6, "type": "tf", "stem_html": "6. Je lève un bras grâce à des muscles. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 7, "type": "tf", "stem_html": "7. Les reins se situent dans le haut du dos. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"}
+      ]
+    },
+    {
+      "page_no": 53, "seq": 9,
+      "instruction_fr": "Complétez.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. Françoise a arrêté de fumer car elle a les {{b}} fragiles."},
+        {"seq": 2, "type": "cloze", "stem_html": "2. Il faut de gros {{b}} pour porter une armoire."},
+        {"seq": 3, "type": "cloze", "stem_html": "3. J'ai l'{{b}} vide : je n'ai rien mangé depuis deux jours."},
+        {"seq": 4, "type": "cloze", "stem_html": "4. Le chien du voisin n'arrête pas d'aboyer : il me tape sur les {{b}}."},
+        {"seq": 5, "type": "cloze", "stem_html": "5. Alain s'est coupé en se rasant. Il a mis du {{b}} sur sa belle chemise blanche."},
+        {"seq": 6, "type": "cloze", "stem_html": "6. Quand on a la {{b}} fragile, il faut se protéger du soleil."},
+        {"seq": 7, "type": "cloze", "stem_html": "7. Mon père a eu une crise {{b}}. Heureusement, ma mère a les {{b}} solides. Elle est restée calme et a appelé le médecin."},
+        {"seq": 8, "type": "cloze", "stem_html": "8. J'ai couru trois kilomètres sous le soleil : je suis en {{b}}."}
+      ]
+    },
+    {
+      "page_no": 53, "seq": 10,
+      "instruction_fr": "Quelles caractéristiques de la personnalité expriment les phrases suivantes ? Utilisez les expressions imagées.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Elle a envoyé de l'argent et des vêtements aux victimes du tremblement de terre. {{L}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Il ne peut pas vivre sans elle, il l'aime à la folie. {{L}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. Au moment de l'accident, il a appelé l'ambulance et il est resté calmement auprès des blessés. {{L}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. Elle est heureuse, elle est jolie, tout marche bien pour elle. {{L}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. Sa mère est très malade, il est vraiment inquiet. {{L}}"},
+        {"seq": 6, "type": "open", "stem_html": "6. Cet homme politique ne dit jamais la vérité. {{L}}"}
+      ]
+    },
+    {
+      "page_no": 55, "seq": 11,
+      "instruction_fr": "Remplacez les expressions soulignées par des expressions synonymes.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "transform", "stem_html": "1. Sabrina <u>se fait un sang d'encre</u> car son frère vient de <u>subir une opération</u>. → {{T}}"},
+        {"seq": 2, "type": "transform", "stem_html": "2. Claude est <u>très malade</u>, mais ne <u>ressent aucune douleur</u>. → {{T}}"},
+        {"seq": 3, "type": "transform", "stem_html": "3. Liliane a <u>une crise de foie</u>. Elle est <u>toute pâle</u>. → {{T}}"},
+        {"seq": 4, "type": "transform", "stem_html": "4. Comment va ton fils ? – Mon fils ?! Il est <u>en pleine forme</u> et <u>très bien dans sa peau</u>. → {{T}}"}
+      ]
+    },
+    {
+      "page_no": 55, "seq": 12,
+      "instruction_fr": "Mettez les phrases suivantes dans le bon ordre.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "order", "stem_html": "a. Cette fois, le médecin lui a fait faire des analyses. → {{b}}"},
+        {"seq": 2, "type": "order", "stem_html": "b. Ça n'allait pas mieux. → {{b}}"},
+        {"seq": 3, "type": "order", "stem_html": "c. Il a maintenant un traitement, mais ça va beaucoup mieux. → {{b}}"},
+        {"seq": 4, "type": "order", "stem_html": "d. Il a d'abord eu mal au ventre. → 1"},
+        {"seq": 5, "type": "order", "stem_html": "e. Il est retourné voir le médecin. → {{b}}"},
+        {"seq": 6, "type": "order", "stem_html": "f. Il s'est fait opérer. → {{b}}"},
+        {"seq": 7, "type": "order", "stem_html": "g. Les analyses ont montré qu'il avait un cancer, mais pas trop grave. → {{b}}"},
+        {"seq": 8, "type": "order", "stem_html": "h. Il a consulté un médecin. → {{b}}"},
+        {"seq": 9, "type": "order", "stem_html": "i. Il est entré à l'hôpital. → {{b}}"},
+        {"seq": 10, "type": "order", "stem_html": "j. Le médecin lui a prescrit des médicaments. → {{b}}"}
+      ]
+    },
+    {
+      "page_no": 55, "seq": 13,
+      "instruction_fr": "Éliminez la mauvaise réponse.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "choice", "stem_html": "1. Je suis {{o!:crevée|musclée|lessivée|épuisée}} car je n'ai pas eu de vacances cette année."},
+        {"seq": 2, "type": "choice", "stem_html": "2. Tu es sûr que ça va ? {{o!:Tu es déprimé|tu es tout pâle|tu es blanc comme un linge|tu as mauvaise mine|tu as l'air fatigué}}."},
+        {"seq": 3, "type": "choice", "stem_html": "3. Clotilde est très malade. {{o!:Elle a perdu l'appétit|elle a beaucoup d'appétit|elle a beaucoup maigri|elle n'est pas en forme}}."},
+        {"seq": 4, "type": "choice", "stem_html": "4. Je dors très peu depuis une semaine. {{o!:J'ai besoin de sommeil|je souffre du sommeil|je manque de sommeil|je suis mort de fatigue}}."},
+        {"seq": 5, "type": "choice", "stem_html": "5. Loïc n'a pas eu le temps de déjeuner à midi. {{o!:Il manque d'énergie|il est en forme|il est un peu faible|il se sent un peu fatigué}}."},
+        {"seq": 6, "type": "choice", "stem_html": "6. Gaëlle est tombée dans l'escalier. {{o!:Elle a très mal aux reins|elle a une douleur terrible|elle est malade|elle s'est fait mal dans le bas du dos}}."},
+        {"seq": 7, "type": "choice", "stem_html": "7. Il se drogue depuis longtemps. {{o!:Il est en mauvaise santé|il a mauvaise mine|il est guéri|il n'est pas en forme}}."},
+        {"seq": 8, "type": "choice", "stem_html": "8. Tous les matins, tu pars au bureau avec mes clés ! {{o!:Tu m'énerves|tu as les nerfs fragiles|tu me tapes sur les nerfs|j'en ai plein de dos}} !"}
+      ]
+    }
+  ]
+}
