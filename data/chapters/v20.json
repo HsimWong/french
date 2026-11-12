@@ -1,0 +1,216 @@
+{
+  "course": "vocabulaire",
+  "seq": 20,
+  "title_fr": "LA TECHNOLOGIE",
+  "page_start": 136,
+  "page_end": 141,
+  "pdf_start": 138,
+  "pdf_end": 143,
+  "sections": [
+    { "title_fr": "L'INFORMATIQUE", "page_no": 136 },
+    { "title_fr": "L'INTERNET", "page_no": 136 },
+    { "title_fr": "LE MULTIMÉDIA", "page_no": 138 },
+    { "title_fr": "LE TÉLÉPHONE", "page_no": 140 }
+  ],
+  "blocks": [
+    { "page_no": 136, "seq": 1, "type": "chapter_title", "body_html": "<span class='ch-no'>20</span> LA TECHNOLOGIE" },
+    { "page_no": 136, "seq": 2, "type": "section_title", "body_html": "L'INFORMATIQUE" },
+    { "page_no": 136, "seq": 3, "type": "list", "body_html": "<div class='bullet'>un écran</div><div class='bullet'>une unité centrale</div><div class='bullet'>un câble branché à une prise électrique</div><div class='bullet'>une imprimante</div><div class='bullet'>une souris (sans fil)</div><div class='bullet'>un clavier et une touche</div><div class='bullet'>un ordinateur portable</div><div class='bullet'>un scanner</div><div class='bullet'>une clé USB</div><div class='bullet'>une cartouche d'encre</div>" },
+    { "page_no": 136, "seq": 4, "type": "list", "body_html": "<div class='bullet'>D'abord, je branche (≠ débranche) l'ordinateur, puis je l'allume (≠ éteins). J'ouvre (≠ ferme) un dossier, dans lequel se trouvent des fichiers. Je branche une clé USB, sur laquelle je peux sauvegarder (= jeter) des données.</div>" },
+    { "page_no": 136, "seq": 5, "type": "list", "body_html": "<div class='bullet'>Je saisis / tape (≠ efface) un texte : je peux couper des phrases, puis les coller ailleurs. C'est le « couper-coller ». J'enregistre, puis j'imprime le document. Je fais / prépare un PowerPoint pour une réunion. Je peux aussi stocker des photos, scanner des documents et tout mettre sur un CD-Rom que j'ai inséré.</div>" },
+    { "page_no": 136, "seq": 6, "type": "list", "body_html": "<div class='bullet'>Je dois acheter un nouveau logiciel (= un programme informatique) de traitement de texte (pour écrire des documents). Je vais aussi augmenter la mémoire de mon disque dur. Les ordinateurs doivent être compatibles entre eux. Les problèmes de compatibilité sont encore fréquents, hélas...</div>" },
+    { "page_no": 136, "seq": 7, "type": "list", "body_html": "<div class='bullet'>En conclusion, comme je suis bien équipée en informatique, je passe mon temps sur / devant mon ordinateur !</div>" },
+    { "page_no": 136, "seq": 8, "type": "section_title", "body_html": "L'INTERNET" },
+    { "page_no": 136, "seq": 9, "type": "list", "body_html": "<div class='bullet'>Avec une connexion Internet, avec la Wifi, j'ai accès à la Toile / le Web, je surfe sur Internet. Je consulte des sites, je fais des opérations en ligne (achats, réservations...). Avec une adresse électronique / une adresse mail, je peux envoyer un mail (= un courrier électronique = un courriel) et des pièces jointes.</div>" },
+    { "page_no": 136, "seq": 10, "type": "list", "body_html": "<div class='bullet'>Certains sont sur / communiquent par Facebook, Twitter, Skype ou tiennent / ont un blog.</div>" },
+    { "page_no": 136, "seq": 11, "type": "list", "body_html": "<div class='bullet'>Sous certaines conditions, on peut télécharger des documents, des logiciels, des émissions de télévision, mais le téléchargement est parfois illégal.</div>" },
+    { "page_no": 138, "seq": 12, "type": "running_head", "body_html": "LA TECHNOLOGIE" },
+    { "page_no": 138, "seq": 13, "type": "section_title", "body_html": "LE MULTIMÉDIA" },
+    { "page_no": 138, "seq": 14, "type": "list", "body_html": "<div class='bullet'>Le téléviseur (= le poste de télévision), le poste de radio, le transistor, etc., sont des appareils.</div>" },
+    { "page_no": 138, "seq": 15, "type": "list", "body_html": "<div class='bullet'>Grâce à un lecteur-graveur DVD, on peut enregistrer des émissions ou regarder un film.</div>" },
+    { "page_no": 138, "seq": 16, "type": "list", "body_html": "<div class='bullet'>Avec un caméscope, on filme des événements.</div>" },
+    { "page_no": 138, "seq": 17, "type": "subhead", "body_html": "■ La télévision" },
+    { "page_no": 138, "seq": 18, "type": "list", "body_html": "<div class='bullet'>Tous les soirs, les Joubert sont devant la télé / leur téléviseur / leur poste. Ils allument la télévision, ils appuient sur la touche appropriée de la télécommande. Ils regardent le journal télévisé (= les informations = les infos*). Ils n'ont pas la télévision par câble, mais ils ont une « parabole » (= une antenne parabolique). Ils ont accès à un bouquet numérique (= de très nombreuses chaînes de TV). Ils mettent une chaîne qui propose des émissions de variété ou de sport. Ils changent de chaîne, ils zappent*, quand le programme ne leur plaît pas.</div>" },
+    { "page_no": 138, "seq": 19, "type": "speech", "body_html": "<div class='speech'>– Qu'est-ce qu'il y a, ce soir, à la télé ?<br>– Il y a un feuilleton / une série (= un film à épisodes) sur la première chaîne et un documentaire sur TV5 monde.</div>" },
+    { "page_no": 138, "seq": 20, "type": "subhead", "body_html": "■ La radio" },
+    { "page_no": 138, "seq": 21, "type": "list", "body_html": "<div class='bullet'>Yasmina écoute la radio dans sa voiture, grâce à son autoradio. Elle met toujours la même station de radio, car elle aime bien les émissions politiques du matin. Elle écoute les interviews et les débats. Elle a aussi acheté un petit transistor pour écouter la radio dans sa cuisine.</div>" },
+    { "page_no": 138, "seq": 22, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Le « programme » est l'ensemble des émissions de radio ou de télévision.</i>" },
+    { "page_no": 138, "seq": 23, "type": "subhead", "body_html": "■ La hi-fi" },
+    { "page_no": 138, "seq": 24, "type": "list", "body_html": "<div class='bullet'>Gautier a une belle chaîne hi-fi, avec un tuner (pour la radio), un amplificateur (un ampli*) et deux enceintes / haut-parleurs. Gautier écoute ses CD. Souvent, il monte le son et les voisins protestent. Ils lui demandent de baisser le son, de mettre moins fort. Gautier va donc acheter un casque, pour pouvoir écouter de la musique aussi fort qu'il veut, sans déranger les voisins.</div>" },
+    { "page_no": 138, "seq": 25, "type": "list", "body_html": "<div class='bullet'>Dans le train, Gautier écoute de la musique avec son lecteur MP3. Il peut régler le volume librement.</div>" },
+    { "page_no": 140, "seq": 26, "type": "running_head", "body_html": "LA TECHNOLOGIE" },
+    { "page_no": 140, "seq": 27, "type": "section_title", "body_html": "LE TÉLÉPHONE" },
+    { "page_no": 140, "seq": 28, "type": "para", "body_html": "Un téléphone fixe sans fil : la base et le combiné avec les touches." },
+    { "page_no": 140, "seq": 29, "type": "list", "body_html": "<div class='bullet'>Même si la technologie évolue constamment, on conserve certains termes anciens. Par exemple : on décroche le téléphone (= on répond au téléphone).</div>" },
+    { "page_no": 140, "seq": 30, "type": "list", "body_html": "<div class='bullet'>On allume (≠ éteint) son téléphone mobile / son portable. Pour ne pas déranger, on le met en mode vibreur. On peut aussi utiliser un kit mains libres.</div>" },
+    { "page_no": 140, "seq": 31, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Les Français emploient indifféremment les deux termes : le « mobile » ou le « portable ».</i>" },
+    { "page_no": 140, "seq": 32, "type": "list", "body_html": "<div class='bullet'>J'ai essayé de joindre (= contacter) Louise sur son portable, mais je suis tombé sur son répondeur / sa messagerie. Je lui ai laissé un message, j'espère qu'elle va me rappeler très vite. Sinon, je vais lui envoyer un texto / un sms. Je communique souvent par texto / sms avec elle, car elle est souvent injoignable (= impossible à joindre).</div>" },
+    { "page_no": 140, "seq": 33, "type": "list", "body_html": "<div class='bullet'>Je téléphone à ma grand-mère, je lui passe un coup de fil* / un coup de téléphone*, mais ça sonne occupé depuis une heure. C'est bizarre... Sa ligne est peut-être en dérangement (= a un problème technique) ? Je réessaye* un peu plus tard. Ah maintenant, ça sonne. Je laisse sonner dix coups, mais elle ne répond pas. Je raccroche. Je vais peut-être recevoir un appel (= un coup de fil / un coup de téléphone) de ma grand-mère un peu plus tard ! Ah voilà ! Mon mobile sonne, c'est elle !</div>" },
+    { "page_no": 140, "seq": 34, "type": "list", "body_html": "<div class='bullet'>J'étais au téléphone avec Isabelle, mais nous avons été coupés*. C'est à cause de mon mobile : je suis dans le train et il n'y a pas de réseau là où je me trouve maintenant. Heureusement, Isabelle pourra me joindre sur « mon fixe » (= mon téléphone fixe) tout à l'heure.</div>" },
+    { "page_no": 140, "seq": 35, "type": "list", "body_html": "<div class='bullet'>Quand on consulte un service téléphonique, on entend généralement ce genre de message : « Bienvenue sur le service d'informations. Appuyez sur la touche étoile (*) de votre clavier téléphonique. Composez votre identifiant (= un code secret), puis appuyez sur dièse (#). Pour un problème technique, tapez 1. Pour parler à un technicien, tapez 2. Pour revenir au menu principal, tapez 0. »</div>" },
+    { "page_no": 140, "seq": 36, "type": "list", "body_html": "<div class='bullet'>Certains téléphones sont équipés d'un fax. On peut envoyer ou recevoir un fax. On peut aussi faxer un document.</div>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 137, "seq": 1, "instruction_fr": "Répondez par le contraire.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Vous branchez votre ordinateur ? – Non, {{b}}." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Vous avez sauvegardé le document ? – Non, {{b}}." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Vous avez tapé des phrases ? – Non, {{b}}." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Vous allumez votre imprimante ? – Non, {{b}}." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Vous avez fermé le dossier ? – Non, {{b}}." }
+      ]
+    },
+    {
+      "page_no": 137, "seq": 2, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Un clavier comporte des touches. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. On peut imprimer des documents sur un imprimante. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Avec une adresse électronique, je peux scanner des documents. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Quand je veux utiliser mon ordinateur, je le télécharge. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. On sauvegarde un document qu'on ne veut pas jeter. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Elle stocke des photos sur son disque dur. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. Le fichier se trouve dans le dossier. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 8, "type": "tf", "stem_html": "8. Nous allumons une clé USB. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 137, "seq": 3, "instruction_fr": "Choisissez la bonne réponse.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Il est parfois illégal de {{o:sauvegarder|télécharger}} des documents." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Le câble est branché à une {{o:prise|touche}} électrique." },
+        { "seq": 3, "type": "choice", "stem_html": "3. J'ai d'abord {{o:coupé|inséré}} la phrase, puis je l'ai collée dans un autre chapitre." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Je {{o:jette|sauvegarde}} des fichiers sur une clé USB." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Est-ce que vous {{o:êtes|faites}} sur Facebook ?" },
+        { "seq": 6, "type": "choice", "stem_html": "6. Je dois changer {{o:l'unité|la cartouche}} de mon imprimante." }
+      ]
+    },
+    {
+      "page_no": 137, "seq": 4, "instruction_fr": "Complétez le texte.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "« Vive l'informatique... J'ai eu beaucoup de mal à {{b}} mon ordinateur que j'avais éteint hier soir. Ensuite, j'ai voulu {{b}} des photos sur mon disque {{b}}, mais cela n'a pas marché. Ensuite, j'ai {{b}} par erreur un texte que je venais de taper ! Enfin, impossible de retrouver ma {{b}} USB... C'est décidé, je retourne au crayon et au papier ! »" }
+      ]
+    },
+    {
+      "page_no": 137, "seq": 5, "instruction_fr": "À vous ! Quel est votre rapport à l'informatique ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Êtes-vous bien équipé(e) ? Quels appareils employez-vous ? {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Quelles opérations faites-vous le plus souvent en ligne ? {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Écrivez-vous encore des documents à la main ? Lesquels ? Pourquoi ? {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Tenez-vous un blog (professionnel ou personnel) ? Pour quelles raisons ? {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Combien de temps passez-vous sur votre ordinateur ? {{T}}" }
+      ]
+    },
+    {
+      "page_no": 139, "seq": 6, "instruction_fr": "Choisissez la bonne réponse.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Ma mère passe sa journée {{o:devant|derrière}} sa télé." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Tu connais le {{o:programme|journal}} de ce soir ?" },
+        { "seq": 3, "type": "choice", "stem_html": "3. Elle veut {{o:regarder|baisser}} le feuilleton à la télé." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Grâce au {{o:son|casque}}, je peux écouter de l'opéra sans gêner les voisins." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Je voudrais zapper, mais je ne trouve plus ma {{o:chaîne|télécommande}}." },
+        { "seq": 6, "type": "choice", "stem_html": "6. Nous allons acheter un nouveau {{o:poste|programme}} de télévision." },
+        { "seq": 7, "type": "choice", "stem_html": "7. Vous devez {{o:enregistrer|appuyer}} sur cette touche." },
+        { "seq": 8, "type": "choice", "stem_html": "8. Quelle chaîne est-ce que tu {{o:fais|mets}} ?" }
+      ]
+    },
+    {
+      "page_no": 139, "seq": 7, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. On peut regarder une émission à la radio. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Grâce à son antenne parabolique, il a accès à plusieurs chaînes de télévision. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Je regarde une station de télévision. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Le son est trop fort, vous pouvez le monter ? Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Nous avons acheté un transistor pour écouter la radio dans la voiture. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Ils regardent le journal tous les soirs à la télévision. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 139, "seq": 8, "instruction_fr": "De quoi parle-t-on ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Cela me permet de recevoir un bouquet numérique. → {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Je le baisse pour ne pas gêner les voisins. → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Nous le regardons tous les soirs, pour avoir des nouvelles du monde. → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Nous allons l'utiliser pour filmer le mariage de notre fille. → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. J'appuie sur cet objet pour zapper. → {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Nous en avons déjà vu quatre épisodes. → {{b}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Il nous permet de regarder les DVD. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 139, "seq": 9, "instruction_fr": "Complétez.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Quelle chaîne est-ce que tu {{b}} ? (2 possibilités)" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Impossible de dormir ! Est-ce que vous pouvez {{b}} le son de votre télé ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Mon grand-père passe ses journées devant son {{b}}." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Quelles sont vos {{b}} de radio favorites ?" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Avant de se coucher, Émilie {{b}} la télévision." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Pour avoir {{b}} à cette chaîne, il vous faut une {{b}} parabolique." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Le matin, nous écoutons les {{b}} politiques à la radio." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Je ne veux pas rater le dernier épisode de ce {{b}} !" }
+      ]
+    },
+    {
+      "page_no": 141, "seq": 10, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. J'appuie sur la touche dièse de mon clavier téléphonique. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. On peut joindre Mourad sur son mobile. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Pour finir une conversation téléphonique, je décroche. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Pour parler à Sylvain, je lui envoie une ligne. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Ils ont décroché leur messagerie. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Sur quelle ligne je dois appuyer pour revenir au menu principal ? Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. Pour ne pas déranger les voisins, j'allume mon portable. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 8, "type": "tf", "stem_html": "8. C'est bizarre, je laisse sonner et ça ne répond pas. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 141, "seq": 11, "instruction_fr": "Complétez.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Julien {{b}} au téléphone, il ne peut pas te parler." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Zut, ça {{b}} occupé !" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je ne peux pas utiliser mon mobile, dans cette zone, il n'y a pas de {{b}}." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Vous voulez {{b}} un message sur le répondeur de Séverine ?" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Puisqu'elle n'est pas là, je la {{b}} un peu plus tard, de mon mobile." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Monsieur, vous {{b}} un appel de votre entreprise hier soir." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Tu peux me {{b}} sur mon fixe, je suis à la maison." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Pour accéder à ce service, vous devez {{b}} votre identifiant." }
+      ]
+    },
+    {
+      "page_no": 141, "seq": 12, "instruction_fr": "Choisissez les termes possibles.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. J'éteins mon {{o:ordinateur|téléphone mobile|émission|touche}}." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Elle {{o:passe|contacte|joint|compose}} son amie Christine." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Nous {{o:décrochons|éteignons|recevons|raccrochons}} le téléphone fixe." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Ils aiment bien cette émission de {{o:mobile|radio|téléphone|télévision}}." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Ils appuient sur la touche du {{o:téléphone|télécommande|clavier|menu}}." },
+        { "seq": 6, "type": "choice", "stem_html": "6. Elle est devant son {{o:casque|ordinateur|mobile|poste}}." },
+        { "seq": 7, "type": "choice", "stem_html": "7. Ils veulent {{o:télécharger|mettre|écouter|regarder}} une émission." }
+      ]
+    },
+    {
+      "page_no": 141, "seq": 13, "instruction_fr": "Répondez aux questions sur la technologie.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Quels appareils peuvent avoir un clavier ? {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Sur quoi peut-on appuyer pour faire marcher un appareil ? {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Quels appareils peut-on éteindre ? {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Quels mots familiers signifient « un appel » ? {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Quels appareils peut-on brancher ? {{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. Que peut-on faire pour ne pas déranger les voisins ? {{T}}" }
+      ]
+    }
+  ]
+}
