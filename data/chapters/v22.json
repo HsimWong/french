@@ -1,0 +1,849 @@
+{
+  "course": "vocabulaire",
+  "seq": 22,
+  "title_fr": "DIVERSITÉ, POLITIQUE ET SOCIÉTÉ",
+  "page_start": 150,
+  "page_end": 155,
+  "pdf_start": 152,
+  "pdf_end": 157,
+  "sections": [
+    {
+      "title_fr": "LA DIVERSITÉ",
+      "page_no": 150
+    },
+    {
+      "title_fr": "LES QUESTIONS DE SOCIÉTÉ",
+      "page_no": 152
+    },
+    {
+      "title_fr": "LA PRESSE",
+      "page_no": 154
+    },
+    {
+      "title_fr": "LA VIE POLITIQUE",
+      "page_no": 154
+    }
+  ],
+  "blocks": [
+    {
+      "page_no": 150,
+      "seq": 1,
+      "type": "chapter_title",
+      "body_html": "<span class='ch-no'>22</span> DIVERSITÉ, POLITIQUE ET SOCIÉTÉ"
+    },
+    {
+      "page_no": 150,
+      "seq": 2,
+      "type": "section_title",
+      "body_html": "LA DIVERSITÉ"
+    },
+    {
+      "page_no": 150,
+      "seq": 3,
+      "type": "list",
+      "body_html": "<div class='bullet'>La <b>population</b> française est de plus en plus <b>mélangée</b>, car elle est d'origine variée. La <b>diversité culturelle</b> (= <b>le multiculturalisme</b>) se développe. La société doit gérer <b>l'immigration</b> (= l'arrivée de travailleurs étrangers) et proposer des solutions pour permettre <b>l'intégration des immigrés</b>. En même temps, on essaie de <b>lutter contre les discriminations</b>.</div>"
+    },
+    {
+      "page_no": 150,
+      "seq": 4,
+      "type": "subhead",
+      "body_html": "VOUS ÊTES D'OÙ ? VOUS VENEZ D'OÙ ?"
+    },
+    {
+      "page_no": 150,
+      "seq": 5,
+      "type": "speech",
+      "body_html": "<b>Radu :</b> J'ai la double nationalité française et roumaine (= je suis moitié français, moitié roumain). Ma femme est française, d'origine polonaise. Elle est naturalisée française depuis dix ans (= elle a obtenu officiellement la nationalité française)."
+    },
+    {
+      "page_no": 150,
+      "seq": 6,
+      "type": "speech",
+      "body_html": "<b>Ali :</b> Je suis beur. Je suis né en France, mais mes parents sont maghrébins, ils sont originaires du Maghreb (Afrique du Nord). Je parle aussi bien l'arabe que le français."
+    },
+    {
+      "page_no": 150,
+      "seq": 7,
+      "type": "speech",
+      "body_html": "<b>Joseph :</b> Moi, je suis étranger, je suis réfugié politique. J'ai quitté mon pays, et j'ai demandé et obtenu l'asile politique en France. J'ai fait mes études en Afrique et je suis francophone."
+    },
+    {
+      "page_no": 150,
+      "seq": 8,
+      "type": "speech",
+      "body_html": "<b>Jessica :</b> Je suis philippine, je suis immigrée en France (= je suis venue temporairement pour travailler)."
+    },
+    {
+      "page_no": 150,
+      "seq": 9,
+      "type": "speech",
+      "body_html": "<b>Maryam :</b> Je suis exilée, j'ai définitivement quitté mon pays, pour des raisons politiques et économiques. Je ne sais pas si je pourrai y retourner un jour. Je vis en exil en France."
+    },
+    {
+      "page_no": 150,
+      "seq": 10,
+      "type": "speech",
+      "body_html": "<b>Thérèse :</b> Eh bien moi, je suis une petite provinciale ! J'habite à Paris, mais je ne suis pas parisienne, je suis bretonne. Je m'ennuie de ma province, où la vie est plus calme qu'ici !"
+    },
+    {
+      "page_no": 150,
+      "seq": 11,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarque.</span> <i>On entend de plus en plus l'expression « en région » à la place de « en province ». En effet, les adjectifs « parisien » ou « provincial » peuvent parfois être assez moqueurs, selon la personne qui l'emploie. Un Parisien dira : « C'est un provincial ! Il est lent et perdu dans Paris ! » Un provincial dira : « Il est fou, il est toujours pressé, c'est normal, c'est un Parisien ! »</i>"
+    },
+    {
+      "page_no": 150,
+      "seq": 12,
+      "type": "subhead",
+      "body_html": "RELIGION ET LAÏCITÉ"
+    },
+    {
+      "page_no": 150,
+      "seq": 13,
+      "type": "list",
+      "body_html": "<div class='bullet'>Les Français sont attachés à <b>la laïcité</b> (= la séparation claire des <b>Églises</b> et de <b>l'État</b>). Cependant, on peut être <b>croyant(e)</b> ou, au contraire, <b>athée</b>. Outre des <b>catholiques</b>, on rencontre en France des <b>protestants</b>, des <b>juifs</b> et des <b>musulmans</b>.</div>"
+    },
+    {
+      "page_no": 150,
+      "seq": 14,
+      "type": "list",
+      "body_html": "<div class='bullet'>On peut donc <b>aller à l'église</b> (catholique), <b>au temple</b> (protestant), <b>à la synagogue</b> ou <b>à la mosquée</b>.</div>"
+    },
+    {
+      "page_no": 150,
+      "seq": 15,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarque.</span> <i>Le mot « église » avec une majuscule signifie « l'institution religieuse » et avec une minuscule, le bâtiment religieux.</i>"
+    },
+    {
+      "page_no": 152,
+      "seq": 16,
+      "type": "running_head",
+      "body_html": "DIVERSITÉ, POLITIQUE ET SOCIÉTÉ"
+    },
+    {
+      "page_no": 152,
+      "seq": 17,
+      "type": "section_title",
+      "body_html": "LES QUESTIONS DE SOCIÉTÉ"
+    },
+    {
+      "page_no": 152,
+      "seq": 18,
+      "type": "list",
+      "body_html": "<div class='bullet'>On parle <b>des changements climatiques</b>, de <b>l'écologie</b>, <b>des énergies renouvelables</b>... On cherche des solutions pour remédier à <b>la pollution</b>.</div>"
+    },
+    {
+      "page_no": 152,
+      "seq": 19,
+      "type": "list",
+      "body_html": "<div class='bullet'>Les Français discutent passionnément de <b>l'enseignement</b> et <b>se plaignent de la baisse du niveau</b> des élèves. Il y a de nombreuses <b>réformes</b> de l'enseignement, plus ou moins efficaces, plus ou moins bien acceptées.</div>"
+    },
+    {
+      "page_no": 152,
+      "seq": 20,
+      "type": "list",
+      "body_html": "<div class='bullet'>De nombreuses <b>associations</b> (= groupes de personnes) s'occupent de <b>travail humanitaire</b>, de culture, d'éducation, de sport, de <b>défense des droits de l'homme</b>... Les participants sont généralement <b>bénévoles</b> (= ils ne sont pas payés) : ils <b>font du bénévolat</b>.</div>"
+    },
+    {
+      "page_no": 152,
+      "seq": 21,
+      "type": "list",
+      "body_html": "<div class='bullet'>On parle de plus en plus de « <b>village global</b> » et de <b>mondialisation</b>. Par ailleurs, <b>la crise économique</b> provoque des <b>problèmes sociaux</b> et <b>politiques</b>. On s'inquiète du <b>chômage</b> (= absence de travail) et de <b>l'insécurité</b> (≠ la sécurité).</div>"
+    },
+    {
+      "page_no": 152,
+      "seq": 22,
+      "type": "subhead",
+      "body_html": "LES FAITS DIVERS"
+    },
+    {
+      "page_no": 152,
+      "seq": 23,
+      "type": "list",
+      "body_html": "<div class='bullet'>Les « <b>faits divers</b> » sont <b>les crimes</b> et <b>délits</b> qui sont racontés dans des articles de presse.</div>"
+    },
+    {
+      "page_no": 152,
+      "seq": 24,
+      "type": "list",
+      "body_html": "<div class='bullet'>On m'a <b>volé</b> mon portefeuille ! Je n'ai pas pu rattraper <b>le voleur</b>. Je dois aller <b>au commissariat de police</b> pour <b>déclarer le vol</b>.</div>"
+    },
+    {
+      "page_no": 152,
+      "seq": 25,
+      "type": "list",
+      "body_html": "<div class='bullet'>La maison de M. et Mme Joubert a <b>été cambriolée</b>, le couple a <b>été victime d'un cambriolage</b>. <b>Les cambrioleurs</b> sont entrés dans la maison : ils ont pris tout le matériel électronique et les bijoux.</div>"
+    },
+    {
+      "page_no": 152,
+      "seq": 26,
+      "type": "list",
+      "body_html": "<div class='bullet'>Une triste histoire... <b>Un meurtre a été commis</b> dans le village. Un homme a <b>assassiné</b> sa femme, puis <b>s'est suicidé</b>. Tout le village est sous le choc, car <b>le meurtrier</b> était un homme apparemment gentil, et que tout le monde connaissait !</div>"
+    },
+    {
+      "page_no": 152,
+      "seq": 27,
+      "type": "list",
+      "body_html": "<div class='bullet'>Cette jeune fille <b>a échappé à un viol</b> (= une agression sexuelle) : championne de course à pied, elle a réussi à <b>fuir le violeur</b>. <b>L'agresseur</b> a essayé de <b>violer</b> plusieurs femmes dans la région. Heureusement, il <b>a été arrêté</b> le jour même <b>par la police / les policiers</b>.</div>"
+    },
+    {
+      "page_no": 154,
+      "seq": 28,
+      "type": "running_head",
+      "body_html": "DIVERSITÉ, POLITIQUE ET SOCIÉTÉ"
+    },
+    {
+      "page_no": 154,
+      "seq": 29,
+      "type": "section_title",
+      "body_html": "LA PRESSE"
+    },
+    {
+      "page_no": 154,
+      "seq": 30,
+      "type": "list",
+      "body_html": "<div class='bullet'>Pour se tenir informé de l'actualité, on peut lire un article dans les journaux ou les magazines. Un <b>quotidien</b> paraît tous les jours, un <b>hebdomadaire</b> paraît toutes les semaines, et un <b>mensuel</b>, tous les mois. Il est possible de payer pour recevoir un journal à la maison : on <b>s'abonne</b> à un journal, on prend un <b>abonnement</b> à un journal. C'est la même chose pour la presse en ligne.</div>"
+    },
+    {
+      "page_no": 154,
+      "seq": 31,
+      "type": "section_title",
+      "body_html": "LA VIE POLITIQUE"
+    },
+    {
+      "page_no": 154,
+      "seq": 32,
+      "type": "list",
+      "body_html": "<div class='bullet'>La France est une <b>démocratie</b>/un pays démocratique. C'est une république. Son emblème, qui vient de la Révolution française, est une jeune femme, Marianne. La <b>devise</b> du pays est « liberté, égalité, fraternité ». Son <b>drapeau</b> est bleu, blanc, rouge. Son <b>hymne national</b> est la Marseillaise.</div>"
+    },
+    {
+      "page_no": 154,
+      "seq": 33,
+      "type": "list",
+      "body_html": "<div class='bullet'>Au niveau local, chaque <b>commune</b> est administrée par un <b>maire</b>. À la <b>mairie</b>, on déclare les naissances, les mariages et les décès. Les mariages ont lieu obligatoirement à la mairie.</div>"
+    },
+    {
+      "page_no": 154,
+      "seq": 34,
+      "type": "list",
+      "body_html": "<div class='bullet'>Le <b>président de la République</b> est élu pour 5 ans. Il nomme un <b>Premier ministre</b> qui forme un <b>gouvernement</b> avec ses <b>ministres</b> : un ministre des Finances, un ministre des Affaires étrangères, un ministre de la Culture, un ministre de la Défense...</div>"
+    },
+    {
+      "page_no": 154,
+      "seq": 35,
+      "type": "list",
+      "body_html": "<div class='bullet'>Le peuple est représenté par l'<b>Assemblée nationale</b> (= le Parlement), qui compte 577 <b>député(e)s</b>, élu(e)s pour 5 ans. Ils discutent des lois.</div>"
+    },
+    {
+      "page_no": 154,
+      "seq": 36,
+      "type": "list",
+      "body_html": "<div class='bullet'>Les <b>candidat(e)s</b> aux élections font une <b>campagne électorale</b>. Ils présentent leur <b>programme électoral</b>, ils débattent à la radio et à la télévision, ils visitent le pays, ils organisent des <b>meetings</b>.</div>"
+    },
+    {
+      "page_no": 154,
+      "seq": 37,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarque.</span> <i>Le mot anglais « meeting » est employé principalement dans le sens de « réunion publique à caractère politique ».</i>"
+    },
+    {
+      "page_no": 154,
+      "seq": 38,
+      "type": "list",
+      "body_html": "<div class='bullet'>Les <b>opinions politiques</b> sont diverses. On distingue en général « la <b>droite</b> » et « la <b>gauche</b> ». Xavier est de droite, il vote à droite, alors que Christian est de gauche, il vote à gauche. On parle aussi de l'<b>extrême droite</b> et de l'<b>extrême gauche</b>. Si l'on veut s'engager dans la vie politique, on peut être membre d'un <b>parti politique</b> (= on a sa carte du parti).</div>"
+    }
+  ],
+  "exercises": [
+    {
+      "page_no": 151,
+      "seq": 1,
+      "instruction_fr": "Choisissez la bonne réponse.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. Nous vivons en {{o:exil|asile}} en France."
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. La {{o:diversité|population}} est mélangée."
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. Il est moitié français, moitié {{o:provincial|italien}}."
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. Ils sont {{o:immigrés|réfugiés}}, ils viennent pour travailler."
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. Elle va à la mosquée, car elle est {{o:athée|musulmane}}."
+        },
+        {
+          "seq": 6,
+          "type": "choice",
+          "stem_html": "6. Ils sont français, d'origine {{o:espagnole|catholique}}."
+        },
+        {
+          "seq": 7,
+          "type": "choice",
+          "stem_html": "7. Nous avons demandé {{o:la nationalité|l'asile}} politique."
+        }
+      ]
+    },
+    {
+      "page_no": 151,
+      "seq": 2,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "tf",
+          "stem_html": "1. Il est provincial, il n'est pas originaire de Paris. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 2,
+          "type": "tf",
+          "stem_html": "2. Elle va au temple, car elle est juive. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 3,
+          "type": "tf",
+          "stem_html": "3. Un réfugié politique est immigré. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 4,
+          "type": "tf",
+          "stem_html": "4. Il est naturalisé français, parce qu'il est provincial. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 5,
+          "type": "tf",
+          "stem_html": "5. Il est temporairement exilé. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 6,
+          "type": "tf",
+          "stem_html": "6. Un catholique va à l'église. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 7,
+          "type": "tf",
+          "stem_html": "7. Elle est maghrébine, originaire d'Afrique du Sud. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 8,
+          "type": "tf",
+          "stem_html": "8. Ce couple bulgare a été naturalisé. Vrai {{c:g}} Faux {{c:g}}"
+        }
+      ]
+    },
+    {
+      "page_no": 151,
+      "seq": 3,
+      "instruction_fr": "Complétez.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. Ils ne sont pas parisiens, ils viennent de Bourgogne, ils sont {{b}}."
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. Elle est {{b}}, elle va au temple."
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. Mes amis ne sont pas {{b}}, ils sont athées."
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. Ryan a la double {{b}} française et irlandaise."
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. Elle est africaine, mais sa langue est le français, elle est {{b}}."
+        },
+        {
+          "seq": 6,
+          "type": "cloze",
+          "stem_html": "6. Il est né en France de parents maghrébins, il est {{b}}."
+        }
+      ]
+    },
+    {
+      "page_no": 151,
+      "seq": 4,
+      "instruction_fr": "Pouvez-vous qualifier ces personnes ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. « J'ai quitté mon pays parce qu'il y a une guerre civile. » → Il est {{b}}"
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. « Je m'appelle Carmen Lopez, je suis française, mes parents étaient étrangers. » → Elle est {{b}}"
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. « Je vais régulièrement à la synagogue. » → Il est {{b}}"
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. « J'ai obtenu la nationalité française il y a deux ans. » → Elle est {{b}}"
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. « Je suis originaire d'Afrique du Nord. » → Il est {{b}}"
+        }
+      ]
+    },
+    {
+      "page_no": 151,
+      "seq": 5,
+      "instruction_fr": "À vous !",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. Existe-t-il, dans votre pays, la différence entre « capitale » et « province » ?"
+        },
+        {
+          "seq": 2,
+          "type": "open",
+          "stem_html": "2. Vous-même, d'où venez-vous ? Et votre famille ?"
+        },
+        {
+          "seq": 3,
+          "type": "open",
+          "stem_html": "3. Quelles sont les principales religions dans votre pays ?"
+        }
+      ]
+    },
+    {
+      "page_no": 153,
+      "seq": 6,
+      "instruction_fr": "Choisissez la bonne réponse.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. On discute des changements {{o:renouvelables|climatiques}}."
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. Il est important de défendre les {{o:droits|crises}} de l'homme."
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. On cherche des solutions pour éviter la {{o:pollution|société}}."
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. La crise {{o:climatique|économique}} a des conséquences terribles sur la population."
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. Tout le monde parle de village {{o:social|global}}."
+        },
+        {
+          "seq": 6,
+          "type": "choice",
+          "stem_html": "6. Les parents sont inquiets de la baisse du {{o:chômage|niveau}} de l'enseignement."
+        }
+      ]
+    },
+    {
+      "page_no": 153,
+      "seq": 7,
+      "instruction_fr": "Comment appelle-t-on quelqu'un qui...",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. fait du bénévolat ? → {{b}}"
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. a commis un viol ? → {{b}}"
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. a commis un meurtre ? → {{b}}"
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. fait partie de la police ? → {{b}}"
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. a commis un vol ? → {{b}}"
+        },
+        {
+          "seq": 6,
+          "type": "cloze",
+          "stem_html": "6. a commis un cambriolage ? → {{b}}"
+        },
+        {
+          "seq": 7,
+          "type": "cloze",
+          "stem_html": "7. a agressé une victime ? → {{b}}"
+        }
+      ]
+    },
+    {
+      "page_no": 153,
+      "seq": 8,
+      "instruction_fr": "Complétez.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. On m'a {{b}} mon téléphone mobile ! Je vais {{b}} le vol au commissariat de police."
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. Pauline a décidé de {{b}} du bénévolat."
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. Heureusement, Antoinette a réussi à {{b}} à une agression !"
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. Le voleur a été {{b}} par les policiers."
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. C'est terrible, une femme a {{b}} son mari à coups de couteau !"
+        },
+        {
+          "seq": 6,
+          "type": "cloze",
+          "stem_html": "6. La maison de Solange a été {{b}}, tous les objets de valeur ont disparu !"
+        }
+      ]
+    },
+    {
+      "page_no": 153,
+      "seq": 9,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "tf",
+          "stem_html": "1. Un bénévole n'est pas payé pour son travail. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 2,
+          "type": "tf",
+          "stem_html": "2. Un violeur commet un vol. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 3,
+          "type": "tf",
+          "stem_html": "3. Il faut aller au commissariat de police pour déclarer un vol. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 4,
+          "type": "tf",
+          "stem_html": "4. La mondialisation est un fait divers. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 5,
+          "type": "tf",
+          "stem_html": "5. Les policiers ont commis un vol. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 6,
+          "type": "tf",
+          "stem_html": "6. Les Français pensent que le niveau des élèves n'augmente pas. Vrai {{c:g}} Faux {{c:g}}"
+        }
+      ]
+    },
+    {
+      "page_no": 153,
+      "seq": 10,
+      "instruction_fr": "À vous ! Répondez librement aux questions.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. Quels sont les sujets de société débattus dans votre pays ?"
+        },
+        {
+          "seq": 2,
+          "type": "open",
+          "stem_html": "2. Lisez-vous les faits divers dans la presse ? Pourquoi ?"
+        },
+        {
+          "seq": 3,
+          "type": "open",
+          "stem_html": "3. Avez-vous déjà fait du bénévolat ? Pourquoi ?"
+        }
+      ]
+    },
+    {
+      "page_no": 155,
+      "seq": 11,
+      "instruction_fr": "Choisissez la bonne réponse.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. Nous nous sommes abonnés à un {{o:article|journal}}."
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. Es-tu informé de l'actualité {{o:la presse|l'abonnement}} ?"
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. Elle lit souvent la presse {{o:l'abonnement|en ligne}}."
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. Les députés sont {{o:élus|nommés}} pour cinq ans."
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. Mon voisin et moi n'avons pas les mêmes {{o:opinions électorales|opinions politiques}}."
+        },
+        {
+          "seq": 6,
+          "type": "choice",
+          "stem_html": "6. Je ne connais pas tous les {{o:ministres|députés}} de l'Assemblée nationale."
+        }
+      ]
+    },
+    {
+      "page_no": 155,
+      "seq": 12,
+      "instruction_fr": "Associez pour constituer une phrase complète.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "assoc",
+          "stem_html": "1. Edwige fait → {{b}}"
+        },
+        {
+          "seq": 2,
+          "type": "assoc",
+          "stem_html": "2. Nous avons rencontré le ministre de → {{b}}"
+        },
+        {
+          "seq": 3,
+          "type": "assoc",
+          "stem_html": "3. Nous ne partageons pas les mêmes → {{b}}"
+        },
+        {
+          "seq": 4,
+          "type": "assoc",
+          "stem_html": "4. Il déclare la naissance de sa fille → {{b}}"
+        },
+        {
+          "seq": 5,
+          "type": "assoc",
+          "stem_html": "5. Les députés discutent → {{b}}"
+        }
+      ]
+    },
+    {
+      "page_no": 155,
+      "seq": 13,
+      "instruction_fr": "Complétez.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. La {{b}} de la France est « liberté – égalité – {{b}} »."
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. Ariel est {{b}} à une élection. Il fait une campagne {{b}} et espère être {{b}} sans difficulté !"
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. Le {{b}} de la France est bleu, blanc, rouge."
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. Éléonore a décidé de prendre sa {{b}} du parti."
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. Sabine est {{b}}, elle discute une loi à l'Assemblée nationale."
+        },
+        {
+          "seq": 6,
+          "type": "cloze",
+          "stem_html": "6. Valérie est de gauche, elle {{b}} à gauche à chaque élection."
+        }
+      ]
+    },
+    {
+      "page_no": 155,
+      "seq": 14,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "tf",
+          "stem_html": "1. L'emblème de la France est la Marseillaise. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 2,
+          "type": "tf",
+          "stem_html": "2. Le Premier ministre représente le peuple à l'Assemblée nationale. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 3,
+          "type": "tf",
+          "stem_html": "3. Le mariage de mes amis a lieu à la mairie de la ville. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 4,
+          "type": "tf",
+          "stem_html": "4. Je reçois tous les jours mon hebdomadaire favori. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 5,
+          "type": "tf",
+          "stem_html": "5. Le candidat a un programme électoral. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 6,
+          "type": "tf",
+          "stem_html": "6. Le Premier ministre nomme le président de la République. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 7,
+          "type": "tf",
+          "stem_html": "7. Je ne comprends pas bien le programme électoral de cette candidate. Vrai {{c:g}} Faux {{c:g}}"
+        }
+      ]
+    },
+    {
+      "page_no": 155,
+      "seq": 15,
+      "instruction_fr": "À vous ! Parlez de votre pays.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. Quelle en est la structure politique ?"
+        },
+        {
+          "seq": 2,
+          "type": "open",
+          "stem_html": "2. Quel en est le drapeau ?"
+        },
+        {
+          "seq": 3,
+          "type": "open",
+          "stem_html": "3. Existe-t-il une devise ? Si oui, laquelle ?"
+        },
+        {
+          "seq": 4,
+          "type": "open",
+          "stem_html": "4. Quel en est l'hymne national ? Dans quelles circonstances l'entend-on ?"
+        }
+      ]
+    }
+  ]
+}
