@@ -1,0 +1,287 @@
+{
+  "course": "vocabulaire",
+  "seq": 10,
+  "title_fr": "LES VÊTEMENTS – LA MODE",
+  "page_start": 62,
+  "page_end": 69,
+  "pdf_start": 64,
+  "pdf_end": 71,
+  "sections": [
+    {"title_fr": "LES VÊTEMENTS", "page_no": 62},
+    {"title_fr": "LES COULEURS ET LEURS NUANCES", "page_no": 62},
+    {"title_fr": "LES SOUS-VÊTEMENTS", "page_no": 64},
+    {"title_fr": "LES CHAUSSURES", "page_no": 64},
+    {"title_fr": "LES MATIÈRES", "page_no": 64},
+    {"title_fr": "LES MOTIFS", "page_no": 64},
+    {"title_fr": "LES ACCESSOIRES", "page_no": 66},
+    {"title_fr": "Les bijoux :", "page_no": 66},
+    {"title_fr": "COMMENT TU T'HABILLES ?", "page_no": 66},
+    {"title_fr": "COMMENT EST-IL/ELLE HABILLÉ(E) ?", "page_no": 66},
+    {"title_fr": "QUELQUES EXPRESSIONS IDIOMATIQUES", "page_no": 66},
+    {"title_fr": "ACHETER DES VÊTEMENTS", "page_no": 68},
+    {"title_fr": "ACHETER DES CHAUSSURES", "page_no": 68}
+  ],
+  "blocks": [
+    {"page_no": 62, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">10</span> LES VÊTEMENTS – LA MODE"},
+    {"page_no": 62, "seq": 2, "type": "section_title", "body_html": "LES VÊTEMENTS"},
+    {"page_no": 62, "seq": 3, "type": "table", "body_html": "<table class='vocab'><tr><td>une mini-jupe</td><td>une jupe plissée</td><td>une jupe sans manches</td></tr><tr><td>une jupe droite</td><td>une robe à manches longues</td><td></td></tr></table>"},
+    {"page_no": 62, "seq": 4, "type": "table", "body_html": "<table class='vocab'><tr><td>une robe de soirée</td><td>un smoking</td><td>une salopette</td></tr><tr><td>un bermuda</td><td>un peignoir de bain</td><td>une robe de chambre avec deux poches</td></tr></table>"},
+    {"page_no": 62, "seq": 5, "type": "table", "body_html": "<table class='vocab'><tr><td>un gilet</td><td>une chemise à manches courtes</td><td>un débardeur</td></tr><tr><td>un gilet</td><td>un pull à col roulé</td><td>un pull en V</td></tr><tr><td>un pull à col rond</td><td>un blouson</td><td>une doudoune</td></tr><tr><td>un anorak avec une capuche</td><td></td><td></td></tr></table>"},
+    {"page_no": 62, "seq": 6, "type": "list", "body_html": "<div class='bullet'>L'ensemble des vêtements que l'on porte s'appelle <b>une tenue</b>, qui peut être <b>décontractée, de sport</b> ou, au contraire, <b>habillée</b> ou même « <b>de soirée</b> »…</div>"},
+    {"page_no": 62, "seq": 7, "type": "list", "body_html": "<div class='bullet'>Des mots viennent de l'anglais : <b>un sweat, un legging, un trench, un T-shirt, un short, un parka, un polo, un jogging</b> et, bien sûr, <b>un jean</b>.</div>"},
+    {"page_no": 62, "seq": 8, "type": "list", "body_html": "<div class='bullet'>Certains termes sont vagues : <b>un ensemble (veste + jupe ou pantalon assortis, pour une femme) ; un haut</b> (chemise, T-shirt, débardeur, etc.).</div>"},
+    {"page_no": 62, "seq": 9, "type": "list", "body_html": "<div class='bullet'>Certains mots sont un peu démodés, par exemple le terme de « <b>chemisier</b> ».</div>"},
+    {"page_no": 62, "seq": 10, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Le gilet désigne deux vêtements différents, un pour homme et un pour femme.</i>"},
+    {"page_no": 62, "seq": 11, "type": "section_title", "body_html": "LES COULEURS ET LEURS NUANCES"},
+    {"page_no": 62, "seq": 12, "type": "list", "body_html": "<div class='bullet'>On peut nuancer une couleur : <b>bleu clair ≠ bleu foncé, vert vif ≠ vert pâle</b>.</div>"},
+    {"page_no": 62, "seq": 13, "type": "list", "body_html": "<div class='bullet'>On parle des couleurs <b>pastel</b> (= délicates, douces et claires). D'autres sont <b>ternes</b> (= un peu tristes) : <b>le gris ou le beige</b>, par exemple.</div>"},
+    {"page_no": 62, "seq": 14, "type": "list", "body_html": "<div class='bullet'>On peut aussi employer le nom d'un objet : « elle porte un pull <b>turquoise</b> ».</div>"},
+    {"page_no": 62, "seq": 15, "type": "table", "body_html": "<table class='vocab'><tr><td>turquoise</td><td>crème</td><td>bordeaux</td><td>mauve</td><td>abricot</td></tr></table>"},
+    {"page_no": 64, "seq": 16, "type": "running_head", "body_html": "LES VÊTEMENTS – LA MODE"},
+    {"page_no": 64, "seq": 17, "type": "section_title", "body_html": "LES SOUS-VÊTEMENTS"},
+    {"page_no": 64, "seq": 18, "type": "table", "body_html": "<table class='vocab'><tr><td>le maillot de corps</td><td>la combinaison</td><td>le caleçon</td><td>le slip</td></tr><tr><td>le collant</td><td>le bas</td><td>la culotte</td><td>le soutien-gorge</td></tr><tr><td></td><td></td><td>la chaussette</td><td>la socquette</td></tr></table>"},
+    {"page_no": 64, "seq": 19, "type": "para", "body_html": "Les sous-vêtements féminins s'appellent <b>la lingerie</b>. Si elle est raffinée, elle est <b>en soie</b> ou <b>en dentelle</b>."},
+    {"page_no": 64, "seq": 20, "type": "section_title", "body_html": "LES CHAUSSURES"},
+    {"page_no": 64, "seq": 21, "type": "table", "body_html": "<table class='vocab'><tr><td>les baskets</td><td>le talon</td><td>la semelle</td></tr><tr><td>les escarpins (= chaussures à talon)</td><td>les mocassins (= chaussures plates)</td><td></td></tr><tr><td>les pantoufles</td><td>les bottes</td><td>les bottines</td></tr><tr><td>les sandales</td><td></td><td></td></tr></table>"},
+    {"page_no": 64, "seq": 22, "type": "para", "body_html": "<b>Une paire de chaussures</b> = 2 chaussures. Elles peuvent être <b>en cuir, en toile, en daim, en synthétique…</b>"},
+    {"page_no": 64, "seq": 23, "type": "section_title", "body_html": "LES MATIÈRES"},
+    {"page_no": 64, "seq": 24, "type": "para", "body_html": "Une chemise <b>en (pur) coton</b>, un pull <b>en (pure) laine</b>, une cravate <b>en soie</b>, une robe <b>en lin</b>, une veste <b>en cuir</b>, un pantalon <b>en velours</b>, un manteau <b>de fourrure</b>…<br>Il existe, bien sûr, des matières synthétiques : <b>le nylon, l'acrylique, la viscose…</b>"},
+    {"page_no": 64, "seq": 25, "type": "section_title", "body_html": "LES MOTIFS"},
+    {"page_no": 64, "seq": 26, "type": "para", "body_html": "Un tissu est noir, blanc ou de couleur.<br>Il est <b>uni</b> (= d'une seule couleur) ou <b>imprimé</b> (= à motifs)."},
+    {"page_no": 64, "seq": 27, "type": "table", "body_html": "<table class='vocab'><tr><td>à fleurs</td><td>écossais</td><td>à carreaux</td><td>à rayures</td><td>à pois</td></tr></table>"},
+    {"page_no": 66, "seq": 28, "type": "running_head", "body_html": "LES VÊTEMENTS – LA MODE"},
+    {"page_no": 66, "seq": 29, "type": "section_title", "body_html": "LES ACCESSOIRES"},
+    {"page_no": 66, "seq": 30, "type": "table", "body_html": "<table class='vocab'><tr><td>le chapeau</td><td>le bonnet</td><td>la casquette</td><td>l'écharpe</td></tr><tr><td>le foulard</td><td>la cravate</td><td>le nœud papillon</td><td>le gant</td></tr><tr><td>la ceinture</td><td>les bretelles</td><td>le sac à main</td><td>le parapluie</td></tr><tr><td>les lunettes</td><td></td><td></td><td></td></tr></table>"},
+    {"page_no": 66, "seq": 31, "type": "subhead", "body_html": "Les bijoux :"},
+    {"page_no": 66, "seq": 32, "type": "table", "body_html": "<table class='vocab'><tr><td>les boucles d'oreilles</td><td>le collier</td><td>la bague</td><td>le bracelet</td></tr><tr><td>la chaîne</td><td>le pendentif</td><td>la broche</td><td>la montre</td></tr></table>"},
+    {"page_no": 66, "seq": 33, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>La bague de mariage s'appelle « une alliance », qui se porte à la main gauche.</i>"},
+    {"page_no": 66, "seq": 34, "type": "section_title", "body_html": "COMMENT TU T'HABILLES ?"},
+    {"page_no": 66, "seq": 35, "type": "list", "body_html": "<div class='bullet'>Le matin, <b>je m'habille</b> (= <b>je mets</b> mes vêtements). Le soir, <b>je me déshabille</b> (= <b>j'enlève / je retire</b> mes vêtements). « Déshabillez-vous ! » dit le médecin à son patient.</div>"},
+    {"page_no": 66, "seq": 36, "type": "list", "body_html": "<div class='bullet'><b>Comment tu vas t'habiller, ce soir ?</b><br><i>Élodie : Je vais me changer (= changer de vêtements). Je vais mettre une jupe et un haut assorti (= de la même couleur).</i><br><i>Julien : Moi, je ne vais pas me mettre en costume-cravate ! Je reste en jean.</i></div>"},
+    {"page_no": 66, "seq": 37, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>J'habille et je déshabille mon enfant ou ma poupée.</i>"},
+    {"page_no": 66, "seq": 38, "type": "section_title", "body_html": "COMMENT EST-IL/ELLE HABILLÉ(E) ?"},
+    {"page_no": 66, "seq": 39, "type": "speech", "body_html": "<div class='speech'><i>– Alors, comment Dora était-elle habillée ?<br>– Elle était <b>bien (≠ mal) habillée</b>, de manière <b>assez classique (≠ originale &lt; excentrique&gt;)</b>, comme d'habitude. Elle <b>avait</b> un pantalon noir et une chemise à rayures blanches et rouges. Elle <b>est toujours en pantalon</b>, comme tu sais.<br>– <b>Elle porte</b> souvent du noir, non ?<br>– Ça dépend. De toute façon, elle <b>s'habille bien (≠ mal)</b>.</i></div>"},
+    {"page_no": 66, "seq": 40, "type": "section_title", "body_html": "QUELQUES EXPRESSIONS IDIOMATIQUES"},
+    {"page_no": 66, "seq": 41, "type": "para", "body_html": "« <b>Je n'ai plus rien à me mettre !</b> » disent beaucoup de femmes (et d'hommes…) en ouvrant leur placard.<br>Pour le mariage de Charlotte et Matthieu, « <b>ma mère s'est mise sur son 31</b> » (= <i>elle s'est habillée de manière particulièrement élégante, contrairement à son habitude</i>)."},
+    {"page_no": 68, "seq": 42, "type": "running_head", "body_html": "LES VÊTEMENTS – LA MODE"},
+    {"page_no": 68, "seq": 43, "type": "section_title", "body_html": "ACHETER DES VÊTEMENTS"},
+    {"page_no": 68, "seq": 44, "type": "list", "body_html": "<div class='bullet'>Adèle a décidé de « <b>faire les magasins</b> », c'est-à-dire qu'elle va explorer toutes <b>les boutiques de mode</b> de sa ville. Bien sûr, elle a besoin de vêtements d'été, mais elle ne sait pas exactement ce qu'elle cherche.</div>"},
+    {"page_no": 68, "seq": 45, "type": "list", "body_html": "<div class='bullet'>Elle entre dans une boutique et trouve une belle jupe d'été, <b>longue et légère</b>. Le problème, c'est que la jupe est en lin, donc elle <b>se froisse</b> facilement. Et Adèle déteste repasser… C'est dommage, car le lin est <b>à la mode</b> cette année, <b>cela se fait beaucoup</b>.</div>"},
+    {"page_no": 68, "seq": 46, "type": "list", "body_html": "<div class='bullet'>Dans une autre boutique, Adèle <b>repère</b> (= trouve) un ensemble en synthétique <b>un peu plus classique</b>, mais qui pourrait convenir pour le bureau. En plus, ce tissu <b>se lave très bien en machine</b> (≠ à la main). Elle va dans <b>la cabine d'essayage</b>, mais non, décidément, <b>cette coupe ne lui va pas du tout</b> ! Les jupes plissées <b>la grossissent</b> (= la font sentir grosse).</div>"},
+    {"page_no": 68, "seq": 47, "type": "list", "body_html": "<div class='bullet'>Enfin, Adèle trouve un modèle <b>qui lui plaît</b>. C'est exactement le contraire de la première jupe : elle est <b>moulante</b> (= très <b>près du corps</b>), <b>dans un tissu assez original</b>, à motifs de toutes les couleurs. La vendeuse demande à Adèle <b>quelle taille elle fait</b>. Normalement, Adèle <b>fait du 40</b>, mais la vendeuse lui conseille <b>une taille en dessous</b> (≠ au-dessus). Adèle est ravie et trouve que <b>cette coupe lui va très bien et l'amincit</b>.</div>"},
+    {"page_no": 68, "seq": 48, "type": "list", "body_html": "<div class='bullet'>Maintenant qu'Adèle a trouvé la jupe de ses rêves, il lui faut <b>un haut assorti</b>. La vendeuse lui montre un haut noir, très <b>sobre (= simple)</b> et très élégant… mais un peu trop cher !</div>"},
+    {"page_no": 68, "seq": 49, "type": "section_title", "body_html": "ACHETER DES CHAUSSURES"},
+    {"page_no": 68, "seq": 50, "type": "list", "body_html": "<div class='bullet'>Serge a besoin de chaussures, car celles qu'il porte sont tout <b>usées</b> (≠ <b>neuves et en parfait état</b>). Il cherche <b>des mocassins confortables pour aller avec</b> son costume de travail. Serge déteste faire les courses et va toujours dans le même magasin. Il voit, <b>dans la vitrine</b>, des chaussures qui lui plaisent.</div>"},
+    {"page_no": 68, "seq": 51, "type": "list", "body_html": "<div class='bullet'>La vendeuse lui demande <b>sa pointure</b>. Serge <b>fait / chausse du 42</b>. La vendeuse lui apporte <b>deux modèles</b>, qu'il essaye. Le premier ne va pas du tout : les chaussures <b>le serrent</b>, elles sont <b>trop étroites</b>, Serge <b>se sent mal dedans</b>. Heureusement, la deuxième paire lui convient : les chaussures sont assez <b>larges et confortables</b>… Ce sont d'ailleurs exactement les mêmes que ses vieux mocassins usés !</div>"}
+  ],
+  "exercises": [
+    {
+      "page_no": 63, "seq": 1,
+      "instruction_fr": "Choisissez la ou les bonne(s) réponse(s).",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "choice", "stem_html": "1. Je sors de ma douche, je mets {{o:un anorak|un peignoir|une tenue}}."},
+        {"seq": 2, "type": "choice", "stem_html": "2. Pour aller à l'opéra, Nina a mis une robe {{o:décontractée|habillée|de soirée}}."},
+        {"seq": 3, "type": "choice", "stem_html": "3. Il fait très froid dehors, Colette met {{o:une doudoune|un débardeur|une chemise}}."},
+        {"seq": 4, "type": "choice", "stem_html": "4. Ma grand-mère porte souvent {{o:un gilet|une mini-jupe|un chemisier}}."},
+        {"seq": 5, "type": "choice", "stem_html": "5. Agathe porte une robe sans {{o:col|capuche|manches}}."},
+        {"seq": 6, "type": "choice", "stem_html": "6. Pour aller à la plage, Amandine met un short et un {{o:bermuda|débardeur|haut}}."}
+      ]
+    },
+    {
+      "page_no": 63, "seq": 2,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "tf", "stem_html": "1. Un pull a un col. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 2, "type": "tf", "stem_html": "2. Une chemise a des manches. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 3, "type": "tf", "stem_html": "3. On met un peignoir pour aller au travail. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 4, "type": "tf", "stem_html": "4. Un ensemble est un vêtement féminin. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 5, "type": "tf", "stem_html": "5. Un smoking est une tenue habillée. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 6, "type": "tf", "stem_html": "6. Une jupe peut avoir des manches. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 7, "type": "tf", "stem_html": "7. Une doudoune est une sorte d'anorak. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 8, "type": "tf", "stem_html": "8. Une robe peut être habillée. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 9, "type": "tf", "stem_html": "9. Un bermuda est un vêtement décontracté. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 10, "type": "tf", "stem_html": "10. Un gilet est un vêtement masculin ou féminin. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"}
+      ]
+    },
+    {
+      "page_no": 63, "seq": 3,
+      "instruction_fr": "De quoi parle-t-on ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. On la met quand on sort du lit. → {{L}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Il peut être à col roulé. → {{L}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. Un homme le porte pour aller à une soirée de gala. → {{L}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. Les jeunes filles la portent parfois très courte ! → {{L}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. C'est la veste que l'on met pour faire du ski, par exemple. → {{L}}"},
+        {"seq": 6, "type": "open", "stem_html": "6. C'est le nom de l'ensemble des vêtements que l'on porte. → {{L}}"},
+        {"seq": 7, "type": "open", "stem_html": "7. C'est un short qui arrive au-dessus des genoux. → {{L}}"}
+      ]
+    },
+    {
+      "page_no": 63, "seq": 4,
+      "instruction_fr": "Décrivez les vêtements et les couleurs que portent ces personnes.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [63],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. {{T}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. {{T}}"}
+      ]
+    },
+    {
+      "page_no": 65, "seq": 5,
+      "instruction_fr": "Retrouvez onze noms de matières (6 horizontalement, 5 verticalement).",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [65],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "{{T}}"}
+      ]
+    },
+    {
+      "page_no": 65, "seq": 6,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "tf", "stem_html": "1. Les femmes portent des soutiens-gorge. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 2, "type": "tf", "stem_html": "2. Une chemise peut être en fourrure. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 3, "type": "tf", "stem_html": "3. La socquette est une petite chaussure. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 4, "type": "tf", "stem_html": "4. On met des sandales quand il fait chaud. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 5, "type": "tf", "stem_html": "5. On porte des pantoufles dans la rue. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 6, "type": "tf", "stem_html": "6. Elle porte une robe unie, à fleurs bleues. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 7, "type": "tf", "stem_html": "7. Mes escarpins ont un talon de 4 centimètres. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 8, "type": "tf", "stem_html": "8. Je mets des mocassins pour faire une randonnée. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 9, "type": "tf", "stem_html": "9. Les hommes peuvent porter des caleçons ou des slips. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 10, "type": "tf", "stem_html": "10. Une cravate est généralement en dentelle. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"}
+      ]
+    },
+    {
+      "page_no": 65, "seq": 7,
+      "instruction_fr": "Complétez les phrases en vous aidant du dessin.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [65],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. Capucine voudrait acheter de la jolie {{b}} aux Galeries Lafayette."},
+        {"seq": 2, "type": "cloze", "stem_html": "2. Elle essaye un {{b}} – {{b}} en dentelle, absolument ravissant !"},
+        {"seq": 3, "type": "cloze", "stem_html": "3. La vendeuse lui montre la petite {{b}} assortie."},
+        {"seq": 4, "type": "cloze", "stem_html": "4. Capucine a aussi besoin de {{b}} noirs et d'une paire de {{b}} à {{b}} bleues et blanches."},
+        {"seq": 5, "type": "cloze", "stem_html": "5. Capucine va acheter un {{b}} à {{b}} pour son mari."}
+      ]
+    },
+    {
+      "page_no": 65, "seq": 8,
+      "instruction_fr": "À vous ! À propos de la mode.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. En général, portez-vous des tissus unis ou imprimés ? {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Quelles chaussures portez-vous dans la vie quotidienne ? Et pour une soirée ? {{T}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. Portez-vous des matières naturelles ou des matières synthétiques ? {{T}}"}
+      ]
+    },
+    {
+      "page_no": 67, "seq": 9,
+      "instruction_fr": "De quel bijou ou de quel accessoire parle-t-on ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Elle est généralement en soie de couleur et les hommes la mettent sur une chemise. {{L}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. On le porte suspendu à une petite chaîne. {{L}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. Elles permettent de se protéger les yeux quand le soleil est trop vif. {{L}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. Il est en laine, il est chaud, et il protège la tête quand il fait froid. {{L}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. Il nous protège de la pluie. {{L}}"},
+        {"seq": 6, "type": "open", "stem_html": "6. On accroche ce bijou à un pull, par exemple. {{L}}"},
+        {"seq": 7, "type": "open", "stem_html": "7. On la met sur la tête pour se protéger du soleil quand on fait du sport, par exemple. {{L}}"}
+      ]
+    },
+    {
+      "page_no": 67, "seq": 10,
+      "instruction_fr": "Choisissez la bonne réponse.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "choice", "stem_html": "1. – Comment tu {{o!:t'habilles|te déshabilles|habilles}} ce soir ?"},
+        {"seq": 2, "type": "choice", "stem_html": "2. – Ne m'en parle pas, je n'ai plus rien à me {{o!:changer|porter|mettre}} ! Et toi ?"},
+        {"seq": 3, "type": "choice", "stem_html": "3. – Oh, je n'ai pas le courage de {{o!:m'habiller|retirer|me changer}}. Je {{o!:mets|suis|reste}} en pantalon et en chemise, mais je {{o!:retire|porte|ai}} ma cravate."},
+        {"seq": 4, "type": "choice", "stem_html": "4. – Moi non plus, je ne vais pas {{o!:me mettre|m'habiller|me changer}} sur mon 31 : un haut noir et ma belle écharpe turquoise, et cela ira."}
+      ]
+    },
+    {
+      "page_no": 67, "seq": 11,
+      "instruction_fr": "Quels accessoires pourraient aller avec ces vêtements ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. un pantalon un peu large : {{L}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. un imperméable : {{L}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. une chemise blanche : {{L}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. un anorak : {{L}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. un maillot de bain : {{L}}"},
+        {"seq": 6, "type": "open", "stem_html": "6. un manteau de femme : {{L}}"}
+      ]
+    },
+    {
+      "page_no": 67, "seq": 12,
+      "instruction_fr": "À vous ! Enquête sur la mode.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Comment êtes-vous habillé(e), aujourd'hui ? Décrivez-vous précisément (vêtements, chaussures, accessoires…). {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Est-ce que vous avez déjà porté une tenue de soirée ? Laquelle ? À quelle occasion ? {{T}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. Est-ce que vous vous habillez de la même manière en semaine et le week-end ? Pourquoi ? {{T}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. Quelles couleurs portez-vous, en général ? {{T}}"},
+        {"seq": 5, "type": "open", "stem_html": "5. Est-ce qu'il vous arrive de porter des vêtements originaux, ou même excentriques ? Lesquels ? Dans quelles circonstances ? {{T}}"},
+        {"seq": 6, "type": "open", "stem_html": "6. Portez-vous des bijoux ? Lesquels ? {{T}}"},
+        {"seq": 7, "type": "open", "stem_html": "7. En général, faites-vous attention à votre tenue ? Comment choisissez-vous vos vêtements ? {{T}}"}
+      ]
+    },
+    {
+      "page_no": 69, "seq": 13,
+      "instruction_fr": "Choisissez la bonne réponse.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "choice", "stem_html": "1. Vous {{o!:faites|avez}} quelle taille ?"},
+        {"seq": 2, "type": "choice", "stem_html": "2. Elle cherche une jupe {{o!:ample|moulante}}, près du corps."},
+        {"seq": 3, "type": "choice", "stem_html": "3. Vous avez ces sandales dans ma {{o!:taille|pointure}} ?"},
+        {"seq": 4, "type": "choice", "stem_html": "4. C'est un tissu très délicat, qui se lave {{o!:en machine|à la main}}."},
+        {"seq": 5, "type": "choice", "stem_html": "5. Ce modèle me va bien, il me {{o!:plaît|grossit}} beaucoup."},
+        {"seq": 6, "type": "choice", "stem_html": "6. Ces chaussures sont trop {{o!:larges|serrées}}, il me faut la pointure au-dessus."},
+        {"seq": 7, "type": "choice", "stem_html": "7. Tes bottes sont très jolies ! Elles sont {{o!:usées|neuves}} ?"},
+        {"seq": 8, "type": "choice", "stem_html": "8. Renaud porte toujours les mêmes vêtements {{o!:originaux|confortables}}."},
+        {"seq": 9, "type": "choice", "stem_html": "9. Cette couleur est à la mode, elle se {{o!:prend|fait}} beaucoup, en ce moment."}
+      ]
+    },
+    {
+      "page_no": 69, "seq": 14,
+      "instruction_fr": "Remettez le texte dans l'ordre.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "order", "stem_html": "a. La vendeuse lui propose deux modèles différents en 42. → {{b}}"},
+        {"seq": 2, "type": "order", "stem_html": "b. Ce pantalon est assez large et lui plaît ! → {{b}}"},
+        {"seq": 3, "type": "order", "stem_html": "c. La cliente cherche un pantalon bleu foncé. → 1"},
+        {"seq": 4, "type": "order", "stem_html": "d. Elle fait du 42. → {{b}}"},
+        {"seq": 5, "type": "order", "stem_html": "e. Elle essaye le premier modèle, mais il ne lui va pas du tout ! → {{b}}"},
+        {"seq": 6, "type": "order", "stem_html": "f. Elle demande la taille au-dessus et l'essaye. → {{b}}"},
+        {"seq": 7, "type": "order", "stem_html": "g. La vendeuse lui demande sa taille. → {{b}}"},
+        {"seq": 8, "type": "order", "stem_html": "h. Elle essaye l'autre modèle, mais il est un peu trop serré. → {{b}}"}
+      ]
+    },
+    {
+      "page_no": 69, "seq": 15,
+      "instruction_fr": "Complétez.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. Je cherche des sandales pour {{b}} avec cette robe d'été."},
+        {"seq": 2, "type": "cloze", "stem_html": "2. Cette chemise est jolie, mais elle se {{b}} facilement, et je ne veux pas la repasser tout le temps."},
+        {"seq": 3, "type": "cloze", "stem_html": "3. Les deux adolescentes adorent {{b}} les magasins !"},
+        {"seq": 4, "type": "cloze", "stem_html": "4. Ce pantalon est trop petit, il me faut la taille {{b}}."},
+        {"seq": 5, "type": "cloze", "stem_html": "5. Je dois trouver un sac {{b}} à mes chaussures noires."},
+        {"seq": 6, "type": "cloze", "stem_html": "6. Cette couleur est très {{b}} en ce moment, on en voit partout !"},
+        {"seq": 7, "type": "cloze", "stem_html": "7. Ces bottines sont trop étroites, elles me {{b}}."}
+      ]
+    },
+    {
+      "page_no": 69, "seq": 16,
+      "instruction_fr": "À vous !",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Est-ce que vous aimez faire les magasins ? Pourquoi ? {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Comment est-ce que vous achetez vos vêtements ? Vous allez toujours dans les mêmes boutiques ? {{T}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. Comment achetez-vous des chaussures ? Attendez-vous qu'elles soient complètement usées pour en acheter d'autres ? En changez-vous souvent ? {{T}}"}
+      ]
+    }
+  ]
+}
