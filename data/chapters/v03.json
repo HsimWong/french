@@ -1,0 +1,208 @@
+{
+  "course": "vocabulaire",
+  "seq": 3,
+  "title_fr": "LES RELATIONS – LES SENTIMENTS",
+  "page_start": 16,
+  "page_end": 23,
+  "pdf_start": 18,
+  "pdf_end": 25,
+  "sections": [
+    { "title_fr": "L'AMOUR", "page_no": 16 },
+    { "title_fr": "DIFFÉRENTES MANIÈRES DE VIVRE EN COUPLE", "page_no": 18 },
+    { "title_fr": "DE L'AMOUR AUX CONFLITS", "page_no": 18 },
+    { "title_fr": "LES JOIES ET LES PEINES", "page_no": 20 },
+    { "title_fr": "LES SENTIMENTS", "page_no": 22 }
+  ],
+  "blocks": [
+    { "page_no": 16, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">3</span> LES RELATIONS – LES SENTIMENTS" },
+    { "page_no": 16, "seq": 2, "type": "section_title", "body_html": "L'AMOUR" },
+    { "page_no": 16, "seq": 3, "type": "subhead", "body_html": "La rencontre" },
+    { "page_no": 16, "seq": 4, "type": "list", "body_html": "<div class='bullet'><b>Pierre rencontre</b> Marianne. Pierre et Marianne <b>se rencontrent</b>. Ils <b>font connaissance</b>. Pierre <b>tombe immédiatement amoureux de</b> Marianne, c'est le <b>coup de foudre</b>. Marianne <b>tombe amoureuse de</b> Pierre. Elle est <b>folle de lui</b>. Pierre n'est pas <b>dragueur*</b>. C'est Marianne qui le <b>drague*</b> mais finalement, Pierre lui fait sa <b>déclaration d'amour</b>. Il l'<b>adore</b>.<br>C'est la passion.</div>" },
+    { "page_no": 16, "seq": 5, "type": "list", "body_html": "<div class='bullet'>Pierre <b>embrasse</b> Marianne. Pierre et Marianne <b>s'embrassent</b>, ils <b>échangent un baiser</b>.<br>Un jour, ils <b>font l'amour</b> et deviennent <b>amants</b>.<br>Ils entament <b>une liaison</b>, <b>une relation amoureuse</b>.</div>" },
+    { "page_no": 16, "seq": 6, "type": "subhead", "body_html": "Vivre à deux" },
+    { "page_no": 16, "seq": 7, "type": "list", "body_html": "<div class='bullet'>Pierre <b>vit seul</b>. Pierre et Marianne <b>se voient</b> chez Pierre. Puis, Marianne va <b>vivre avec</b> Pierre : elle <b>s'installe</b> chez lui. Ils <b>vivent ensemble</b> (= <b>en couple</b>).</div>" },
+    { "page_no": 16, "seq": 8, "type": "list", "body_html": "<div class='bullet'>Pierre <b>demande Marianne en mariage</b>. Mais Marianne ne veut pas <b>se marier</b> car elle est trop jeune. Elle préfère rester <b>célibataire</b> et <b>vivre en concubinage</b> (= vivre à deux sans être mariés).</div>" },
+    { "page_no": 16, "seq": 9, "type": "subhead", "body_html": "Le mariage" },
+    { "page_no": 16, "seq": 10, "type": "list", "body_html": "<div class='bullet'>Un an après, Marianne accepte d'<b>épouser</b> (= <b>se marier avec</b>) Pierre. Mais elle ne veut pas <b>se marier à l'église</b> = elle ne veut pas d'un <b>mariage religieux</b>. Elle préfère <b>se marier à la mairie</b> = elle préfère un <b>mariage civil</b>.</div>" },
+    { "page_no": 16, "seq": 11, "type": "list", "body_html": "<div class='bullet'>Pierre et Marianne envoient <b>leur faire-part de mariage</b>. Leurs deux meilleurs amis seront leurs <b>témoins</b>.</div>" },
+    { "page_no": 16, "seq": 12, "type": "list", "body_html": "<div class='bullet'>Après le mariage, <b>les mariés</b> partent en <b>voyage de noces</b>. Ils passent leur <b>lune de miel</b> à Rome. Ils sont très <b>amoureux</b>. Ils <b>s'entendent</b> bien, ils sont heureux ensemble. C'est une belle <b>rencontre</b>. Quel beau <b>couple</b> !</div>" },
+    { "page_no": 16, "seq": 13, "type": "remark", "body_html": "<span class='remark-label'>Remarques.</span> <i>1. Pour désigner l'autre, dans une relation amoureuse, on peut dire :<br>– quand on n'est pas marié : <b>mon ami/mon amie, mon petit ami/ma petite amie, mon (petit) copain/ma (petite) copine, mon compagnon/ma compagne</b> ;<br>– quand on est marié : <b>mon mari/ma femme, mon époux/mon épouse, mon/ma conjoint(e)</b>.<br>2. <b>Ami(e)</b> et <b>copain/copine</b> s'emploient aussi pour parler d'une relation d'amitié : un dîner entre amis, entre copains… (<i>Mon ami(e) m'a téléphoné</i> (relation amoureuse). <i>Un(e) ami(e) m'a téléphoné</i> (amitié)).<br>3. On appelle la personne aimée <b>mon (ma) chéri(e), mon amour, mon cœur, mon trésor</b>…</i>" },
+
+    { "page_no": 18, "seq": 14, "type": "running_head", "body_html": "LES RELATIONS – LES SENTIMENTS" },
+    { "page_no": 18, "seq": 15, "type": "section_title", "body_html": "DIFFÉRENTES MANIÈRES DE VIVRE EN COUPLE" },
+    { "page_no": 18, "seq": 16, "type": "para", "body_html": "Deux personnes qui désirent vivre ensemble peuvent se marier ou vivre en concubinage. Depuis 1999, elles peuvent aussi <b>se pacser</b>, conclure un <b>Pacs</b>, « <b>Pacte civil de solidarité</b> ». <b>Le Pacs</b> détermine certains droits et obligations. <b>Le mariage homosexuel</b> n'étant pas autorisé en France, de nombreux <b>couples homosexuels</b> font le choix de se pacser (ce qui n'interdit pas le Pacs aux <b>couples hétérosexuels</b>, bien sûr)." },
+    { "page_no": 18, "seq": 17, "type": "section_title", "body_html": "DE L'AMOUR AUX CONFLITS" },
+    { "page_no": 18, "seq": 18, "type": "para", "body_html": "Kevin et Elvire sont mariés depuis quatre ans mais ils <b>ne s'entendent plus</b> du tout et <b>se disputent</b> constamment. Leur vie est devenue un <b>conflit permanent</b>." },
+    { "page_no": 18, "seq": 19, "type": "speech", "body_html": "<div class='speech'><i>Elle : Il faut qu'on parle, tous les deux.<br>Lui : Qu'est-ce que tu veux me dire ? Que tu <b>ne m'aimes plus</b> ?<br>Elle : Au contraire, je voulais te dire que, malgré tes <b>scènes de ménage</b>, malgré nos <b>disputes</b>, je voudrais qu'on essaie de <b>se réconcilier</b>.<br>Lui : Ça tombe mal, je viens d'apprendre que tu me <b>trompais</b> avec Thomas et pour moi, la seule solution est <b>la rupture</b>, <b>la séparation</b> ! Je veux <b>te quitter</b>, tu comprends ? Je demande le <b>divorce</b> !<br>Elle : Tu veux <b>divorcer</b> ? Tu n'es pas sérieux ? J'ai eu cette petite aventure <b>sans lendemain</b> (= une liaison de courte durée) parce que nous <b>traversions une crise</b>, mais je n'ai pas du tout envie que <b>nous nous quittions</b>, toi et moi. Et puis d'ailleurs, comment as-tu <b>appris ma liaison</b> avec Thomas ?<br>Lui : C'est lui-même qui m'a parlé ce matin de <b>vos projets d'avenir</b>.<br>Elle : Quel menteur ! Je lui ai dit hier que <b>c'était terminé entre nous</b> ! Je le <b>déteste</b> ! Je le <b>hais</b> ! Mais toi et moi, ne pouvons-nous pas <b>recommencer à zéro</b> ?<br>Lui : Je te propose qu'on <b>se sépare</b> provisoirement, et puis on verra.</i></div>" },
+    { "page_no": 18, "seq": 20, "type": "list", "body_html": "<div class='bullet'>Kevin et Elvire ont fini par <b>divorcer</b> car après Thomas, il y a eu Mathias, Hervé et d'autres. Elvire est maintenant <b>l'ex-femme</b> de Kevin, et Kevin son <b>ex-mari</b>.</div>" },
+    { "page_no": 18, "seq": 21, "type": "list", "body_html": "<div class='bullet'>Kevin voulait avoir <b>la garde de leur fille</b> Léa (il voulait que Léa vive avec lui). Mais Elvire a obtenu qu'ils <b>aient la garde partagée</b> (Léa vit à moitié chez son père, à moitié chez sa mère).</div>" },
+    { "page_no": 18, "seq": 22, "type": "list", "body_html": "<div class='bullet'>Kevin <b>s'est remarié</b>. Léa a maintenant une <b>belle-mère</b>, une <b>demi-sœur</b> et un <b>demi-frère</b>.</div>" },
+
+    { "page_no": 20, "seq": 23, "type": "running_head", "body_html": "LES RELATIONS – LES SENTIMENTS" },
+    { "page_no": 20, "seq": 24, "type": "section_title", "body_html": "LES JOIES ET LES PEINES" },
+    { "page_no": 20, "seq": 25, "type": "subhead", "body_html": "Les émotions" },
+    { "page_no": 20, "seq": 26, "type": "table", "body_html": "<table class='vocab'><tr><td>rire → le rire</td><td>≠ pleurer → les larmes</td></tr><tr><td>éclater de rire</td><td>≠ fondre en larmes, éclater en sanglots</td></tr><tr><td>rire aux éclats, mourir de rire</td><td>≠ pleurer à chaudes larmes</td></tr><tr><td>éprouver de la joie</td><td>≠ éprouver de la tristesse, avoir du chagrin, de la peine</td></tr><tr><td>réjouir (« Cela me réjouit ! »)</td><td>≠ attrister, chagriner (« Cela m'attriste beaucoup. »)</td></tr><tr><td>se réjouir, être gai</td><td>≠ être triste</td></tr><tr><td>être, se sentir heureux → le bonheur</td><td>≠ être, se sentir malheureux → le malheur</td></tr></table>" },
+    { "page_no": 20, "seq": 27, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Les larmes ne traduisent pas toujours la tristesse : on pleure parfois de joie ou de <b>rire → rire aux larmes</b>.<br>Quelques expressions :<br>• <b>avoir les larmes aux yeux</b> = être à la limite de pleurer.<br>• <b>avoir le fou rire</b> = rire à ne plus pouvoir s'arrêter.<br>• <b>c'est pour rire</b> : ce n'est pas sérieux.</i>" },
+    { "page_no": 20, "seq": 28, "type": "subhead", "body_html": "La mort" },
+    { "page_no": 20, "seq": 29, "type": "list", "body_html": "<div class='bullet'>Annette, la mère de Sylvie vient de <b>mourir</b>. Elle <b>est décédée</b> hier matin.<br>Sylvie vient de <b>perdre</b> sa mère. Elle annonce la triste nouvelle du <b>décès de sa mère</b> à ses meilleurs amis. Son père essaie de ne pas <b>s'effondrer</b>, il n'est pas complètement <b>abattu</b> (il <b>fait des efforts pour réagir</b>). Il <b>fait preuve d'un grand courage</b>. Les amis veulent savoir quand aura lieu <b>l'enterrement</b> (= les <b>obsèques</b>), quand la famille va <b>enterrer</b> Annette. Sylvie explique que sa mère ne sera pas enterrée, mais <b>incinérée</b>. La <b>crémation</b> (= cérémonie d'<b>incinération</b>) aura lieu mardi après-midi. Le <b>crématorium</b> (où on incinère les morts) se trouve à l'entrée du <b>cimetière</b> (où on les enterre).<br>Expression : <b>faire une tête d'enterrement</b> = avoir l'air très triste</div>" },
+    { "page_no": 20, "seq": 30, "type": "list", "body_html": "<div class='bullet'>Quand on perd un ami ou un parent proche, on est <b>en deuil</b>.<br>Un enfant qui a perdu ses parents est <b>orphelin(e)</b>. Une femme qui a perdu son mari est <b>veuve</b>. Un homme qui a perdu sa femme est <b>veuf</b>.<br>Lors de l'enterrement, on dépose généralement des <b>gerbes</b>, des <b>couronnes</b> ou de simples bouquets de fleurs sur la <b>tombe</b> du mort, au cimetière.</div>" },
+
+    { "page_no": 22, "seq": 31, "type": "running_head", "body_html": "LES RELATIONS – LES SENTIMENTS" },
+    { "page_no": 22, "seq": 32, "type": "section_title", "body_html": "LES SENTIMENTS" },
+    { "page_no": 22, "seq": 33, "type": "subhead", "body_html": "Éprouver un sentiment" },
+    { "page_no": 22, "seq": 34, "type": "list", "body_html": "<div class='bullet'>Jean <b>éprouve de la tendresse</b>, a une grande <b>affection</b> pour sa fille. Et sa fille <b>le lui rend bien</b> : elle est également très <b>tendre</b> et <b>affectueuse</b> avec lui.</div>" },
+    { "page_no": 22, "seq": 35, "type": "list", "body_html": "<div class='bullet'>Jean est très <b>fier de</b> sa fille car elle est devenue une grande avocate.</div>" },
+    { "page_no": 22, "seq": 36, "type": "list", "body_html": "<div class='bullet'>Claire et son collègue Gianni <b>ont sympathisé</b> tout de suite. Ils ne sont pas encore amis, mais elle a <b>de la sympathie pour lui</b>, elle <b>le trouve sympa(thique)</b>.</div>" },
+    { "page_no": 22, "seq": 37, "type": "list", "body_html": "<div class='bullet'>En revanche, sa collègue Frédérique <b>lui est très antipathique</b>. Elle <b>ne lui inspire</b> pas vraiment <b>de la haine</b> (elle <b>ne la hait</b> pas vraiment) mais <b>du mépris</b> : Claire <b>la méprise</b>. Elle la trouve bête et méchante. L'autre jour, Claire était très <b>en colère contre</b> Frédérique car elle est arrivée en retard à une réunion importante sans même s'excuser. Claire ne peut pas <b>lui faire confiance</b>.</div>" },
+    { "page_no": 22, "seq": 38, "type": "list", "body_html": "<div class='bullet'>Mathias, lui, est amoureux de Claire, mais Claire <b>ne partage pas ses sentiments</b>. Elle <b>ressent</b> beaucoup <b>d'amitié pour</b> Mathias (elle aime discuter, aller au cinéma ou au restaurant avec lui ; ils <b>se voient</b> souvent) mais Mathias <b>ne lui inspire aucun sentiment amoureux</b> (elle <b>n'est pas attirée par lui</b>, il <b>ne l'attire</b> pas).</div>" },
+    { "page_no": 22, "seq": 39, "type": "list", "body_html": "<div class='bullet'>Déborah <b>plaît</b> beaucoup à Bernard (il la trouve très sympa et très <b>attirante</b>), mais elle n'éprouve pour lui que de <b>l'indifférence</b> (elle n'a pour lui aucun sentiment).</div>" },
+    { "page_no": 22, "seq": 40, "type": "list", "body_html": "<div class='bullet'>Valérie a écrit deux livres en un an : je l'<b>admire</b>, j'ai de <b>l'admiration</b> pour elle, je suis <b>admiratif (ive)</b>. Je l'<b>estime</b> beaucoup, j'ai une grande <b>estime</b> pour son travail.</div>" },
+    { "page_no": 22, "seq": 41, "type": "list", "body_html": "<div class='bullet'>Véra n'a que des malheurs en ce moment et, malheureusement, son mari ne <b>lui manifeste aucun soutien</b>. Je la <b>plains</b> beaucoup. Elle est venue chercher un peu de <b>compassion</b> auprès de nous.</div>" },
+    { "page_no": 22, "seq": 42, "type": "list", "body_html": "<div class='bullet'>Cette vieille femme malade n'a personne pour l'aider : elle <b>me fait vraiment pitié</b>.</div>" },
+    { "page_no": 22, "seq": 43, "type": "subhead", "body_html": "Pour soi ou pour les autres" },
+    { "page_no": 22, "seq": 44, "type": "list", "body_html": "<div class='bullet'>J'ai réussi mes examens : je suis <b>content(e), heureux (-euse)</b>.<br>Mes amis ont réussi leurs examens : je suis <b>content(e), heureux (-euse) pour eux</b>.</div>" },
+    { "page_no": 22, "seq": 45, "type": "list", "body_html": "<div class='bullet'>J'ai raté mes examens. Quelle <b>déception</b> ! Je suis <b>déçu(e)</b>.<br>Mon amie Juliette a raté ses examens : je suis <b>déçu(e) pour elle</b>.</div>" },
+    { "page_no": 22, "seq": 46, "type": "list", "body_html": "<div class='bullet'>Tu pars en voyage en Thaïlande : <b>je me réjouis pour toi</b>.</div>" },
+    { "page_no": 22, "seq": 47, "type": "list", "body_html": "<div class='bullet'>Jules s'est mis à rire pendant l'enterrement de Robert : <b>j'avais honte pour lui</b>.</div>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 17, "seq": 1,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Il est d'accord pour se marier avec elle. = Il veut bien l'épouser.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Ils vont se marier à l'église. = Ils auront un mariage civil.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Ils vivent une grande passion. = Ils sont vraiment très amoureux.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Ils sont en voyage de noces à New York. = Ils se sont mariés à New York.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Ils s'entendent bien. = Ils vivent ensemble.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Ils passent leur lune de miel à Prague. = Ils se sont rencontrés à Prague.<br>Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 17, "seq": 2,
+      "instruction_fr": "Dans les phrases suivantes, indiquez s'il s'agit d'amour ou d'amitié.",
+      "label": "Amour / Amitié",
+      "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. – Allô, Juliette, est-ce que tu es libre samedi ? On invite quelques <i>amis</i> à dîner. &nbsp; Amour {{c:g}} Amitié {{c:g}}<br>2. – Qui est-ce que vous invitez ?<br>3. – Il y aura Thibaut et sa <i>compagne</i>.<br>4. – Thibaut a une <i>petite amie</i>, maintenant ?" },
+        { "seq": 2, "type": "tf", "stem_html": "5. – Oui, tu ne savais pas ? &nbsp; Amour {{c:g}} Amitié {{c:g}}<br>6. – Et moi, est-ce que je peux venir avec mon nouvel <i>ami</i> ? &nbsp; Amour {{c:g}} Amitié {{c:g}}<br>7. – Ah ! Tu as un nouveau <i>petit copain</i> ? Je voulais justement te présenter un <i>ami</i> de Clément. &nbsp; Amour {{c:g}} Amitié {{c:g}}<br>8. – Alors, dans ces conditions, je viens seule." },
+        { "seq": 3, "type": "tf", "stem_html": "9. – Et puis il y aura aussi des <i>copains</i> de la fac. &nbsp; Amour {{c:g}} Amitié {{c:g}}<br>10. – Vous avez beaucoup <i>d'amis</i> ! &nbsp; Amour {{c:g}} Amitié {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 17, "seq": 3,
+      "instruction_fr": "Complétez ce mail. Plusieurs solutions sont parfois possibles.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [17],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Ma chère Léna,<br>Tu avais raison, c'était une bonne idée de partir en voyage organisé. Je t'annonce une grande nouvelle : j'ai {{b}} un homme. Dès le troisième jour, nous sommes {{b}} amoureux l'un de l'autre. Ça a été immédiatement le coup de {{b}}, on s' {{b}} très bien. Il m'a déjà demandé si je voulais {{b}} chez lui. Mais je ne suis pas pressée. Tu sais, il est un peu fou, il pense même au {{b}}. Alors là, j'ai dit non. Mais il faut reconnaître que ce voyage ressemble un peu à un voyage de {{b}}, à une {{b}} de miel. Alors, pourquoi se {{b}} ? Je suis très {{b}} et très heureuse.<br>Je t'embrasse affectueusement, je t'appelle en rentrant.<br>Lise" }
+      ]
+    },
+    {
+      "page_no": 19, "seq": 4,
+      "instruction_fr": "Éliminez l'intrus.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. on s'aime / on s'entend bien / on entend bien / on est amoureux → {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. la séparation / l'entente / la dispute / la rupture → {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. mon copain / mon mari / mon conjoint / mon époux → {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. divorce / garde partagée / mari / ex-mari → {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. le ménage / la scène de ménage / la dispute / le conflit → {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. la réconciliation / la passion / le coup de foudre / la déclaration d'amour → {{L}}" }
+      ]
+    },
+    {
+      "page_no": 19, "seq": 5,
+      "instruction_fr": "Choisissez pour chaque question les deux réponses possibles.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Est-ce que tu es d'accord pour divorcer ?<br>a. {{c:g}} Si tu me laisses la garde des enfants, c'est d'accord.<br>b. {{c:g}} Non, je refuse de divorcer.<br>c. {{c:g}} Oui, d'accord, car on s'entend très bien." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Est-ce que tu veux m'épouser ?<br>a. {{c:g}} Oui, d'accord, je préfère vivre seule.<br>b. {{c:g}} J'attendais cette question depuis si longtemps !<br>c. {{c:g}} Je préférerais le Pacs au mariage, c'est plus simple, qu'en penses-tu ?" },
+        { "seq": 3, "type": "choice", "stem_html": "3. Est-ce que vous vous entendez bien ?<br>a. {{c:g}} On ne s'entend pas du tout, on se dispute sans cesse, je crois qu'on va se séparer.<br>b. {{c:g}} Oui, absolument, mon mari me trompe régulièrement.<br>c. {{c:g}} Depuis le coup de foudre de la rencontre, nous vivons une passion." }
+      ]
+    },
+    {
+      "page_no": 19, "seq": 6,
+      "instruction_fr": "À l'aide des indications suivantes, racontez la vie sentimentale de Gaspard entre 1996 et 2011. Faites des phrases complètes.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1996 – Rencontre Gaspard-Margot, coup de foudre<br>1998 – Vie en concubinage, passion<br>2001 – Mariage à l'église<br>2006 – Début des scènes de ménage<br>2008 – Rencontre Gaspard-Solène, grande crise entre Gaspard et Margot<br>2009 – Divorce Gaspard-Margot, relation amoureuse Gaspard-Solène<br>2010 – Disputes entre Gaspard et Solène<br>2011 – Départ de Solène, rupture, solitude de Gaspard<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 21, "seq": 7,
+      "instruction_fr": "Associez une phrase de gauche à une, deux ou trois phrases de droite.",
+      "label": "a. Ils ont les larmes aux yeux. &nbsp; b. Ils sont très heureux. &nbsp; c. Ils ont beaucoup de chagrin. &nbsp; d. Ils pleurent à chaudes larmes. &nbsp; e. Ils se réjouissent de leur bonheur. &nbsp; f. Ils ont le fou rire. &nbsp; g. Ils ont déposé une gerbe sur sa tombe. &nbsp; h. Ils sont morts de rire.",
+      "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "1. Ali et Nadia ont perdu leur grand-père ce matin. → {{L}}" },
+        { "seq": 2, "type": "assoc", "stem_html": "2. Pavel a raconté une histoire drôle à Christian. → {{L}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "3. Le grand-père décédé adorait les fleurs. → {{L}}" },
+        { "seq": 4, "type": "assoc", "stem_html": "4. Les enfants sont tombés et se sont fait très mal. → {{L}}" },
+        { "seq": 5, "type": "assoc", "stem_html": "5. Ce film est très émouvant. La fin est triste. → {{L}}" },
+        { "seq": 6, "type": "assoc", "stem_html": "6. Luigi et Chiara sont en voyage de noces à Paris. → {{L}}" }
+      ]
+    },
+    {
+      "page_no": 21, "seq": 8,
+      "instruction_fr": "Quelle est la situation familiale de ces personnes ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Éric a été marié pendant sept ans avec une violoniste qui l'a quitté pour se remarier avec son chef d'orchestre. Maintenant, Éric est {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Claire vit depuis longtemps avec Michel, mais elle refuse de se marier. Elle est {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Hélène aurait bien aimé épouser son amie Liliane, mais les couples homosexuels ne sont pas autorisés à se marier. Hélène et Liliane sont maintenant {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Julien rentre tout juste d'Amérique du Sud où il était en voyage de noces. Il est {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Jean s'est marié très jeune avec Marie. Ils ont d'abord eu Fabrice, puis Marie est morte à la naissance de leur deuxième enfant. Jean est {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Laurent a un rêve : se marier et avoir beaucoup d'enfants. Mais le problème est qu'il ne trouve pas la femme de sa vie. Il est toujours {{L}}" }
+      ]
+    },
+    {
+      "page_no": 21, "seq": 9,
+      "instruction_fr": "Remplacez les expressions soulignées par des expressions synonymes.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. J'ai appris <u>la mort</u> de mon oncle alors que j'étais à l'étranger. Je n'ai pas pu assister <u>aux obsèques</u>. Mon cousin m'a raconté que ma tante était complètement <u>effondrée</u>.<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Hier, je suis allée voir une comédie américaine avec une copine : <u>on a pleuré de rire</u> pendant deux heures.<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. J'ai vu Denis avant-hier : je ne sais pas ce qui s'était passé, mais <u>il avait l'air triste</u> !<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Depuis <u>leur séparation</u>, Laura est assez déprimée : <u>elle éclate en sanglots</u> à tout moment. Elle espérait secrètement que Gilles et elle pourraient <u>recommencer à zéro</u>, mais elle vient d'apprendre que Gilles <u>avait commencé une nouvelle liaison</u>.<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 23, "seq": 10,
+      "instruction_fr": "Identifiez le sentiment qu'exprime chacune des phrases suivantes.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. La semaine dernière, le professeur d'anglais a demandé aux étudiants de lui rendre un devoir mais il n'est pas content du tout car la moitié des étudiants n'a pas fait le travail.<br>{{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. C'est vraiment un excellent journaliste : il s'exprime très bien, il a un sens de l'analyse remarquable, il sait diriger un débat, et en plus, il a de l'esprit et de l'humour.<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Joséphine m'avait dit le plus grand bien de ce film, mais moi, je ne l'ai pas aimé du tout.<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. La pauvre ! Elle perd son travail au moment où son mari tombe malade !<br>{{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Le prof de littérature a confondu le titre d'une œuvre littéraire avec une marque de vêtements ! Quand une élève le lui a fait remarquer, il est devenu tout rouge !<br>{{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Monsieur Déclini est tout sauf un ami. C'est un homme fondamentalement désagréable.<br>{{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Tu sais que mon fils est devenu un grand pianiste et qu'il donne des concerts dans le monde entier ?<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 23, "seq": 11,
+      "instruction_fr": "Complétez par un verbe approprié (plusieurs solutions sont parfois possibles).",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Visiblement, Félix est amoureux de ta cousine. Penses-tu qu'elle {{b}} ses sentiments ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Tu connais la nouvelle femme de Pierre ? Moi, je la {{b}} très sympa." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je {{b}} de la tendresse pour cet homme et je crois qu'il me le {{b}} bien." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Penses-tu que je puisse {{b}} confiance à Thierry pour organiser cette réunion importante avec les clients ?" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. À notre mariage, les amis nous ont {{b}} toute leur amitié et leur affection." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Je trouve que tu t'intéresses beaucoup à ta voisine…<br>– Pas du tout, elle ne m' {{b}} que de l'indifférence.<br>– Tu ne {{b}} même pas un peu d'amitié pour elle ?" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. C'est très rare que je {{b}} vraiment de la haine. Seuls, les dictateurs qui emprisonnent et torturent leurs opposants politiques m' {{b}} un tel sentiment." },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Hier, à la piscine, un homme a perdu son maillot de bain en plongeant. Il était nu dans la piscine ! Il {{b}} honte !" }
+      ]
+    },
+    {
+      "page_no": 23, "seq": 12,
+      "instruction_fr": "À vous ! Racontez un scénario mélodramatique : une histoire d'amour, de mort, de haine… Vous pouvez l'inventer ou vous inspirer d'un film, d'un roman ou d'une histoire vraie.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    }
+  ]
+}
