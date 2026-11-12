@@ -61,6 +61,259 @@
     { "page_no": 248, "seq": 39, "type": "para", "body_html": "<p class='bullet'>Expression d'une <strong>condition</strong> :</p><table class='data-table'><tr><td><em>Tu peux sortir</em></td><td><em><strong>à condition que<br>pourvu que</strong></em></td><td><em>tu me <strong>dises</strong> où tu vas.</em></td></tr></table>" },
     { "page_no": 248, "seq": 40, "type": "phonetic", "body_html": "• * On utilise souvent un « ne » stylistique qui n'est pas une négation avec l'expression de la crainte et les conjonctions « avant que » et « à moins que »." }
   ],
-  "exercises": [],
-  "exercises_pending": true
+  "exercises": [
+    {
+      "page_no": 239, "seq": 1,
+      "instruction_fr": "Transformez en utilisant « il faut que », selon le modèle.",
+      "label": "", "note_html": "Vous devez parler français. Il faut que vous parliez français.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "1. Vous devez répéter souvent les mêmes structures.<br>{{L}}" },
+        { "seq": 2, "type": "transform", "stem_html": "2. Vous devez écouter les exercices enregistrés.<br>{{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "3. Vous devez corriger votre accent.<br>{{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "4. Vous devez noter du vocabulaire.<br>{{L}}" },
+        { "seq": 5, "type": "transform", "stem_html": "5. Vous devez regarder des films français.<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 239, "seq": 2,
+      "instruction_fr": "Transformez avec « il faut que ».",
+      "label": "Avant la randonnée", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Il faut :<br>– contrôler le matériel,<br>– regarder la météo,<br>– étudier la carte,<br>– préparer des sandwichs,<br>– emporter des pulls chauds,<br>– manger légèrement.<br><em>Avant de partir,<br>il faut que nous contrôlions le matériel,</em><br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 239, "seq": 3,
+      "instruction_fr": "Décrivez les opérations nécessaires pour retirer de l'argent d'un distributeur.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "insérer votre carte - composer votre code secret - sélectionner une opération - indiquer le montant - retirer les billets - ne pas oublier votre carte<br><em>Pour retirer de l'argent, il faut que vous</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 239, "seq": 4,
+      "instruction_fr": "Conjuguez les « résolutions » du bon étudiant.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Je dois étudier la grammaire. &nbsp;&nbsp; Je dois pratiquer la langue. &nbsp;&nbsp; Je dois recopier mes notes.<br>Je dois participer en cours. &nbsp;&nbsp; Je dois accepter les « bizarreries » d'une autre langue.<br>– <em>Il faut que j'étudie la grammaire.</em> – Il faut que tu {{T}}" }
+      ]
+    },
+    {
+      "page_no": 239, "seq": 5,
+      "instruction_fr": "Donnez vos propres résolutions.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 241, "seq": 6,
+      "instruction_fr": "Complétez les dialogues avec « il faut que ».",
+      "label": "Les hommes d'affaires", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Tous mes collègues<br>mettent une cravate,<br>écrivent de gros rapports,<br>lisent les journaux étrangers,<br>sortent tard du bureau,<br>font des heures supplémentaires.<br><em>Moi aussi,<br>il faut que je mette une cravate !</em><br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 241, "seq": 7,
+      "instruction_fr": "Complétez les dialogues avec « il faut que ».",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous devez prendre ces antibiotiques.<br><em>– Il faut vraiment que je les prenne ?</em><br><em>– Oui, il faut que vous les preniez.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous devez recevoir ces clients.<br>– {{L}}<br>– {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Vous devez jeter ces vieilles revues.<br>– {{L}}<br>– {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Vous devez apprendre ces règles.<br>– {{L}}<br>– {{L}}" }
+      ]
+    },
+    {
+      "page_no": 241, "seq": 8,
+      "instruction_fr": "Complétez les phrases avec les verbes manquants.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Marie a très mal à la tête : il faut qu'elle <em>prenne</em> une aspirine." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Tout est très sale : il faut que je {{L}} le ménage et la vaisselle." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Vous êtes trop tendue : il faut que vous {{L}} moins de café." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Les invités arrivent : il faut que je {{L}} le rôti dans le four." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Mon rendez-vous est à neuf heures : il faut que je {{L}} de chez moi à huit heures." }
+      ]
+    },
+    {
+      "page_no": 241, "seq": 9,
+      "instruction_fr": "Transposez oralement avec « il faut que ».",
+      "label": "Cher Jules", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Je dois partir pour New York avec Nicolas. Nous devons obtenir des crédits supplémentaires.<br>La direction doit comprendre que le marché européen a changé. Elle doit nous suivre et nous faire confiance. Mais nous devons être très convaincants…<br>Pendant notre absence, tu dois faire patienter les clients. Tu dois leur dire que tout sera prêt à Noël, comme prévu. Naturellement, ils ne doivent pas savoir que nous avons des problèmes…<br>Bon courage !<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laurent.<br><em>Il faut que je parte</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 241, "seq": 10,
+      "instruction_fr": "Donnez la liste de tout ce que vous devez faire avant de partir en voyage.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 243, "seq": 11,
+      "instruction_fr": "Notez les verbes suivis de l'indicatif et les verbes suivis du subjonctif.",
+      "label": "À propos d'un homme politique", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Je pense qu'il est intelligent.<br>Je trouve qu'il a du charisme.<br>J'aimerais qu'il réussisse.<br>Je souhaite qu'il fasse des réformes.<br>Je suppose qu'il est cultivé.<br>J'ai peur qu'il ne fasse de mauvaises alliances.<br>Je crains qu'il ne soit mal conseillé.<br>J'espère qu'il prendra de bonnes décisions.<br>Je crois qu'il est compétent.<br>Je trouve normal qu'il soit bien payé.<br><strong>+ indicatif</strong> : <em>Je pense</em><br>{{T}}<br><strong>+ subjonctif</strong><br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 243, "seq": 12,
+      "instruction_fr": "Répondez selon le modèle.",
+      "label": "", "note_html": "– Vous pensez que Paul prendra ses vacances en février ? — Je ne sais pas, mais j'aimerais bien qu'il prenne ses vacances en février.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. – Vous croyez que Marie viendra avec nous ?<br>{{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. – Vous pensez que Julien réussira ses examens ?<br>{{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. – Vous croyez que les enfants partiront ensemble ?<br>{{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. – Vous pensez qu'ils prendront le train ?<br>{{L}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. – Vous pensez qu'ils iront voir leur grand-mère ?<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 243, "seq": 13,
+      "instruction_fr": "Complétez en exprimant vos opinions, vos désirs, vos craintes.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Les produits bio sont plus chers que les autres. – Les criminels sont de plus en plus jeunes.<br>– Il y a de la vie sur Mars. – Le monde politique est corrompu. – Il y a de plus en plus de cataclysmes.<br>– On ne prend plus le temps de vivre. – Les hommes sont trop individualistes.<br>Je trouve {{L}}<br>Je ne crois pas {{L}}<br>J'aimerais {{L}}<br>Je suis choqué(e) {{L}}<br>Je trouve inquiétant {{L}}<br>Je regrette {{L}}" }
+      ]
+    },
+    {
+      "page_no": 245, "seq": 14,
+      "instruction_fr": "Transformez pour utiliser des subjonctifs.",
+      "label": "Soucis", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Je trouve que mon fils ne sort pas assez.<br>Il n'a pas d'amis. Il est trop seul.<br>Je pense qu'il n'est pas assez sociable et qu'en général il ne fait pas assez d'efforts.<br>Je remarque qu'il n'est pas très costaud.<br>Il ne fait pas du tout de sport.<br>Il ne va même plus à la piscine.<br>J'espère qu'il reprendra ses cours de guitare et qu'il ira de nouveau au concert le jeudi.<br><em>J'aimerais que mon fils</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 245, "seq": 15,
+      "instruction_fr": "Répondez en utilisant un subjonctif ou un indicatif.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Notre entreprise va déménager, je crois. – <em>Moi aussi, je pense qu'elle va déménager.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Les employés seront mécontents, je le crains. – {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Les clients vont faire des réclamations, j'en ai peur. – {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Le directeur fera une réunion, j'imagine. – {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Les actionnaires seront présents, je suppose. – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 245, "seq": 16,
+      "instruction_fr": "Transformez selon le modèle.",
+      "label": "Match de boxe", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Max : Le match va être difficile.<br>Paul : Je le pense aussi.<br>Max : Le combat est truqué ?<br>Paul : Je ne crois pas !<br>Max : Jim va faire un beau match.<br>Paul : Je le souhaite !<br>Max : Le combat sera retransmis ?<br>Paul : Je suppose.<br>Max : L'arbitre est un ancien boxeur ?<br>Paul : J'imagine.<br>Max : Il y a plus de femmes que d'hommes.<br>Paul : Oui, je suis surpris !<br><em>Paul pense que le match va être difficile. Il ne croit pas</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 245, "seq": 17,
+      "instruction_fr": "Trouvez les verbes, selon le modèle.",
+      "label": "", "note_html": "1. Je ne pense pas que cette table soit très ancienne.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. {{L}} qu'il ne pleuve pendant le week-end." },
+        { "seq": 2, "type": "cloze", "stem_html": "3. {{L}} qu'il y ait autant de monde dans la rue." },
+        { "seq": 3, "type": "cloze", "stem_html": "4. {{L}} que cette couleur te va bien." },
+        { "seq": 4, "type": "cloze", "stem_html": "5. {{L}} que tu viennes à ma fête." },
+        { "seq": 5, "type": "cloze", "stem_html": "6. {{L}} que vous soyez obligés de partir." },
+        { "seq": 6, "type": "cloze", "stem_html": "7. {{L}} que Paul n'ait la grippe." },
+        { "seq": 7, "type": "cloze", "stem_html": "8. {{L}} que les infirmières soient si mal payées." }
+      ]
+    },
+    {
+      "page_no": 247, "seq": 18,
+      "instruction_fr": "Transformez selon le modèle.",
+      "label": "", "note_html": "– Il y a parfois des perles dans les huîtres, mais c'est rare. — Oui, il est rare qu'il y ait des perles dans les huîtres.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "1. – Un footballeur est mieux payé qu'un ministre. C'est choquant.<br>– Oui, {{L}}" },
+        { "seq": 2, "type": "transform", "stem_html": "2. – On meurt encore de faim au XXI<sup>e</sup> siècle. C'est insupportable.<br>– Oui, {{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "3. – Paul B. n'écrit plus de romans. C'est dommage.<br>– Oui, {{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "4. – La pollution est responsable des perturbations climatiques. C'est évident.<br>– Oui, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 247, "seq": 19,
+      "instruction_fr": "Reprenez les phrases avec « il vaudrait mieux que ».",
+      "label": "", "note_html": "– Je suis en retard. Je vais prendre le métro. — Il vaudrait mieux que tu prennes un taxi !", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "1. – J'ai une grosse migraine. Je vais prendre un whisky. – {{L}}" },
+        { "seq": 2, "type": "transform", "stem_html": "2. – J'ai invité ma belle-mère. Je vais faire une pizza surgelée. – {{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "3. – J'ai deux mois de vacances. Je vais aller en Sibérie. – {{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "4. – J'ai des économies. Je vais les mettre sous mon matelas. – {{L}}" },
+        { "seq": 5, "type": "transform", "stem_html": "5. – Je suis déprimé. Je vais aller chez une voyante. – {{L}}" }
+      ]
+    },
+    {
+      "page_no": 247, "seq": 20,
+      "instruction_fr": "Répondez en utilisant un subjonctif ou un indicatif.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Il est souhaitable que vous <em>fassiez</em> des exercices et que vous {{L}} des livres en français." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Il faut que notre entreprise {{L}} des travaux. Il est important que les employés {{L}} de bonnes conditions de travail." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Il est certain que la situation économique {{L}} délicate et il est évident que l'avenir {{L}} assez sombre." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Je suppose que le directeur {{L}} dans son bureau. Je vois qu'il y {{L}} encore de la lumière." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Il est possible qu'il y {{L}} une grève demain et j'imagine qu'il y {{L}} des embouteillages." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Il est dommage qu'il ne {{L}} pas beau, nous aurions pu dîner en terrasse." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – Je cherche une baby-sitter qui {{L}} libre de 4 heures à 6 heures. – Ça tombe bien, je crois que ma petite voisine {{L}} libre tous les après-midi !" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Il est fort probable qu'il {{L}} froid cet hiver." }
+      ]
+    },
+    {
+      "page_no": 247, "seq": 21,
+      "instruction_fr": "Faites des phrases selon le modèle en utilisant un subjonctif passé.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Pierre est guéri. Je suis content. <em>Je suis content que Pierre</em> {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Paul n'a pas fait son travail. Je suis furieux. {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Nous sommes arrivés en retard. Je suis désolé. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 249, "seq": 22,
+      "instruction_fr": "Complétez le texte avec les verbes manquants.",
+      "label": "", "note_html": "Je n'accepterai pas, à moins que vous ne soyez tous d'accord.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Jean et Thérèse ont économisé pour que leurs enfants {{L}} des études." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Il vaut mieux que nous abandonnions ce projet avant qu'il {{L}} trop tard." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Les enfants peuvent rester dans la salle à condition qu'ils ne {{L}} pas de bruit." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Bien que ce restaurant {{L}} très cher, il y a toujours beaucoup de monde." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Pour que nous {{L}} à l'heure à la gare, il faut partir maintenant." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Nous ne prendrons pas de décisions avant que tout le monde {{L}} là." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Voulez-vous prendre un café, en attendant que ma fille {{L}} prête ?" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Nous travaillerons jusqu'à ce que tout {{L}} terminé." }
+      ]
+    },
+    {
+      "page_no": 249, "seq": 23,
+      "instruction_fr": "Complétez avec les subjonctifs manquants.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Le stage d'informatique portera sur plusieurs semaines : les enfants seront pris en charge jusqu'à ce qu'ils {{L}} capables de se débrouiller tout seuls. Pour que la méthode {{L}} efficace, il faut que les enfants {{L}} travailler en équipe. Le programme débutera fin octobre, à moins que l'aménagement des salles ne {{L}} pas terminé. Pour que tous les enfants {{L}} le même matériel, il est important que les parents {{L}} rapidement par courrier une liste des choses à acheter. Tous les enfants seront admis, à condition qu'ils {{L}} au minimum 12 ans et qu'ils {{L}} accompagnés le premier jour par une personne de leur famille." }
+      ]
+    },
+    {
+      "page_no": 249, "seq": 24,
+      "instruction_fr": "Transformez les phrases avec « pour que » et « il faut que », selon le modèle.",
+      "label": "", "note_html": "– Le docteur pourra-t-il opérer si le patient n'est pas à jeun ? — Non, pour que le médecin puisse opérer, il faut que le patient soit à jeun.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "1. – Les médicaments seront-ils remboursés si le médecin n'est pas conventionné ?<br>– Non, {{L}}" },
+        { "seq": 2, "type": "transform", "stem_html": "2. – Le patient pourra-t-il quitter l'hôpital s'il ne remplit pas une feuille de sortie ?<br>– Non, {{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "3. – Le malade comprendra-t-il les instructions si on ne les traduit pas dans sa langue ?<br>– Non, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 249, "seq": 25,
+      "instruction_fr": "Faites des phrases selon le modèle.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "1. Si vous n'avez pas de ticket de caisse, nous ne pourrons pas échanger vos achats.<br><em>Pour que nous puissions échanger vos achats, il faut que…</em> {{L}}" },
+        { "seq": 2, "type": "transform", "stem_html": "2. Si les enfants n'ont pas d'autorisation, ils ne pourront pas sortir.<br>{{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "3. Si vous restez moins de trois jours, vous n'aurez pas de réduction sur les vols.<br>{{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "4. Si vous faites une grosse commande, vous aurez une remise.<br>{{L}}" }
+      ]
+    }
+  ]
 }
