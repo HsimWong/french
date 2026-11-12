@@ -1,0 +1,1058 @@
+{
+  "course": "vocabulaire",
+  "seq": 21,
+  "title_fr": "L'ARGENT – LA BANQUE",
+  "page_start": 142,
+  "page_end": 149,
+  "pdf_start": 144,
+  "pdf_end": 151,
+  "sections": [
+    {
+      "title_fr": "VOUS PAYEZ COMMENT ?",
+      "page_no": 142
+    },
+    {
+      "title_fr": "À LA BANQUE",
+      "page_no": 144
+    },
+    {
+      "title_fr": "FAIRE DES ACHATS",
+      "page_no": 146
+    },
+    {
+      "title_fr": "GAGNER DE L'ARGENT",
+      "page_no": 148
+    },
+    {
+      "title_fr": "L'HOMME ET L'ARGENT",
+      "page_no": 148
+    },
+    {
+      "title_fr": "QUELQUES PROVERBES",
+      "page_no": 148
+    }
+  ],
+  "blocks": [
+    {
+      "page_no": 142,
+      "seq": 1,
+      "type": "chapter_title",
+      "body_html": "<span class='ch-no'>21</span> L'ARGENT – LA BANQUE"
+    },
+    {
+      "page_no": 142,
+      "seq": 2,
+      "type": "section_title",
+      "body_html": "VOUS PAYEZ COMMENT ?"
+    },
+    {
+      "page_no": 142,
+      "seq": 3,
+      "type": "subhead",
+      "body_html": "■ En espèces"
+    },
+    {
+      "page_no": 142,
+      "seq": 4,
+      "type": "list",
+      "body_html": "<div class='bullet'>Il est possible de <b>régler</b> (= <b>payer</b>) de diverses manières : différents <b>règlements</b> (= <b>paiements</b>) sont courants.</div>"
+    },
+    {
+      "page_no": 142,
+      "seq": 5,
+      "type": "list",
+      "body_html": "<div class='bullet'>Quand on <b>fait des achats</b>, on peut payer <b>en espèces</b> = <b>en liquide</b>* (= avec des pièces et des billets). On met <b>les pièces dans le porte-monnaie</b>, et <b>les billets dans le portefeuille</b>.</div>"
+    },
+    {
+      "page_no": 142,
+      "seq": 6,
+      "type": "list",
+      "body_html": "<div class='bullet'>Vous achetez un livre qui coûte 16 € : – vous <b>avez la monnaie</b> = vous <b>avez / faites l'appoint</b> (vous donnez exactement 16 euros) ; – vous n'avez pas la monnaie et vous donnez un billet de 20 €. La vendeuse vous <b>rend la monnaie</b> : 4 euros.</div>"
+    },
+    {
+      "page_no": 142,
+      "seq": 7,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarque.</span> <i>Ne confondez pas « la monnaie » et « l'argent ». Par exemple, Bernard est riche, il a beaucoup d'argent, mais il n'a pas la monnaie pour prendre un café à la machine automatique. Henri, en revanche, n'a pas beaucoup d'argent, mais il a une pièce de 1 € pour prendre un café.</i>"
+    },
+    {
+      "page_no": 142,
+      "seq": 8,
+      "type": "list",
+      "body_html": "<div class='bullet'>Vous avez un billet de 5 euros, mais vous avez besoin d'une pièce de un euro : vous devez <b>faire la monnaie</b>. Vous demandez à quelqu'un : « Est-ce que vous <b>auriez la monnaie</b> de 5 euros, s'il vous plaît ? »</div>"
+    },
+    {
+      "page_no": 142,
+      "seq": 9,
+      "type": "subhead",
+      "body_html": "■ Par chèque"
+    },
+    {
+      "page_no": 142,
+      "seq": 10,
+      "type": "list",
+      "body_html": "<div class='bullet'>Si on paye par chèque : on sort son <b>carnet de chèque / chéquier</b>, puis on <b>fait</b> un chèque : on le <b>remplit</b>, puis on le <b>signe</b>. Quel est le <b>montant</b> du chèque ? Le montant (= la somme) est de 75,30 euros.</div>"
+    },
+    {
+      "page_no": 142,
+      "seq": 11,
+      "type": "table",
+      "body_html": "<table class='vocab'><tr><th>Élément du chèque</th><th>Précision</th></tr><tr><td>ordre</td><td>nom du destinataire du chèque → libellé un chèque à l'ordre de...</td></tr><tr><td>montant en toutes lettres</td><td></td></tr><tr><td>montant en chiffres</td><td></td></tr><tr><td>nom et adresse de l'agence bancaire</td><td></td></tr><tr><td>identité bancaire de la personne</td><td></td></tr><tr><td>lieu (nom de la ville) et date</td><td></td></tr><tr><td>signature</td><td></td></tr></table>"
+    },
+    {
+      "page_no": 144,
+      "seq": 12,
+      "type": "running_head",
+      "body_html": "L'ARGENT – LA BANQUE"
+    },
+    {
+      "page_no": 144,
+      "seq": 13,
+      "type": "subhead",
+      "body_html": "■ Par carte bancaire"
+    },
+    {
+      "page_no": 144,
+      "seq": 14,
+      "type": "list",
+      "body_html": "<div class='bullet'>On appelle « carte bancaire » toutes les cartes de crédit, cartes bleues, carte Visa, etc.</div>"
+    },
+    {
+      "page_no": 144,
+      "seq": 15,
+      "type": "list",
+      "body_html": "<div class='bullet'>Pour payer par carte bancaire, il faut avoir un <b>code secret</b> (un numéro à 4 chiffres).</div>"
+    },
+    {
+      "page_no": 144,
+      "seq": 16,
+      "type": "list",
+      "body_html": "<div class='bullet'>Avec la carte bleue, on peut aussi <b>retirer</b> = <b>prendre de l'argent</b> au <b>distributeur de billets / guichet automatique</b>. Voici ce que dit l'appareil :</div>"
+    },
+    {
+      "page_no": 144,
+      "seq": 17,
+      "type": "list",
+      "body_html": "<div class='bullet'>– Introduisez votre carte<br>– Composez (ou : tapez) votre code secret, puis validez<br>– Choisissez votre montant (20 € ? 50 € ? 100 € ? Autres montants ?)<br>– Veuillez patienter (= attendez, s'il vous plaît)<br>– Désirez-vous un reçu / un ticket ? 1. Oui 2. Non<br>– Vous pouvez retirer votre carte<br>– Prenez vos billets<br>– Merci de votre visite<br>– En cas de perte ou de vol, contactez votre banque pour faire opposition</div>"
+    },
+    {
+      "page_no": 144,
+      "seq": 18,
+      "type": "section_title",
+      "body_html": "À LA BANQUE"
+    },
+    {
+      "page_no": 144,
+      "seq": 19,
+      "type": "list",
+      "body_html": "<div class='bullet'>D'abord, vous <b>ouvrez</b> (≠ fermez) un <b>compte en banque</b> = un <b>compte courant</b>. Vous recevez régulièrement un <b>relevé de compte</b> qui indique toutes vos opérations bancaires. Cela vous permet de faire vos comptes. Vous pouvez consulter et gérer vos comptes sur Internet.</div>"
+    },
+    {
+      "page_no": 144,
+      "seq": 20,
+      "type": "list",
+      "body_html": "<div class='bullet'>Sur un compte, vous <b>versez / mettez de l'argent</b> = vous <b>approvisionnez</b> = <b>alimentez</b> le compte, en déposant de l'argent, des espèces ou un chèque. Si vous avez besoin d'argent, vous faites le contraire : vous <b>retirez</b> = <b>prenez de l'argent</b>.</div>"
+    },
+    {
+      "page_no": 144,
+      "seq": 21,
+      "type": "list",
+      "body_html": "<div class='bullet'>Si vous avez trop dépensé, si votre compte est en dessous de zéro, le compte est <b>débiteur</b>, il est à <b>découvert</b>, « dans le rouge » : le <b>solde</b> de votre compte est <b>négatif</b>. Au contraire, s'il y a de l'argent sur le compte, celui-ci est <b>créditeur</b>, le solde est <b>positif</b>.</div>"
+    },
+    {
+      "page_no": 144,
+      "seq": 22,
+      "type": "list",
+      "body_html": "<div class='bullet'>Si vous avez fait un chèque, mais qu'il n'y a pas d'argent sur votre compte, vous faites un <b>chèque sans provision</b>.</div>"
+    },
+    {
+      "page_no": 144,
+      "seq": 23,
+      "type": "list",
+      "body_html": "<div class='bullet'>Si vous voulez <b>économiser</b> = <b>épargner</b> de l'argent, mettre de l'argent de côté, vous ouvrez un <b>compte d'épargne</b>. Vous pouvez aussi <b>placer</b> votre argent. Si vous faites un bon <b>placement</b>, vous <b>toucherez / percevrez / recevrez des intérêts</b> (un pourcentage de bénéfice).</div>"
+    },
+    {
+      "page_no": 144,
+      "seq": 24,
+      "type": "list",
+      "body_html": "<div class='bullet'>Pour <b>transférer</b> de l'argent d'un compte sur un autre compte, vous faites un <b>virement</b>, vous <b>virez</b> une somme. Vous pouvez aussi payer certaines factures par <b>prélèvement automatique</b> : une somme est directement prélevée de votre compte.</div>"
+    },
+    {
+      "page_no": 146,
+      "seq": 25,
+      "type": "running_head",
+      "body_html": "L'ARGENT – LA BANQUE"
+    },
+    {
+      "page_no": 146,
+      "seq": 26,
+      "type": "subhead",
+      "body_html": "■ Les devises"
+    },
+    {
+      "page_no": 146,
+      "seq": 27,
+      "type": "list",
+      "body_html": "<div class='bullet'>La <b>devise</b> / monnaie européenne est l'<b>euro</b>. La Suisse emploie le <b>franc suisse</b>. De nombreux pays africains utilisent le <b>franc CFA</b>.</div>"
+    },
+    {
+      "page_no": 146,
+      "seq": 28,
+      "type": "list",
+      "body_html": "<div class='bullet'>Quand on voyage à l'étranger, il faut parfois <b>changer de l'argent</b> dans un <b>bureau de change</b>. – Quelle est la <b>valeur / le cours</b> du dollar, aujourd'hui ? – Le dollar <b>s'échange</b> à 1,12 euro.</div>"
+    },
+    {
+      "page_no": 146,
+      "seq": 29,
+      "type": "subhead",
+      "body_html": "■ Le budget"
+    },
+    {
+      "page_no": 146,
+      "seq": 30,
+      "type": "list",
+      "body_html": "<div class='bullet'>Les <b>revenus</b> (les rentrées d'argent) et les <b>dépenses</b> constituent le <b>budget</b>. On parle du budget d'une entreprise, de l'État... Dans le langage courant, le mot signifie l'argent disponible : « Roland voudrait acheter un appartement, mais ce sera difficile, car il a un petit budget. » Parfois, le mot « budget » signifie aussi l'argent dépensé : « C'est un film à petit budget, mais très intéressant. » « C'est un spectacle à très gros budget ! »</div>"
+    },
+    {
+      "page_no": 146,
+      "seq": 31,
+      "type": "list",
+      "body_html": "<div class='bullet'>Si on manque (= on n'a pas assez) d'argent, on peut <b>emprunter</b> une somme à un ami : après cela, on a des <b>dettes</b>, on <b>doit</b> de l'argent à cet ami. On risque de <b>s'endetter</b> (= avoir trop de dettes). « Il faut que je rende à Léa les cent euros qu'elle m'a prêtés. Je lui dois cent euros. »</div>"
+    },
+    {
+      "page_no": 146,
+      "seq": 32,
+      "type": "subhead",
+      "body_html": "■ Prêter / emprunter"
+    },
+    {
+      "page_no": 146,
+      "seq": 33,
+      "type": "list",
+      "body_html": "<div class='bullet'>Le verbe « <b>emprunter</b> » met la personne qui le fait en situation de relative infériorité. On emprunte quelque chose d'important pour soi. « Je serai obligé d'emprunter la voiture de mes parents. » « Il a dû emprunter de l'argent à sa famille. »</div>"
+    },
+    {
+      "page_no": 146,
+      "seq": 34,
+      "type": "list",
+      "body_html": "<div class='bullet'>La personne qui <b>prête</b> est en situation relativement supérieure. « Nous avons prêté de l'argent à notre fils. » « Elle a prêté sa voiture à des amis. »</div>"
+    },
+    {
+      "page_no": 146,
+      "seq": 35,
+      "type": "list",
+      "body_html": "<div class='bullet'>On emploie aussi le verbe « <b>prêter</b> » dans des situations simples et quotidiennes : « Malika, tu peux me prêter un stylo ? » « C'est un bon livre. Je te le prêterai, si tu veux. »</div>"
+    },
+    {
+      "page_no": 146,
+      "seq": 36,
+      "type": "section_title",
+      "body_html": "FAIRE DES ACHATS"
+    },
+    {
+      "page_no": 146,
+      "seq": 37,
+      "type": "list",
+      "body_html": "<div class='bullet'>Vous faites un achat important (une voiture, une maison) : – vous pouvez payer <b>comptant</b> (= toute la somme) ou <b>en plusieurs fois sans frais</b> (= sans rien payer de plus) ; – vous achetez <b>à crédit</b> : vous devez emprunter de l'argent à la banque = vous faites un <b>emprunt</b> (= un <b>prêt</b>). La banque vous propose un prêt à 3,8 % sur 15 ans, par exemple. Vous devez <b>rembourser</b> votre prêt par <b>mensualités</b>. Le <b>remboursement</b> prend 15 ans.</div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 38,
+      "type": "running_head",
+      "body_html": "L'ARGENT – LA BANQUE"
+    },
+    {
+      "page_no": 148,
+      "seq": 39,
+      "type": "section_title",
+      "body_html": "GAGNER DE L'ARGENT"
+    },
+    {
+      "page_no": 148,
+      "seq": 40,
+      "type": "list",
+      "body_html": "<div class='bullet'>Il est important de <b>gagner sa vie</b>, de <b>gagner de l'argent</b> pour vivre. (<i>voir chapitre 19</i>)</div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 41,
+      "type": "list",
+      "body_html": "<div class='bullet'>Le <b>revenu</b> est le terme général pour l'argent que l'on perçoit. On paye à l'État <b>l'impôt</b> (des taxes) <b>sur</b> le revenu.</div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 42,
+      "type": "list",
+      "body_html": "<div class='bullet'>– Un <b>salarié</b> <b>touche / reçoit / perçoit un salaire.</b></div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 43,
+      "type": "list",
+      "body_html": "<div class='bullet'>– Un travailleur <b>indépendant</b> (un médecin, un avocat...) reçoit <b>des honoraires.</b></div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 44,
+      "type": "list",
+      "body_html": "<div class='bullet'>– Une entreprise <b>fait des bénéfices.</b> Il est important de <b>partager</b> les bénéfices.</div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 45,
+      "type": "list",
+      "body_html": "<div class='bullet'>– Les parents donnent de <b>l'argent de poche</b> à leurs enfants.</div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 46,
+      "type": "section_title",
+      "body_html": "L'HOMME ET L'ARGENT"
+    },
+    {
+      "page_no": 148,
+      "seq": 47,
+      "type": "list",
+      "body_html": "<div class='bullet'>Quand leurs parents sont morts, Cécile et Séverine <b>ont reçu / fait un héritage, elles ont hérité</b> d'une grande maison en Bretagne.</div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 48,
+      "type": "list",
+      "body_html": "<div class='bullet'>On peut être <b>aisé</b> &lt; <b>très aisé(e)</b> &lt; <b>riche / fortuné(e)</b> : cette vieille dame est <b>millionnaire</b> et peut-être même <b>milliardaire</b>. C'est l'une des plus grosses <b>fortunes</b> du pays. Certains <b>envient</b> sa richesse.</div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 49,
+      "type": "list",
+      "body_html": "<div class='bullet'>Quentin et Edwige <b>ont les moyens de</b> s'acheter une belle maison (= ils ont assez d'argent).</div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 50,
+      "type": "list",
+      "body_html": "<div class='bullet'>Madeleine et Rémi, au contraire, <b>n'ont pas les moyens de</b> s'acheter une maison, car ils ont <b>des revenus modestes</b>, ils « <b>ne roulent pas sur l'or</b> ».</div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 51,
+      "type": "list",
+      "body_html": "<div class='bullet'>Laurent vient d'une famille <b>défavorisée</b> (= <b>pauvre</b>) : il est <b>fauché</b>*, il <b>n'a pas un sou</b>, il souffre de <b>sa pauvreté</b>.</div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 52,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarque.</span> <i>On peut parler d'un quartier défavorisé (= un quartier riche).</i>"
+    },
+    {
+      "page_no": 148,
+      "seq": 53,
+      "type": "list",
+      "body_html": "<div class='bullet'>Charlotte est <b>dépensière</b> : elle a tendance à « <b>jeter l'argent par les fenêtres</b> ».</div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 54,
+      "type": "list",
+      "body_html": "<div class='bullet'>Guy était riche, mais il a perdu sa fortune : il est <b>ruiné</b>, tout le monde est étonné par sa <b>ruine financière</b>...</div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 55,
+      "type": "list",
+      "body_html": "<div class='bullet'>Brice déteste <b>dépenser</b> : il est <b>avare, radin</b>*, <b>près de ses sous</b>*.</div>"
+    },
+    {
+      "page_no": 148,
+      "seq": 56,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarques.</span> <i>1. Le terme « riche » est souvent péjoratif. 2. On se moque souvent des « nouveaux riches ». 3. Culturellement, il est mal vu d'être avare. Connaissez-vous la célèbre pièce de Molière, <b>L'Avare</b> ?</i>"
+    },
+    {
+      "page_no": 148,
+      "seq": 57,
+      "type": "section_title",
+      "body_html": "QUELQUES PROVERBES"
+    },
+    {
+      "page_no": 148,
+      "seq": 58,
+      "type": "list",
+      "body_html": "<div class='bullet'>La langue française a d'innombrables expressions et proverbes concernant l'argent. Mentionnons : « <b>Quand on aime, on ne compte pas.</b> » « <b>L'argent ne fait pas le bonheur...</b> »</div>"
+    }
+  ],
+  "exercises": [
+    {
+      "page_no": 143,
+      "seq": 1,
+      "instruction_fr": "Choisissez la bonne réponse.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. Vous payez comment ? {{o:Avec mon porte-monnaie.|Par chèque.}}"
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. Vous avez la monnaie ? {{o:Non, je n'ai pas d'argent.|Non, j'ai seulement un billet de 20 €.}}"
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. Il me faut de la monnaie pour prendre un chariot au supermarché. {{o:Tiens, voilà une pièce de 1 €.|Tiens, voilà un billet de 50 €.}}"
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. Vous avez l'appoint ? {{o:Oui, voilà 8,95 €.|Oui, voilà de l'argent.}}"
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. Le chèque est à quel ordre ? {{o:91,68 euros.|Grégoire Lambert.}}"
+        },
+        {
+          "seq": 6,
+          "type": "choice",
+          "stem_html": "6. Que fait la vendeuse ? {{o:Elle me rend mon argent.|Elle me rend la monnaie.}}"
+        },
+        {
+          "seq": 7,
+          "type": "choice",
+          "stem_html": "7. Sabine a de l'argent ? {{o:Non, elle n'a pas de monnaie.|Oui, mais elle n'a pas de monnaie.}}"
+        }
+      ]
+    },
+    {
+      "page_no": 143,
+      "seq": 2,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "tf",
+          "stem_html": "1. Si vous avez l'appoint, le commerçant vous rend la monnaie. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 2,
+          "type": "tf",
+          "stem_html": "2. On met les pièces dans un portefeuille. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 3,
+          "type": "tf",
+          "stem_html": "3. Si vous ne payez pas en liquide, vous pouvez payer en espèces. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 4,
+          "type": "tf",
+          "stem_html": "4. Nous pouvons faire un chèque à un médecin. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 5,
+          "type": "tf",
+          "stem_html": "5. Si vous achetez une baguette avec un billet de 50 €, on vous rendra la monnaie. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 6,
+          "type": "tf",
+          "stem_html": "6. On doit signer un chéquier après l'avoir rempli. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 7,
+          "type": "tf",
+          "stem_html": "7. Sur un chèque, on écrit le montant en chiffres et en lettres. Vrai {{c:g}} Faux {{c:g}}"
+        }
+      ]
+    },
+    {
+      "page_no": 143,
+      "seq": 3,
+      "instruction_fr": "Choisissez les termes possibles.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. Héloïse {{o:fait|signe|paye|remplit}} un chèque."
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. Sur le chèque, on écrit {{o:le montant|la date|l'ordre|l'argent}}."
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. Alain {{o:rend|règle|paye|fait}} en espèces."
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. Laurent a {{o:de l'argent|en liquide|la monnaie|l'appoint}}."
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. Est-ce que vous avez {{o:un billet|des espèces|l'argent|la monnaie}} de 10 € ?"
+        }
+      ]
+    },
+    {
+      "page_no": 143,
+      "seq": 4,
+      "instruction_fr": "Complétez le dialogue.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. – Voilà, ça fait 12,51 € Vous {{b}} comment, madame ?"
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. – En {{b}}. Tenez ! Je suis désolée, je n'ai pas de {{b}}, j'ai juste un {{b}} de 100 €."
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. – Ce n'est pas grave, je peux vous {{b}} la {{b}} sans problème."
+        }
+      ]
+    },
+    {
+      "page_no": 145,
+      "seq": 5,
+      "instruction_fr": "Choisissez les termes possibles.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. Mon compte est à découvert, il est {{o:automatique|débiteur|créditeur|courant}}."
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. Nous avons {{o:placé|ouvert|alimenté|touché}} un compte."
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. Je dois consulter {{o:un prélèvement|mon compte|un chèque|une somme}}."
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. Mes amis ont décidé d'{{o:approvisionner|économiser|épargner|fermer}} de l'argent."
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. Est-ce que vous payez vos factures {{o:par prélèvement|à découvert|sans provision|par chèque}} ?"
+        },
+        {
+          "seq": 6,
+          "type": "choice",
+          "stem_html": "6. J'approvisionne mon compte, je {{o:retire|verse|dépose|touche}} de l'argent sur ce compte."
+        },
+        {
+          "seq": 7,
+          "type": "choice",
+          "stem_html": "7. Il fait un virement {{o:ses comptes|ses intérêts|un solde}}."
+        }
+      ]
+    },
+    {
+      "page_no": 145,
+      "seq": 6,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "tf",
+          "stem_html": "1. Pour prendre de l'argent au distributeur de billets, il faut composer un code secret. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 2,
+          "type": "tf",
+          "stem_html": "2. Un compte à découvert est dans le rouge. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 3,
+          "type": "tf",
+          "stem_html": "3. On perçoit régulièrement un relevé de compte. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 4,
+          "type": "tf",
+          "stem_html": "4. Un compte d'épargne permet de gérer des opérations bancaires. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 5,
+          "type": "tf",
+          "stem_html": "5. Si le compte est créditeur, son solde est positif. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 6,
+          "type": "tf",
+          "stem_html": "6. Avec une carte bancaire, il est possible de retirer de l'argent au distributeur de billets. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 7,
+          "type": "tf",
+          "stem_html": "7. Quand on transfère de l'argent, on fait un virement. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 8,
+          "type": "tf",
+          "stem_html": "8. Si on fait un chèque sans provision, c'est que le compte est débiteur. Vrai {{c:g}} Faux {{c:g}}"
+        }
+      ]
+    },
+    {
+      "page_no": 145,
+      "seq": 7,
+      "instruction_fr": "Complétez le texte par des termes appropriés.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. Barbara n'est pas contente. Elle a reçu son {{b}} de compte et elle a eu un choc."
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. Elle a {{b}} ses comptes pour tout vérifier,"
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. mais son compte courant est à {{b}},"
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. il est dans le {{b}} !"
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. Bien sûr, elle a mis de l'argent de {{b}},"
+        },
+        {
+          "seq": 6,
+          "type": "cloze",
+          "stem_html": "6. mais elle le réservait à un grand voyage. C'est raté ! Elle va devoir {{b}}"
+        },
+        {
+          "seq": 7,
+          "type": "cloze",
+          "stem_html": "7. son compte courant sinon le {{b}} restera négatif."
+        }
+      ]
+    },
+    {
+      "page_no": 145,
+      "seq": 8,
+      "instruction_fr": "Trouvez un synonyme aux termes soulignés.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. Blandine va prendre de l'argent au guichet automatique. {{b}}"
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. Zohra doit alimenter son compte courant. {{b}}"
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. Madeleine va mettre un chèque sur un compte d'épargne. {{b}}"
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. Avec ce compte, Madeleine touche des intérêts. {{b}}"
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. Le compte courant de Christophe est dans le rouge. {{b}}"
+        },
+        {
+          "seq": 6,
+          "type": "cloze",
+          "stem_html": "6. Je dois transférer une somme de mon compte d'épargne sur mon compte courant. {{b}}"
+        },
+        {
+          "seq": 7,
+          "type": "cloze",
+          "stem_html": "7. Veuillez composer votre code secret. {{b}}"
+        }
+      ]
+    },
+    {
+      "page_no": 147,
+      "seq": 9,
+      "instruction_fr": "Associez. Plusieurs solutions sont parfois possibles.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "assoc",
+          "stem_html": "1. Il doit de l'argent à quelqu'un, donc... → {{b}}"
+        },
+        {
+          "seq": 2,
+          "type": "assoc",
+          "stem_html": "2. Il a emprunté de l'argent, donc... → {{b}}"
+        },
+        {
+          "seq": 3,
+          "type": "assoc",
+          "stem_html": "3. Il rembourse son prêt, donc... → {{b}}"
+        },
+        {
+          "seq": 4,
+          "type": "assoc",
+          "stem_html": "4. Il manque d'argent, donc... → {{b}}"
+        },
+        {
+          "seq": 5,
+          "type": "assoc",
+          "stem_html": "5. Il change de l'argent, donc... → {{b}}"
+        },
+        {
+          "seq": 6,
+          "type": "assoc",
+          "stem_html": "6. Il achète à crédit, donc... → {{b}}"
+        },
+        {
+          "seq": 7,
+          "type": "assoc",
+          "stem_html": "7. Il rend de l'argent, donc... → {{b}}"
+        }
+      ]
+    },
+    {
+      "page_no": 147,
+      "seq": 10,
+      "instruction_fr": "La personne qui parle a-t-elle prêté ou emprunté quelque chose ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. « Tu peux garder mon dictionnaire jusqu'à vendredi. » → {{o:prêté|emprunté}}"
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. « J'ai presque fini de rembourser mon prêt. » → {{o:prêté|emprunté}}"
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. « Vous pouvez payer en trois fois, sans frais. » → {{o:prêté|emprunté}}"
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. « Je ne sais pas dire non à un ami qui manque d'argent. » → {{o:prêté|emprunté}}"
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. « Zut, je n'ai pas de stylo ! Vous auriez un stylo pour signer le chèque ? » → {{o:prêté|emprunté}}"
+        },
+        {
+          "seq": 6,
+          "type": "choice",
+          "stem_html": "6. « Mes mensualités sont un peu trop lourdes pour mon budget ! » → {{o:prêté|emprunté}}"
+        }
+      ]
+    },
+    {
+      "page_no": 147,
+      "seq": 11,
+      "instruction_fr": "Que vont faire ces personnes ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. Yaëlle et Antoine vont acheter un petit appartement, mais ils n'ont pas assez d'argent. →"
+        },
+        {
+          "seq": 2,
+          "type": "open",
+          "stem_html": "2. Yves est millionnaire et il va acheter une voiture, sans problème ! →"
+        },
+        {
+          "seq": 3,
+          "type": "open",
+          "stem_html": "3. Sylvain doit 500 euros à une amie. Heureusement, il a trouvé un travail et aura un bon salaire. →"
+        },
+        {
+          "seq": 4,
+          "type": "open",
+          "stem_html": "4. Augustin est banquier, il a devant lui des clients qui vont acheter une maison. →"
+        },
+        {
+          "seq": 5,
+          "type": "open",
+          "stem_html": "5. Serge n'arrête pas d'emprunter de l'argent, et il ne rembourse rien... →"
+        },
+        {
+          "seq": 6,
+          "type": "open",
+          "stem_html": "6. Colette a un peu d'argent de côté et elle sait que son neveu a besoin de 2 000 euros. →"
+        }
+      ]
+    },
+    {
+      "page_no": 147,
+      "seq": 12,
+      "instruction_fr": "Complétez par un terme approprié.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. Le yen est la {{b}} japonaise."
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. Paul a beaucoup emprunté, donc il a beaucoup de {{b}}."
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. Nous avons un {{b}} à la banque, pour 20 ans."
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. Quel est le {{b}} du franc suisse, aujourd'hui ?"
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. Il est important d'équilibrer le {{b}} de cette entreprise."
+        }
+      ]
+    },
+    {
+      "page_no": 149,
+      "seq": 13,
+      "instruction_fr": "Choisissez la ou les bonne(s) réponse(s).",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. On {{o:gagne|fait|roule}} de l'argent."
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. Ils {{o:touchent|héritent|reçoivent}} un salaire."
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. On paye des {{o:revenus|moyens|impôts}} à l'État."
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. Mon dentiste perçoit {{o:de l'argent de poche|des honoraires|des bénéfices}}."
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. On peut gagner {{o:un héritage|des impôts|sa vie}}."
+        },
+        {
+          "seq": 6,
+          "type": "choice",
+          "stem_html": "6. Il reçoit {{o:de l'argent de poche|un salaire|des moyens}}."
+        }
+      ]
+    },
+    {
+      "page_no": 149,
+      "seq": 14,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "tf",
+          "stem_html": "1. Elle jette l'argent par les fenêtres = elle est ruinée. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 2,
+          "type": "tf",
+          "stem_html": "2. Ils sont très riches = ils sont radins. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 3,
+          "type": "tf",
+          "stem_html": "3. Il ne roule pas sur l'or = il a des revenus modestes. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 4,
+          "type": "tf",
+          "stem_html": "4. Ils n'ont pas un sou = ils sont très dépensiers. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 5,
+          "type": "tf",
+          "stem_html": "5. Ils ont fait un héritage = ils ont partagé leur fortune. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 6,
+          "type": "tf",
+          "stem_html": "6. Elle est près de ses sous = elle n'a pas un sou. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 7,
+          "type": "tf",
+          "stem_html": "7. Il est très aisé = il est riche. Vrai {{c:g}} Faux {{c:g}}"
+        },
+        {
+          "seq": 8,
+          "type": "tf",
+          "stem_html": "8. Ils sont avares = ils détestent dépenser. Vrai {{c:g}} Faux {{c:g}}"
+        }
+      ]
+    },
+    {
+      "page_no": 149,
+      "seq": 15,
+      "instruction_fr": "Associez une situation et une explication.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "assoc",
+          "stem_html": "1. Elle achète sans arrêt des vêtements très chers qu'elle ne porte jamais. → {{b}}"
+        },
+        {
+          "seq": 2,
+          "type": "assoc",
+          "stem_html": "2. Quand ils ont un peu d'argent, ils le dépensent tout de suite. → {{b}}"
+        },
+        {
+          "seq": 3,
+          "type": "assoc",
+          "stem_html": "3. Ils n'ont pas de problèmes financiers, leur vie est facile. → {{b}}"
+        },
+        {
+          "seq": 4,
+          "type": "assoc",
+          "stem_html": "4. Laure gagne bien sa vie, mais elle trouve qu'une baguette est vraiment trop chère pour elle ! → {{b}}"
+        },
+        {
+          "seq": 5,
+          "type": "assoc",
+          "stem_html": "5. Ils sont tous les deux ouvriers, ils ont des revenus très modestes. → {{b}}"
+        },
+        {
+          "seq": 6,
+          "type": "assoc",
+          "stem_html": "6. Cet étudiant n'a vraiment pas beaucoup d'argent ! → {{b}}"
+        }
+      ]
+    },
+    {
+      "page_no": 149,
+      "seq": 16,
+      "instruction_fr": "À vous ! Parlez de votre pays/culture.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. Parle-t-on facilement de l'argent, de la richesse ? Pourquoi ?"
+        },
+        {
+          "seq": 2,
+          "type": "open",
+          "stem_html": "2. Quels sont les proverbes les plus couramment employés à propos de l'argent ?"
+        },
+        {
+          "seq": 3,
+          "type": "open",
+          "stem_html": "3. La richesse est-elle considérée comme une qualité ?"
+        },
+        {
+          "seq": 4,
+          "type": "open",
+          "stem_html": "4. Se moque-t-on des nouveaux riches ou des avares ? Pourquoi ?"
+        }
+      ]
+    }
+  ]
+}
