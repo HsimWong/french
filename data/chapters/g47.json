@@ -1,0 +1,112 @@
+{
+  "course": "grammaire",
+  "seq": 47,
+  "title_fr": "LE FUTUR SIMPLE",
+  "page_start": 224,
+  "page_end": 227,
+  "pdf_start": 226,
+  "pdf_end": 229,
+  "sections": [
+    { "title_fr": "UTILISATION", "page_no": 224 },
+    { "title_fr": "FORMATION", "page_no": 224 },
+    { "title_fr": "LE FUTUR SIMPLE <em>et</em> LE FUTUR PROCHE", "page_no": 226 },
+    { "title_fr": "CHANGEMENT <em>et</em> PROGRAMMATION", "page_no": 226 },
+    { "title_fr": "ORAL <em>et</em> ÉCRIT", "page_no": 226 }
+  ],
+  "blocks": [
+    { "page_no": 224, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">47</span> LE FUTUR SIMPLE" },
+    { "page_no": 224, "seq": 2, "type": "table", "body_html": "<table class='data-table'><tr><td>En 2051,</td><td>j'<br>tu<br>il<br>elle<br>on<br>nous<br>vous<br>ils<br>elles</td><td>habiterai<br><strong>habiteras</strong><br>parlera<br>parlera<br>parlera<br><strong>travaillerons</strong><br>passerez<br>voyageront<br>voyageront</td><td>sur Mars.<br>sur Vénus.<br>toutes les langues.<br>toutes les langues.<br>toutes les langues.<br>deux jours par semaine.<br>vos vacances sur Terre.<br>en voiture solaire.<br>en voiture solaire.</td></tr></table>" },
+    { "page_no": 224, "seq": 3, "type": "section_title", "body_html": "UTILISATION" },
+    { "page_no": 224, "seq": 4, "type": "para", "body_html": "<p class='bullet'>On utilise le futur simple pour faire des <strong>projets</strong> d'avenir ou des <strong>prévisions</strong> :</p><p class='sample'><em>Dans cinq ans, je <strong>prendrai</strong> ma retraite.</em><br><em>Quand je <strong>serai</strong> vieux, je <strong>vivrai</strong> à la campagne.</em><br><em>Demain, il <strong>pleuvra</strong> sur toute la France.</em></p>" },
+    { "page_no": 224, "seq": 5, "type": "section_title", "body_html": "FORMATION" },
+    { "page_no": 224, "seq": 6, "type": "para", "body_html": "<p>Infinitif + « <strong>-ai</strong> », « <strong>-as</strong> », « <strong>-a</strong> », « <strong>-ons</strong> », « <strong>-ez</strong> », « <strong>-ont</strong> »</p>" },
+    { "page_no": 224, "seq": 7, "type": "table", "body_html": "<table class='data-table'><tr><td>PARLER</td><td><em>Je <strong>parler-ai</strong><br>Tu <strong>parler-as</strong><br>Il <strong>parler-a</strong></em></td><td><em>Nous <strong>parler-ons</strong><br>Vous <strong>parler-ez</strong><br>Ils <strong>parler-ont</strong></em></td><td>♪ Le son « r »<br>est caractéristique<br>du futur simple.</td></tr></table>" },
+    { "page_no": 224, "seq": 8, "type": "warning", "body_html": "<strong>•</strong> Pour les infinitifs terminés par « <strong>-e</strong> », on supprime le « e » :<br>BOIRE : <em>Je <strong>boir-ai</strong></em> &nbsp;&nbsp;&nbsp;DIRE : <em>Je <strong>dir-ai</strong></em> &nbsp;&nbsp;&nbsp;METTRE : <em>Je <strong>mettr-ai</strong></em><br><br><strong>•</strong> Verbes irréguliers :<br>ÊTRE : <em>Je <strong>serai</strong></em> &nbsp;&nbsp;&nbsp;FAIRE : <em>Je <strong>ferai</strong></em> &nbsp;&nbsp;&nbsp;DEVOIR : <em>Je <strong>devrai</strong></em><br>AVOIR : <em>J'<strong>aurai</strong></em> &nbsp;&nbsp;&nbsp;ALLER : <em>J'<strong>irai</strong></em> &nbsp;&nbsp;&nbsp;VENIR : <em>Je <strong>viendrai</strong></em><br>VOIR : <em>Je <strong>verrai</strong></em> &nbsp;&nbsp;&nbsp;ENVOYER : <em>J'<strong>enverrai</strong></em> &nbsp;&nbsp;&nbsp;RECEVOIR : <em>Je <strong>recevrai</strong></em><br>POUVOIR : <em>Je <strong>pourrai</strong></em> &nbsp;&nbsp;&nbsp;SAVOIR : <em>Je <strong>saurai</strong></em> &nbsp;&nbsp;&nbsp;COURIR : <em>Je <strong>courrai</strong></em><br>IL Y A : <em>Il y <strong>aura</strong></em> &nbsp;&nbsp;&nbsp;IL FAUT : <em>Il <strong>faudra</strong></em> &nbsp;&nbsp;&nbsp;IL PLEUT : <em>Il <strong>pleuvra</strong></em>" },
+
+    { "page_no": 226, "seq": 9, "type": "section_title", "body_html": "LE FUTUR SIMPLE <em>et</em> LE FUTUR PROCHE" },
+    { "page_no": 226, "seq": 10, "type": "keypoint", "body_html": "– Je <strong>vais partir</strong> et je vous <strong>enverrai</strong> mon adresse.<br>– Quand vous <strong>viendrez</strong> me voir, on <strong>ira</strong> pêcher la truite !" },
+    { "page_no": 226, "seq": 11, "type": "section_title", "body_html": "CHANGEMENT <em>et</em> PROGRAMMATION" },
+    { "page_no": 226, "seq": 12, "type": "para", "body_html": "<p>• Le futur proche indique en général un <strong>changement</strong> à venir :</p><p class='sample'><em>Je <strong>vais avoir</strong> un bébé.</em></p>" },
+    { "page_no": 226, "seq": 13, "type": "para", "body_html": "<p>• Le futur simple indique en général une <strong>programmation</strong> :</p><p class='sample'><em>J'<strong>aurai</strong> des enfants.</em></p>" },
+    { "page_no": 226, "seq": 14, "type": "para", "body_html": "<p>• On utilise souvent le futur proche pour les changements et le futur simple pour leurs conséquences :</p><p class='sample'><em>On <strong>va recevoir</strong> de nouveaux ordinateurs.</em><br><em>On <strong>pourra</strong> traiter plus de dossiers.</em><br><em>On <strong>gagnera</strong> du temps, on <strong>sera</strong> plus compétitifs.</em></p>" },
+    { "page_no": 226, "seq": 15, "type": "section_title", "body_html": "ORAL <em>et</em> ÉCRIT" },
+    { "page_no": 226, "seq": 16, "type": "para", "body_html": "<p>• On utilise de préférence le futur proche à l'oral (plus dynamique) et le futur simple à l'écrit (plus « économique » en mots).</p><table class='data-table'><tr><td>Oral :</td><td>Écrit :</td></tr><tr><td><em>Vous allez voir sur cet écran…</em><br><em>Vous allez être surpris…</em></td><td><em>Vous verrez dans ce document…</em><br><em>Vous serez surpris…</em></td></tr></table>" },
+    { "page_no": 226, "seq": 17, "type": "para", "body_html": "<p>• Après « <strong>quand</strong> », « <strong>pendant que</strong> », « <strong>j'espère que</strong> » et, d'une manière générale, quand on enchaîne plusieurs phrases, on utilise le futur simple :</p><p class='sample'><em><strong>Quand</strong> je partirai à la gare, tu rentreras à la maison.</em><br><em><strong>Pendant que</strong> les enfants feront leurs devoirs, Marion préparera le repas.</em><br><em><strong>J'espère que</strong> tout se passera bien.</em></p>" },
+    { "page_no": 226, "seq": 18, "type": "para", "body_html": "<p>• On utilise le futur simple avec une hypothèse sur le futur :</p><p class='sample'><em>S'il fait beau, nous <strong>irons</strong> à la plage.</em><br><em>S'il pleut, nous <strong>resterons</strong> à la maison.</em></p>" },
+    { "page_no": 226, "seq": 19, "type": "xref", "body_html": "Hypothèse sur le futur, p. 232" }
+  ],
+  "exercises": [
+    {
+      "page_no": 225, "seq": 1,
+      "instruction_fr": "Mettez au futur, en complétant librement le texte.",
+      "label": "", "note_html": "Actuellement je travaille en France, mais plus tard, je travaillerai à l'étranger.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Maintenant, j'habite dans un petit studio,<br>mais un jour, {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Actuellement, je n'ai pas beaucoup d'argent,<br>mais plus tard, {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. En ce moment, je vais à l'université en bus,<br>mais plus tard, {{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Maintenant, je fais beaucoup de fautes de français,<br>mais un jour, {{L}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Actuellement, je ne suis pas bilingue,<br>mais un jour, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 225, "seq": 2,
+      "instruction_fr": "Complétez le texte avec les futurs manquants.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Samedi prochain, il <em>pleuvra</em>, il {{L}} froid et il {{L}} du brouillard,<br>Il {{L}} faire attention sur la route quand vous {{L}} en week-end." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Les magasins {{L}} ouverts la veille de Noël et nous {{L}} des achats.<br>Le 1<sup>er</sup> janvier, nous {{L}} de la dinde et du saumon et nous {{L}} du champagne." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Quand nous {{L}} en vacances, nous {{L}} des cartes postales à nos grands-parents.<br>– C'est gentil : ça leur {{L}} plaisir." }
+      ]
+    },
+    {
+      "page_no": 225, "seq": 3,
+      "instruction_fr": "Mettez les prévisions de madame Soleil au futur simple. Continuez librement.",
+      "label": "En 2080", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Les gens habitent tous à la campagne. Les villes sont presque vides. Tout le monde a une maison individuelle avec des robots. On ne voyage plus : on voit ses amis sur des écrans, chez soi. Les étudiants ne vont plus à l'université, ils travaillent sur Internet. Il n'y a plus de maladies génétiques. Les gens sont grands, minces et en bonne santé. Ils vivent en moyenne cent dix ans. Il fait très chaud et il pleut beaucoup. On va faire du ski sur d'autres planètes.<br><em>En 2080, les gens habiteront tous à la campagne,</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 225, "seq": 4,
+      "instruction_fr": "Faites vos propres prévisions pour 2080.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 227, "seq": 5,
+      "instruction_fr": "Mettez au futur proche et au futur simple, selon le modèle.",
+      "label": "", "note_html": "Déménager/envoyer sa nouvelle adresse à ses amis. — Je vais déménager et j'enverrai ma nouvelle adresse à mes amis.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "2. Aménager la terrasse/pouvoir dîner dehors<br>Nous {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "3. Changer de quartier/aller au lycée à pied<br>On {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "4. Prendre une aspirine/se sentir mieux<br>Tu {{L}}" }
+      ]
+    },
+    {
+      "page_no": 227, "seq": 6,
+      "instruction_fr": "Écrivez un texte au futur simple, selon le modèle. partir en Crète / visiter Cnossos / dormir à Matala / manger du yaourt et du miel / lire des livres de Kazantzakis / écouter des chansons d'Alexiou / aller à Aghios Nicolaos",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "<em>En juin, quand je partirai en Crète,</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 227, "seq": 7,
+      "instruction_fr": "Faites des phrases, selon le modèle. Jean : Préparer le petit déjeuner / Faire la vaisselle / Faire les valises / Charger la voiture. Marie : Faire le lit / Ranger le salon / Préparer des sandwiches / Habiller les enfants.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "<em>Samedi matin, pendant que Jean préparera le petit déjeuner, Marie fera le lit. Ensuite, Jean</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 227, "seq": 8,
+      "instruction_fr": "Mettez les verbes au futur pour reconstituer la chanson de Mouloudji (Van Parys/Mouloudji).",
+      "label": "« Un jour, tu verras »", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Un jour, tu {{b}} &nbsp;&nbsp;&nbsp; <em>voir</em><br>On {{b}} &nbsp;&nbsp;&nbsp; <em>se rencontrer</em><br>Quelque part, n'importe où,<br>Guidés par le hasard,<br>Nous {{b}} &nbsp;&nbsp;&nbsp; <em>se regarder</em><br>Nous {{b}} &nbsp;&nbsp;&nbsp; <em>se reconnaître</em><br>Et la main, dans la main,<br>Dans les rues, nous {{b}} &nbsp;&nbsp;&nbsp; <em>aller</em>" }
+      ]
+    }
+  ]
+}
