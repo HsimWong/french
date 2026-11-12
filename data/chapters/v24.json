@@ -1,0 +1,874 @@
+{
+  "course": "vocabulaire",
+  "seq": 24,
+  "title_fr": "DÉBATS ET OPINIONS",
+  "page_start": 162,
+  "page_end": 167,
+  "pdf_start": 164,
+  "pdf_end": 169,
+  "sections": [
+    {
+      "title_fr": "LA CONVERSATION ET LE DÉBAT",
+      "page_no": 162
+    },
+    {
+      "title_fr": "LES RÉACTIONS",
+      "page_no": 162
+    },
+    {
+      "title_fr": "UNE RÉUNION",
+      "page_no": 164
+    },
+    {
+      "title_fr": "DONNER SON OPINION",
+      "page_no": 164
+    },
+    {
+      "title_fr": "COMPLIMENTS ET CRITIQUES",
+      "page_no": 166
+    },
+    {
+      "title_fr": "PROTESTER",
+      "page_no": 166
+    },
+    {
+      "title_fr": "LE CONFLIT",
+      "page_no": 166
+    }
+  ],
+  "blocks": [
+    {
+      "page_no": 162,
+      "seq": 1,
+      "type": "chapter_title",
+      "body_html": "<span class='ch-no'>24</span> DÉBATS ET OPINIONS"
+    },
+    {
+      "page_no": 162,
+      "seq": 2,
+      "type": "section_title",
+      "body_html": "LA CONVERSATION ET LE DÉBAT"
+    },
+    {
+      "page_no": 162,
+      "seq": 3,
+      "type": "list",
+      "body_html": "<div class='bullet'>J'aime bien bavarder avec mes voisins ; nous parlons « de tout et de rien » (= la conversation est superficielle mais agréable).</div>"
+    },
+    {
+      "page_no": 162,
+      "seq": 4,
+      "type": "list",
+      "body_html": "<div class='bullet'>Pendant le dîner, nous avons eu une longue conversation sur le cinéma = nous avons parlé de cinéma. Nous avons passé la soirée à discuter de cinéma avec nos amis. La discussion a été vive et intéressante ! Bien sûr, ce n'était pas le seul sujet de conversation. Agathe, elle, ne disait rien, elle se taisait, elle restait silencieuse = elle n'ouvrait pas la bouche !</div>"
+    },
+    {
+      "page_no": 162,
+      "seq": 5,
+      "type": "list",
+      "body_html": "<div class='bullet'>Gabriel a eu un entretien avec le directeur des ressources humaines. C'était un entretien d'embauche : Gabriel cherche du travail et espère être recruté par l'entreprise.</div>"
+    },
+    {
+      "page_no": 162,
+      "seq": 6,
+      "type": "list",
+      "body_html": "<div class='bullet'>La vedette de cinéma a donné une interview à un grand journal. Elle a été interviewée par un journaliste.</div>"
+    },
+    {
+      "page_no": 162,
+      "seq": 7,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarque.</span> <i>Le terme « interview » s'emploie toujours dans le contexte médiatique. « As-tu vu l'interview du maire de notre village à la télévision ? »</i>"
+    },
+    {
+      "page_no": 162,
+      "seq": 8,
+      "type": "list",
+      "body_html": "<div class='bullet'>Les Français aiment beaucoup débattre, confronter des opinions différentes. On organise de nombreux débats à la télévision ou à la radio, sur des sujets controversés, sur la politique par exemple.</div>"
+    },
+    {
+      "page_no": 162,
+      "seq": 9,
+      "type": "list",
+      "body_html": "<div class='bullet'>Un proverbe dit : « le silence est d'or, la parole est d'argent ». Ce dicton ne correspond pas vraiment à la réputation des Français, qui, en général, aiment parler !</div>"
+    },
+    {
+      "page_no": 162,
+      "seq": 10,
+      "type": "section_title",
+      "body_html": "LES RÉACTIONS"
+    },
+    {
+      "page_no": 162,
+      "seq": 11,
+      "type": "list",
+      "body_html": "<div class='bullet'>Tu sais, Blaise va partir au Brésil pendant trois ans !<br>– Ça alors ! Ce n'est pas possible ! <i>(expression de la surprise)</i><br>– Tu plaisantes ! Ce n'est pas vrai ! C'est incroyable ! <i>(incrédulité)</i><br>– Pardon ? Comment ? Qu'est-ce que tu dis / vous dites ? Excusez-moi, je n'ai pas bien entendu. Vous pouvez répéter, s'il vous plaît ? <i>(on n'a pas compris et/ou entendu)</i><br>– Ah bon ? <i>(selon l'intonation = indifférence ou surprise)</i></div>"
+    },
+    {
+      "page_no": 164,
+      "seq": 12,
+      "type": "running_head",
+      "body_html": "DÉBATS ET OPINIONS"
+    },
+    {
+      "page_no": 164,
+      "seq": 13,
+      "type": "section_title",
+      "body_html": "UNE RÉUNION"
+    },
+    {
+      "page_no": 164,
+      "seq": 14,
+      "type": "list",
+      "body_html": "<div class='bullet'>Laurent organise une réunion dans son entreprise avec des collègues. Tous doivent participer à la réunion. Laurent envoie l'ordre du jour (= les sujets) par mail. Les participants vont discuter de ces sujets.</div>"
+    },
+    {
+      "page_no": 164,
+      "seq": 15,
+      "type": "list",
+      "body_html": "<div class='bullet'>C'est Samia qui parle : elle a la parole. Mais Léa lève la main : elle voudrait intervenir = elle voudrait prendre la parole. Elle demande la parole. Laurent, qui anime la réunion, donne la parole à Léa. Brice prend la parole pendant que Léa parle = Brice interrompt Léa = il coupe la parole à Léa.</div>"
+    },
+    {
+      "page_no": 164,
+      "seq": 16,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarque culturelle.</span> <i>Couper la parole à quelqu'un n'est pas poli. On s'excuse, en général : « Excusez-moi, je vous ai interrompu, je vous ai coupé la parole. » Pourtant, dans les débats télévisés, il est très fréquent que tout le monde parle en même temps !</i>"
+    },
+    {
+      "page_no": 164,
+      "seq": 17,
+      "type": "section_title",
+      "body_html": "DONNER SON OPINION"
+    },
+    {
+      "page_no": 164,
+      "seq": 18,
+      "type": "list",
+      "body_html": "<div class='bullet'>Pendant une réunion, on demande l'opinion des autres, on donne = exprime sa propre opinion. Chaque participant donne son avis / expose son point de vue.</div>"
+    },
+    {
+      "page_no": 164,
+      "seq": 19,
+      "type": "list",
+      "body_html": "<div class='bullet'>LAURENT : Dis-moi, Léa, je voudrais connaître / avoir ton point de vue sur cette question.<br>LÉA : Notre problème, c'est que nous ne faisons pas assez de bénéfices, c'est bien cela / n'est-ce pas ?<br>LAURENT : Oui, c'est bien ça. À ton avis, que pouvons-nous faire ?<br>LÉA : Je crois que nos prix de vente sont trop bas. Je pense que nous devons les augmenter. C'est la seule solution, non ?<br>SAMIA : Tu as raison, je suis d'accord avec toi = je suis de ton avis.<br>BRICE : Ah non ! Je ne partage pas votre opinion, je ne suis pas du tout d'accord avec vous. On ne peut pas augmenter les prix, ce serait de la folie ! Je suis certain(e) que si nous augmentons nos prix, nous perdrons des clients.<br>LAURENT : D'après toi, que faut-il faire ?<br>BRICE : Vous ne croyez pas qu'il faudrait plutôt diminuer nos dépenses ?</div>"
+    },
+    {
+      "page_no": 166,
+      "seq": 20,
+      "type": "running_head",
+      "body_html": "DÉBATS ET OPINIONS"
+    },
+    {
+      "page_no": 166,
+      "seq": 21,
+      "type": "section_title",
+      "body_html": "COMPLIMENTS ET CRITIQUES"
+    },
+    {
+      "page_no": 166,
+      "seq": 22,
+      "type": "list",
+      "body_html": "<div class='bullet'>Éric me fait des compliments sur mon travail. J'ai eu / reçu beaucoup de compliments sur mon travail : « Bravo ! C'est vraiment bien ! Tu as fait du très bon travail ! Je te félicite ! »</div>"
+    },
+    {
+      "page_no": 166,
+      "seq": 23,
+      "type": "list",
+      "body_html": "<div class='bullet'>Au contraire, Agnès me fait toujours des critiques : elle critique mon travail, elle n'est jamais contente : « Franchement, je ne comprends pas pourquoi tu as présenté ce document ainsi. Ça ne va pas. Ce n'est pas clair, on n'y comprend rien ! »</div>"
+    },
+    {
+      "page_no": 166,
+      "seq": 24,
+      "type": "list",
+      "body_html": "<div class='bullet'>Éric dit du bien (≠ du mal) de sa collègue.</div>"
+    },
+    {
+      "page_no": 166,
+      "seq": 25,
+      "type": "list",
+      "body_html": "<div class='bullet'>Denise me fait toujours des reproches : « Tu n'aurais pas dû écrire ce courrier ! Tu aurais dû me demander mon avis avant ! » Elle reproche à ses collègues de ne pas bien travailler. C'est pénible !</div>"
+    },
+    {
+      "page_no": 166,
+      "seq": 26,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarques.</span> <i>1. Une « critique » est plutôt intellectuelle et rationnelle ; un « reproche » est plutôt moral et subjectif. 2. D'habitude, les Français ne font pas beaucoup de compliments. Quand ils en font, c'est généralement sincère.</i>"
+    },
+    {
+      "page_no": 166,
+      "seq": 27,
+      "type": "section_title",
+      "body_html": "PROTESTER"
+    },
+    {
+      "page_no": 166,
+      "seq": 28,
+      "type": "list",
+      "body_html": "<div class='bullet'>Quand il y a une erreur, on se plaint : « Il y a une erreur sur ma facture de téléphone ; elle indique 268 €, mais ce n'est pas ça, le montant n'est pas correct. C'est 68 €, en réalité. Vous vous êtes trompé(e) de montant. »</div>"
+    },
+    {
+      "page_no": 166,
+      "seq": 29,
+      "type": "list",
+      "body_html": "<div class='bullet'>Les entreprises ont généralement un service spécialisé dans les réclamations (= les contestations, les plaintes). Le client mécontent peut aussi contacter le service après-vente.</div>"
+    },
+    {
+      "page_no": 166,
+      "seq": 30,
+      "type": "list",
+      "body_html": "<div class='bullet'>Si on est accusé, on peut se défendre : « Je n'ai jamais dit que ce projet était idiot ! Ce n'est pas vrai ! Ce sont des mensonges ! » Cet homme conteste les accusations.</div>"
+    },
+    {
+      "page_no": 166,
+      "seq": 31,
+      "type": "section_title",
+      "body_html": "LE CONFLIT"
+    },
+    {
+      "page_no": 166,
+      "seq": 32,
+      "type": "list",
+      "body_html": "<div class='bullet'>Si les opinions sont trop différentes ou s'il y a trop d'émotion, on se dispute. La dispute est plus ou moins violente. Parfois, elle aboutit à une rupture.</div>"
+    },
+    {
+      "page_no": 166,
+      "seq": 33,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarque.</span> <i>Le mot « conflit » s'emploie aussi bien au niveau personnel (« Bruno et Denis sont en conflit ») que politique (« les deux pays sont en conflit du point de vue économique ») ou militaire (« un conflit armé »).</i>"
+    },
+    {
+      "page_no": 166,
+      "seq": 34,
+      "type": "list",
+      "body_html": "<div class='bullet'>Malheureusement, on est parfois victime d'une injustice : on proteste contre une injustice. Si la protestation est publique, c'est une manifestation : les manifestants vont dans la rue pour manifester.</div>"
+    }
+  ],
+  "exercises": [
+    {
+      "page_no": 163,
+      "seq": 1,
+      "instruction_fr": "Choisissez la bonne réponse.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. Amandine a eu {{o:une interview|un entretien}} avec le directeur des ressources humaines.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. En général, j'aime bien écouter les {{o:débats|conversations}} politiques à la radio.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. Zohra va quitter son mari. – Ça alors ! Ce n'est pas {{o:incroyable|possible}} !",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. Oscar n'a rien {{o:dit|parlé}}, il s'est tu, il n'a pas {{o:fermé|ouvert}} la bouche !",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. Est-ce que vous pouvez {{o:répéter|discuter}} le nom, s'il vous plaît ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "choice",
+          "stem_html": "6. Benoît et Louise vont se marier ! – Ça {{o:bon|alors}} ! Quelle surprise !",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 7,
+          "type": "choice",
+          "stem_html": "7. Comme dit le proverbe, {{o:le silence|la parole}} est d'or !",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 163,
+      "seq": 2,
+      "instruction_fr": "Répondez aux questions.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. Vous avez parlé de politique ? – Oui, nous avons eu une bonne {{b}} sur la politique.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. Est-ce que l'acteur est passé à la télévision ? – Oui, il a donné {{b}}.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. Vous avez parlé, pendant la réunion ? – Non, au contraire, je {{b}}.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. Vous regardez les débats à la télévision ? – Oui, j'aime bien quand les gens {{b}} de différents sujets.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. Votre fille a trouvé un travail ? – Peut-être ! Elle a eu un {{b}} d'embauche ce matin.",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 163,
+      "seq": 3,
+      "instruction_fr": "Que font-ils ? Pouvez-vous imaginer ce qu'ils disent ?",
+      "label": "",
+      "note_html": "",
+      "has_image": true,
+      "scan_pages": [
+        163
+      ],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. Que font-ils ?",
+          "has_image": true,
+          "scan_pages": [
+            163
+          ]
+        },
+        {
+          "seq": 2,
+          "type": "open",
+          "stem_html": "2. Que font-ils ?",
+          "has_image": true,
+          "scan_pages": [
+            163
+          ]
+        },
+        {
+          "seq": 3,
+          "type": "open",
+          "stem_html": "3. Que font-ils ?",
+          "has_image": true,
+          "scan_pages": [
+            163
+          ]
+        }
+      ]
+    },
+    {
+      "page_no": 163,
+      "seq": 4,
+      "instruction_fr": "À vous ! Parlez de votre culture.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. Quelle place tient la conversation dans un dîner amical ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "open",
+          "stem_html": "2. Les débats sont-ils courants dans les médias ? Comment se passent-ils ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "open",
+          "stem_html": "3. Existe-t-il des proverbes sur le silence et la parole ? Si oui, que disent-ils ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "open",
+          "stem_html": "4. Est-il courant, entre amis, de confronter des opinions différentes ?",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 165,
+      "seq": 5,
+      "instruction_fr": "Choisissez les termes possibles.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. Je donne {{o:la parole|mon opinion|une conversation|une réunion}}.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. Il voudrait {{o:interrompre|connaître|avoir|conseiller}} ton point de vue sur la situation.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. Vous {{o:partagez|croyez|exprimez|pensez}} que c'est possible ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. Nous sommes {{o:la parole|de votre avis|votre opinion|d'accord}}.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. Elle {{o:exprime|prend|organise|anime}} une réunion.",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 165,
+      "seq": 6,
+      "instruction_fr": "Associez pour constituer une phrase complète.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "assoc",
+          "stem_html": "1. J'aimerais connaître → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "assoc",
+          "stem_html": "2. Il m'a encore coupé → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "assoc",
+          "stem_html": "3. Je ne suis pas d'accord → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "assoc",
+          "stem_html": "4. Nous devons organiser → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "assoc",
+          "stem_html": "5. Tu as → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "assoc",
+          "stem_html": "6. Il faut envoyer → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 165,
+      "seq": 7,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "tf",
+          "stem_html": "1. Adèle intervient dans la réunion = elle donne la parole à quelqu'un. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "tf",
+          "stem_html": "2. Je partage votre opinion = je suis du même avis que vous. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "tf",
+          "stem_html": "3. Christophe me coupe la parole = Christophe est d'accord avec moi. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "tf",
+          "stem_html": "4. Vous avez raison = vous exposez votre point de vue. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "tf",
+          "stem_html": "5. Judith coupe la parole à Chloé = Judith interrompt Chloé. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "tf",
+          "stem_html": "6. Je ne connais pas l'ordre du jour = je ne connais pas ton point de vue. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 7,
+          "type": "tf",
+          "stem_html": "7. Zoé anime la réunion = Zoé donne la parole aux participants. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 165,
+      "seq": 8,
+      "instruction_fr": "Complétez.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. Si Véronique parle, elle {{b}} la parole.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. Si nous interrompons Véronique, nous lui {{b}} la parole.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. Madeleine n'est pas {{b}} avec Véronique : elles n'{{b}} pas le même point de vue sur la question.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. Dans ce débat, c'est désagréable, tout le monde {{b}} en même temps !",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. Frédéric anime la réunion, c'est lui qui {{b}} la parole aux participants.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "cloze",
+          "stem_html": "6. {{b}} vous, quelle est la meilleure solution ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 7,
+          "type": "cloze",
+          "stem_html": "7. Tu sais qui {{b}} à la réunion ? – Non, je ne connais pas les {{b}}.",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 165,
+      "seq": 9,
+      "instruction_fr": "Vous avez l'intention de célébrer l'anniversaire d'un(e) ami(e).",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. Vous avez l'intention de célébrer l'anniversaire d'un(e) ami(e). Vous discutez avec quelques personnes des différentes possibilités et chacun donne son point de vue et ses idées. Faites le dialogue.",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 167,
+      "seq": 10,
+      "instruction_fr": "Trouvez le nom correspondant aux verbes suivants.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. Manifester : {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. Se plaindre : {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. Critiquer : {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. Protester : {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. Se disputer : {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "cloze",
+          "stem_html": "6. Reprocher : {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 167,
+      "seq": 11,
+      "instruction_fr": "Choisissez les termes possibles.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. On lui fait des {{o:compliments|accusations|reproches|critiques}}.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. Cette entreprise a reçu beaucoup de {{o:plaintes|réclamations|ruptures|manifestations}}.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. Il y a une erreur sur l'addition, ce n'est pas {{o:ça|correct|mécontent|mal}}.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. Je dis {{o:des disputes|du bien|du mal|une plainte}} de ma voisine.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. Il n'est pas agréable de recevoir des {{o:plaintes|disputes|critiques|reproches}}.",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 167,
+      "seq": 12,
+      "instruction_fr": "Choisissez la bonne explication.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. « Non, l'addition est fausse, cela ne fait pas 47 € ! » {{o:Il se plaint.|Il est accusé.}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. « Non à la réforme ! » {{o:Ils manifestent.|Ils se disputent.}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. « Non, ce n'est pas vrai, je n'ai jamais dit ça ! » {{o:Elle fait un reproche.|Elle se défend.}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. « Vous n'auriez pas dû lui téléphoner ! » {{o:Il fait une critique.|Il fait un reproche.}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. « C'est vous qui avez volé mon portefeuille ! » {{o:Il accuse.|Il proteste.}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "choice",
+          "stem_html": "6. « Votre travail est excellent ! » {{o:Elle fait un compliment.|Elle se plaint.}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 7,
+          "type": "choice",
+          "stem_html": "7. « Cet appareil ne marche pas ! » {{o:Il manifeste.|Il est mécontent.}}",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 167,
+      "seq": 13,
+      "instruction_fr": "À vous ! Parlez de votre culture.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. Les manifestations sont-elles fréquentes ? Dans quel contexte ont-elles lieu ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "open",
+          "stem_html": "2. Dans quelles situations est-il courant de faire des compliments ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "open",
+          "stem_html": "3. Dans le contexte professionnel, comment fait-on des critiques ? Sont-elles directes ou plutôt diplomatiques ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "open",
+          "stem_html": "4. Vous-même, comment faites-vous des reproches ou des critiques ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "open",
+          "stem_html": "5. Faites-vous volontiers des compliments ? Dans quelles circonstances ?",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    }
+  ]
+}
