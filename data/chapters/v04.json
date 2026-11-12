@@ -1,0 +1,160 @@
+{
+  "course": "vocabulaire",
+  "seq": 4,
+  "title_fr": "LE CARACTÈRE – LA PERSONNALITÉ",
+  "page_start": 24,
+  "page_end": 27,
+  "pdf_start": 26,
+  "pdf_end": 29,
+  "sections": [
+    { "title_fr": "LES FORMULES ESSENTIELLES", "page_no": 24 },
+    { "title_fr": "QUELQUES TRAITS DE CARACTÈRE", "page_no": 26 },
+    { "title_fr": "QUELQUES COMPARAISONS IMAGÉES", "page_no": 26 }
+  ],
+  "blocks": [
+    { "page_no": 24, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">4</span> LE CARACTÈRE – LA PERSONNALITÉ" },
+    { "page_no": 24, "seq": 2, "type": "section_title", "body_html": "LES FORMULES ESSENTIELLES" },
+    { "page_no": 24, "seq": 3, "type": "list", "body_html": "<div class='bullet'><b>être + adjectif qualificatif</b><br>Ronan est assez sympa, <b>plutôt</b> nerveux, et il n'est <b>absolument pas</b> intelligent !<br>Léo est distrait <b>comme tout*</b> (= vraiment très distrait).</div>" },
+    { "page_no": 24, "seq": 4, "type": "list", "body_html": "<div class='bullet'><b>être d'un(e) + nom</b> (et parfois adjectif)<br>Sylvain est d'une méchanceté extraordinaire ! Benoît est d'une grande timidité.</div>" },
+    { "page_no": 24, "seq": 5, "type": "list", "body_html": "<div class='bullet'><b>c'est quelqu'un de + adjectif qualificatif</b><br><i>Attention à cette structure idiomatique, où l'adjectif est accordé au masculin.</i><br>Tu connais Michèle ? C'est quelqu'un de <b>vraiment</b> généreux et compétent.</div>" },
+    { "page_no": 24, "seq": 6, "type": "list", "body_html": "<div class='bullet'><b>avoir + nom</b><br>Christine a de la patience et de la persévérance. Dominique a une forte personnalité. Adrienne a bon (≠ mauvais) caractère et elle a le sens de l'humour.</div>" },
+    { "page_no": 24, "seq": 7, "type": "list", "body_html": "<div class='bullet'><b>manquer de + nom</b> (sans article)<br>Sylvie manque de courage (= elle n'est pas très courageuse). Victor <b>ne manque pas d'</b>intelligence (= il est intelligent).</div>" },
+    { "page_no": 24, "seq": 8, "type": "subhead", "body_html": "La forme négative" },
+    { "page_no": 24, "seq": 9, "type": "para", "body_html": "Les Français emploient très souvent la forme négative. Cela permet des nuances intéressantes, en particulier pour décrire une personnalité.<br>Laurent <b>n'est pas prudent du tout</b> (= il est très imprudent). Ariel ne manque pas de générosité (= il est généreux).<br>Observez :<br>Il est antipathique > il n'est pas sympathique du tout > il n'est pas antipathique = il est assez sympathique < il est sympathique < il est vraiment / très sympathique." },
+    { "page_no": 24, "seq": 10, "type": "subhead", "body_html": "Les termes emphatiques" },
+    { "page_no": 24, "seq": 11, "type": "para", "body_html": "Ils sont caractéristiques de la langue orale et familière. Ils peuvent être positifs ou négatifs, mais ils sont toujours vagues, imprécis.<br>Renaud est… merveilleux, exceptionnel, fantastique, extraordinaire, formidable… Il est chouette*, super*, génial*, très cool*…<br>Marcel est horrible, affreux, détestable, odieux…" },
+    { "page_no": 24, "seq": 12, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Pour ces adjectifs emphatiques, on ne dit pas : « il est <s>très</s> merveilleux / horrible », mais « il est <b>vraiment</b> merveilleux / horrible »…</i>" },
+
+    { "page_no": 26, "seq": 13, "type": "running_head", "body_html": "LE CARACTÈRE – LA PERSONNALITÉ" },
+    { "page_no": 26, "seq": 14, "type": "section_title", "body_html": "QUELQUES TRAITS DE CARACTÈRE" },
+    { "page_no": 26, "seq": 15, "type": "para", "body_html": "Pour décrire <b>les traits de caractère, les qualités et les défauts</b> humains, on peut employer des adjectifs et des noms (<i>voir page précédente</i>) ou utiliser une phrase descriptive." },
+    { "page_no": 26, "seq": 16, "type": "list", "body_html": "<div class='bullet'><b>Blaise est chef de produit</b> dans une grande entreprise. Il a <b>le sens du contact humain</b> et <b>aime travailler en équipe</b>. Il est, bien sûr, <b>dynamique</b> (≠ mou), <b>travailleur</b> (≠ paresseux) et <b>bien organisé</b>. Comme il sait écouter et parler, il est <b>convaincant</b> et a <b>le sens de la négociation</b>. Il est <b>ambitieux</b> et fait son possible pour obtenir une promotion.</div>" },
+    { "page_no": 26, "seq": 17, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Le terme « ambitieux » est délicat à utiliser. Il peut être positif, surtout quand on parle d'un « projet ambitieux ». Mais l'adjectif est souvent négatif : « Paul est ambitieux » signifie : « il est dur, prêt à tout pour sa carrière… »</i>" },
+    { "page_no": 26, "seq": 18, "type": "list", "body_html": "<div class='bullet'><b>Renaud est comptable</b>, il aime donc les chiffres. Il travaille avec <b>méthode</b> et <b>rigueur</b>, il est <b>méthodique</b> et <b>rigoureux</b>. <b>Le calme</b> constitue sa grande qualité, car dans ce métier, on ne doit pas être <b>nerveux ni impulsif</b>. <b>L'honnêteté</b> (≠ <b>malhonnêteté</b>), intellectuelle et financière, est évidemment indispensable !</div>" },
+    { "page_no": 26, "seq": 19, "type": "list", "body_html": "<div class='bullet'><b>Adèle est institutrice.</b> Elle <b>adore le contact avec les enfants</b>, elle est <b>douce</b> et <b>d'une grande patience</b>. Elle <b>a de l'autorité sans être autoritaire</b>. Souvent, elle est <b>drôle</b>, elle fait rire les enfants. De plus, elle est <b>expressive</b> : on lit les émotions sur son visage.</div>" },
+    { "page_no": 26, "seq": 20, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>« Avoir de l'autorité » est positif. « Être autoritaire » est négatif.</i>" },
+    { "page_no": 26, "seq": 21, "type": "list", "body_html": "<div class='bullet'><b>Bénédicte est couturière</b> dans une célèbre maison de couture. Très <b>équilibrée</b>, elle reste toujours <b>calme</b>, même dans les moments de stress. Bien sûr, elle est <b>d'une adresse exceptionnelle</b>, elle est <b>très adroite</b> (≠ <b>maladroite</b>) de ses mains. Elle travaille avec <b>précision</b> et <b>attention</b>. Elle met <b>beaucoup de soin dans son travail</b> : elle est très <b>soigneuse</b>.</div>" },
+    { "page_no": 26, "seq": 22, "type": "list", "body_html": "<div class='bullet'><b>Laurent est reporter</b> pour un grand journal. Il aime l'aventure et les voyages, et il doit <b>faire preuve de courage</b>, quand les situations sont tragiques. Il est <b>persévérant</b> : avec patience, il obtient les informations qu'il recherche. Il a une grande <b>ouverture d'esprit</b>, il est très <b>ouvert</b>. <b>Sa curiosité d'esprit</b> va parfois jusqu'à <b>l'indiscrétion</b> (≠ <b>la discrétion</b>) : il questionne sans arrêt. Il ne reste pas <b>superficiel</b> (≠ <b>profond</b>) dans ses analyses.</div>" },
+    { "page_no": 26, "seq": 23, "type": "list", "body_html": "<div class='bullet'><b>Marc est un dessinateur et illustrateur de talent.</b> Il a <b>beaucoup d'imagination</b> et de <b>fantaisie</b>, il est très <b>créatif</b>. Bien sûr, il a <b>le sens de l'humour</b>, car ses dessins sont souvent amusants. Son travail lui permet une grande <b>liberté d'esprit</b>. Heureusement, car il est très <b>indépendant</b> !</div>" },
+    { "page_no": 26, "seq": 24, "type": "section_title", "body_html": "QUELQUES COMPARAISONS IMAGÉES" },
+    { "page_no": 26, "seq": 25, "type": "para", "body_html": "Gilles est <b>bon comme le pain</b>. Casimir n'est pas drôle, il est <b>sérieux comme un pape</b>. Luc est <b>ennuyeux comme la pluie</b> et <b>bête comme ses pieds</b> ! Rose est <b>bavarde comme une pie</b> !" }
+  ],
+  "exercises": [
+    {
+      "page_no": 25, "seq": 1,
+      "instruction_fr": "Choisissez la bonne réponse.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Gaston est {{o:de patient|patient|patience}}." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Elles ont {{o:du bon caractère|le bon caractère|bon caractère}}." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Florence est {{o:merveille|merveilleuse|de merveilleux}}." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Jeanne est quelqu'un {{o:d'intelligent|intelligente|intelligence}}." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Patrice manque {{o:la douceur|douceur|de douceur}}." },
+        { "seq": 6, "type": "choice", "stem_html": "6. Quentin n'a pas {{o:de l'humour|le sens de l'humour|humour}}." }
+      ]
+    },
+    {
+      "page_no": 25, "seq": 2,
+      "instruction_fr": "Placez dans le tableau les expressions ci-dessous.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [25],
+      "questions": [
+        { "seq": 1, "type": "order", "stem_html": "Il est fantastique / elle est d'une méchanceté incroyable / elle a bon caractère / ils manquent de patience / elle est vraiment chouette / il n'est pas gentil du tout / il est vraiment antipathique / elle est assez cultivée / c'est quelqu'un de très dur / il est très intelligent / il est absolument odieux / elle n'est pas très généreuse / elle ne manque pas d'autorité / elle est super<br><br><table class='vocab'><tr><th>très négatif</th><th>négatif</th><th>positif</th><th>très positif</th></tr><tr><td>{{T}}</td><td>{{T}}</td><td>{{T}}</td><td>{{T}}</td></tr></table>" }
+      ]
+    },
+    {
+      "page_no": 25, "seq": 3,
+      "instruction_fr": "Associez les phrases de sens équivalent.",
+      "label": "a. Il n'est pas gentil. &nbsp; b. Il n'est pas courageux. &nbsp; c. Il a du courage. &nbsp; d. Il est vraiment gentil. &nbsp; e. Il est assez gentil.",
+      "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "1. Il ne manque pas de courage. → {{b}}" },
+        { "seq": 2, "type": "assoc", "stem_html": "2. Il manque de courage. → {{b}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "3. Il n'est pas méchant. → {{b}}" },
+        { "seq": 4, "type": "assoc", "stem_html": "4. Il manque de gentillesse. → {{b}}" },
+        { "seq": 5, "type": "assoc", "stem_html": "5. Il est d'une gentillesse ! → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 25, "seq": 4,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Elle manque de patience = elle est plutôt impatiente.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Ils ont bon caractère = ils ont une forte personnalité.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Elle n'est pas honnête du tout = elle est d'une honnêteté !<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. C'est quelqu'un de nerveux = il est vraiment de calme.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Il est super = il est merveilleux !<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Elle n'a pas le sens de l'humour = elle manque vraiment d'humour.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. Ils ne manquent pas de générosité = ils sont plutôt généreux.<br>Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 27, "seq": 5,
+      "instruction_fr": "Complétez par l'adjectif approprié.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Clément met beaucoup de soin dans son travail, il est {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Isabelle montre son ambition, elle est {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Louis fait preuve de rigueur, il est {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Sabine n'est pas profonde, elle est {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Nadège n'est pas paresseuse, elle est {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Grégoire ne manque pas de douceur, il est {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Clotilde a de l'autorité, mais elle n'est pas {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Bertrand n'est pas dynamique, il est {{L}}" }
+      ]
+    },
+    {
+      "page_no": 27, "seq": 6,
+      "instruction_fr": "Éliminez l'intrus.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Il n'est pas sérieux du tout. / Il est sérieux comme un pape. / Il est d'un sérieux ! → {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Elle est bête comme ses pieds. / Elle n'est pas bête du tout. / Elle ne manque pas d'intelligence. → {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Il n'est vraiment pas intéressant. / Il est ennuyeux comme la pluie. / Il est très intéressant. → {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. C'est quelqu'un de très bon. / Il manque de bonté. / Il est bon comme le pain. → {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Elle n'est pas bavarde. / Elle est bavarde comme tout. / Elle est bavarde comme une pie. → {{L}}" }
+      ]
+    },
+    {
+      "page_no": 27, "seq": 7,
+      "instruction_fr": "Quels traits de caractère doit avoir…",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. un médecin ? {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. un moniteur de ski ? {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. un chef d'entreprise ? {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. un détective ? {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. un électricien ? {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. un guide touristique ? {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. un diplomate ? {{L}}" }
+      ]
+    },
+    {
+      "page_no": 27, "seq": 8,
+      "instruction_fr": "Faites votre portrait psychologique. Variez les structures (noms, adjectifs, forme négative…).",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 27, "seq": 9,
+      "instruction_fr": "Décrivez le caractère d'une personne qui vous est proche et que vous aimez beaucoup.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 27, "seq": 10,
+      "instruction_fr": "À vous ! Répondez librement aux questions.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Existe-t-il des traits de caractère que vous ne supportez pas du tout ? Lesquels ? Pourquoi ?<br>{{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Certaines qualités humaines sont-elles nécessaires à la communication ? Lesquelles ? Pourquoi ?<br>{{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Considérez-vous l'ambition comme un trait plutôt positif ? Pourquoi ?<br>{{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Existe-t-il des qualités que vous aimeriez avoir ? Lesquelles ? Pourquoi ?<br>{{T}}" }
+      ]
+    }
+  ]
+}
