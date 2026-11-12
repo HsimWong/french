@@ -1,0 +1,259 @@
+{
+  "course": "grammaire",
+  "seq": 43,
+  "title_fr": "L'IMPARFAIT",
+  "page_start": 206,
+  "page_end": 213,
+  "pdf_start": 208,
+  "pdf_end": 215,
+  "sections": [
+    { "title_fr": "UTILISATION", "page_no": 206 },
+    { "title_fr": "FORMATION", "page_no": 206 },
+    { "title_fr": "L'IMPARFAIT et LE PASSÉ COMPOSÉ", "page_no": 210 }
+  ],
+  "blocks": [
+    { "page_no": 206, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">43</span> L'IMPARFAIT" },
+    { "page_no": 206, "seq": 2, "type": "table", "body_html": "<table class='data-table'><tr><td>À l'époque<br>du rock,</td><td>j'<br>tu<br>il<br>elle<br>on<br>nous<br>vous<br>ils<br>elles</td><td><strong>avais</strong><br><strong>avais</strong><br><strong>avait</strong><br><strong>avait</strong><br><strong>avait</strong><br><strong>avions</strong><br><strong>aviez</strong><br><strong>avaient</strong><br><strong>avaient</strong></td><td>quinze ans.<br>vingt ans.<br>des disques américains.<br>des disques américains.<br>des disques américains.<br>des guitares.<br>une Vespa.<br>une « deux-chevaux ».<br>une « deux-chevaux ».</td></tr></table>" },
+    { "page_no": 206, "seq": 3, "type": "section_title", "body_html": "UTILISATION" },
+    { "page_no": 206, "seq": 4, "type": "para", "body_html": "<p class='bullet'><strong>L'imparfait</strong> exprime des <strong>habitudes passées</strong> :</p><p class='sample'><em>Maintenant, j'habite à Paris, je travaille chez IBM.</em><br><em>Avant, j'<strong>habitais</strong> à Marseille, je <strong>travaillais</strong> chez BMI.</em></p>" },
+    { "page_no": 206, "seq": 5, "type": "para", "body_html": "<p>• Après certaines expressions, on utilise l'imparfait :</p><p class='sample'><em><strong>À cette époque-là,</strong><br><strong>Avant, quand</strong> j'étais jeune,</em> &nbsp;&nbsp;} <em>j'avais les cheveux longs.</em></p>" },
+    { "page_no": 206, "seq": 6, "type": "section_title", "body_html": "FORMATION" },
+    { "page_no": 206, "seq": 7, "type": "para", "body_html": "<p>Radical de la 1<sup>re</sup> personne du pluriel du présent<br>+ « <strong>-ais</strong> », « <strong>-ais</strong> », « <strong>-ait</strong> », « <strong>-ions</strong> », « <strong>-iez</strong> », « <strong>-aient</strong> »</p>" },
+    { "page_no": 206, "seq": 8, "type": "table", "body_html": "<table class='data-table'><tr><td>Nous <strong>parl</strong>-ons</td><td>→</td><td>Je <strong>parl-ais</strong></td><td>♪ Une seule finale « ai »<br>sauf pour « nous »<br>et « vous »</td></tr><tr><td>Nous <strong>pren</strong>-ons</td><td>→</td><td>Je <strong>pren-ais</strong></td><td></td></tr><tr><td>Nous <strong>finiss</strong>-ons</td><td>→</td><td>Je <strong>finiss-ais</strong></td><td></td></tr><tr><td>Nous <strong>mange</strong>-ons</td><td>→</td><td>Je <strong>mange-ais</strong></td><td>(g + e + a)</td></tr><tr><td>Nous <strong>commenç</strong>-ons</td><td>→</td><td>Je <strong>commenç-ais</strong></td><td>(ç + a)</td></tr></table>" },
+    { "page_no": 206, "seq": 9, "type": "warning", "body_html": "• <strong>Être</strong> : <em>J'étais, tu étais,</em> etc." },
+    { "page_no": 206, "seq": 10, "type": "xref", "body_html": "Voir aussi Préface, p. 8" },
+
+    { "page_no": 210, "seq": 11, "type": "section_title", "body_html": "L'IMPARFAIT <em>et</em> LE PASSÉ COMPOSÉ" },
+    { "page_no": 210, "seq": 12, "type": "keypoint", "body_html": "Avant, j'<strong>habitais</strong> à Marseille ; en 1995, j'<strong>ai déménagé</strong>.<br>Quand j'<strong>ai déménagé</strong>, j'<strong>avais</strong> seize ans. C'<strong>était</strong> l'hiver." },
+    { "page_no": 210, "seq": 13, "type": "para", "body_html": "<p>• En général, pour évoquer des <strong>souvenirs</strong>, on utilise l'imparfait :</p><p class='sample'><em>Quand j'<strong>étais</strong> jeune, je <strong>jouais</strong> du piano.</em></p>" },
+    { "page_no": 210, "seq": 14, "type": "para", "body_html": "<p>• En général, pour raconter un <strong>événement</strong>, on utilise le passé composé :</p><p class='sample'><em>Un jour, j'<strong>ai joué</strong> devant la reine d'Angleterre.</em></p>" },
+    { "page_no": 210, "seq": 15, "type": "para", "body_html": "<p class='bullet'><strong>LE RÉCIT AU PASSÉ</strong> utilise <strong>les deux formes</strong> : le passé composé pour les événements, l'imparfait pour les descriptions et les situations.</p><p class='sample'><em>Le jour où j'<strong>ai joué</strong> devant la reine, j'<strong>avais</strong> douze ans.</em><br><em>C'<strong>était</strong> la fête de l'école. Il <strong>faisait</strong> chaud.</em></p>" },
+    { "page_no": 210, "seq": 16, "type": "para", "body_html": "<p>• L'imparfait donne les éléments du décor (comme une photo) ; le passé composé met l'accent sur la succession des événements (comme un film) :</p><p class='sample'><em>Pendant que je <strong>jouais</strong>, tout le monde <strong>bavardait</strong>. Soudain,</em><br><em>la reine <strong>est arrivée</strong>. Elle <strong>a applaudi</strong>. Tout le monde <strong>s'est levé</strong>.</em></p>" },
+    { "page_no": 210, "seq": 17, "type": "warning", "body_html": "• « Tout à coup », « soudain », « brusquement » introduisent un passé composé ;<br>« pendant que » introduit un imparfait :<br><em><strong>Tout à coup</strong>, la reine est arrivée.</em><br><em>Elle est entrée <strong>pendant que</strong> je jouais.</em>" },
+    { "page_no": 210, "seq": 18, "type": "para", "body_html": "<p class='bullet'>On utilise le passé composé avec une <strong>durée définie</strong> (début et fin précis) et l'imparfait avec une <strong>durée indéfinie</strong> :</p><table class='data-table'><tr><td><em><strong>De</strong> 1980 <strong>à</strong> 1990,<br><strong>Pendant</strong> dix ans,<br><strong>Entre</strong> dix et vingt ans,</em></td><td><em>j'<strong>ai fait</strong><br>du piano.</em></td><td><em><strong>Avant,</strong><br><strong>Quand</strong> j'étais jeune,<br><strong>À cette époque-là,</strong></em></td><td><em>je <strong>faisais</strong><br>du piano.</em></td></tr></table>" },
+    { "page_no": 210, "seq": 19, "type": "para", "body_html": "<p class='bullet'>Le passé composé indique un changement par rapport à d'anciennes habitudes ou un changement par rapport à une situation donnée :</p><table class='data-table'><tr><td>Imparfait ……………………………………<br><em>Avant, j'<strong>habitais</strong> à Lyon.</em><br>↓<br>Passé composé<br><em>Un jour, j'<strong>ai déménagé</strong>.</em></td><td>Imparfait ……………………………………<br><em>Hier, il <strong>faisait</strong> beau.</em><br>↓<br>Passé composé<br><em>Tout à coup, le temps <strong>a changé</strong>.</em></td></tr></table>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 207, "seq": 1,
+      "instruction_fr": "Complétez, selon le modèle.",
+      "label": "", "note_html": "Maintenant, je marche très peu, mais avant, je marchais beaucoup.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Maintenant, je parle beaucoup, {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Maintenant, je mange très peu, {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Maintenant, je conduis lentement, {{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Maintenant, je dors mal, {{L}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Maintenant, je ne fais plus de sport, {{L}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. Maintenant, je suis très pessimiste, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 207, "seq": 2,
+      "instruction_fr": "Répondez aux questions. Interrogez un camarade sur le même modèle.",
+      "label": "", "note_html": "– Où habitiez-vous quand vous étiez petit(e) ? (Bordeaux) — Quand j'étais petit(e), j'habitais à Bordeaux.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. – Quelle voiture avaient vos parents, à cette époque-là ? (Volvo break)<br>{{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. – Où alliez-vous en vacances avec votre famille ? (Portugal)<br>{{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. – Quels livres lisiez-vous quand vous étiez adolescent(e) ? (livres d'aventures)<br>{{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. – Quels sports faisiez-vous au lycée ? (volley)<br>{{L}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. – Qu'est-ce que vous preniez au petit déjeuner ? (café au lait)<br>{{L}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. – Quelle musique écoutiez-vous ? (Michael Jackson)<br>{{L}}" },
+        { "seq": 7, "type": "open", "stem_html": "7. – Que vouliez-vous faire plus tard comme métier ? (architecte)<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 207, "seq": 3,
+      "instruction_fr": "Complétez à l'imparfait.",
+      "label": "Albert", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Quand j'<em>étais</em> petit, j'{{L}} un chien.<br>Il {{b}} noir et blanc et il {{b}} de grandes oreilles. Le matin, quand j'{{b}} à l'école, il {{b}} avec moi.<br>La nuit, il {{b}} dans mon lit. J'{{b}} très fier de lui.<br>Il {{b}} Albert.<br>Il {{b}} adorable." }
+      ]
+    },
+    {
+      "page_no": 208, "seq": 4,
+      "instruction_fr": "Faites des phrases à la forme négative.",
+      "label": "", "note_html": "Maintenant, je comprends presque tout à la télévision, mais au début de mon séjour, je ne comprenais presque rien.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Maintenant, j'ai beaucoup d'amis et je parle souvent français, mais {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Maintenant, j'habite dans un grand appartement et j'ai une voiture, mais {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Maintenant, je connais la ville et je sais prendre les transports en commun, mais {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Maintenant, je vais souvent au cinéma et je pars quelquefois à la campagne, mais {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Maintenant, je bois du vin au déjeuner et je bois du café noir, mais {{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. Maintenant, je lis les journaux et j'écris des textes en français, mais {{T}}" },
+        { "seq": 7, "type": "open", "stem_html": "7. Maintenant, je comprends les questions et je sais répondre, mais {{T}}" }
+      ]
+    },
+    {
+      "page_no": 208, "seq": 5,
+      "instruction_fr": "Mettez le texte à l'imparfait.",
+      "label": "Les temps changent", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "J'habite dans une tour de trente étages.<br>Je ne connais pas mes voisins.<br>Je mange de la viande surgelée.<br>Je vais au marché en voiture.<br>Je cuisine à l'électricité.<br>Le soir, je regarde la télé.<br>{{T}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "<em>Mes grands-parents <strong>habitaient</strong> dans une ferme.</em><br><em>Ils</em> {{L}} <em>tout le village.</em><br>{{L}} <em>des produits frais.</em><br>{{L}} <em>à cheval.</em><br>{{L}} <em>au feu de bois.</em><br>{{L}} <em>les étoiles.</em>" }
+      ]
+    },
+    {
+      "page_no": 208, "seq": 6,
+      "instruction_fr": "Imaginez la vie à l'époque où l'électricité n'existait pas. Quelles étaient les activités familiales le soir ? Quelles étaient les contraintes pour le travail, l'alimentation, les loisirs ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 209, "seq": 7,
+      "instruction_fr": "Mettez le texte à l'imparfait.",
+      "label": "", "note_html": "Maintenant, la société Peugeot fabrique des voitures, avant, elle fabriquait des machines à coudre.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Maintenant, les enfants portent des casquettes de base-ball,<br>dans les années cinquante, {{L}} des bérets." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Maintenant, les femmes portent des robes courtes,<br>au XIX<sup>e</sup> siècle, {{L}} très longues." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Maintenant, on travaille trente-cinq heures par semaine,<br>à l'époque de mon grand-père, {{L}} soixante heures." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Maintenant, les jeunes mangent des hamburgers,<br>au vingtième siècle, {{L}} des sandwichs." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Maintenant, les enfants boivent du Coca-Cola,<br>avant, {{L}} de la limonade." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Maintenant, la plupart des gens vivent dans des immeubles,<br>dans le passé, ils {{L}} dans des maisons individuelles." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Maintenant, on communique surtout par Internet,<br>au Moyen Âge, on {{L}} surtout par la parole." }
+      ]
+    },
+    {
+      "page_no": 209, "seq": 8,
+      "instruction_fr": "Décrivez la vie quotidienne des hommes préhistoriques en trouvant les verbes manquants.",
+      "label": "Préhistoire", "note_html": "", "has_image": true, "scan_pages": [209],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "Les hommes préhistoriques <em>étaient</em> nomades : ils {{L}} sous une tente. Pour se protéger du froid, ils {{L}} des peaux de bêtes.<br>Pour se nourrir, ils {{L}} le gibier avec des flèches en pierre, ils {{L}} le poisson dans les rivières et ils {{L}} des fruits dans la forêt. Pour faire cuire les aliments, ils {{L}} du feu avec du silex. Sur les parois des grottes, ils {{L}} des animaux.<br>Pour les colorer, ils {{L}} des végétaux broyés." }
+      ]
+    },
+    {
+      "page_no": 209, "seq": 9,
+      "instruction_fr": "Imaginez la vie des jeunes filles au XIX<sup>e</sup> siècle, dans l'Antiquité, etc.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 209, "seq": 10,
+      "instruction_fr": "Décrivez vos activités dans votre enfance.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "{{T}}" }
+      ]
+    },
+    {
+      "page_no": 211, "seq": 11,
+      "instruction_fr": "Soulignez les imparfaits et les passés composés. Distribuez-les selon le modèle.",
+      "label": "Hold-up", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Il <em>était</em> environ dix heures. Soudain, trois hommes <em>ont attaqué</em> le caissier. La banque <em>était</em> pleine de monde, alors le caissier <em>a donné</em> l'argent aux bandits, mais il <em>a averti</em> secrètement la police car il y <em>avait</em> une alarme sous son bureau. Deux voleurs <em>ont été arrêtés</em>, mais ils n'<em>avaient</em> pas l'argent sur eux. Le troisième <em>a réussi</em> à s'échapper avec la caisse. Il <em>portait</em> une veste grise, un chapeau et des lunettes noires.<br><strong>descriptions</strong> : <em>Il était environ dix heures.</em><br>{{T}}<br><strong>événements</strong> : <em>Trois hommes ont attaqué le caissier.</em><br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 211, "seq": 12,
+      "instruction_fr": "Passé composé ou imparfait ? Choisissez.",
+      "label": "", "note_html": "(je dormais/j'ai dormi) Des voleurs sont entrés pendant que je dormais tranquillement.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. (je ratais/j'ai raté)<br>Je descendais l'escalier quand tout à coup {{b}} une marche." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. (j'entendais/j'ai entendu)<br>Je dormais quand soudain {{L}} un cri." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. (il pleuvait/il a plu)<br>J'ai pris mon parapluie parce qu'{{L}} depuis le matin." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. (traversait/a traversé)<br>Une voiture a renversé la dame alors qu'elle {{L}} la rue." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. (a sonné/sonnait)<br>J'étais dans mon bain quand le téléphone {{L}}." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. (il a fait/il faisait)<br>J'ai fermé la fenêtre parce qu'il {{L}} froid." }
+      ]
+    },
+    {
+      "page_no": 211, "seq": 13,
+      "instruction_fr": "Complétez au passé composé ou à l'imparfait, pour faire un récit.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "<strong>événements</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>description/situation</strong><br>Hier soir, <em>je suis sorti</em> à 18 heures. &nbsp;&nbsp; Il <em>pleuvait</em> et il {{L}} froid.<br>Je {{L}} le métro à 18 h 15. &nbsp;&nbsp; Il {{b}} beaucoup de monde. Il {{b}} chaud.<br>Je {{L}} au cinéma à 20 h. &nbsp;&nbsp; Le film {{b}} ennuyeux. La musique {{b}} trop forte.<br>Je {{L}} chez moi à minuit. &nbsp;&nbsp; Je {{b}} fatigué. Je {{L}} mal à la tête." }
+      ]
+    },
+    {
+      "page_no": 211, "seq": 14,
+      "instruction_fr": "Faites un petit récit au passé, selon le modèle. Événements : partir en vacances – tomber en panne – marcher jusqu'au village – perdre son portefeuille en chemin – faire du stop – rentrer chez soi – prendre de l'argent – repartir, etc. Situations : la météo – l'heure – la forme physique – les vêtements – les lieux – les sentiments",
+      "label": "", "note_html": "Quand je suis parti(e) en vacances en juin dernier, il faisait beau…", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "<em>Quand je suis parti(e) en vacances en juin dernier, il faisait beau…</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 212, "seq": 15,
+      "instruction_fr": "Mettez le texte au passé.",
+      "label": "Un âge difficile", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Ce matin, mon fils se lève à sept heures et, comme toujours, il est de mauvaise humeur. Il prend son petit déjeuner sans dire un mot. Comme toujours, il a son casque sur la tête et il porte des lunettes noires. Il ressemble à un martien. À huit heures, il quitte la maison pour prendre le bus. Il fait froid et il pleut légèrement, mais, comme tous les jours, mon fils n'a qu'un vieux pull sur le dos. Il porte aussi des jeans troués et des baskets fluorescentes. Je ferme la porte derrière lui et je me demande, perplexe, si j'étais comme ça à son âge.<br><em>Hier, mon fils</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 212, "seq": 16,
+      "instruction_fr": "Complétez avec des verbes au passé composé ou à l'imparfait.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. (rencontrer) (aimer) Quand j'<em>ai rencontré</em> Paul, j'<em>aimais</em> encore Max." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. (sonner) (dormir) Quand le téléphone {{L}} , je {{L}} profondément." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. (ouvert) (s'envoler) Quand Ada {{L}} la cage, son canari {{L}} ." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. (avoir) (rouler) Quand Paul {{L}} son accident, il {{L}} à 160 km à l'heure !" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. (ouvrir) (se couper) Quand ma mère {{L}} la boîte de conserve, elle {{L}} le doigt." }
+      ]
+    },
+    {
+      "page_no": 212, "seq": 17,
+      "instruction_fr": "Mettez le texte au passé.",
+      "label": "Madame Élise", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Madame Élise est une vieille dame qui vit seule sur la colline. Un jour, la colline prend feu. Madame Élise est trop vieille pour courir : elle s'assoit tranquillement. Elle est prête à mourir. Le feu s'arrête tout près d'elle. Alors Madame Élise change complètement de vie : elle vend sa maison, elle retire tout son argent de la banque et elle part faire le tour du monde. Elle s'inscrit à l'université et elle passe une licence d'ethnologie. À quatre-vingt-dix ans, elle publie ses Mémoires et elle devient très célèbre.<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 212, "seq": 18,
+      "instruction_fr": "Complétez avec des verbes au passé composé ou à l'imparfait.",
+      "label": "", "note_html": "Hier soir, je me suis couchée tôt parce que j'avais mal à la tête.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Nous {{L}} toutes les fenêtres du bureau, parce qu'il {{L}} très beau." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous {{L}} chez le dentiste, parce que vous {{L}} mal aux dents ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Fanny {{L}} un croissant et deux brioches parce qu'elle {{L}} très faim !" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Alain {{L}} un grand verre de bière parce qu'il {{L}} soif !" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Ce matin, je {{L}} mon parapluie parce qu'il {{L}} ." }
+      ]
+    },
+    {
+      "page_no": 213, "seq": 19,
+      "instruction_fr": "Mettez le texte au passé.",
+      "label": "La valise (1)", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "Je suis à la terrasse d'un café près de l'Opéra. Il fait très beau. J'attends une amie. Je regarde les passants. Il n'y a pas beaucoup de monde. Soudain, je remarque une femme sur le trottoir d'en face. Le feu passe au vert, mais elle reste immobile, comme une statue. Elle est grande, pâle, elle semble épuisée. Tout à coup, une voiture s'arrête devant elle. Un homme sort. Il porte une petite valise. Il est très brun et il a de petites moustaches. Il a l'air dangereux. Il tend la valise à la dame et il repart tout de suite. Mais je ne vois pas la suite parce que mon amie arrive, elle m'embrasse et s'assoit en face de moi. Quand je tourne la tête, la femme n'est plus là.<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 213, "seq": 20,
+      "instruction_fr": "Complétez au passé composé ou à l'imparfait. Faites l'élision si c'est nécessaire.",
+      "label": "", "note_html": "habiter/déménager &nbsp; Avant, j'habitais à la campagne, mais il y a deux ans, j'ai déménagé.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. fumer/arrêter<br>Avant, mon mari {{b}} beaucoup. À la naissance de notre fils, il {{b}} de fumer." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. voter/voter<br>Au XIX<sup>e</sup> siècle, les femmes ne {{L}} pas.<br>En 1945, elles {{b}} pour la première fois." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. peser/perdre<br>Avant les vacances, je {{L}} 80 kilos.<br>En un mois, je {{L}} 20 kilos." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. habiter/habiter<br>Avant, je {{L}} en Italie.<br>De 1995 à 1999, je {{L}} à Rome." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. travailler/vivre<br>Pendant 20 ans, je {{L}} la nuit.<br>À cette époque-là, je {{L}} seule." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. parler/parler<br>Au début, je ne {{L}} pas français puis, pendant des mois, je {{b}} comme un bébé." }
+      ]
+    },
+    {
+      "page_no": 213, "seq": 21,
+      "instruction_fr": "Mettez le texte au passé.",
+      "label": "La valise (2)", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "J'attends une amie et ma tante arrive. Elle critique mon appartement. Elle jette les revues qui sont sur mon bureau. Elle contrôle les livres que je lis. Elle part finalement, mais elle oublie quelque chose sur le tapis : c'est une petite valise. Je l'ouvre : il y a un chat dedans. Je descends au parking, je prends ma voiture et je cherche ma tante dans tout le quartier. Quand je la trouve, elle attend à un feu rouge près de l'Opéra.<br>{{T}}" }
+      ]
+    },
+    {
+      "page_no": 213, "seq": 22,
+      "instruction_fr": "Répondez librement. Pourquoi avez-vous fermé la fenêtre ? Pourquoi avez-vous mis votre imperméable ? Pourquoi êtes-vous allé(e) chez le dentiste ? Pourquoi avez-vous pris un taxi ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Pourquoi avez-vous fermé la fenêtre ?<br>{{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Pourquoi avez-vous mis votre imperméable ?<br>{{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Pourquoi êtes-vous allé(e) chez le dentiste ?<br>{{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Pourquoi avez-vous pris un taxi ?<br>{{T}}" }
+      ]
+    }
+  ]
+}
