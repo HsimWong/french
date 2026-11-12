@@ -1,0 +1,229 @@
+{
+  "course": "vocabulaire",
+  "seq": 18,
+  "title_fr": "L'ENSEIGNEMENT",
+  "page_start": 122,
+  "page_end": 129,
+  "pdf_start": 124,
+  "pdf_end": 131,
+  "sections": [
+    { "title_fr": "LA SCOLARITÉ", "page_no": 122 },
+    { "title_fr": "LE CALENDRIER SCOLAIRE", "page_no": 124 },
+    { "title_fr": "MATIÈRES, DISCIPLINES, EMPLOI DU TEMPS", "page_no": 126 }
+  ],
+  "blocks": [
+    { "page_no": 122, "seq": 1, "type": "chapter_title", "body_html": "<span class='ch-no'>18</span> L'ENSEIGNEMENT" },
+    { "page_no": 122, "seq": 2, "type": "section_title", "body_html": "LA SCOLARITÉ" },
+    { "page_no": 122, "seq": 3, "type": "subhead", "body_html": "■ L'école" },
+    { "page_no": 122, "seq": 4, "type": "list", "body_html": "<div class='bullet'>L'école maternelle (la « maternelle »), non obligatoire, accueille les enfants à l'âge de trois ans et pendant trois ans.</div>" },
+    { "page_no": 122, "seq": 5, "type": "list", "body_html": "<div class='bullet'>À partir de l'âge de six ans, les enfants vont à l'école primaire, obligatoire, où ils passent cinq ans.</div>" },
+    { "page_no": 122, "seq": 6, "type": "list", "body_html": "<div class='bullet'>À l'école primaire ou maternelle, les élèves sont des écoliers. Ils ont un instituteur ou une institutrice. Ils l'appellent le maître ou la maîtresse (souvent, aujourd'hui, ils l'appellent par son prénom).</div>" },
+    { "page_no": 122, "seq": 7, "type": "subhead", "body_html": "■ L'enseignement secondaire (le « secondaire »)" },
+    { "page_no": 122, "seq": 8, "type": "list", "body_html": "<div class='bullet'>Dans le secondaire, les élèves ont plusieurs professeurs (« profs* »), spécialisés chacun dans une matière (les maths, le français, etc.). Les instituteurs et les professeurs sont des enseignants.</div>" },
+    { "page_no": 122, "seq": 9, "type": "list", "body_html": "<div class='bullet'>Les enfants entrent au collège (obligatoire) à l'âge de onze ans. Ils y deviennent des collégiens. Le collège comprend quatre classes : la sixième, la cinquième, la quatrième et la troisième.</div>" },
+    { "page_no": 122, "seq": 10, "type": "list", "body_html": "<div class='bullet'>Ensuite, c'est le lycée : les lycéens y passent leurs années de seconde, première et terminale. Ils y préparent l'examen du baccalauréat (le « bac »). Ce diplôme est nécessaire pour faire des études supérieures. Les lycées professionnels préparent au baccalauréat professionnel (« bac pro* »). Les lycées d'enseignement général et technologique préparent au bac général (littéraire, scientifique ou économique et social) et au bac technologique (« bac techno* »).</div>" },
+    { "page_no": 122, "seq": 11, "type": "subhead", "body_html": "■ L'enseignement supérieur (le « supérieur »)" },
+    { "page_no": 122, "seq": 12, "type": "list", "body_html": "<div class='bullet'>Les étudiants qui ont leur bac / qui ont été reçus au bac / qui ont réussi leur bac s'inscrivent à l'université (à la « fac ») où ils vont faire leurs études. Ceux qui ont raté leur bac / qui ont échoué au bac / qui ont été recalés doivent redoubler (= recommencer) leur terminale.</div>" },
+    { "page_no": 122, "seq": 13, "type": "list", "body_html": "<div class='bullet'>Après le bac, si on veut faire une grande école (écoles d'ingénieur, de commerce, École normale supérieure...), on peut préparer le concours d'entrée aux grandes écoles et faire deux ou trois ans de classe préparatoire. Les « classes prépa* » sont sélectives : l'étudiant, qui doit avoir eu de très bons résultats en terminale et au bac, est accepté sur dossier.</div>" },
+    { "page_no": 124, "seq": 14, "type": "running_head", "body_html": "L'ENSEIGNEMENT" },
+    { "page_no": 124, "seq": 15, "type": "section_title", "body_html": "LE CALENDRIER SCOLAIRE" },
+    { "page_no": 124, "seq": 16, "type": "para", "body_html": "La rentrée (scolaire / des classes) a lieu début septembre. La fin de l'année scolaire marque le début des « grandes vacances » (= les vacances d'été : juillet et août). Les universités, elles, ont chacune leur calendrier." },
+    { "page_no": 124, "seq": 17, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Ne confondez pas la fin de l'année scolaire et la sortie de l'école (chaque jour, au moment où les élèves sortent de l'école).</i>" },
+    { "page_no": 124, "seq": 18, "type": "subhead", "body_html": "DANS LE CARTABLE" },
+    { "page_no": 124, "seq": 19, "type": "list", "body_html": "<div class='bullet'>Dans le cartable (1) : le livre (2), le cahier (3), la trousse (4), le classeur (5), les feuilles perforées (6) que l'on met dans le classeur, la chemise (7), le dossier (8), le bloc-notes (9), l'agrafeuse (10), les trombones (11), les ciseaux (12), la calculette (13), les crayons de couleur (14).</div>" },
+    { "page_no": 124, "seq": 20, "type": "list", "body_html": "<div class='bullet'>Dans la trousse : un crayon (15), une gomme (16), un taille-crayon (17), une règle (18), un stylo-bille (19), un feutre (20), un stylo-plume (21), une cartouche d'encre (22).</div>" },
+    { "page_no": 124, "seq": 21, "type": "subhead", "body_html": "LES LIEUX" },
+    { "page_no": 124, "seq": 22, "type": "list", "body_html": "<div class='bullet'>Un collège ou un lycée comprennent des salles de cours (avec le bureau du professeur, le tableau au mur, les tables des élèves), la cour où les élèves peuvent parler entre les cours, la bibliothèque où se trouvent les livres, la salle informatique où sont installés les ordinateurs. Ils possèdent parfois un terrain de sport et un gymnase pour les cours d'éducation physique.</div>" },
+    { "page_no": 124, "seq": 23, "type": "list", "body_html": "<div class='bullet'>Les élèves qui ne peuvent pas rentrer chez eux à midi mangent à la cantine.</div>" },
+    { "page_no": 124, "seq": 24, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Attention à la différence entre la cour (de récréation) et le cours (d'histoire).</i>" },
+    { "page_no": 126, "seq": 25, "type": "running_head", "body_html": "L'ENSEIGNEMENT" },
+    { "page_no": 126, "seq": 26, "type": "section_title", "body_html": "MATIÈRES, DISCIPLINES, EMPLOI DU TEMPS" },
+    { "page_no": 126, "seq": 27, "type": "table", "body_html": "<table class='vocab'><tr><th>Heure</th><th>Matière</th></tr><tr><td>8 h</td><td>Mathématiques (maths)</td></tr><tr><td>9 h</td><td>Sciences de la vie (= biologie)</td></tr><tr><td>9 h 55</td><td>Pause / Récréation</td></tr><tr><td>10 h 05</td><td>Langue vivante</td></tr><tr><td>11 h</td><td>Physique-chimie</td></tr><tr><td>12 h</td><td>Cantine</td></tr><tr><td>14 h</td><td>Philosophie (philo)</td></tr><tr><td>15 h</td><td>Histoire-géographie (histoire-géo)</td></tr><tr><td>16 h</td><td>Sport</td></tr></table>" },
+    { "page_no": 126, "seq": 28, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>En terminale S, il n'y a plus de cours de français. Les matières principales sont les maths, la physique et la biologie.</i>" },
+    { "page_no": 126, "seq": 29, "type": "subhead", "body_html": "■ Les disciplines universitaires" },
+    { "page_no": 126, "seq": 30, "type": "list", "body_html": "<div class='bullet'>À l'université, on choisit une discipline dominante : les lettres, les langues, l'histoire, l'histoire de l'art, la géographie, le droit, la sociologie (= la socio*), la psychologie (= la psycho*), la médecine, les sciences politiques, l'économie (= l'éco*), la gestion, les maths, la physique, etc.</div>" },
+    { "page_no": 126, "seq": 31, "type": "subhead", "body_html": "L'ORGANISATION DES ÉTUDES" },
+    { "page_no": 126, "seq": 32, "type": "list", "body_html": "<div class='bullet'>L'année universitaire comprend deux semestres. On passe des examens à la fin de chaque semestre (contrôle terminal). Mais on passe aussi des partiels (= devoirs surveillés pendant le cours), on fait des exposés (oraux), on rend des dossiers (écrits) pendant le semestre (contrôle continu).</div>" },
+    { "page_no": 126, "seq": 33, "type": "list", "body_html": "<div class='bullet'>On valide son année et on passe dans l'année supérieure si on a une moyenne générale supérieure à 10/20 (on redouble si on a moins de 10).</div>" },
+    { "page_no": 126, "seq": 34, "type": "list", "body_html": "<div class='bullet'>Après trois années d'études, on obtient un premier diplôme : la licence (avec une mention passable, assez bien, bien ou très bien, selon les résultats).</div>" },
+    { "page_no": 126, "seq": 35, "type": "list", "body_html": "<div class='bullet'>On peut ensuite préparer un master en deux ans. Il existe des masters « recherche » et des masters professionnels (« masters pro* »). Pour obtenir son master, on doit valider des cours et séminaires et rédiger un mémoire (un travail personnel sur un sujet choisi avec le directeur de recherche).</div>" },
+    { "page_no": 126, "seq": 36, "type": "list", "body_html": "<div class='bullet'>Après le master, on peut continuer à faire de la recherche : on prépare alors une thèse (= un doctorat). Le mémoire de thèse comporte à la fin une bibliographie (= liste des ouvrages lus avec leurs références).</div>" },
+    { "page_no": 126, "seq": 37, "type": "list", "body_html": "<div class='bullet'>Les étudiants peuvent passer un semestre à l'étranger (échanges Erasmus).</div>" },
+    { "page_no": 128, "seq": 38, "type": "running_head", "body_html": "L'ENSEIGNEMENT" },
+    { "page_no": 128, "seq": 39, "type": "subhead", "body_html": "■ Apprendre le verbe « apprendre »" },
+    { "page_no": 128, "seq": 40, "type": "list", "body_html": "<div class='bullet'>L'étudiant en médecine apprend son cours (→ apprendre quelque chose).</div>" },
+    { "page_no": 128, "seq": 41, "type": "list", "body_html": "<div class='bullet'>L'élève apprend à lire, à écrire (→ apprendre à faire quelque chose).</div>" },
+    { "page_no": 128, "seq": 42, "type": "list", "body_html": "<div class='bullet'>Le prof de français apprend la grammaire à ses étudiants étrangers (→ apprendre quelque chose à quelqu'un).</div>" },
+    { "page_no": 128, "seq": 43, "type": "list", "body_html": "<div class='bullet'>Le maître apprend à compter aux élèves (→ apprendre à faire quelque chose à quelqu'un).</div>" },
+    { "page_no": 128, "seq": 44, "type": "subhead", "body_html": "■ Les moments difficiles" },
+    { "page_no": 128, "seq": 45, "type": "speech", "body_html": "<div class='speech'>– En anglais, ce matin, j'ai été interrogé à l'oral.<br>– Tu as eu combien ?<br>– J'ai eu 14. J'avais appris le cours par cœur (= j'avais tout mémorisé) et j'avais complété le cours par une recherche (sur) Internet.<br>– Tu te sens prêt pour le partiel de traduction de demain ?<br>– Pas vraiment mais j'espère compenser ma note de traduction par celle de civilisation anglaise. J'espère donc réussir mon année.</div>" },
+    { "page_no": 128, "seq": 46, "type": "subhead", "body_html": "■ Les élèves et les profs..." },
+    { "page_no": 128, "seq": 47, "type": "list", "body_html": "<div class='bullet'>Léa bavarde en cours, elle est distraite et indisciplinée (= elle discute avec ses amis), alors que Jérémie est très concentré et très attentif.</div>" },
+    { "page_no": 128, "seq": 48, "type": "list", "body_html": "<div class='bullet'>Sophie est vivante, elle lève la main / le doigt pour participer à l'oral alors que Christophe est effacé, passif.</div>" },
+    { "page_no": 128, "seq": 49, "type": "list", "body_html": "<div class='bullet'>Marc est travailleur. Ce n'est pas comme Salomé qui est très paresseuse.</div>" },
+    { "page_no": 128, "seq": 50, "type": "list", "body_html": "<div class='bullet'>Luc est un excellent étudiant, un étudiant brillant, doué. Son frère, au contraire, est un élève peu doué, médiocre, presque nul*, mais il commence à faire des progrès car il s'est mis à travailler / il s'est mis au travail et il a arrêté de sécher* les cours (= être absent sans raison).</div>" },
+    { "page_no": 128, "seq": 51, "type": "list", "body_html": "<div class='bullet'>Le professeur peut être sévère, autoritaire, strict (≠ décontracté, sympa*), exigeant (≠ peu exigeant)...</div>" },
+    { "page_no": 128, "seq": 52, "type": "table", "body_html": "<table class='vocab'><tr><th>Ce que fait l'enseignant</th><th>Ce que fait l'élève, l'étudiant</th></tr><tr><td>Enseigner une matière.</td><td>Étudier, apprendre.</td></tr><tr><td>Avoir cours. Faire, donner un cours.</td><td>Avoir cours. Prendre, suivre un cours.</td></tr><tr><td>Donner du travail, des devoirs.</td><td>Avoir des devoirs à faire, faire ses devoirs.</td></tr><tr><td>Préparer ses cours.</td><td>Réviser, revoir, apprendre ses leçons.</td></tr><tr><td>Corriger les copies.</td><td></td></tr><tr><td>Mettre des notes. Noter.</td><td>Avoir une bonne ≠ mauvaise note.</td></tr></table>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 123, "seq": 1, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Au lycée, les élèves ont un instituteur ou une institutrice. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. L'école primaire n'est pas obligatoire. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. L'école maternelle n'est pas obligatoire. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Les grandes écoles font partie de l'enseignement supérieur. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Laure prépare un bac littéraire dans un lycée professionnel. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Après le collège, on entre au lycée. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. Sans le bac, on ne peut pas entrer à la fac. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 8, "type": "tf", "stem_html": "8. Les étudiants vont au collège. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 9, "type": "tf", "stem_html": "9. Tout élève reçu au bac peut entrer en classe prépa. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 10, "type": "tf", "stem_html": "10. Le lycée professionnel prépare au bac technologique. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 123, "seq": 2, "instruction_fr": "Associez.", "label": "a. lycéenne. | b. à l'école primaire. | c. le bac. | d. en troisième. | e. en classe prépa. | f. à l'école maternelle. | g. dans les grandes écoles. | h. à l'université. | i. ses études. | j. de collège.", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "1. Louis a dix-huit ans. En juin dernier, il a eu... → {{b}}" },
+        { "seq": 2, "type": "assoc", "stem_html": "2. Louis va s'inscrire en sociologie... → {{b}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "3. C'est à Lyon qu'il a choisi de faire... → {{b}}" },
+        { "seq": 4, "type": "assoc", "stem_html": "4. La petite Caroline a deux ans. L'année prochaine, elle entre... → {{b}}" },
+        { "seq": 5, "type": "assoc", "stem_html": "5. Pierre a six ans. Ses parents l'ont inscrit... → {{b}}" },
+        { "seq": 6, "type": "assoc", "stem_html": "6. Clélia a quinze ans. Elle est... → {{b}}" },
+        { "seq": 7, "type": "assoc", "stem_html": "7. Noëllie a quatorze ans. Elle est dans sa dernière année... → {{b}}" },
+        { "seq": 8, "type": "assoc", "stem_html": "8. Lila est en seconde. L'année dernière, elle était... → {{b}}" },
+        { "seq": 9, "type": "assoc", "stem_html": "9. On passe un concours pour entrer... → {{b}}" },
+        { "seq": 10, "type": "assoc", "stem_html": "10. Jules vient de passer le bac et veut devenir ingénieur. Il va essayer de rentrer... → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 123, "seq": 3, "instruction_fr": "Complétez le texte.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "« Je n'ai jamais quitté l'école... » J'ai commencé l'école dans le petit village où je suis né. Ma mère a été mon {{b}} pendant plusieurs années. À l'école, je l'appelais « {{b}} » et à la maison, « maman ». J'étais un {{b}} heureux. Après l'école {{b}}, le collège et le lycée ont été plus difficiles. J'ai même {{b}} ma troisième, à cause de mes mauvais résultats. Après le bac, j'ai fait {{b}} à Paris, loin de mon village natal. J'ai beaucoup profité de ma vie d'{{b}}. Ensuite, je suis devenu {{b}} moi-même, d'abord dans le {{b}} et maintenant dans le supérieur." }
+      ]
+    },
+    {
+      "page_no": 125, "seq": 4, "instruction_fr": "Mots croisés.", "label": "", "note_html": "Horizontalement : 1. On y met des feuilles perforées. 2. On peut écrire et dessiner avec ; il est noir ou de couleur. 3. Elle sert à effacer. 4. On le lit. 5. On l'utilise pour tracer un trait bien droit. 6. Il contient les affaires de l'élève. Verticalement : a. On écrit dessus, il est en papier. b. On écrit avec, il contient de l'encre. c. On la met dans un classeur. d. Elle contient tous les crayons et stylos.",
+      "has_image": true, "scan_pages": [125],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. (Horizontalement) On y met des feuilles perforées. {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. (Horizontalement) On peut écrire et dessiner avec ; il est noir ou de couleur. {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. (Horizontalement) Elle sert à effacer. {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. (Horizontalement) On le lit. {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. (Horizontalement) On l'utilise pour tracer un trait bien droit. {{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. (Horizontalement) Il contient les affaires de l'élève. {{T}}" },
+        { "seq": 7, "type": "open", "stem_html": "a. (Verticalement) On écrit dessus, il est en papier. {{T}}" },
+        { "seq": 8, "type": "open", "stem_html": "b. (Verticalement) On écrit avec, il contient de l'encre. {{T}}" },
+        { "seq": 9, "type": "open", "stem_html": "c. (Verticalement) On la met dans un classeur. {{T}}" },
+        { "seq": 10, "type": "open", "stem_html": "d. (Verticalement) Elle contient tous les crayons et stylos. {{T}}" }
+      ]
+    },
+    {
+      "page_no": 125, "seq": 5, "instruction_fr": "Répondez aux questions suivantes.", "label": "", "note_html": "Exemple : Dans quelle partie du collège a lieu la récréation ? La récréation a lieu dans la cour.",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Dans quelle partie du collège se passe le cours d'anglais ? {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Où est-ce que les élèves font du sport ? {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Où est-ce que les élèves déjeunent ? {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Où est-ce qu'un élève emprunte un livre ? {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Où est-ce que le professeur écrit ses explications ? {{T}}" }
+      ]
+    },
+    {
+      "page_no": 125, "seq": 6, "instruction_fr": "Entourez la ou les bonne(s) réponse(s).", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Juliette a sept ans. Elle n'aime pas {{o:l'enseignement|l'université|l'école}}." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Plus exactement, elle n'aime pas son {{o:instituteur|maître|professeur}}." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Depuis le jour de {{o:la rentrée|l'entrée scolaire|la rentrée des classes}}, elle est triste d'aller à l'école." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Heureusement, elle ne mange pas {{o:au restaurant|à l'école|à la cantine}}." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Aujourd'hui, elle est très heureuse car demain, {{o:ce sont les grandes vacances|c'est la sortie de l'école|c'est la rentrée scolaire}}." }
+      ]
+    },
+    {
+      "page_no": 127, "seq": 7, "instruction_fr": "Complétez par un terme approprié.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Mathilde préfère les mots aux chiffres. Elle aime le {{b}}." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Elle n'aime pas compter. Elle déteste les {{b}}." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Romain préfère jouer dans la cour avec ses copains. Il adore la {{b}}." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Il aime aussi courir, sauter, jouer au ballon. Sa matière préférée est le {{b}}." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Malek veut devenir médecin. À seize ans, il aime déjà beaucoup la {{b}}." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Agathe veut devenir avocate. Elle est actuellement en troisième année de {{b}}." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Thomas aime lire, réfléchir aux grandes questions humaines. Il s'intéresse beaucoup à la {{b}}." }
+      ]
+    },
+    {
+      "page_no": 127, "seq": 8, "instruction_fr": "Complétez.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Lucile a eu 18 en maths, 12 en science de la vie, 16 en français, 13 en allemand, 12 en physique, 14 en philo et 13 en histoire-géo. Ça lui fait une {{b}} de 14/20." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Frédérique a eu sa licence avec tout juste 10 de moyenne. Elle a obtenu la {{b}} passable." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Olivier a presque terminé d'écrire son {{b}} de thèse. Il ne lui reste plus qu'à compléter sa {{b}} qui est très longue car il a lu beaucoup de livres." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Zulma a été malade et n'a pas pu {{b}} ses examens. Elle doit {{b}} son année de master." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Pour {{b}} le séminaire de civilisation espagnole, les étudiants peuvent choisir entre un {{b}} oral et un {{b}} écrit à la maison." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Dans quelques mois, Tom va {{b}} son bac. Il a l'intention de {{b}} à l'université l'année prochaine, mais il hésite encore entre plusieurs {{b}}." }
+      ]
+    },
+    {
+      "page_no": 127, "seq": 9, "instruction_fr": "Racontez la vie scolaire et universitaire de Baptiste selon les indications suivantes.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Racontez la vie scolaire et universitaire de Baptiste selon les indications suivantes : – École maternelle à trois ans. – École primaire à six ans : apprentissage de la lecture, de l'écriture, du calcul. – Collège à 11 ans. Intérêt pour les matières scientifiques. Difficultés en français. – Redoublement de la quatrième (moyenne générale de 8/20). – Lycée à 16 ans : pas de problèmes. Passion pour la technique et les technologies. Bac scientifique à dix-huit ans avec mention bien. – Après le bac : classe prépa scientifique. – Réussite au concours d'entrée de Supelec (grande école d'ingénieur). – Premier travail à 25 ans. {{T}}" }
+      ]
+    },
+    {
+      "page_no": 129, "seq": 10, "instruction_fr": "Est-ce qu'il/elle enseigne ou est-ce qu'il/elle est élève ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Romain apprend à lire aux enfants. → {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Alexandra prépare son cours sur la Révolution française. → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Léo apprend son cours sur la Révolution française. → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Ségolène apprend à parler l'anglais. → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Sergueï apprend le russe à quelques amis français. → {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Laura a fait un cours très intéressant sur le surréalisme. → {{b}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Tim suit des cours d'histoire de l'art le samedi. → {{b}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Leïla n'a pas cours le jeudi après-midi. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 129, "seq": 11, "instruction_fr": "Trouvez les adjectifs qui caractérisent ces personnages.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Quand le prof pose une question, Kevin est toujours le premier à vouloir répondre. {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. En cours, Marie ne fait pas de bruit, mais elle n'écoute pas le professeur : elle rêve. {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Adrien travaille peu, mais a toujours les meilleures notes. {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Ce professeur exige le silence en cours et met à la porte tout élève qui bavarde. {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. Anaël apprend par cœur ses leçons et fait ses devoirs très sérieusement. {{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. Julie ne travaille pas du tout à la maison. {{T}}" }
+      ]
+    },
+    {
+      "page_no": 129, "seq": 12, "instruction_fr": "Associez des phrases de sens équivalent.", "label": "a. Ses deux notes se compensent. | b. Il a enfin décidé de se mettre à travailler. | c. Il fait des progrès constants. | d. Il a obtenu la mention très bien. | e. Il n'est vraiment pas doué. | f. Il est très timide et ne lève jamais la main en classe. | g. Il met très rarement de bonnes notes. | h. Il sèche de temps en temps les cours. | i. Il a réussi son année correctement et est admis dans la classe supérieure. | j. Il a été recalé et doit redoubler.", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "1. Il travaille beaucoup mais n'a pas de bons résultats. → {{b}}" },
+        { "seq": 2, "type": "assoc", "stem_html": "2. Il s'absente parfois, même sans être malade. → {{b}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "3. Il note sévèrement. → {{b}}" },
+        { "seq": 4, "type": "assoc", "stem_html": "4. Il a eu une bonne et une mauvaise note. → {{b}}" },
+        { "seq": 5, "type": "assoc", "stem_html": "5. Il ne participe pas du tout à l'oral. → {{b}}" },
+        { "seq": 6, "type": "assoc", "stem_html": "6. Il a eu 8, puis 10, puis 11, puis 13. → {{b}}" },
+        { "seq": 7, "type": "assoc", "stem_html": "7. Il a complètement raté ses examens. → {{b}}" },
+        { "seq": 8, "type": "assoc", "stem_html": "8. Il a eu d'excellentes notes au bac. → {{b}}" },
+        { "seq": 9, "type": "assoc", "stem_html": "9. Il travaille deux heures par jour alors qu'avant, il ne faisait jamais ses devoirs. → {{b}}" },
+        { "seq": 10, "type": "assoc", "stem_html": "10. Il a eu d'assez bons résultats. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 129, "seq": 13, "instruction_fr": "À vous !", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Décrivez le système scolaire et universitaire de votre pays. {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Racontez votre propre scolarité. {{T}}" }
+      ]
+    }
+  ]
+}
