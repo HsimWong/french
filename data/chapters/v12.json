@@ -1,0 +1,173 @@
+{
+  "course": "vocabulaire",
+  "seq": 12,
+  "title_fr": "LES ACTIVITÉS QUOTIDIENNES",
+  "page_start": 78,
+  "page_end": 83,
+  "pdf_start": 80,
+  "pdf_end": 85,
+  "sections": [
+    { "title_fr": "LE MATIN ET LE SOIR", "page_no": 78 },
+    { "title_fr": "LE REPAS", "page_no": 78 },
+    { "title_fr": "LA TOILETTE", "page_no": 80 },
+    { "title_fr": "LE MÉNAGE ET LE LINGE", "page_no": 82 }
+  ],
+  "blocks": [
+    { "page_no": 78, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">12</span> LES ACTIVITÉS QUOTIDIENNES" },
+    { "page_no": 78, "seq": 2, "type": "section_title", "body_html": "LE MATIN ET LE SOIR" },
+    { "page_no": 78, "seq": 3, "type": "para", "body_html": "Il est sept heures à Paris, le réveil sonne. Manon <b>se réveille</b>, <b>se lève</b> et <b>se prépare</b> : elle <b>fait sa toilette</b> (<b>se lave</b>) et <b>s'habille</b>. Au même moment, il est une heure du matin à Montréal : Antoine, qui rentre d'une soirée chez des amis, <b>se déshabille</b>, <b>se couche</b> et <b>s'endort</b>." },
+    { "page_no": 78, "seq": 4, "type": "para", "body_html": "Pendant qu'Antoine dort, Manon <b>prend son petit déjeuner</b> en <b>écoutant</b> la radio. Quand elle a le temps, elle préfère <b>lire le journal</b> mais ce matin, elle est <b>pressée</b> et doit donc <b>se dépêcher</b>. Quand elle est prête, elle <b>réveille</b> sa petite fille, <b>l'habille</b> et lui prépare son petit déjeuner. Le soir, elle la <b>déshabille</b>, la <b>couche</b> et <b>l'endort</b> avec une chanson." },
+    { "page_no": 78, "seq": 5, "type": "section_title", "body_html": "LE REPAS" },
+    { "page_no": 78, "seq": 6, "type": "para", "body_html": "Chez les Landrin, le père <b>s'occupe des</b> repas. Il <b>fait les courses</b> et vers 18 heures, il commence à <b>cuisiner</b>, à <b>préparer le repas</b> du soir." },
+    { "page_no": 78, "seq": 7, "type": "para", "body_html": "À 19 h 45, il <b>met la table</b> (= il <b>met le couvert</b>)… car les Landrin <b>se mettent à table</b> (= <b>passent à table</b>) à 20 heures pile. Quand ils <b>sont à table</b>, Madame <b>sert le dîner</b>. Vers 20 h 45, Léa et son père <b>débarrassent la table</b> pendant que Madame est devant la télé. Hier, le lave-vaisselle était en panne. Léa a <b>fait la vaisselle</b> à la main avec du liquide vaisselle. Et son père a <b>essuyé la vaisselle</b> avec un torchon." },
+    { "page_no": 80, "seq": 8, "type": "running_head", "body_html": "LES ACTIVITÉS QUOTIDIENNES" },
+    { "page_no": 80, "seq": 9, "type": "section_title", "body_html": "LA TOILETTE" },
+    { "page_no": 80, "seq": 10, "type": "list", "body_html": "<div class='bullet'>Elle est sous la douche, elle prend <b>une douche</b>. Il est dans son bain, il prend <b>un bain</b>. Elle se savonne avec <b>du savon</b>. Il se lave la tête (= se lave les cheveux) avec <b>du shampooing</b>.</div>" },
+    { "page_no": 80, "seq": 11, "type": "list", "body_html": "<div class='bullet'>Il se brosse (= se lave) les dents avec <b>une brosse à dents</b> et <b>du dentifrice</b>. Il se peigne avec <b>un peigne</b>, elle se brosse les cheveux avec <b>une brosse</b> (= ils se coiffent).</div>" },
+    { "page_no": 80, "seq": 12, "type": "list", "body_html": "<div class='bullet'>Il met de <b>l'après-rasage</b> ou de <b>l'eau de toilette pour homme</b>, pour sentir bon. Elle se parfume : elle met de <b>l'eau de toilette</b> ou <b>du parfum</b> (le parfum est plus fort que l'eau de toilette).</div>" },
+    { "page_no": 80, "seq": 13, "type": "list", "body_html": "<div class='bullet'>Elle se rince (= enlève le savon avec de l'eau). Il s'essuie avec <b>une serviette</b> puis va se sécher les cheveux avec <b>le sèche-cheveux</b>.</div>" },
+    { "page_no": 80, "seq": 14, "type": "list", "body_html": "<div class='bullet'>Ils se regardent dans <b>la glace</b>. Il se rase avec de <b>la mousse à raser</b> et <b>un rasoir</b>. Elle met de <b>la crème</b> sur son visage.</div>" },
+    { "page_no": 80, "seq": 15, "type": "list", "body_html": "<div class='bullet'>Elle se maquille avec des <b>produits de maquillage</b> : elle se fait les yeux et met <b>du rouge à lèvres</b>. Le soir, elle se démaquille avec <b>un lait démaquillant</b> et <b>du coton</b>.</div>" },
+    { "page_no": 80, "seq": 16, "type": "list", "body_html": "<div class='bullet'>Il se coupe les ongles avec <b>un coupe-ongles</b>. Elle se fait les ongles (= elle met <b>du vernis à ongles</b>).</div>" },
+    { "page_no": 82, "seq": 17, "type": "running_head", "body_html": "LES ACTIVITÉS QUOTIDIENNES" },
+    { "page_no": 82, "seq": 18, "type": "section_title", "body_html": "LE MÉNAGE ET LE LINGE" },
+    { "page_no": 82, "seq": 19, "type": "para", "body_html": "Monsieur et madame Landrin n'ont pas de <b>femme de ménage</b>. Comme ils n'aiment pas <b>faire le ménage</b>, ils se partagent les <b>tâches ménagères</b>." },
+    { "page_no": 82, "seq": 20, "type": "list", "body_html": "<div class='bullet'>Mme Landrin <b>passe l'aspirateur</b>. Parfois, elle <b>donne un coup de balai</b> (elle passe le balai, elle balaie rapidement). Son mari fait (= enlève) la <b>poussière</b> avec un <b>chiffon</b>. Elle <b>nettoie</b> la salle de bains avec <b>une éponge</b> et du <b>produit d'entretien</b>.</div>" },
+    { "page_no": 82, "seq": 21, "type": "list", "body_html": "<div class='bullet'>Il <b>lave le carrelage</b> (le sol) avec <b>une serpillière</b> et un <b>balai-brosse</b>. Elle <b>cire</b> le parquet : ça brille ! Il <b>fait les vitres</b> (= il lave les carreaux).</div>" },
+    { "page_no": 82, "seq": 22, "type": "list", "body_html": "<div class='bullet'>Madame Landrin <b>s'occupe du linge</b>. Elle a <b>une machine à laver</b> toute neuve.</div>" },
+    { "page_no": 82, "seq": 23, "type": "list", "body_html": "<div class='bullet'>Elle <b>fait</b> à peu près trois <b>lessives</b> par semaine. Elle utilise <b>une lessive écologique</b>. Elle <b>lave</b> certains vêtements <b>délicats à la main</b>. Elle <b>étend le linge</b> avec <b>des pinces à linge</b>. Quand il est sec, elle <b>le ramasse</b>.</div>" },
+    { "page_no": 82, "seq": 24, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>La lessive désigne le produit que l'on met dans la machine à laver mais aussi l'action de laver le linge à la machine.</i>" },
+    { "page_no": 82, "seq": 25, "type": "list", "body_html": "<div class='bullet'>Les Landrin n'aiment pas non plus <b>faire le repassage</b>. Chacun <b>repasse</b> ses vêtements (avec <b>un fer à repasser</b>), les <b>plie</b> et les <b>range</b> dans les placards et armoires.</div>" },
+    { "page_no": 82, "seq": 26, "type": "para", "body_html": "Heureusement, Léa porte surtout des vêtements qui ne <b>se repassent</b> pas. Il reste une dernière activité quotidienne, réservée à Léa : <b>sortir</b> le chien." }
+  ],
+  "exercises": [
+    {
+      "page_no": 79, "seq": 1, "instruction_fr": "Choisissez dans la colonne de droite l'explication convenable.", "label": "a. Elles s'asseyent autour de la table. | b. Elles commencent à cuisiner. | c. Elles apportent le poulet sur la table. | d. Elles enlèvent les assiettes, les verres et les couverts et les emportent à la cuisine. | e. Elles sont assises autour de la table. | f. Elles placent les assiettes, les verres et les couverts sur la table.", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "1. Eva et Chloé sont à table. → {{b}}" },
+        { "seq": 2, "type": "assoc", "stem_html": "2. Eva et Chloé débarrassent la table. → {{b}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "3. Eva et Chloé mettent la table. → {{b}}" },
+        { "seq": 4, "type": "assoc", "stem_html": "4. Eva et Chloé se mettent à table. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 79, "seq": 2, "instruction_fr": "Complétez les phrases à l'aide des verbes suivants. (Attention : certains verbes doivent être conjugués ; les pronoms changent selon la personne.)", "label": "réveiller – se réveiller – se lever – habiller – essuyer – débarrasser – se préparer – se dépêcher – prendre – coucher – se coucher – faire – dormir – mettre – se mettre – déshabiller – endormir – lire", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Le matin, je préfère {{b}} tôt pour avoir le temps de {{b}} tranquillement. J'aime {{b}} mon petit déjeuner et {{b}} le journal avant de {{b}} ma toilette. Ensuite seulement, je {{b}} les enfants. C'est moi qui {{b}} la petite qui a quatre ans, mais le grand s'habille tout seul." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Moi, c'est le contraire : j'ai beaucoup de mal à {{b}} le matin. Je me {{b}} toujours en retard et je dois {{b}} pour partir au lycée." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. En ce moment, je suis très fatiguée : je {{b}} très tôt pour aller travailler, je {{b}} très tard tous les soirs et en plus, je {{b}} très mal." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Pablo a trois ans. Quand il est l'heure d'aller au lit, son père le {{b}}, le {{b}}, puis lui raconte une histoire pour l'{{b}}." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. « J'ai renversé de l'eau sur la table, tu veux bien l'{{b}} ? Tu peux prendre le torchon qui est là. Après ça, tu {{b}} le couvert et nous pourrons {{b}} à table. »" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Qui est-ce qui {{b}} la vaisselle, ce soir ? – Moi, j'ai déjà {{b}} la table !" }
+      ]
+    },
+    {
+      "page_no": 79, "seq": 3, "instruction_fr": "À vous !", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Dites dans quel ordre vous faites les choses quand vous préparez le matin. {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Racontez le dîner et la soirée d'une famille avec deux enfants de quatre et treize ans. {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Imaginez les activités quotidiennes d'un couple de personnes âgées. {{T}}" }
+      ]
+    },
+    {
+      "page_no": 81, "seq": 4, "instruction_fr": "Mots croisés : « Les objets de la salle de bains ».", "label": "Horizontalement : 1. Pour se coiffer. 2. Pour se laver la tête. 3. Pour se raser. 4. Pour se démaquiller. 5. Pour se faire les ongles. — Verticalement : a. Pour se raser. b. Pour se laver. c. Pour se parfumer. d. Pour se brosser les cheveux. e. Pour se laver les dents. f. Pour se regarder.", "note_html": "",
+      "has_image": true, "scan_pages": [81],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Horizontalement 1. Pour se coiffer. {{b}}" },
+        { "seq": 2, "type": "open", "stem_html": "Horizontalement 2. Pour se laver la tête. {{b}}" },
+        { "seq": 3, "type": "open", "stem_html": "Horizontalement 3. Pour se raser. {{b}}" },
+        { "seq": 4, "type": "open", "stem_html": "Horizontalement 4. Pour se démaquiller. {{b}}" },
+        { "seq": 5, "type": "open", "stem_html": "Horizontalement 5. Pour se faire les ongles. {{b}}" },
+        { "seq": 6, "type": "open", "stem_html": "Verticalement a. Pour se raser. {{b}}" },
+        { "seq": 7, "type": "open", "stem_html": "Verticalement b. Pour se laver. {{b}}" },
+        { "seq": 8, "type": "open", "stem_html": "Verticalement c. Pour se parfumer. {{b}}" },
+        { "seq": 9, "type": "open", "stem_html": "Verticalement d. Pour se brosser les cheveux. {{b}}" },
+        { "seq": 10, "type": "open", "stem_html": "Verticalement e. Pour se laver les dents. {{b}}" },
+        { "seq": 11, "type": "open", "stem_html": "Verticalement f. Pour se regarder. {{b}}" }
+      ]
+    },
+    {
+      "page_no": 81, "seq": 5, "instruction_fr": "Complétez.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Après le travail, Sabine aime {{b}} un bain et rester longtemps dans l'eau : ça lui fait du bien, c'est mieux qu'une {{b}}." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. « Chéri ! Tu m'entends ? Je suis dans la baignoire ! Je voudrais {{b}} les cheveux, mais le flacon de {{b}} est vide, tu peux m'en donner un autre, s'il te plaît ? »" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Le téléphone sonne : « – Allô ? Hervé ? Est-ce que je pourrais parler à Sabine ? – Non, elle est dans son {{b}}. »" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Ce soir, Sabine et son mari vont au théâtre. « Il faut te {{b}} ! Nous sommes en retard ! – Je peux quand même prendre deux minutes pour {{b}} les yeux et mettre un peu de {{b}} à lèvres ! – Non, viens, tu pourras te {{b}} dans la voiture. »" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Plus tard, après le théâtre… « Tu as sommeil ! Qu'est-ce que tu attends pour aller te {{b}} ? – Tu as raison. Je dois juste {{b}} les dents et me {{b}}. Ensuite, j'irai me coucher, en espérant que je pourrai m'{{b}} facilement et que je ne vais pas me {{b}} au milieu de la nuit. »" }
+      ]
+    },
+    {
+      "page_no": 83, "seq": 6, "instruction_fr": "Que fait-on après ? Complétez les phrases suivantes.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je lave le linge et ensuite, je l'{{b}}." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Je fais la vaisselle et ensuite, je l'{{b}}." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je repasse le linge et ensuite, je le {{b}}." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Je me déshabille et ensuite, je me {{b}}." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Je me rince et ensuite, je m'{{b}}." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Je me lave les cheveux et ensuite, je me les {{b}}." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Je me couche et ensuite, je m'{{b}}." }
+      ]
+    },
+    {
+      "page_no": 83, "seq": 7, "instruction_fr": "Faire ou se faire ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. {{b}} du repassage" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. {{b}} une lessive" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. {{b}} les yeux" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. {{b}} sa toilette" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. {{b}} les ongles" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. {{b}} le ménage" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. {{b}} les vitres" }
+      ]
+    },
+    {
+      "page_no": 83, "seq": 8, "instruction_fr": "Devinez de quels objets on parle.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Ils permettent de se démaquiller. {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. On les utilise pour enlever la poussière. {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. On le prend pour balayer. {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Il est nécessaire pour repasser. {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. On en met pour se parfumer. {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. On les utilise pour laver le sol. {{b}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. On l'utilise pour se laver les mains. {{b}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. On les utilise pour se coiffer. {{b}}" }
+      ]
+    },
+    {
+      "page_no": 83, "seq": 9, "instruction_fr": "Laver ou se laver ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. {{b}} les carreaux" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. {{b}} les mains" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. {{b}} les cheveux" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. {{b}} le sol" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. {{b}} la tête" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. {{b}} les dents" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. {{b}} le linge à la main" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. {{b}} les vitres" }
+      ]
+    },
+    {
+      "page_no": 83, "seq": 10, "instruction_fr": "À partir des indications suivantes, racontez la journée de Fabienne et John. Donnez un maximum de détails et faites des phrases complètes.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. 10 h – Arrivée dans la maison {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. 10 h-12 h 30 – Poussière (chiffon, balai, aspirateur), vitres {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. 13 h – Déjeuner au petit restaurant du village {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. 14 h 30-17 h – Nettoyage de la salle de bains et de la cuisine, lavage des sols {{T}}" },
+        { "seq": 5, "type": "open", "stem_html": "5. 18 h – Douche {{T}}" },
+        { "seq": 6, "type": "open", "stem_html": "6. 20 h – Dîner (ils ont apporté de quoi manger), vaisselle {{T}}" },
+        { "seq": 7, "type": "open", "stem_html": "7. 21 h 30 – Lecture du journal {{T}}" },
+        { "seq": 8, "type": "open", "stem_html": "8. 23 h – Coucher, puis bonne nuit de repos. {{T}}" },
+        { "seq": 9, "type": "open", "stem_html": "9. Lendemain à 8 h – Réveil et petit déjeuner au soleil dans le jardin : les vacances peuvent commencer. {{T}}" }
+      ]
+    }
+  ]
+}
