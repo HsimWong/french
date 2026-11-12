@@ -1,0 +1,215 @@
+{
+  "course": "grammaire",
+  "seq": 50,
+  "title_fr": "LES HYPOTHÈSES",
+  "page_start": 232,
+  "page_end": 237,
+  "pdf_start": 234,
+  "pdf_end": 239,
+  "sections": [
+    { "title_fr": "L'HYPOTHÈSE <em>sur</em> LE FUTUR", "page_no": 232 },
+    { "title_fr": "L'HYPOTHÈSE <em>sur</em> LE PRÉSENT", "page_no": 234 },
+    { "title_fr": "L'HYPOTHÈSE <em>sur</em> LE PASSÉ", "page_no": 234 }
+  ],
+  "blocks": [
+    { "page_no": 232, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">50</span> LES HYPOTHÈSES" },
+    { "page_no": 232, "seq": 2, "type": "keypoint", "body_html": "<strong>S'il fait</strong> beau demain, nous <strong>irons</strong> à la campagne." },
+    { "page_no": 232, "seq": 3, "type": "section_title", "body_html": "L'HYPOTHÈSE <em>sur</em> LE FUTUR" },
+    { "page_no": 232, "seq": 4, "type": "subhead", "body_html": "« <strong>QUAND</strong> » <em>et</em> « <strong>SI</strong> »" },
+    { "page_no": 232, "seq": 5, "type": "para", "body_html": "<p>• « <strong>Quand</strong> » suivi du futur simple indique une <strong>certitude</strong> :</p><p class='sample'><em>L'année prochaine, quand <strong>je reviendrai</strong>, j'<strong>irai</strong> au Ritz.</em><br><em>Demain, quand <strong>je sortirai</strong>, je <strong>passerai</strong> chez toi.</em></p>" },
+    { "page_no": 232, "seq": 6, "type": "para", "body_html": "<p>• S'il n'y a pas de certitude, on peut faire une <strong>hypothèse sur le futur</strong> avec :</p><p class='sample'>« <strong>SI</strong> » &nbsp;+&nbsp; PRÉSENT &nbsp;&nbsp; FUTUR SIMPLE</p><p class='sample'><em>L'année prochaine, si <strong>je reviens</strong> à Paris, j'<strong>irai</strong> au Ritz.</em><br><em>Demain, si <strong>je sors</strong> tôt, je <strong>passerai</strong> chez toi.</em></p>" },
+    { "page_no": 232, "seq": 7, "type": "warning", "body_html": "• <strong>Jamais de futur après « si » :</strong><br><em>S'il fait beau <strong>et si j'ai</strong> des vacances, j'irai à la plage.</em>" },
+    { "page_no": 232, "seq": 8, "type": "para", "body_html": "<p>• Il ne faut pas confondre le « si » de l'hypothèse et le « si » du discours indirect qui peut être suivi du futur :</p><p class='sample'><em>Je ne sais pas si (oui ou non) je <strong>partirai</strong>.</em><br><em>Il lui demande si (oui ou non) elle <strong>viendra</strong>.</em></p>" },
+    { "page_no": 232, "seq": 9, "type": "para", "body_html": "<p class='bullet'>Pour exprimer une <strong>généralité</strong>, on utilise « si » + présent/présent :</p><table class='data-table'><tr><td><em>Si on mange trop, on grossit.<br>Si je dors trop, j'ai mal à la tête.</em></td><td>(« si » = « quand »)</td></tr></table>" },
+    { "page_no": 232, "seq": 10, "type": "para", "body_html": "<p class='bullet'>Pour exprimer une <strong>recommandation</strong>, on utilise « si » + présent/impératif :</p><p class='sample'><em>Si tu sors, <strong>mets</strong> ton manteau !</em><br><em>Si tu as des problèmes, <strong>appelle</strong>-moi !</em></p>" },
+    { "page_no": 232, "seq": 11, "type": "xref", "body_html": "« Au cas où », p. 230" },
+
+    { "page_no": 234, "seq": 12, "type": "section_title", "body_html": "L'HYPOTHÈSE <em>sur</em> LE PRÉSENT" },
+    { "page_no": 234, "seq": 13, "type": "keypoint", "body_html": "Aujourd'hui, <strong>s'il faisait</strong> beau, j'<strong>irais</strong> à la piscine." },
+    { "page_no": 234, "seq": 14, "type": "para", "body_html": "<p class='bullet'>Quand on imagine quelque chose qui n'existe pas, on fait une <strong>hypothèse sur le présent</strong> avec :</p><p class='sample'>« <strong>SI</strong> » &nbsp;+&nbsp; IMPARFAIT &nbsp;&nbsp; CONDITIONNEL PRÉSENT</p><p class='sample'><em>Aujourd'hui, il ne fait pas beau. Je ne sors pas.</em><br><em>Aujourd'hui, <strong>s'il faisait</strong> beau, je <strong>sortirais</strong>.</em><br><em>Je ne suis pas français. Je parle mal français.</em><br><em><strong>Si j'étais</strong> français, je <strong>parlerais</strong> bien français.</em></p>" },
+    { "page_no": 234, "seq": 15, "type": "para", "body_html": "<p>• Pour faire une <strong>suggestion</strong>, on utilise « si » + imparfait :</p><table class='data-table'><tr><td><em><strong>Si on allait</strong> au cinéma ?</em><br><em><strong>Si on prenait</strong> un café ?</em></td><td>= Je propose d'aller au cinéma.<br>= Je propose de prendre un café.</td></tr></table>" },
+    { "page_no": 234, "seq": 16, "type": "section_title", "body_html": "L'HYPOTHÈSE <em>sur</em> LE PASSÉ" },
+    { "page_no": 234, "seq": 17, "type": "keypoint", "body_html": "Hier, <strong>s'il avait fait</strong> beau, je <strong>serais allé</strong> à la piscine." },
+    { "page_no": 234, "seq": 18, "type": "para", "body_html": "<p class='bullet'>Quand on imagine quelque chose qui n'a pas eu lieu, on fait une <strong>hypothèse sur le passé</strong> avec :</p><p class='sample'>« <strong>SI</strong> » &nbsp;+&nbsp; PLUS-QUE-PARFAIT &nbsp;&nbsp; CONDITIONNEL PASSÉ</p><p class='sample'><em>Dimanche dernier, il n'a pas fait beau. Je ne suis pas sorti.</em><br><em>Dimanche dernier, <strong>s'il avait fait</strong> beau, je <strong>serais sorti</strong>.</em><br><em>Hier, je suis parti en retard et j'ai raté le train.</em><br><em>Hier, <strong>si je n'étais pas parti</strong> en retard, je <strong>n'aurais pas raté</strong> le train.</em></p>" },
+    { "page_no": 234, "seq": 19, "type": "xref", "body_html": "« Au cas où », p. 230 &nbsp;&nbsp;&nbsp;&nbsp; Formation du conditionnel, p. 230" }
+  ],
+  "exercises": [
+    {
+      "page_no": 233, "seq": 1,
+      "instruction_fr": "Répondez, selon le modèle.",
+      "label": "", "note_html": "– Quand vous reviendrez à Paris, où habiterez-vous ? — Si je reviens à Paris, j'habiterai à l'hôtel.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. – Quand vous changerez de voiture, quelle voiture achèterez-vous ?<br>{{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. – Quand vous inviterez Alice à dîner, où l'emmènerez-vous ?<br>{{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. – Quand vous ferez une fête, ce sera un samedi ou un dimanche ?<br>{{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. – Quand vous partirez en vacances, où irez-vous ?<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 233, "seq": 2,
+      "instruction_fr": "Faites des phrases avec des conséquences « en chaîne », selon le modèle.",
+      "label": "Suite logique", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "Sortir sans parapluie → Se mouiller → Prendre froid → Tomber malade → Manquer l'école → Rater ses examens → Étudier pendant l'été → Ne pas partir en vacances !<br><em>Si tu sors sans parapluie, tu te mouilleras,</em><br><em>si tu te mouilles,</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 233, "seq": 3,
+      "instruction_fr": "Transformez, selon le modèle.",
+      "label": "", "note_html": "– Pour mieux dormir, mangez peu le soir ! — Si vous mangez peu le soir, vous dormirez mieux !", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "1. – Pour recevoir un catalogue, remplissez le formulaire ! {{L}}" },
+        { "seq": 2, "type": "transform", "stem_html": "2. – Pour être efficace, réorganisez vos services ! {{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "3. – Pour éviter les embouteillages, partez tôt ! {{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "4. – Pour faire moins d'erreurs, parlez plus lentement ! {{L}}" },
+        { "seq": 5, "type": "transform", "stem_html": "5. – Pour être plus en forme, prenez des vitamines ! {{L}}" }
+      ]
+    },
+    {
+      "page_no": 233, "seq": 4,
+      "instruction_fr": "Complétez librement les phrases.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Demain, s'il fait beau, nous {{L}} à la plage, mais si {{L}} , {{L}} au cinéma." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. J'attends un enfant, si c'est un garçon, je {{L}} Gabriel et si {{L}} Clara." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Si je vais à Lyon, je {{b}} le train, mais si {{L}} à Moscou, {{L}} l'avion." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Si je vais au restaurant chinois, {{L}} , mais si {{L}} ." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Si j'ai deux jours de congé, {{L}} , mais si {{L}} ." }
+      ]
+    },
+    {
+      "page_no": 235, "seq": 5,
+      "instruction_fr": "Répondez, selon le modèle.",
+      "label": "", "note_html": "– Si vous aviez mal aux dents, que feriez-vous ? — Si j'avais mal aux dents, j'irais chez le dentiste.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. – Si vous aviez un an de congé, où iriez-vous ?<br>{{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. – Si vous aviez un perroquet, comment l'appelleriez-vous ?<br>{{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. – Si vous changiez de ville un jour, où iriez-vous ?<br>{{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. – Si vous ne faisiez pas de grammaire en ce moment, que feriez-vous ?<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 235, "seq": 6,
+      "instruction_fr": "Imaginez d'autres réalités.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Je suis anglais. Je parle anglais. <em>Si j'étais français, je parlerais français.</em>" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. On est en hiver. Il fait froid. Si on {{L}} été, {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. J'habite en ville. Je n'ai pas de chien. Si j'{{L}} campagne, {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Tu ne fais pas d'efforts. Tu ne fais pas de progrès. Si tu {{L}} efforts, {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Je n'ai pas le permis. Je ne conduis pas. Si j'{{L}} permis, {{L}}" }
+      ]
+    },
+    {
+      "page_no": 235, "seq": 7,
+      "instruction_fr": "Transformez avec une hypothèse sur le présent.",
+      "label": "", "note_html": "– Vous avez besoin d'argent liquide, qu'est-ce que vous faites ? — Si j'avais besoin d'argent liquide, j'irais à la banque.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "1. – Vous trouvez un dossier dans un taxi, que faites-vous ?<br>{{L}}" },
+        { "seq": 2, "type": "transform", "stem_html": "2. – Il y a une fuite dans votre cuisine, qu'est-ce que vous faites ?<br>{{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "3. – Nous sommes bloqués dans l'ascenseur, que faites-vous ?<br>{{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "4. – Un voisin appelle au secours, qu'est-ce que vous faites ?<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 235, "seq": 8,
+      "instruction_fr": "Propositions pour améliorer les grandes villes. Faites des hypothèses.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "interdire le stationnement dans le centre - multiplier les passages souterrains pour les voitures - doubler le nombre de taxis - planter des arbres - utiliser les fleuves pour les transports - etc.<br><em>Si j'étais maire de ma ville,</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 236, "seq": 9,
+      "instruction_fr": "Transformez, selon le modèle. Complétez selon le modèle. Ma meilleure amie : Elle mange des gâteaux à tous les repas et elle ne grossit pas !",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "1. Elle met des talons de 20 centimètres, et elle ne se tord pas la cheville.<br>Moi, si {{L}}" },
+        { "seq": 2, "type": "transform", "stem_html": "2. Elle s'habille comme une gamine, et elle n'est pas ridicule.<br>Moi, si {{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "3. Elle sort sous la pluie sans parapluie et elle ne s'enrhume jamais.<br>Moi, si {{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "4. Elle fait ses vêtements elle-même et elle ressemble à une star.<br>Moi, si {{L}}" }
+      ]
+    },
+    {
+      "page_no": 236, "seq": 10,
+      "instruction_fr": "Complétez selon le modèle. Mon meilleur ami : Il mange des frites à tous les repas et il n'a pas de cholestérol !",
+      "label": "", "note_html": "Moi, si je mangeais des frites à tous les repas, j'aurais du cholestérol.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Il met du poivre et du piment dans tous les plats et il n'a pas mal à l'estomac.<br>Moi, si {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Il est beau, riche et intelligent et il n'est pas content.<br>Moi, si {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Il boit un litre d'alcool par jour et il est en super forme.<br>Moi, si {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Il a deux femmes, six enfants et trois chiens, et il tient le coup.<br>Moi, si {{L}}" }
+      ]
+    },
+    {
+      "page_no": 236, "seq": 11,
+      "instruction_fr": "Faites des propositions, selon le modèle. – Je suis fatiguée ! Si on faisait une pause ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "– On a 3 jours de congé, {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "– Il y a de bons films en ce moment : {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "– J'ai faim ! – Moi aussi : {{L}}" }
+      ]
+    },
+    {
+      "page_no": 236, "seq": 12,
+      "instruction_fr": "Au jeu des portraits chinois, décrivez oralement un ami, votre professeur…",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "une fleur - un légume - une couleur - une ville - un acteur/une actrice - une voiture<br><em>Si c'était une fleur, ce serait une violette</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 236, "seq": 13,
+      "instruction_fr": "Imaginez leur vie en commençant par « si j'étais »…",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [236],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "un chat - la reine d'Angleterre - un professeur de français - une star de football - un petit enfant<br><em>Si j'étais un chat,</em> {{T}}" }
+      ]
+    },
+    {
+      "page_no": 237, "seq": 14,
+      "instruction_fr": "Complétez avec une hypothèse sur le passé.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. J'ai gagné 1 000 euros à la Loterie. J'ai acheté une télévision.<br><em>Si j'avais gagné 100 000 euros,</em> {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Je suis allé dans un restaurant indien. J'ai mangé du poulet au curry.<br>{{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Je suis rentré chez moi en métro. J'ai mis une heure.<br>{{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. J'ai eu 19 sur 20 à mon devoir. J'ai été deuxième.<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 237, "seq": 15,
+      "instruction_fr": "Transformez avec une hypothèse sur le passé. Paul n'a pas pu venir au cocktail parce qu'il avait trop de travail.",
+      "label": "", "note_html": "S'il avait eu moins de travail, il serait venu au cocktail.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "transform", "stem_html": "1. Je ne suis pas allé(e) à la plage parce qu'il y avait trop de vent.<br>{{L}}" },
+        { "seq": 2, "type": "transform", "stem_html": "2. Marie n'a pas pris son vélo parce qu'il y avait trop de circulation.<br>{{L}}" },
+        { "seq": 3, "type": "transform", "stem_html": "3. Je ne suis pas allé(e) à la piscine parce qu'il y avait trop de monde.<br>{{L}}" },
+        { "seq": 4, "type": "transform", "stem_html": "4. Tu as eu mal à la tête parce que tu as bu trop de vin.<br>{{L}}" }
+      ]
+    },
+    {
+      "page_no": 237, "seq": 16,
+      "instruction_fr": "Complétez avec une hypothèse sur le passé.",
+      "label": "", "note_html": "– Avez-vous acheté un journal, ce matin ? — Non, mais si j'avais acheté un journal, j'aurais acheté le Times !", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Vous avez regardé la télévision, hier soir ? – Non, mais {{L}} un film." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Vous avez pris un apéritif à midi ? – Non, mais {{L}} un porto." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – Avez-vous mangé des fruits au déjeuner ? – Non, mais {{L}} du melon." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Êtes-vous parti(e) en week-end, la semaine dernière ? – Non, mais {{L}} en Bretagne." }
+      ]
+    },
+    {
+      "page_no": 237, "seq": 17,
+      "instruction_fr": "Complétez avec une hypothèse sur le passé.",
+      "label": "", "note_html": "André a perdu les livres que je lui avais confiés. Si j'avais su, je ne les lui aurais pas confiés.", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "2. Marta a jeté le beau dessin que je lui avais donné. {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "3. Mes voisins ont répété tout ce que je leur avais dit. {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "4. Mes amis ont détesté le restaurant que je leur avais conseillé. {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "5. Je me suis ennuyé(e) à la conférence de M. Boudet. {{L}}" }
+      ]
+    }
+  ]
+}
