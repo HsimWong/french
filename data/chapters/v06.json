@@ -1,0 +1,206 @@
+{
+  "course": "vocabulaire",
+  "seq": 6,
+  "title_fr": "LA MÉTÉO – LE CLIMAT",
+  "page_start": 36,
+  "page_end": 41,
+  "pdf_start": 38,
+  "pdf_end": 43,
+  "sections": [
+    { "title_fr": "DÉCRIRE LE TEMPS QU'IL FAIT", "page_no": 36 },
+    { "title_fr": "LES CLIMATS DANS LE MONDE", "page_no": 40 },
+    { "title_fr": "LES CHANGEMENTS CLIMATIQUES", "page_no": 40 }
+  ],
+  "blocks": [
+    { "page_no": 36, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">6</span> LA MÉTÉO – LE CLIMAT" },
+    { "page_no": 36, "seq": 2, "type": "section_title", "body_html": "DÉCRIRE LE TEMPS QU'IL FAIT" },
+    { "page_no": 36, "seq": 3, "type": "para", "body_html": "Les Français parlent beaucoup du <b>temps qu'il fait</b> avec leurs voisins, leurs collègues, les commerçants, etc." },
+    { "page_no": 36, "seq": 4, "type": "subhead", "body_html": "La lumière" },
+    { "page_no": 36, "seq": 5, "type": "table", "body_html": "<table class='vocab'><tr><th>Beau temps</th><th>Mauvais temps</th></tr><tr><td>Il fait beau, il fait soleil.</td><td>Il fait mauvais, il fait gris / nuageux.</td></tr><tr><td>Le temps est clair, il fait un soleil radieux.</td><td>La journée est pluvieuse, orageuse.</td></tr><tr><td>Le ciel est (complètement) dégagé.</td><td>Le ciel est couvert / chargé.</td></tr><tr><td>Il fait un temps splendide / magnifique / superbe.</td><td>Il fait un temps affreux / épouvantable / terrible.</td></tr><tr><td>Le temps est au beau fixe.</td><td>Le temps est changeant / incertain.</td></tr><tr><td>Le temps s'améliore : il va faire meilleur.</td><td>Le temps se dégrade.</td></tr></table>" },
+    { "page_no": 36, "seq": 6, "type": "subhead", "body_html": "La température" },
+    { "page_no": 36, "seq": 7, "type": "list", "body_html": "<div class='bullet'>Au Canada, les hivers peuvent être très <b>rigoureux / rudes</b>, il peut <b>faire très / extrêmement / horriblement froid</b>, il fait parfois <b>un froid de canard*</b>.<br>La température peut <b>descendre / chuter jusqu'à</b> – 30 °C (moins trente degrés Celsius) = <b>– 22 °F</b> (moins vingt-deux degrés Fahrenheit).</div>" },
+    { "page_no": 36, "seq": 8, "type": "list", "body_html": "<div class='bullet'>Dans le nord de la France, en été, il peut <b>faire chaud</b> dans la journée, mais le soir, <b>ça se rafraîchit</b>, <b>la température baisse</b>, il peut faire <b>frais</b>.</div>" },
+    { "page_no": 36, "seq": 9, "type": "list", "body_html": "<div class='bullet'>Aujourd'hui, il fait (<b>très</b>) <b>doux</b>, (<b>très</b>) <b>bon</b> (= ni trop chaud ni trop froid). Il <b>fait une température très agréable, idéale, délicieuse</b>.</div>" },
+    { "page_no": 36, "seq": 10, "type": "list", "body_html": "<div class='bullet'>En France, l'été 2003 a été marqué par <b>la canicule</b> : il a fait très / extrêmement / <b>terriblement chaud</b>. L'été a été <b>caniculaire</b>. Il a fait une <b>chaleur insupportable / torride</b>.</div>" },
+    { "page_no": 36, "seq": 11, "type": "list", "body_html": "<div class='bullet'><b>On annonce</b> pour lundi une (<b>forte</b>) <b>hausse</b> (≠ <b>baisse</b>) des températures : les températures <b>sont en hausse</b> (≠ <b>en baisse</b>), <b>ça se réchauffe</b> (≠ <b>ça se refroidit</b>) ; on va <b>gagner</b> 3° (≠ on va <b>perdre</b> 3°).</div>" },
+    { "page_no": 36, "seq": 12, "type": "list", "body_html": "<div class='bullet'>Les températures sont <b>supérieures</b> (≠ <b>inférieures</b>) aux <b>normales saisonnières</b> (= <b>de saison</b>).</div>" },
+
+    { "page_no": 38, "seq": 13, "type": "running_head", "body_html": "LA MÉTÉO – LE CLIMAT" },
+    { "page_no": 38, "seq": 14, "type": "subhead", "body_html": "Le vent" },
+    { "page_no": 38, "seq": 15, "type": "list", "body_html": "<div class='bullet'>Le temps est <b>calme</b> : il n'y a pas un souffle de vent.</div>" },
+    { "page_no": 38, "seq": 16, "type": "list", "body_html": "<div class='bullet'><b>On sent</b> une petite <b>brise</b>, un vent très doux.</div>" },
+    { "page_no": 38, "seq": 17, "type": "list", "body_html": "<div class='bullet'>Lundi, le vent du nord <b>sera sensible</b> et accentuera la sensation de froid.</div>" },
+    { "page_no": 38, "seq": 18, "type": "list", "body_html": "<div class='bullet'>Le temps est très <b>agité</b>, il y a <b>beaucoup de vent</b>. Les <b>rafales</b> (= les <b>coups de vent</b>, les <b>bourrasques</b>) peuvent <b>atteindre</b> 80 km/h (kilomètres par heure).</div>" },
+    { "page_no": 38, "seq": 19, "type": "list", "body_html": "<div class='bullet'>Le vent <b>s'est levé</b> ≠ le vent <b>est tombé</b>.</div>" },
+    { "page_no": 38, "seq": 20, "type": "subhead", "body_html": "La pluie, la neige, l'humidité" },
+    { "page_no": 38, "seq": 21, "type": "list", "body_html": "<div class='bullet'>Il va <b>pleuvoir</b> toute la semaine. Nous aurons <b>un temps pluvieux, humide</b> (≠ <b>sec</b>). <b>La météo</b> (= les <b>prévisions météorologiques</b>) annonce <b>beaucoup d'humidité</b> : « <b>De fortes précipitations</b> (= pluies) <b>sont à prévoir</b> ».</div>" },
+    { "page_no": 38, "seq": 22, "type": "list", "body_html": "<div class='bullet'>En revanche, on annonce <b>une longue sécheresse</b> (= absence prolongée de pluie) pour l'été prochain. Les agriculteurs sont inquiets.</div>" },
+    { "page_no": 38, "seq": 23, "type": "list", "body_html": "<div class='bullet'>Hier, <b>il a plu un peu, il est tombé quelques gouttes</b>, mais rien de sérieux. Au contraire, pour demain, on <b>prévoit une pluie continue</b> (toute la journée).</div>" },
+    { "page_no": 38, "seq": 24, "type": "list", "body_html": "<div class='bullet'>Dimanche, il a plu <b>à torrents, à verse</b> : nous avons eu <b>une pluie battante</b> (très forte) toute la journée.</div>" },
+    { "page_no": 38, "seq": 25, "type": "list", "body_html": "<div class='bullet'>Au printemps, il y a souvent des <b>averses</b>, des <b>giboulées</b> (= de fortes pluies mais de courte durée) <b>entrecoupées d'éclaircies</b> (= de moments ensoleillés).</div>" },
+    { "page_no": 38, "seq": 26, "type": "list", "body_html": "<div class='bullet'>Depuis trois jours, il y a <b>de la bruine</b> (= une petite pluie très fine).</div>" },
+    { "page_no": 38, "seq": 27, "type": "list", "body_html": "<div class='bullet'>Je ne prends pas la voiture demain car on annonce beaucoup de <b>brouillard</b> (= un <b>brouillard épais</b>) : il paraît qu'on n'y verra rien, c'est très dangereux. « Après <b>dissipation des brumes matinales</b> (= disparition d'un léger brouillard), <b>le soleil s'imposera</b>. »</div>" },
+    { "page_no": 38, "seq": 28, "type": "list", "body_html": "<div class='bullet'>Lorsqu'il fait soleil juste après la pluie, on voit parfois <b>un arc-en-ciel</b> (de toutes les couleurs).</div>" },
+    { "page_no": 38, "seq": 29, "type": "list", "body_html": "<div class='bullet'><b>Il neige</b> un peu (= <b>il tombe quelques flocons</b>), mais <b>ça ne tiendra pas</b>.</div>" },
+    { "page_no": 38, "seq": 30, "type": "list", "body_html": "<div class='bullet'>Il a beaucoup <b>neigé</b>, il y a eu <b>une tempête de neige</b>, il est tombé <b>cinquante centimètres de neige</b>, il y a des <b>congères</b> au bord des routes. Le <b>chasse-neige</b> va passer pour <b>déblayer</b> les routes.</div>" },
+    { "page_no": 38, "seq": 31, "type": "list", "body_html": "<div class='bullet'>Il va <b>geler</b> dans la nuit (il va faire – 10°) et il y a des <b>risques de verglas</b> sur les routes, ça va <b>glisser</b>. Même les trottoirs vont être <b>glissants</b>.</div>" },
+    { "page_no": 38, "seq": 32, "type": "list", "body_html": "<div class='bullet'>Il fait froid ce matin, il y a du <b>givre</b> sur les vitres de la voiture.</div>" },
+
+    { "page_no": 40, "seq": 33, "type": "running_head", "body_html": "LA MÉTÉO – LE CLIMAT" },
+    { "page_no": 40, "seq": 34, "type": "subhead", "body_html": "La tempête" },
+    { "page_no": 40, "seq": 35, "type": "list", "body_html": "<div class='bullet'>Il fait très chaud et très <b>lourd</b>, de gros nuages arrivent par l'ouest, on commence à entendre le <b>tonnerre</b> (des <b>coups de tonnerre</b>). Tout à coup, on peut voir des <b>éclairs</b> dans le ciel : <b>l'orage éclate</b>. Les arbres peuvent être touchés par <b>la foudre</b>. <b>Il se met à</b> pleuvoir, puis la pluie se transforme en <b>grêle</b> (de petits morceaux de glace tombent du ciel) : c'est <b>un orage de grêle</b>.</div>" },
+    { "page_no": 40, "seq": 36, "type": "list", "body_html": "<div class='bullet'>Les <b>violents</b> orages du week-end ont provoqué des <b>inondations</b>. La rivière a <b>débordé</b> et a envahi les routes et les villages.</div>" },
+    { "page_no": 40, "seq": 37, "type": "section_title", "body_html": "LES CLIMATS DANS LE MONDE" },
+    { "page_no": 40, "seq": 38, "type": "list", "body_html": "<div class='bullet'>La France connaît un <b>climat tempéré</b> (globalement ni très chaud, ni très froid), avec trois nuances : climat <b>océanique</b> à l'ouest (<b>humide</b>, avec des températures douces l'hiver, pas très élevées l'été), climat <b>méditerranéen</b> au sud (températures douces en hiver, très élevées en été, grand <b>ensoleillement</b> en général), climat <b>continental</b> dans la moitié Est du pays (grands écarts de températures entre l'été et l'hiver).</div>" },
+    { "page_no": 40, "seq": 39, "type": "list", "body_html": "<div class='bullet'>Mais il existe des climats beaucoup plus chauds comme les climats <b>tropicaux</b> (<b>secs</b> ou humides) et des climats beaucoup plus froids comme le climat <b>polaire</b>. Le climat tropical d'Inde et d'Indonésie est marqué par <b>la mousson</b> (= <b>saison des pluies</b> pendant l'été), mais on parle maintenant de mousson dans les régions tropicales d'Afrique, d'Amérique du Sud et du Nord.</div>" },
+    { "page_no": 40, "seq": 40, "type": "list", "body_html": "<div class='bullet'>Les climats tropicaux favorisent les <b>cyclones</b>, les <b>ouragans</b>, les <b>tornades</b>, (= tempêtes extrêmement violentes). Les vents violents et les pluies <b>torrentielles, diluviennes</b> (= très fortes) <b>emportent</b> tout sur leur passage : voitures, maisons…, provoquent des <b>dégâts</b> très importants et font beaucoup de morts. Des villes peuvent être <b>inondées</b>, des quartiers peuvent être <b>détruits</b>, des régions entières sont parfois <b>dévastées</b>.</div>" },
+    { "page_no": 40, "seq": 41, "type": "section_title", "body_html": "LES CHANGEMENTS CLIMATIQUES" },
+    { "page_no": 40, "seq": 42, "type": "list", "body_html": "<div class='bullet'>Les <b>changements climatiques</b>, le <b>réchauffement de la planète</b> constituent un sujet polémique. Les uns pensent qu'ils sont naturels tandis que les <b>écologistes</b> (qui cherchent à <b>protéger l'environnement</b>) pensent que les activités humaines accélèrent ce réchauffement. Selon eux, <b>l'utilisation massive</b> (= très importante) des <b>énergies fossiles</b> (le pétrole, le gaz naturel), provoque <b>l'émission de gaz à effet de serre</b>. Ils proposent de <b>réduire</b> les gaz à effet de serre et de remplacer les énergies fossiles par des <b>énergies renouvelables</b> (le soleil, le vent, la force de la mer).</div>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 37, "seq": 1,
+      "instruction_fr": "Éliminez l'intrus.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Ça se rafraîchit. / Les températures sont en hausse. / Ça se refroidit. / La température baisse. → {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Le ciel est chargé. / Le ciel est dégagé. / Il fait soleil. / Le temps est clair. → {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. un hiver froid / un hiver rude / un hiver rigoureux / un hiver doux → {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. canicule / chaleur torride / fraîcheur / 40 °C → {{L}}" }
+      ]
+    },
+    {
+      "page_no": 37, "seq": 2,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Le temps est clair donc il va pleuvoir.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Le temps est changeant : un jour il fait beau et le lendemain il fait gris.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Le temps est au beau fixe : il fait beau depuis trois semaines et ça va durer.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Le temps se dégrade : il fera beau demain.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Le temps s'améliore : il fera beau demain.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Les températures sont en baisse : ça se réchauffe.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. C'est la canicule : la température chute.<br>Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 8, "type": "tf", "stem_html": "8. Il fait un soleil radieux : il fait un temps superbe.<br>Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 37, "seq": 3,
+      "instruction_fr": "Dites le contraire.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Les températures sont inférieures aux normales de saison. {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Les températures sont en hausse. {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. L'hiver dernier a été doux. {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Le ciel est couvert. {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Il va faire un temps splendide. {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Il fait un froid de canard. {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Ça se réchauffe. {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Le temps se dégrade. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 37, "seq": 4,
+      "instruction_fr": "Complétez.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. – Bonjour Valérie, ça va ?" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. – Oh non, je trouve qu'il fait un {{b}} de canard !" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. – C'est vrai que ça s'est {{b}}. On a {{b}} dix degrés en trois jours !" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. – Heureusement, on annonce une {{b}} des températures pour la semaine prochaine." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. – Tant mieux parce que pour l'instant, elles sont nettement inférieures aux {{b}}." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. – Quand je pense à la {{b}} qu'il faisait il y a un mois !" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. – Tu as raison. C'était vraiment la {{b}} : chaleur torride et soleil." }
+      ]
+    },
+    {
+      "page_no": 39, "seq": 5,
+      "instruction_fr": "Associez.",
+      "label": "a. En réalité, il n'est tombé que quelques gouttes dimanche. &nbsp; b. On a eu la chance d'avoir une belle éclaircie durant le déjeuner. &nbsp; c. Mais le soleil a fini par s'imposer. &nbsp; d. Ça fera du bien, après deux mois de sécheresse. &nbsp; e. Elle n'aime pas du tout l'humidité. &nbsp; f. Oui, il va y avoir une tempête de neige. &nbsp; g. Le trottoir était tout glissant, il a gelé pendant la nuit.",
+      "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "1. Est-ce que tu as entendu la météo ? → {{b}}" },
+        { "seq": 2, "type": "assoc", "stem_html": "2. Je suis tombé sur le trottoir en allant au travail. → {{b}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "3. La météo prévoit pour demain de fortes précipitations dans toute la France. → {{b}}" },
+        { "seq": 4, "type": "assoc", "stem_html": "4. On nous avait annoncé une pluie battante pour le week-end dernier. → {{b}}" },
+        { "seq": 5, "type": "assoc", "stem_html": "5. Il y avait du brouillard, ce matin. → {{b}}" },
+        { "seq": 6, "type": "assoc", "stem_html": "6. Elle aime les hivers froids et secs. → {{b}}" },
+        { "seq": 7, "type": "assoc", "stem_html": "7. On a pu manger dehors entre deux averses. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 39, "seq": 6,
+      "instruction_fr": "Dites la même chose avec d'autres mots.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. On prévoit de fortes précipitations accompagnées de bourrasques de vent. {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Hier, il a fait un temps magnifique, avec juste un petit vent très doux. {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. L'été dernier, la canicule a duré un mois et demi. {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Demain, il pleuvra à verse, on annonce un temps très agité. {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Le ciel a été chargé toute la semaine, mais il va faire meilleur la semaine prochaine. {{L}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Cette année, nous n'avons pas eu d'averses au printemps. {{L}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Il est tombé très peu de neige ce matin, mais la météo annonce des chutes de neige importantes la nuit prochaine. {{L}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. Il n'est pas tombé une goutte de pluie depuis des mois. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 39, "seq": 7,
+      "instruction_fr": "Choisissez la ou les bonne(s) réponse(s).",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. On {{o:annonce|voit|prévoit}} un temps magnifique pour le week-end." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Il pleut {{o:averse|à torrents|à verse}}." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Le vent du nord va souffler très fort. Il accentuera {{o:la sensation de froid|la hausse des températures|les températures de saison}}." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Il a gelé la nuit dernière. {{o:Les routes sont glissantes.|Ça glisse sur les routes.|Il y a du verglas sur les routes.}}" },
+        { "seq": 5, "type": "choice", "stem_html": "5. Quand il y a simultanément du soleil et de la pluie, on voit {{o:un arc|un arc-en-ciel|une canicule}}." },
+        { "seq": 6, "type": "choice", "stem_html": "6. En hiver, il y a souvent {{o:du bruit|du brouillard|de la brume}}." }
+      ]
+    },
+    {
+      "page_no": 41, "seq": 8,
+      "instruction_fr": "Quel temps fait-il ? Décrivez avec précision les situations suivantes.",
+      "label": "", "note_html": "", "has_image": true, "scan_pages": [41],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. {{L}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. {{L}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. {{L}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 41, "seq": 9,
+      "instruction_fr": "Identifiez le climat de chacune de ces villes ou de ces régions.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. À Naples, l'hiver n'est pas froid, l'été est très chaud et il fait souvent soleil. {{L}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Au nord de l'Alaska, l'hiver est extrêmement long et rigoureux. Même l'été, il fait froid. Les lacs restent gelés la plus grande partie de l'année. {{L}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. En Guadeloupe, il fait chaud l'hiver et encore plus chaud l'été. L'air est très humide. {{L}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. En Bretagne, l'hiver est doux et l'été souvent assez frais. Il pleut régulièrement car l'océan Atlantique apporte beaucoup de nuages. {{L}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. À Strasbourg, l'hiver est froid et l'été est chaud. {{L}}" }
+      ]
+    },
+    {
+      "page_no": 41, "seq": 10,
+      "instruction_fr": "Complétez.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Questions posées à un scientifique au sujet des {{b}} climatiques :" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Bonjour, Professeur, croyez-vous au {{b}} de la planète ?" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Pensez-vous que les énergies {{b}} en soient la cause ?" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Est-ce qu'elles sont un danger pour l'{{b}} ?" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Est-il vrai que leur utilisation provoque l'émission de {{b}} ?" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Pensez-vous qu'il soit possible de {{b}} les gaz à effet de serre ?" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Les énergies {{b}} constituent-elles vraiment une solution ?" }
+      ]
+    },
+    {
+      "page_no": 41, "seq": 11,
+      "instruction_fr": "À vous !",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Décrivez, avec le plus de précision possible, le temps qu'il fait aujourd'hui.<br>{{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Décrivez, avec le plus de précision possible, le climat de votre pays.<br>{{T}}" }
+      ]
+    }
+  ]
+}
