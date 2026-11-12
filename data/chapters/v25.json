@@ -1,0 +1,1035 @@
+{
+  "course": "vocabulaire",
+  "seq": 25,
+  "title_fr": "L'ART ET LA CULTURE",
+  "page_start": 168,
+  "page_end": 173,
+  "pdf_start": 170,
+  "pdf_end": 175,
+  "sections": [
+    {
+      "title_fr": "LA CULTURE",
+      "page_no": 168
+    },
+    {
+      "title_fr": "L'HISTOIRE ET LES MONUMENTS HISTORIQUES",
+      "page_no": 168
+    },
+    {
+      "title_fr": "LA PEINTURE",
+      "page_no": 168
+    },
+    {
+      "title_fr": "LE LIVRE ET L'ÉDITION",
+      "page_no": 170
+    },
+    {
+      "title_fr": "LE CINÉMA",
+      "page_no": 170
+    },
+    {
+      "title_fr": "LA MUSIQUE",
+      "page_no": 172
+    },
+    {
+      "title_fr": "LE THÉÂTRE ET L'OPÉRA",
+      "page_no": 172
+    },
+    {
+      "title_fr": "SE PRODUIRE EN PUBLIC",
+      "page_no": 172
+    },
+    {
+      "title_fr": "QUELQUES COMMENTAIRES",
+      "page_no": 172
+    }
+  ],
+  "blocks": [
+    {
+      "page_no": 168,
+      "seq": 1,
+      "type": "chapter_title",
+      "body_html": "<span class='ch-no'>25</span> L'ART ET LA CULTURE"
+    },
+    {
+      "page_no": 168,
+      "seq": 2,
+      "type": "section_title",
+      "body_html": "LA CULTURE"
+    },
+    {
+      "page_no": 168,
+      "seq": 3,
+      "type": "list",
+      "body_html": "<div class='bullet'>Les Français sont attachés à la notion de culture générale : on doit avoir des connaissances en littérature, peinture, histoire, musique, géographie...</div>"
+    },
+    {
+      "page_no": 168,
+      "seq": 4,
+      "type": "list",
+      "body_html": "<div class='bullet'>Le gouvernement français a un ministère de la Culture qui donne des subventions (= de l'argent) à des organismes culturels. Cela permet d'organiser des manifestations culturelles, des spectacles...</div>"
+    },
+    {
+      "page_no": 168,
+      "seq": 5,
+      "type": "list",
+      "body_html": "<div class='bullet'>Pauline sort souvent au théâtre, au cinéma, au musée. Elle aime beaucoup les sorties. Elle s'intéresse à la culture en général : elle est cultivée. Malheureusement, d'autres gens sont incultes et ne s'intéressent à rien !</div>"
+    },
+    {
+      "page_no": 168,
+      "seq": 6,
+      "type": "section_title",
+      "body_html": "L'HISTOIRE ET LES MONUMENTS HISTORIQUES"
+    },
+    {
+      "page_no": 168,
+      "seq": 7,
+      "type": "list",
+      "body_html": "<div class='bullet'>Daniel est passionné d'histoire. Il a lu des livres d'histoire, des romans historiques, il s'intéresse à toutes les périodes de l'histoire : l'Antiquité, le Moyen Âge, la Renaissance, l'époque moderne et contemporaine.</div>"
+    },
+    {
+      "page_no": 168,
+      "seq": 8,
+      "type": "list",
+      "body_html": "<div class='bullet'>Ce château date de quelle période ?<br>– Il est médiéval, il date du Moyen Âge.<br>– Et l'église ?<br>– L'église n'est pas de la même époque, elle date de la Renaissance. Elle était en mauvais état, mais elle a été restaurée il y a quelques années. La restauration a duré deux ans.</div>"
+    },
+    {
+      "page_no": 168,
+      "seq": 9,
+      "type": "list",
+      "body_html": "<div class='bullet'>Les Français passent du temps à visiter les monuments historiques, leur patrimoine historique. Cela fait partie de la culture générale. Ils visitent un château, une église, une abbaye et les nombreux villages anciens et pittoresques.</div>"
+    },
+    {
+      "page_no": 168,
+      "seq": 10,
+      "type": "list",
+      "body_html": "<div class='bullet'>Chaque année, en septembre, un week-end est réservé aux Journées du patrimoine : on peut visiter gratuitement des centaines de bâtiments habituellement fermés (≠ ouverts) au public.</div>"
+    },
+    {
+      "page_no": 168,
+      "seq": 11,
+      "type": "section_title",
+      "body_html": "LA PEINTURE"
+    },
+    {
+      "page_no": 168,
+      "seq": 12,
+      "type": "list",
+      "body_html": "<div class='bullet'>Gabriel va voir des tableaux dans les musées de peinture ou dans des galeries d'art : il admire un portrait, un paysage, une scène religieuse...</div>"
+    },
+    {
+      "page_no": 168,
+      "seq": 13,
+      "type": "list",
+      "body_html": "<div class='bullet'>Colombe aime beaucoup les expositions de peinture : les œuvres d'un peintre sont exposées temporairement. En général, elle achète le catalogue de l'expo*.</div>"
+    },
+    {
+      "page_no": 170,
+      "seq": 14,
+      "type": "running_head",
+      "body_html": "L'ART ET LA CULTURE"
+    },
+    {
+      "page_no": 170,
+      "seq": 15,
+      "type": "section_title",
+      "body_html": "LE LIVRE ET L'ÉDITION"
+    },
+    {
+      "page_no": 170,
+      "seq": 16,
+      "type": "list",
+      "body_html": "<div class='bullet'>Alain est passionné de littérature, c'est un grand lecteur, il lit beaucoup, aussi bien de longs romans que des nouvelles (= roman court). Il achète des livres dans une librairie où il en emprunte dans une bibliothèque.</div>"
+    },
+    {
+      "page_no": 170,
+      "seq": 17,
+      "type": "list",
+      "body_html": "<div class='bullet'>Joëlle a lu toutes les œuvres d'Albert Cohen. Elle me conseille un livre de cet écrivain.</div>"
+    },
+    {
+      "page_no": 170,
+      "seq": 18,
+      "type": "list",
+      "body_html": "<div class='bullet'>Qu'est-ce que tu lis, en ce moment ?<br>– Je lis un ouvrage de philosophie.<br>– Où est-ce que tu en es ?<br>– J'en suis à la page 47. J'en suis au milieu d'un chapitre.<br>– Moi, je préfère la poésie. J'aime apprendre des poèmes par cœur. Si tu veux, je peux te réciter un poème de René Char.</div>"
+    },
+    {
+      "page_no": 170,
+      "seq": 19,
+      "type": "list",
+      "body_html": "<div class='bullet'>Les bouquinistes vendent des livres d'occasion (≠ neufs) ou des livres anciens, de grande valeur.</div>"
+    },
+    {
+      "page_no": 170,
+      "seq": 20,
+      "type": "list",
+      "body_html": "<div class='bullet'>La France a de nombreux prix littéraires, qui récompensent une œuvre particulière ou un écrivain. Le prix Goncourt est le plus prestigieux. Tel auteur reçoit / a un prix littéraire.</div>"
+    },
+    {
+      "page_no": 170,
+      "seq": 21,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarque culturelle.</span> <i>Les bouquinistes des bords de la Seine sont l'un des charmes de Paris. Ils sont protégés par l'Unesco. Par ailleurs, de nombreux bouquinistes et libraires sont installés en Bretagne, dans le village de Bécherel, qui constitue la 1re cité du Livre en France et la 3e en Europe.</i>"
+    },
+    {
+      "page_no": 170,
+      "seq": 22,
+      "type": "section_title",
+      "body_html": "LE CINÉMA"
+    },
+    {
+      "page_no": 170,
+      "seq": 23,
+      "type": "list",
+      "body_html": "<div class='bullet'>« Le cinéma » est le nom de l'art et celui de la salle où l'on passe des films : Anne est passionnée de cinéma et va souvent au cinéma.</div>"
+    },
+    {
+      "page_no": 170,
+      "seq": 24,
+      "type": "list",
+      "body_html": "<div class='bullet'>On peut voir un film en version originale (en « v.o. ») ou en version française (en « v.f. »). Les ciné-clubs et les cinémathèques passent des films de qualité.</div>"
+    },
+    {
+      "page_no": 170,
+      "seq": 25,
+      "type": "list",
+      "body_html": "<div class='bullet'>Au cinéma, on peut voir un grand film (= un film de grande qualité), un grand classique (= un film ancien et très connu), un petit film (= un film à petit budget), un film muet (≠ parlant), un film en noir et blanc (≠ en couleur), ou encore un film en 3D.</div>"
+    },
+    {
+      "page_no": 170,
+      "seq": 26,
+      "type": "list",
+      "body_html": "<div class='bullet'>En ce moment, un cinéaste est en train de tourner un film dans mon quartier : il dirige les acteurs et les actrices, les techniciens et leurs caméras, sur le lieu du tournage. Ce cinéaste célèbre / très connu (≠ inconnu) a réalisé / fait de nombreux films.</div>"
+    },
+    {
+      "page_no": 172,
+      "seq": 27,
+      "type": "running_head",
+      "body_html": "L'ART ET LA CULTURE"
+    },
+    {
+      "page_no": 172,
+      "seq": 28,
+      "type": "section_title",
+      "body_html": "LA MUSIQUE"
+    },
+    {
+      "page_no": 172,
+      "seq": 29,
+      "type": "list",
+      "body_html": "<div class='bullet'>Dans la famille Masson, tout le monde est musicien ! Le père est compositeur, il compose de la musique de films. La mère est musicienne aussi, elle joue du violon, elle est violoniste. Le fils chante dans une chorale d'amateurs, mais il n'est pas chanteur professionnel. La fille est pianiste, elle est aussi professeur de piano au conservatoire de musique. L'oncle est chef d'orchestre et il dirige un orchestre symphonique.</div>"
+    },
+    {
+      "page_no": 172,
+      "seq": 30,
+      "type": "list",
+      "body_html": "<div class='bullet'>Toute la famille Masson donne des concerts / se produit en concert. Le public va / assiste aux concerts de cette famille exceptionnelle !</div>"
+    },
+    {
+      "page_no": 172,
+      "seq": 31,
+      "type": "list",
+      "body_html": "<div class='bullet'>Mon fils joue de la guitare, mais il n'aime pas la musique classique : il joue dans un groupe de rap. Ma fille joue du saxophone et elle fait du rock et du jazz avec des amis.</div>"
+    },
+    {
+      "page_no": 172,
+      "seq": 32,
+      "type": "section_title",
+      "body_html": "LE THÉÂTRE ET L'OPÉRA"
+    },
+    {
+      "page_no": 172,
+      "seq": 33,
+      "type": "list",
+      "body_html": "<div class='bullet'>Le public va au théâtre pour voir une pièce de théâtre, et à l'opéra pour voir un opéra. Le metteur en scène fait la mise en scène : il dirige les acteurs (-trices) / comédiens (-iennes) ou les chanteurs (-euses), et choisit les décors.</div>"
+    },
+    {
+      "page_no": 172,
+      "seq": 34,
+      "type": "remark",
+      "body_html": "<span class='remark-label'>Remarque.</span> <i>Les mêmes mots (« théâtre », « opéra ») désignent l'activité et le bâtiment.</i>"
+    },
+    {
+      "page_no": 172,
+      "seq": 35,
+      "type": "section_title",
+      "body_html": "SE PRODUIRE EN PUBLIC"
+    },
+    {
+      "page_no": 172,
+      "seq": 36,
+      "type": "list",
+      "body_html": "<div class='bullet'>Avant de se produire en public, les acteurs, les musiciens, les danseurs (-euses) répètent le spectacle : ils participent à une répétition.</div>"
+    },
+    {
+      "page_no": 172,
+      "seq": 37,
+      "type": "list",
+      "body_html": "<div class='bullet'>Avant d'entrer en scène, de nombreux acteurs ont le trac (= la nervosité typique des acteurs).</div>"
+    },
+    {
+      "page_no": 172,
+      "seq": 38,
+      "type": "list",
+      "body_html": "<div class='bullet'>À la fin du spectacle, les interprètes, les comédiens, les danseurs saluent le public. S'ils ont bien joué, le public applaudit. S'ils ont mal joué, les spectateurs (-trices) sifflent !</div>"
+    },
+    {
+      "page_no": 172,
+      "seq": 39,
+      "type": "section_title",
+      "body_html": "QUELQUES COMMENTAIRES"
+    },
+    {
+      "page_no": 172,
+      "seq": 40,
+      "type": "list",
+      "body_html": "<div class='bullet'>Ce spectacle est très bon / magnifique / superbe / splendide / admirable ≠ (très) ennuyeux / mauvais / absolument nul / vulgaire...</div>"
+    },
+    {
+      "page_no": 172,
+      "seq": 41,
+      "type": "list",
+      "body_html": "<div class='bullet'>C'est un grand succès ! Ce spectacle, cet acteur, ont eu beaucoup de succès < un succès fou. ≠ Ce spectacle, cet acteur, n'ont eu aucun succès. < C'est un échec total !</div>"
+    },
+    {
+      "page_no": 172,
+      "seq": 42,
+      "type": "list",
+      "body_html": "<div class='bullet'>Ce comédien a beaucoup de talent. Quel talent !</div>"
+    }
+  ],
+  "exercises": [
+    {
+      "page_no": 169,
+      "seq": 1,
+      "instruction_fr": "Choisissez la bonne réponse.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "choice",
+          "stem_html": "1. Nous allons souvent à des {{o:expositions|sorties}} de peinture.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "choice",
+          "stem_html": "2. Le château date de la même {{o:restauration|époque}} que le reste du village.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "choice",
+          "stem_html": "3. Avez-vous visité tous les monuments {{o:culturels|historiques}} de la région ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "choice",
+          "stem_html": "4. Michel est {{o:cultivé|inculte}}, il a une excellente culture générale.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "choice",
+          "stem_html": "5. La ville organise des {{o:manifestations|périodes}} culturelles.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "choice",
+          "stem_html": "6. J'admire les {{o:catalogues|tableaux}} de ce peintre.",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 169,
+      "seq": 2,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "tf",
+          "stem_html": "1. Un château médiéval date du Moyen Âge. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "tf",
+          "stem_html": "2. Pendant les Journées du patrimoine, on peut visiter des monuments historiques. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "tf",
+          "stem_html": "3. Il existe un ministère des spectacles. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "tf",
+          "stem_html": "4. On peut admirer les œuvres d'un peintre dans un musée. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "tf",
+          "stem_html": "5. Nous avons assisté à une subvention culturelle. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "tf",
+          "stem_html": "6. Le château a été exposé récemment. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 169,
+      "seq": 3,
+      "instruction_fr": "Complétez.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. Je suis allé à une {{b}} temporaire dans une galerie d'art.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. Kevin a une bonne {{b}} générale.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. Mes amis aiment beaucoup les Journées du {{b}} en septembre.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. Ce village ancien doit être {{b}}, car les maisons sont en mauvais état.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. C'est dommage, ce château est privé, il est {{b}} au public.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "cloze",
+          "stem_html": "6. De magnifiques tableaux italiens sont {{b}} au musée du Louvre à Paris.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 7,
+          "type": "cloze",
+          "stem_html": "7. Est-ce que tu {{b}} à l'histoire de l'art ?",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 169,
+      "seq": 4,
+      "instruction_fr": "Décrivez ce que vous voyez.",
+      "label": "",
+      "note_html": "",
+      "has_image": true,
+      "scan_pages": [
+        169
+      ],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "Décrivez ce que vous voyez.",
+          "has_image": true,
+          "scan_pages": [
+            169
+          ]
+        }
+      ]
+    },
+    {
+      "page_no": 169,
+      "seq": 5,
+      "instruction_fr": "À vous ! Parlez de vous et de votre pays.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. Est-ce que vous vous intéressez à l'histoire ? Pourquoi ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "open",
+          "stem_html": "2. Existe-t-il une notion proche de la « culture générale » ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "open",
+          "stem_html": "3. Est-il courant de visiter des monuments historiques ? Lesquels ?",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 171,
+      "seq": 6,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "tf",
+          "stem_html": "1. Un film peut être en noir et blanc. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "tf",
+          "stem_html": "2. Les acteurs dirigent le cinéaste. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "tf",
+          "stem_html": "3. Il est amusant de regarder le tournage d'un film. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "tf",
+          "stem_html": "4. Les bouquinistes vendent des livres neufs. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "tf",
+          "stem_html": "5. J'ai emprunté un livre dans une librairie. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "tf",
+          "stem_html": "6. Il est agréable de réciter un film. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 7,
+          "type": "tf",
+          "stem_html": "7. Connais-tu beaucoup de poèmes par cœur ? Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 8,
+          "type": "tf",
+          "stem_html": "8. Nous aimons beaucoup voir des films d'occasion. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 171,
+      "seq": 7,
+      "instruction_fr": "Répondez par le contraire.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. C'est un film parlant ? – Non, {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. Le livre est d'occasion ? – Non, {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. Le film est en version française ? – Non, {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. C'est un long roman ? – Non, {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. Le film est en couleur ? – Non, {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "cloze",
+          "stem_html": "6. Cet écrivain est célèbre ? – Non, {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 171,
+      "seq": 8,
+      "instruction_fr": "Complétez. Plusieurs solutions sont parfois possibles.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. Hier soir, nous avons vu un grand classique du cinéma à la {{b}} de notre ville.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. Beaucoup de {{b}} de films ont lieu à Paris.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. P. Modiano a {{b}} le prix Goncourt en 1978 pour Rue des Boutiques obscures.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. François Truffaut est un {{b}} français, qui a tourné de nombreux films.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. Les {{b}} vendent des livres d'occasions.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "cloze",
+          "stem_html": "6. Avez-vous lu toutes les {{b}} de Marguerite Yourcenar ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 7,
+          "type": "cloze",
+          "stem_html": "7. Le petit garçon va {{b}} un poème qu'il a appris par {{b}}.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 8,
+          "type": "cloze",
+          "stem_html": "8. J'ai lu des {{b}} de Maupassant, qui ne font que quelques pages.",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 171,
+      "seq": 9,
+      "instruction_fr": "À vous !",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. Aimez-vous voir des films en version originale ? Pourquoi ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "open",
+          "stem_html": "2. Dans votre ville/région, existe-t-il des ciné-clubs ou des cinémathèques ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "open",
+          "stem_html": "3. Quels sont les cinéastes les plus connus de votre pays ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "open",
+          "stem_html": "4. Avez-vous déjà vu un tournage ? Si oui, pouvez-vous raconter ce que vous avez vu ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "open",
+          "stem_html": "5. Allez-vous en bibliothèque ? Pourquoi ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "open",
+          "stem_html": "6. Achetez-vous parfois des livres d'occasion ? Pourquoi ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 7,
+          "type": "open",
+          "stem_html": "7. Existe-t-il des prix littéraires dans votre pays ? Lesquels ? Que récompensent-ils ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 8,
+          "type": "open",
+          "stem_html": "8. Qui sont les écrivains les plus célèbres de votre pays ?",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 173,
+      "seq": 10,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "tf",
+          "stem_html": "1. On va au théâtre pour voir un film. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "tf",
+          "stem_html": "2. Le public est content, il siffle. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "tf",
+          "stem_html": "3. On peut être metteur en scène de théâtre ou d'opéra. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "tf",
+          "stem_html": "4. Le spectacle est très ennuyeux, par conséquent il a eu beaucoup de succès. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "tf",
+          "stem_html": "5. La répétition a lieu avant le spectacle. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "tf",
+          "stem_html": "6. Il adore la musique classique, donc il joue du rock. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 7,
+          "type": "tf",
+          "stem_html": "7. Les acteurs ont souvent le trac avant d'entrer en scène. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 8,
+          "type": "tf",
+          "stem_html": "8. Adrien chante dans un orchestre symphonique. Vrai {{c:g}} Faux {{c:g}}",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 173,
+      "seq": 11,
+      "instruction_fr": "Associez pour constituer une phrase complète.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "assoc",
+          "stem_html": "1. Nous assistions → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "assoc",
+          "stem_html": "2. Le public est furieux et → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "assoc",
+          "stem_html": "3. Le metteur en scène dirige → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "assoc",
+          "stem_html": "4. Mon mari joue de → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "assoc",
+          "stem_html": "5. Cette pièce de théâtre a eu → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "assoc",
+          "stem_html": "6. Avant le spectacle, les acteurs ont → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 173,
+      "seq": 12,
+      "instruction_fr": "Complétez.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. J'ai vu une {{b}} de théâtre très intéressante.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. La {{b}} en scène était assez moderne.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. Le {{b}} d'orchestre a beaucoup de talent.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. Ils font partie d'un {{b}} de jazz.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 5,
+          "type": "cloze",
+          "stem_html": "5. Agnès prend des cours de guitare au {{b}} de musique de sa ville.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 6,
+          "type": "cloze",
+          "stem_html": "6. Le {{b}} en scène dirige les comédiens.",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 7,
+          "type": "cloze",
+          "stem_html": "7. Le {{b}} applaudit les danseurs.",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 173,
+      "seq": 13,
+      "instruction_fr": "Qui parle ? Plusieurs solutions sont parfois possibles.",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "cloze",
+          "stem_html": "1. « Mon roman a obtenu le prix Goncourt. » → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "cloze",
+          "stem_html": "2. « J'ai une répétition à 18 heures. » → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "cloze",
+          "stem_html": "3. « Ce spectacle était magnifique ! » → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "cloze",
+          "stem_html": "4. « Je vais donner des subventions à ce théâtre. » → {{b}}",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    },
+    {
+      "page_no": 173,
+      "seq": 14,
+      "instruction_fr": "À vous !",
+      "label": "",
+      "note_html": "",
+      "has_image": false,
+      "scan_pages": [],
+      "questions": [
+        {
+          "seq": 1,
+          "type": "open",
+          "stem_html": "1. Est-ce que vous jouez d'un instrument ? Si oui, que jouez-vous ? Dans quel contexte ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 2,
+          "type": "open",
+          "stem_html": "2. Allez-vous souvent au théâtre ? Pourquoi ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 3,
+          "type": "open",
+          "stem_html": "3. Dans votre pays, siffler et applaudir ont-ils les mêmes significations qu'en France ?",
+          "has_image": false,
+          "scan_pages": []
+        },
+        {
+          "seq": 4,
+          "type": "open",
+          "stem_html": "4. Avez-vous déjà fait du théâtre (au lycée ou plus tard) ? Dans quel contexte ?",
+          "has_image": false,
+          "scan_pages": []
+        }
+      ]
+    }
+  ]
+}
