@@ -1,0 +1,190 @@
+{
+  "course": "vocabulaire",
+  "seq": 7,
+  "title_fr": "NATURE ET ENVIRONNEMENT",
+  "page_start": 42,
+  "page_end": 47,
+  "pdf_start": 44,
+  "pdf_end": 49,
+  "sections": [
+    {"title_fr": "VIVRE À LA CAMPAGNE", "page_no": 42},
+    {"title_fr": "Le jardin", "page_no": 42},
+    {"title_fr": "Les animaux", "page_no": 44},
+    {"title_fr": "L'AGRICULTURE", "page_no": 44},
+    {"title_fr": "Le vin, la vigne", "page_no": 44},
+    {"title_fr": "L'ENVIRONNEMENT À L'ÉCHELLE MONDIALE", "page_no": 46},
+    {"title_fr": "Les catastrophes naturelles", "page_no": 46},
+    {"title_fr": "Les catastrophes écologiques", "page_no": 46},
+    {"title_fr": "Le développement durable", "page_no": 46}
+  ],
+  "blocks": [
+    {"page_no": 42, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">7</span> NATURE ET ENVIRONNEMENT"},
+    {"page_no": 42, "seq": 2, "type": "section_title", "body_html": "VIVRE À LA CAMPAGNE"},
+    {"page_no": 42, "seq": 3, "type": "para", "body_html": "La France se partage entre grandes villes et campagnes. <b>La campagne</b> est associée à <b>la nature, la forêt, les vertes prairies et les rivières</b>."},
+    {"page_no": 42, "seq": 4, "type": "subhead", "body_html": "Le jardin"},
+    {"page_no": 42, "seq": 5, "type": "list", "body_html": "<div class='bullet'>Sylvain a quitté la ville pour <b>s'installer à la campagne, dans un petit village</b>. Il a transformé une maison en <b>gîte rural</b> (qu'il loue à des vacanciers). Cette maison est entourée <b>d'un grand jardin</b>. Sylvain adore jardiner (<b>avec des outils de jardinage</b>), c'est <b>un vrai jardinier</b>. Il cultive <b>des légumes</b> dans son <b>jardin potager</b>, il a <b>des arbres fruitiers</b> dans son verger, mais il aime surtout <b>les fleurs</b>.</div>"},
+    {"page_no": 42, "seq": 6, "type": "para", "body_html": "le parterre de fleurs (1)<br>la plate-bande (2)<br>la jardinière (3)<br>le pot (4)<br>un arbuste (5)<br>la pelouse = le gazon (6)<br><br><b>Quelques fleurs :</b><br>la marguerite (7)<br>le géranium (8)<br>le muguet (9)<br>la tulipe (10)"},
+    {"page_no": 42, "seq": 7, "type": "list", "body_html": "<div class='bullet'>Sylvain <b>tond la pelouse</b> avec sa <b>tondeuse</b>. Son petit-fils <b>cueille des fleurs</b> et fait <b>un bouquet</b> (11).</div>"},
+    {"page_no": 42, "seq": 8, "type": "table", "body_html": "<table class='vocab'><tr><td>Sylvain plante un rosier et l'arrose avec un arrosoir.</td><td>Le rosier pousse et fleurit.<br>Il est fleuri / en fleurs.</td><td>La rose sent très bon.</td><td>Elle se fane. Elle est fanée.</td></tr></table>"},
+    {"page_no": 42, "seq": 9, "type": "table", "body_html": "<table class='vocab'><tr><th>Expressions imagées</th><th>Traditions et symboles</th></tr><tr><td>• « Être frais comme une rose » : avoir un joli teint, avoir l'air reposé.<br>• « Envoyer quelqu'un sur les roses » : repousser quelqu'un, refuser sa demande ou sa proposition.<br>• « Être rouge comme une pivoine » (ou « comme une tomate ») = avoir le visage tout rouge.</td><td><b>La rose</b> : symbole de l'amour.<br><b>Le muguet</b> : on offre du muguet le 1<sup>er</sup> mai.<br><b>Le chrysanthème</b> : la fleur « des morts » (on en met sur les tombes à la Toussaint).<br><b>L'arbre de Noël = le sapin de Noël.</b><br><b>Le trèfle à quatre feuilles</b> est un porte-bonheur.</td></tr></table>"},
+    {"page_no": 44, "seq": 10, "type": "running_head", "body_html": "NATURE ET ENVIRONNEMENT"},
+    {"page_no": 44, "seq": 11, "type": "subhead", "body_html": "Les animaux"},
+    {"page_no": 44, "seq": 12, "type": "list", "body_html": "<div class='bullet'>Sylvain a <b>un chat et un chien</b>. Le chat <b>miaule</b> quand on lui tire la queue et parfois il <b>griffe</b>, mais il <b>ronronne</b> si on le caresse. Le chien <b>aboie</b> quand quelqu'un arrive, mais ne <b>mord</b> jamais.</div>"},
+    {"page_no": 44, "seq": 13, "type": "list", "body_html": "<div class='bullet'>Sylvain aime beaucoup les animaux en général. C'est pourquoi il emploie toujours des expressions imagées. Son voisin Jules « a <b>un caractère de cochon</b> » (= il a mauvais caractère), Jules et sa femme « <b>s'entendent comme chien et chat</b> » (= ils se disputent sans cesse), mais leur fils est « <b>doux comme un agneau</b> » (= très doux, très gentil). Aujourd'hui « <b>il fait un temps de chien</b> » (= il fait très mauvais), donc « <b>il n'y avait pas un chat</b> ce matin au marché » (= il n'y avait personne). Bien sûr, « <b>une hirondelle ne fait pas le printemps</b> » (= on ne peut pas généraliser avec un seul exemple). Sylvain explique aussi que son petit-fils « <b>chante comme un rossignol</b> » !</div>"},
+    {"page_no": 44, "seq": 14, "type": "list", "body_html": "<div class='bullet'><b>En revanche</b>, Sylvain n'aime pas <b>les insectes qui piquent</b> : hier, il <b>s'est fait piquer par un moustique</b>.</div>"},
+    {"page_no": 44, "seq": 15, "type": "section_title", "body_html": "L'AGRICULTURE"},
+    {"page_no": 44, "seq": 16, "type": "list", "body_html": "<div class='bullet'>On peut voir dans les campagnes <b>des champs cultivés</b>. Ces grandes <b>exploitations agricoles</b> font de <b>la culture intensive</b> (= en énorme quantité) de <b>céréales</b> (blé, maïs), de tournesol, etc. <b>Les agriculteurs</b> utilisent <b>des engrais chimiques</b> qui facilitent la culture et <b>des pesticides</b> qui éliminent les insectes. Mais ces produits <b>polluent</b> l'eau et le sous-sol (ils provoquent <b>une pollution de l'environnement</b>).</div>"},
+    {"page_no": 44, "seq": 17, "type": "list", "body_html": "<div class='bullet'><b>Les OGM (organismes génétiquement modifiés = semences transgéniques)</b> ne sont pas autorisés en France actuellement.</div>"},
+    {"page_no": 44, "seq": 18, "type": "list", "body_html": "<div class='bullet'><b>Pour protéger l'environnement, l'agriculture biologique (« bio »)</b> n'utilise ni engrais ni pesticides. Dans <b>les fermes biologiques</b>, <b>les animaux sont élevés en plein air</b> et mangent des aliments de qualité (on parle d'<b>un élevage biologique</b>).</div>"},
+    {"page_no": 44, "seq": 19, "type": "subhead", "body_html": "Le vin, la vigne"},
+    {"page_no": 44, "seq": 20, "type": "list", "body_html": "<div class='bullet'><b>La viticulture</b> est importante en France. La Bourgogne, le Bordelais, l'Alsace, la Champagne… sont <b>des régions de vignobles</b>. <b>La France exporte</b> (= vend à l'étranger ≠ importe) ses vins. <b>Le raisin pousse et mûrit sur la vigne</b>. Quand le raisin est <b>mûr</b>, <b>le viticulteur le vendange</b> (= il le cueille), il <b>fait les vendanges</b>.</div>"},
+    {"page_no": 46, "seq": 21, "type": "running_head", "body_html": "NATURE ET ENVIRONNEMENT"},
+    {"page_no": 46, "seq": 22, "type": "section_title", "body_html": "L'ENVIRONNEMENT À L'ÉCHELLE MONDIALE"},
+    {"page_no": 46, "seq": 23, "type": "subhead", "body_html": "Les catastrophes naturelles"},
+    {"page_no": 46, "seq": 24, "type": "list", "body_html": "<div class='bullet'><b>La Terre</b> provoque parfois <b>des catastrophes</b>. <b>Un volcan en activité</b> (≠ endormi, éteint) peut être <b>en éruption</b>.</div>"},
+    {"page_no": 46, "seq": 25, "type": "list", "body_html": "<div class='bullet'><b>Les tremblements de terre / les séismes</b> sont plus ou moins dangereux selon leur <b>magnitude</b> (= leur force).</div>"},
+    {"page_no": 46, "seq": 26, "type": "list", "body_html": "<div class='bullet'>Une énorme vague qui détruit tout est <b>un raz-de-marée ou un tsunami</b>.</div>"},
+    {"page_no": 46, "seq": 27, "type": "subhead", "body_html": "Les catastrophes écologiques"},
+    {"page_no": 46, "seq": 28, "type": "list", "body_html": "<div class='bullet'>L'activité humaine provoque aussi <b>des catastrophes écologiques</b>. On pense que <b>la déforestation</b> (= la destruction des forêts) est responsable d'une partie de <b>l'émission de gaz à effet de serre</b>.</div>"},
+    {"page_no": 46, "seq": 29, "type": "list", "body_html": "<div class='bullet'><b>Les marées noires</b>, dues au <b>pétrole</b> accidentellement répandu dans la mer, constituent <b>des catastrophes industrielles et écologiques</b>.</div>"},
+    {"page_no": 46, "seq": 30, "type": "list", "body_html": "<div class='bullet'><b>Les centrales nucléaires</b> produisent de l'électricité, mais aussi <b>des déchets nucléaires (radioactifs)</b> dangereux pour l'environnement. <b>Le tremblement de terre qui a secoué le Japon</b> au printemps 2011 a causé <b>un très grave accident nucléaire</b> à Fukushima : c'est <b>un désastre environnemental</b>.</div>"},
+    {"page_no": 46, "seq": 31, "type": "subhead", "body_html": "Le développement durable"},
+    {"page_no": 46, "seq": 32, "type": "list", "body_html": "<div class='bullet'>L'environnement est un sujet d'actualité. <b>Les militants écologistes / les écologistes</b> souhaitent <b>la sortie du nucléaire</b> (un arrêt des centrales) et le développement <b>des énergies renouvelables</b> comme <b>les panneaux solaires</b> et <b>les éoliennes</b> qui transforment l'énergie du soleil et du vent en électricité.</div>"},
+    {"page_no": 46, "seq": 33, "type": "list", "body_html": "<div class='bullet'>Le but du <b>développement durable</b> est de répondre aux besoins en énergie sans <b>épuiser les ressources</b> de la Terre, en respectant les besoins des générations futures.</div>"},
+    {"page_no": 46, "seq": 34, "type": "remark", "body_html": "<span class='remark-label'>Remarques.</span> <i>1. Le mot terre a plusieurs sens : avec une majuscule, il désigne la planète (<b>la Terre</b> s'oppose à <b>Mars</b>). Sans majuscule, <b>la terre</b> peut désigner tout ce qui, sur notre planète, n'est pas la mer (<b>un tremblement de terre</b>). La terre, c'est aussi l'élément dans lequel poussent les plantes (<b>une terre riche</b>).<br>2. Enfin, on peut poser un objet <b>par terre</b> (= sur le sol).</i>"}
+  ],
+  "exercises": [
+    {
+      "page_no": 43, "seq": 1,
+      "instruction_fr": "Éliminez l'intrus.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "choice", "stem_html": "1. {{o!:chrysanthème|muguet|légume|tulipe}}"},
+        {"seq": 2, "type": "choice", "stem_html": "2. {{o!:prairie|forêt|arrosoir|nature|campagne}}"},
+        {"seq": 3, "type": "choice", "stem_html": "3. {{o!:potager|verger|jardin|fruitier}}"},
+        {"seq": 4, "type": "choice", "stem_html": "4. {{o!:planter|jardinier|arroser|potager}}"}
+      ]
+    },
+    {
+      "page_no": 43, "seq": 2,
+      "instruction_fr": "Choisissez la ou les bonne(s) réponse(s).",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "choice", "stem_html": "1. Deux fois, Vincent a refusé mes invitations au restaurant, et la troisième fois, il m'a franchement envoyée {{o:une lettre|sur les roses|sur les fleurs}}."},
+        {"seq": 2, "type": "choice", "stem_html": "2. Ce bouquet est sur cette table depuis deux semaines. Les fleurs sont toutes {{o:fleuries|tondues|fanées}}."},
+        {"seq": 3, "type": "choice", "stem_html": "3. Franchement, tu es fraîche {{o:comme une rose|comme une tomate|comme une fleur}}. Tu as très bonne mine, tu as l'air très en forme."},
+        {"seq": 4, "type": "choice", "stem_html": "4. Je suis allée faire une grande promenade dans la prairie. J'ai {{o:cueilli|arrosé|planté}} des fleurs des champs pour faire un beau bouquet."},
+        {"seq": 5, "type": "choice", "stem_html": "5. Coralie habite juste à côté d'un parc. Chaque matin, elle dit bonjour au {{o:potager|jardin|jardinier}} qu'elle connaît depuis des années."},
+        {"seq": 6, "type": "choice", "stem_html": "6. Sébastien est un peu timide. Hier soir, sa copine l'a embrassé devant ses amis. Il était rouge comme {{o:une tomate|une rose|une pivoine}}."},
+        {"seq": 7, "type": "choice", "stem_html": "7. C'est bientôt Noël : les enfants ont décoré {{o:l'arbuste|le sapin|l'arbre}} de Noël."}
+      ]
+    },
+    {
+      "page_no": 43, "seq": 3,
+      "instruction_fr": "Complétez.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. Lucie et Michaël aiment beaucoup les week-ends à la {{b}}. Ils louent régulièrement un gîte {{b}} dans un petit {{b}} de Bourgogne. Ils mangent les légumes du {{b}} et les fruits du {{b}}. Ils se promènent au bord de la {{b}}, puis dans la {{b}} pour observer les arbres. Après leur promenade, ils s'installent sur la belle {{b}} verte du jardin pour lire et se reposer. Ils rentrent souvent à Lyon avec un {{b}} de fleurs qu'ils ont {{b}} dans les champs."},
+        {"seq": 2, "type": "cloze", "stem_html": "2. Au contraire, Claire aime la ville, mais son balcon est un vrai {{b}} ! Cette année, elle a {{b}} toutes sortes de fleurs dans des {{b}}. Quand il ne pleut pas, elle les {{b}} chaque soir avec son petit {{b}}."},
+        {"seq": 3, "type": "cloze", "stem_html": "3. Françoise me dit qu'elle a trouvé un {{b}} à quatre feuilles dans son {{b}}. Mais je ne la crois pas, je pense que ça n'existe pas."}
+      ]
+    },
+    {
+      "page_no": 43, "seq": 4,
+      "instruction_fr": "À vous !",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Avez-vous passé votre enfance en ville ou à la campagne ? {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Dites ce que vous aimez et/ou ce que vous n'aimez pas à la campagne. {{T}}"}
+      ]
+    },
+    {
+      "page_no": 45, "seq": 5,
+      "instruction_fr": "Vrai ou faux ?",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "tf", "stem_html": "1. Les OGM sont des engrais. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 2, "type": "tf", "stem_html": "2. Le chien miaule et griffe les enfants. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 3, "type": "tf", "stem_html": "3. La culture intensive permet de produire de grandes quantités. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 4, "type": "tf", "stem_html": "4. La culture des céréales s'appelle la viticulture. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 5, "type": "tf", "stem_html": "5. Les grandes exploitations agricoles se trouvent dans les campagnes. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 6, "type": "tf", "stem_html": "6. On ne vendange pas le raisin s'il n'est pas mûr. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 7, "type": "tf", "stem_html": "7. L'agriculture biologique n'utilise pas de produits chimiques. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 8, "type": "tf", "stem_html": "8. L'agriculture intensive n'est pas dangereuse pour l'environnement. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 9, "type": "tf", "stem_html": "9. Les chiens aboient souvent quand quelqu'un arrive. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"},
+        {"seq": 10, "type": "tf", "stem_html": "10. L'agriculture biologique pollue beaucoup. <span class='vf'>VRAI {{c:g}} &nbsp; FAUX {{c:g}}</span>"}
+      ]
+    },
+    {
+      "page_no": 45, "seq": 6,
+      "instruction_fr": "Associez.",
+      "label": "a. Depuis, elle a très peur des chiens. &nbsp; b. Elle a plusieurs chats et un chien. &nbsp; c. C'est vraiment difficile de travailler avec lui tellement il est désagréable. &nbsp; d. Il n'y avait pas un chat. &nbsp; e. Il est doux comme un agneau ! &nbsp; f. J'attendrai demain pour aller me promener. &nbsp; g. Un vrai rossignol ! &nbsp; h. Ils ne sont jamais d'accord et n'arrêtent pas de crier l'un sur l'autre.",
+      "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "assoc", "stem_html": "1. Hier, je n'ai pas pu voir l'exposition car il y avait trop de monde, mais ce matin, j'étais presque seul dans la musée. → {{b}}"},
+        {"seq": 2, "type": "assoc", "stem_html": "2. Il a vraiment un caractère de cochon. → {{b}}"},
+        {"seq": 3, "type": "assoc", "stem_html": "3. Nos deux enfants s'entendent comme chien et chat. → {{b}}"},
+        {"seq": 4, "type": "assoc", "stem_html": "4. Quand tu étais bébé, tu n'arrêtais pas de chanter. → {{b}}"},
+        {"seq": 5, "type": "assoc", "stem_html": "5. Laura a été mordue par un chien l'année dernière. → {{b}}"},
+        {"seq": 6, "type": "assoc", "stem_html": "6. Il fait un temps de chien. → {{b}}"},
+        {"seq": 7, "type": "assoc", "stem_html": "7. Louise adore les animaux domestiques. → {{b}}"},
+        {"seq": 8, "type": "assoc", "stem_html": "8. Malek ? Violent ? C'est tout le contraire ! → {{b}}"}
+      ]
+    },
+    {
+      "page_no": 45, "seq": 7,
+      "instruction_fr": "À vous ! Parlez de l'agriculture de votre pays.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Votre pays est-il un pays agricole ? {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Quel type d'agriculture y pratique-t-on ? {{T}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. Votre pays exporte-t-il ou importe-t-il des produits agricoles ? {{T}}"},
+        {"seq": 4, "type": "open", "stem_html": "4. Est-ce qu'il existe une agriculture biologique ? {{T}}"}
+      ]
+    },
+    {
+      "page_no": 47, "seq": 8,
+      "instruction_fr": "Complétez avec Terre, terre, par terre, de terre.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. Après un mois sur un bateau, j'étais contente de remettre le pied sur la {{b}} ferme."},
+        {"seq": 2, "type": "cloze", "stem_html": "2. Il y avait beaucoup de monde au concert, toutes les places étaient occupées : nous nous sommes assis {{b}}."},
+        {"seq": 3, "type": "cloze", "stem_html": "3. Un tremblement {{b}} violent a secoué la moitié nord du pays."},
+        {"seq": 4, "type": "cloze", "stem_html": "4. Les ressources de la {{b}} seront un jour épuisées."},
+        {"seq": 5, "type": "cloze", "stem_html": "5. Les légumes poussent bien car la {{b}} est de bonne qualité."},
+        {"seq": 6, "type": "cloze", "stem_html": "6. J'ai posé ton sac {{b}}."}
+      ]
+    },
+    {
+      "page_no": 47, "seq": 9,
+      "instruction_fr": "Remettez les mots en italique à leur place.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "transform", "stem_html": "1. La <i>déforestation</i> a provoqué la mort d'un très grand nombre d'oiseaux marins et de poissons. → {{T}}"},
+        {"seq": 2, "type": "transform", "stem_html": "2. Le <i>séisme</i> a complètement recouvert trois villages. → {{T}}"},
+        {"seq": 3, "type": "transform", "stem_html": "3. Le Japon est régulièrement victime de <i>volcan</i> importants. → {{T}}"},
+        {"seq": 4, "type": "transform", "stem_html": "4. Le <i>raz-de-marée</i> s'est réveillé et est entré en éruption. → {{T}}"},
+        {"seq": 5, "type": "transform", "stem_html": "5. En Amazonie, l'exploitation du bois a entraîné une importante <i>marée noire</i> qui est dramatique pour l'environnement. → {{T}}"}
+      ]
+    },
+    {
+      "page_no": 47, "seq": 10,
+      "instruction_fr": "Complétez.",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "cloze", "stem_html": "1. Solène et Grégoire ont quitté Paris car ils ne supportaient plus la {{b}} de la ville. Ils se sont {{b}} à la {{b}} pour être enfin au calme. Mais ils profitent peu du calme : les chiens des voisins {{b}}, les {{b}} font un bruit terrible quand les jardiniers tondent leur {{b}}. Mais le pire est qu'ils viennent de découvrir que leur maison était située à quinze kilomètres d'une {{b}} nucléaire. Quel choc !"},
+        {"seq": 2, "type": "cloze", "stem_html": "2. Loïc et Hervé ne sont pas d'accord sur la protection de l'{{b}}. Loïc est militant {{b}}. Depuis les {{b}} de Tchernobyl et de Fukushima, il pense qu'il faut arrêter les centrales {{b}}. Hervé, lui, ne croit pas aux énergies {{b}}, comme les panneaux {{b}} ou les {{b}}, exposées au vent. Mais les deux amis ne se disputent jamais vraiment, car ils sont tous les deux doux comme des {{b}} !"}
+      ]
+    },
+    {
+      "page_no": 47, "seq": 11,
+      "instruction_fr": "À vous !",
+      "label": "", "note_html": "", "has_image": false, "scan_pages": [],
+      "questions": [
+        {"seq": 1, "type": "open", "stem_html": "1. Indiquez des exemples de catastrophes écologiques dont vous avez entendu parler. {{T}}"},
+        {"seq": 2, "type": "open", "stem_html": "2. Donnez votre opinion sur l'environnement, le nucléaire et le développement durable. {{T}}"},
+        {"seq": 3, "type": "open", "stem_html": "3. Présentez la politique de votre pays en ce qui concerne l'environnement. {{T}}"}
+      ]
+    }
+  ]
+}
