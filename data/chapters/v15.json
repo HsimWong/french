@@ -1,0 +1,295 @@
+{
+  "course": "vocabulaire",
+  "seq": 15,
+  "title_fr": "LOISIRS – JEUX – SPORTS",
+  "page_start": 100,
+  "page_end": 107,
+  "pdf_start": 102,
+  "pdf_end": 109,
+  "sections": [
+    { "title_fr": "LE TEMPS LIBRE", "page_no": 100 },
+    { "title_fr": "FAIRE DE L'EXERCICE", "page_no": 102 },
+    { "title_fr": "LA PRATIQUE DU SPORT", "page_no": 102 },
+    { "title_fr": "LES SPORTS D'ÉQUIPE", "page_no": 104 },
+    { "title_fr": "LES SPORTS INDIVIDUELS", "page_no": 104 },
+    { "title_fr": "LES SPORTS DE MONTAGNE", "page_no": 106 }
+  ],
+  "blocks": [
+    { "page_no": 100, "seq": 1, "type": "chapter_title", "body_html": "<span class=\"ch-no\">15</span> LOISIRS – JEUX – SPORTS" },
+    { "page_no": 100, "seq": 2, "type": "section_title", "body_html": "LE TEMPS LIBRE" },
+    { "page_no": 100, "seq": 3, "type": "list", "body_html": "<div class='bullet'>Pendant les loisirs (= le temps libre), on se repose, on se détend ou on se distrait, on a des distractions. On consacre son temps libre à des activités de loisir. Si on s'ennuie, si on trouve le temps long, on essaie de s'occuper, de trouver une occupation. « Maintenant que je suis en retraite, j'ai du temps libre, mais je le consacre à de nombreuses activités ! Je reste très actif ! »</div>" },
+    { "page_no": 100, "seq": 4, "type": "list", "body_html": "<div class='bullet'>Les jeunes aiment sortir. Ils sortent en boîte* (= en boîte de nuit = en discothèque) : ils vont danser. Sinon, ils font la fête, ils organisent des soirées.</div>" },
+    { "page_no": 100, "seq": 5, "type": "list", "body_html": "<div class='bullet'>On peut aussi aller faire un tour, aller se promener / se balader*. En ville, les filles aiment bien « faire les magasins » (= aller dans les boutiques de mode).</div>" },
+    { "page_no": 100, "seq": 6, "type": "list", "body_html": "<div class='bullet'>Jeanne fait du tricot : elle tricote des pulls en laine à ses enfants. Elle fait aussi de la couture : elle coud très bien, elle fait de beaux vêtements !</div>" },
+    { "page_no": 100, "seq": 7, "type": "subhead", "body_html": "Le jardinage et le bricolage" },
+    { "page_no": 100, "seq": 8, "type": "list", "body_html": "<div class='bullet'>Agnès fait du jardinage. Elle a un beau jardin autour de sa maison, qu'elle entretient avec soin. Elle jardine tous les jours avec ses outils de jardinage.</div>" },
+    { "page_no": 100, "seq": 9, "type": "list", "body_html": "<div class='bullet'>Jean-Claude, son mari, fait du bricolage (voir chapitre 11). Il a un atelier et il bricole avec de nombreux outils.</div>" },
+    { "page_no": 100, "seq": 10, "type": "subhead", "body_html": "Les jeux des enfants" },
+    { "page_no": 100, "seq": 11, "type": "list", "body_html": "<div class='bullet'>Les enfants jouent avec des jouets :</div><div class='bullet'>des petites voitures</div><div class='bullet'>un puzzle</div><div class='bullet'>une poupée Barbie</div><div class='bullet'>un jeu de construction</div>" },
+    { "page_no": 100, "seq": 12, "type": "list", "body_html": "<div class='bullet'>Pour le carnaval, mes enfants se déguisent : ma fille porte un costume de princesse, et mon fils est déguisé en dinosaure ! Les deux adorent les déguisements !</div>" },
+    { "page_no": 100, "seq": 13, "type": "subhead", "body_html": "Les jeux de société" },
+    { "page_no": 100, "seq": 14, "type": "para", "body_html": "Quand on joue à plusieurs, on appelle cela un « jeu de société ». – Veux-tu faire une partie de cartes ? – D'accord. D'abord, il faut battre les cartes." },
+    { "page_no": 100, "seq": 15, "type": "list", "body_html": "<div class='bullet'>les dominos</div><div class='bullet'>les dames</div><div class='bullet'>les échecs</div>" },
+    { "page_no": 102, "seq": 16, "type": "running_head", "body_html": "LOISIRS – JEUX – SPORTS" },
+    { "page_no": 102, "seq": 17, "type": "section_title", "body_html": "FAIRE DE L'EXERCICE" },
+    { "page_no": 102, "seq": 18, "type": "para", "body_html": "Pour être en bonne santé, il est important de faire de l'exercice, de pratiquer une activité sportive. Beaucoup s'inscrivent dans un club de gym, ils « vont à la gym », font de la gym : de la musculation, du stretching, de l'aérobic... D'autres font simplement du jogging (= de la course à pied). Ils courent dans les parcs ou dans la campagne." },
+    { "page_no": 102, "seq": 19, "type": "section_title", "body_html": "LA PRATIQUE DU SPORT" },
+    { "page_no": 102, "seq": 20, "type": "list", "body_html": "<div class='bullet'>Un sportif (-ive) de haut niveau s'entraîne régulièrement : il a un entraînement tous les jours avec un entraîneur. Il est bien entraîné.</div>" },
+    { "page_no": 102, "seq": 21, "type": "list", "body_html": "<div class='bullet'>Il pourra participer à des matchs, à des compétitions. S'il gagne, il est le vainqueur, le gagnant(e), il sera félicité pour sa victoire. S'il perd, il est le perdant(e), il regrettera sa défaite et voudra prendre sa revanche sur son adversaire.</div>" },
+    { "page_no": 102, "seq": 22, "type": "list", "body_html": "<div class='bullet'>Le champion (-ne) est le meilleur de la compétition. Il participe à des championnats. Il peut devenir champion de France, d'Europe, du monde, ou champion olympique, s'il obtient une médaille d'or, d'argent ou de bronze aux Jeux olympiques.</div>" },
+    { "page_no": 102, "seq": 23, "type": "list", "body_html": "<div class='bullet'>Le champion détient le record du monde (= la meilleure performance mondiale). Il cherche à battre le record du monde (= faire mieux que le précédent).</div>" },
+    { "page_no": 102, "seq": 24, "type": "list", "body_html": "<div class='bullet'>On lutte contre le dopage (= la prise de substances illicites), mais malheureusement, chaque année, des sportifs sont dopés.</div>" },
+    { "page_no": 102, "seq": 25, "type": "remark", "body_html": "<span class='remark-label'>Remarque.</span> <i>Le mot « entraîneur » dans le sens sportif n'existe qu'au masculin, tout comme le terme « vainqueur »...</i>" },
+    { "page_no": 102, "seq": 26, "type": "subhead", "body_html": "Le tennis" },
+    { "page_no": 102, "seq": 27, "type": "list", "body_html": "<div class='bullet'>On joue au tennis sur un court (1) divisé en deux par un filet (2), avec une raquette (3) et une balle (4). Les joueurs disputent un match pendant un tournoi. Les meilleurs joueurs participent, par exemple, au tournoi de Roland-Garros, qui fait partie du grand chelem (= les tournois les plus prestigieux).</div>" },
+    { "page_no": 102, "seq": 28, "type": "list", "body_html": "<div class='bullet'>On peut aussi jouer au tennis de table (= au ping-pong) (5) ou au squash (6).</div>" },
+    { "page_no": 104, "seq": 29, "type": "running_head", "body_html": "LOISIRS – JEUX – SPORTS" },
+    { "page_no": 104, "seq": 30, "type": "section_title", "body_html": "LES SPORTS D'ÉQUIPE" },
+    { "page_no": 104, "seq": 31, "type": "para", "body_html": "Il faut plusieurs joueurs pour constituer une équipe." },
+    { "page_no": 104, "seq": 32, "type": "list", "body_html": "<div class='bullet'>Le football (= « le foot »), le rugby, le volley-ball (« le volley »), le hand-ball (« le hand »), le basket-ball (« le basket ») se pratiquent sur un terrain, avec un ballon.</div>" },
+    { "page_no": 104, "seq": 33, "type": "list", "body_html": "<div class='bullet'>Un stade est un terrain entouré de gradins, où le public peut s'asseoir. À la moitié du match, on fait une pause : c'est la mi-temps.</div>" },
+    { "page_no": 104, "seq": 34, "type": "list", "body_html": "<div class='bullet'>L'arbitre vérifie que les joueurs respectent les règles du jeu. Il siffle si un joueur commet une faute, et ce dernier reçoit un carton jaune ou, plus grave, un carton rouge.</div>" },
+    { "page_no": 104, "seq": 35, "type": "list", "body_html": "<div class='bullet'>Les supporters viennent encourager leur équipe préférée. Beaucoup de jeunes aiment porter le maillot (= le T-shirt) de leur sportif préféré.</div>" },
+    { "page_no": 104, "seq": 36, "type": "list", "body_html": "<div class='bullet'>Pour gagner un match de foot, il faut marquer des buts. Ce n'est pas facile si le gardien de but de l'équipe adverse est bon ! Nantes a gagné trois buts à zéro = Nantes a gagné « trois-zéro ».</div>" },
+    { "page_no": 104, "seq": 37, "type": "list", "body_html": "<div class='bullet'>Les meilleurs footballeurs participent à la Coupe du monde et les joueurs de rugby au Tournoi des six nations.</div>" },
+    { "page_no": 104, "seq": 38, "type": "section_title", "body_html": "LES SPORTS INDIVIDUELS" },
+    { "page_no": 104, "seq": 39, "type": "subhead", "body_html": "L'athlétisme" },
+    { "page_no": 104, "seq": 40, "type": "list", "body_html": "<div class='bullet'>L'athlétisme regroupe plusieurs disciplines. Les athlètes participent à diverses épreuves :</div>" },
+    { "page_no": 104, "seq": 41, "type": "list", "body_html": "<div class='bullet'>La course à pied : le coureur a couru le marathon de Paris.</div>" },
+    { "page_no": 104, "seq": 42, "type": "list", "body_html": "<div class='bullet'>Le saut en hauteur, en longueur... « L'épreuve de saut en longueur a été remportée (= gagnée) par un athlète inconnu du public. »</div>" },
+    { "page_no": 104, "seq": 43, "type": "list", "body_html": "<div class='bullet'>Le lancer (de poids, de disque...)</div>" },
+    { "page_no": 104, "seq": 44, "type": "subhead", "body_html": "Le patinage artistique" },
+    { "page_no": 104, "seq": 45, "type": "list", "body_html": "<div class='bullet'>Le patineur (-euse) patine sur une patinoire.</div>" },
+    { "page_no": 104, "seq": 46, "type": "subhead", "body_html": "Le cyclisme" },
+    { "page_no": 104, "seq": 47, "type": "list", "body_html": "<div class='bullet'>Un(e) cycliste pratique la bicyclette / le vélo. Il participe à des courses cyclistes (par exemple le Tour de France). Pour avancer, il doit pédaler !</div>" },
+    { "page_no": 104, "seq": 48, "type": "subhead", "body_html": "L'équitation" },
+    { "page_no": 104, "seq": 49, "type": "list", "body_html": "<div class='bullet'>Le cavalier (-ière) fait du cheval / de l'équitation : il monte à cheval dans un manège. Il participe à des concours hippiques, à des courses de chevaux.</div>" },
+    { "page_no": 106, "seq": 50, "type": "running_head", "body_html": "LOISIRS – JEUX – SPORTS" },
+    { "page_no": 106, "seq": 51, "type": "subhead", "body_html": "La course automobile" },
+    { "page_no": 106, "seq": 52, "type": "list", "body_html": "<div class='bullet'>Le coureur (= le pilote) automobile pilote sa voiture de sport / de course. La course automobile a lieu sur un circuit (par exemple, les grands prix de Formule 1 ou les 24 Heures du Mans). Le rallye se passe généralement sur route ou sur piste (par exemple, le rallye Dakar).</div>" },
+    { "page_no": 106, "seq": 53, "type": "subhead", "body_html": "Les sports nautiques" },
+    { "page_no": 106, "seq": 54, "type": "list", "body_html": "<div class='bullet'>Le nageur (-euse) pratique la natation à la piscine ou à la mer. Il nage, par exemple, la brasse ou le crawl.</div>" },
+    { "page_no": 106, "seq": 55, "type": "list", "body_html": "<div class='bullet'>À la mer, on peut aussi faire de la planche à voile (1), du ski nautique (2), du surf (3) et de la voile (4).</div>" },
+    { "page_no": 106, "seq": 56, "type": "subhead", "body_html": "Les sports de combat" },
+    { "page_no": 106, "seq": 57, "type": "list", "body_html": "<div class='bullet'>Un judoka pratique le judo. Il est, par exemple, ceinture noire de judo.</div>" },
+    { "page_no": 106, "seq": 58, "type": "list", "body_html": "<div class='bullet'>Les boxeurs disputent leurs matchs de boxe sur un ring.</div>" },
+    { "page_no": 106, "seq": 59, "type": "section_title", "body_html": "LES SPORTS DE MONTAGNE" },
+    { "page_no": 106, "seq": 60, "type": "list", "body_html": "<div class='bullet'>On peut faire du ski (= skier) dans une station de sports d'hiver. Le ski alpin se pratique sur des pistes (1) vertes (faciles), bleues (moyennes), rouges (difficiles) ou noires (très difficiles). Le skieur (-ieuse) descend la piste (2), puis prend le remonte-pente (3). Certains préfèrent le ski de fond (4). Les enfants font de la luge (5).</div>" },
+    { "page_no": 106, "seq": 61, "type": "list", "body_html": "<div class='bullet'>En été, les randonneurs (6) pratiquent la randonnée. Les alpinistes font de l'alpinisme : ils cherchent à escalader des montagnes. Ils font de l'escalade, ils grimpent le long des parois (7).</div>" }
+  ],
+  "exercises": [
+    {
+      "page_no": 101, "seq": 1, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Un jeu de construction est un jeu de société. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. Une poupée est un jouet. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. On joue tout seul aux dames. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Elle fait les magasins = elle adore se déguiser. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. Stéphanie ne sait pas quoi faire = elle s'ennuie. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Alice et Antoine ont envie de se balader, donc ils vont en boîte. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 101, "seq": 2, "instruction_fr": "Complétez par un verbe approprié.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Ma fille adore les vêtements, elle passe ses samedis à {{b}} les magasins !" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Pour une fête, Thomas {{b}} en Martien ! Personne ne l'a reconnu." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Est-ce que tu peux {{b}} les cartes ? Elles ne sont pas bien mélangées !" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Théo et Fabien {{b}} en boîte, ce soir." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. La petite Manon trouve le temps long, elle {{b}}." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Ce dimanche, je n'ai pas travaillé, je {{b}} toute la journée." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Il {{b}} son temps libre au bricolage et au jardinage." }
+      ]
+    },
+    {
+      "page_no": 101, "seq": 3, "instruction_fr": "Associez les phrases de sens équivalent.", "label": "a. Il se promène. | b. Il porte un costume. | c. Il se sert de ses outils. | d. Il sort en boîte. | e. Il se repose. | f. Il trouve le temps long.", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "1. Il va danser. → {{b}}" },
+        { "seq": 2, "type": "assoc", "stem_html": "2. Il se détend. → {{b}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "3. Il se balade. → {{b}}" },
+        { "seq": 4, "type": "assoc", "stem_html": "4. Il bricole. → {{b}}" },
+        { "seq": 5, "type": "assoc", "stem_html": "5. Il s'ennuie. → {{b}}" },
+        { "seq": 6, "type": "assoc", "stem_html": "6. Il se déguise. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 101, "seq": 4, "instruction_fr": "Quel(s) loisir(s) conseilleriez-vous à ces personnes ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Olivier est patient et adore les combinaisons mathématiques. → {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Yasmina aime beaucoup la mode ! → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Justin aime danser et déteste se coucher tôt. → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Laurence aime la nature, les fleurs et les plantes. → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. La petite Julie adore les bébés ! → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 101, "seq": 5, "instruction_fr": "À vous !", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Comment occupez-vous loisirs ? {{T}}" },
+        { "seq": 2, "type": "open", "stem_html": "2. Quels jeux de société connaissez-vous ? Les avez-vous pratiqués ? Pourquoi ? {{T}}" },
+        { "seq": 3, "type": "open", "stem_html": "3. Avez-vous déjà porté un déguisement ? Si oui, dans quelles circonstances ? En quoi étiez-vous déguisé(e) ? {{T}}" },
+        { "seq": 4, "type": "open", "stem_html": "4. Avec quels jouets les enfants de votre entourage s'amusent-ils ? {{T}}" }
+      ]
+    },
+    {
+      "page_no": 103, "seq": 6, "instruction_fr": "Choisissez la ou les bonne(s) réponse(s).", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Il a perdu {{o:le match|la défaite|la compétition|la victoire}}." },
+        { "seq": 2, "type": "choice", "stem_html": "2. La grande {{o:victoire|défaite|gagnante|raquette}} de ce tournoi est la Russe." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Il détient {{o:le tournoi|le record|la coupe|la médaille}} du monde." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Les joueuses {{o:se disputent|disputent|détiennent|participent à}} un match." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Elle a obtenu {{o:un tournoi|un entraînement|une médaille|un championnat}}." },
+        { "seq": 6, "type": "choice", "stem_html": "6. Le champion a {{o:disputé|gagné|battu|perdu}} le record du monde." },
+        { "seq": 7, "type": "choice", "stem_html": "7. Certains sportifs, malheureusement, sont {{o:entraînés|dopés|gagnants|vainqueurs}}." },
+        { "seq": 8, "type": "choice", "stem_html": "8. {{o:L'entraîneur|le tournoi|la championne|le sportif}} a gagné le match." }
+      ]
+    },
+    {
+      "page_no": 103, "seq": 7, "instruction_fr": "Associez pour constituer une phrase complète.", "label": "a. de saut en hauteur. | b. pour rester en bonne santé. | c. pour sa victoire. | d. sa revanche. | e. au grand chelem. | f. pour la prochaine compétition.", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "1. La sportive s'est beaucoup entraînée → {{b}}" },
+        { "seq": 2, "type": "assoc", "stem_html": "2. Cet athlète détient le record du monde → {{b}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "3. Ce joueur de tennis participera → {{b}}" },
+        { "seq": 4, "type": "assoc", "stem_html": "4. La dame fait de l'exercice → {{b}}" },
+        { "seq": 5, "type": "assoc", "stem_html": "5. Le perdant prendra bientôt → {{b}}" },
+        { "seq": 6, "type": "assoc", "stem_html": "6. On a félicité le vainqueur → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 103, "seq": 8, "instruction_fr": "Complétez ce texte par des termes appropriés.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Thibaut est un bon {{b}} de tennis. Il joue très bien." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Il {{b}} au moins trois fois par semaine avec un bon {{b}}." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Thibaut {{b}} souvent à des {{b}}, mais pas encore au grand {{b}}, même s'il rêve de Roland-Garros !" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. La semaine dernière, il était heureux, car il a encore {{b}} un match difficile." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Il vient juste de s'acheter une nouvelle {{b}}." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Il va {{b}} un autre match la semaine prochaine." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Ce match sera dur, car son {{b}} est un excellent joueur, lui aussi !" }
+      ]
+    },
+    {
+      "page_no": 103, "seq": 9, "instruction_fr": "Devinettes. De qui ou de quoi parle-t-on ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Elle peut être d'or, d'argent ou de bronze. → {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. C'est l'ensemble des grands tournois de tennis. → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Il a gagné la compétition. → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Il prépare les sportifs à des compétitions. → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. C'est la meilleure performance mondiale. → {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. C'est l'objet qui divise le court en deux parties. → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 105, "seq": 10, "instruction_fr": "Choisissez la bonne réponse.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. {{o:L'athlète|le public|le supporter}} participe à plusieurs épreuves." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Le gardien de but doit {{o:marquer|respecter|courir}} les règles du jeu." },
+        { "seq": 3, "type": "choice", "stem_html": "3. Comme le joueur a commis {{o:un carton rouge|un saut|une faute}}, l'arbitre a sifflé." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Le public est installé dans {{o:le terrain|le manège|le stade}}." },
+        { "seq": 5, "type": "choice", "stem_html": "5. {{o:le cavalier|l'athlète|le cycliste}} participe à un concours hippique." },
+        { "seq": 6, "type": "choice", "stem_html": "6. Aziz est tout content de porter {{o:le cheval|le maillot|le carton}} de son footballeur préféré." }
+      ]
+    },
+    {
+      "page_no": 105, "seq": 11, "instruction_fr": "Complétez les mots croisés suivants.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. (Horizontalement) Il peut être en longueur, en hauteur... → {{b}}" },
+        { "seq": 2, "type": "cloze", "stem_html": "2. (Horizontalement) C'est l'endroit où les patineurs s'entraînent. → {{b}}" },
+        { "seq": 3, "type": "cloze", "stem_html": "3. (Horizontalement) Il comporte des gradins. → {{b}}" },
+        { "seq": 4, "type": "cloze", "stem_html": "4. (Horizontalement) C'est un vêtement que portent les footballeurs. → {{b}}" },
+        { "seq": 5, "type": "cloze", "stem_html": "5. (Horizontalement) Il peut être de poids, de disque... → {{b}}" },
+        { "seq": 6, "type": "cloze", "stem_html": "6. (Horizontalement) C'est lui qui vérifie le bon déroulement d'un match. → {{b}}" },
+        { "seq": 7, "type": "cloze", "stem_html": "7. (Horizontalement) Si on en marque un, on peut gagner. → {{b}}" },
+        { "seq": 8, "type": "cloze", "stem_html": "8. (Horizontalement) C'est l'ensemble des joueurs. → {{b}}" },
+        { "seq": 9, "type": "cloze", "stem_html": "9. (Verticalement) Il peut être jaune ou rouge. → {{b}}" },
+        { "seq": 10, "type": "cloze", "stem_html": "10. (Verticalement) Elle peut-être de France, d'Europe, du Monde... → {{b}}" },
+        { "seq": 11, "type": "cloze", "stem_html": "11. (Verticalement) Il permet de jouer au foot, au volley, au rugby... → {{b}}" },
+        { "seq": 12, "type": "cloze", "stem_html": "12. (Verticalement) C'est un ensemble de matchs. → {{b}}" },
+        { "seq": 13, "type": "cloze", "stem_html": "13. (Verticalement) Elle peut être cycliste, de chevaux, à pied... → {{b}}" }
+      ]
+    },
+    {
+      "page_no": 105, "seq": 12, "instruction_fr": "Complétez par le nom approprié.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "cloze", "stem_html": "1. Ce grand {{b}} a gagné le Tour de France." },
+        { "seq": 2, "type": "cloze", "stem_html": "2. Le {{b}} est une course à pied de 40 kilomètres dans une ville." },
+        { "seq": 3, "type": "cloze", "stem_html": "3. Les {{b}} s'entraînent pour le match de foot de samedi." },
+        { "seq": 4, "type": "cloze", "stem_html": "4. Le {{b}} empêche l'équipe adverse de marquer des buts." },
+        { "seq": 5, "type": "cloze", "stem_html": "5. Le {{b}} est assis sur les gradins." },
+        { "seq": 6, "type": "cloze", "stem_html": "6. Les {{b}} encouragent leur équipe préférée." },
+        { "seq": 7, "type": "cloze", "stem_html": "7. Les {{b}} participent à des épreuves olympiques." }
+      ]
+    },
+    {
+      "page_no": 105, "seq": 13, "instruction_fr": "À vous !", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "open", "stem_html": "1. Que pensez-vous des sports d'équipe ? En pratiquez-vous un ? Suivez-vous l'actualité sportive de votre pays/région/ville ? Pourquoi ? Quelles sont les courses ou les compétitions les plus prestigieuses dans votre pays ? Quels sont les athlètes les plus respectés ? {{T}}" }
+      ]
+    },
+    {
+      "page_no": 107, "seq": 14, "instruction_fr": "Vrai ou faux ?", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "tf", "stem_html": "1. Une randonnée se pratique à pied. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 2, "type": "tf", "stem_html": "2. On fait de l'escalade sur un ring. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 3, "type": "tf", "stem_html": "3. Les pistes vertes ne sont pas difficiles. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 4, "type": "tf", "stem_html": "4. Le ski de fond n'est pas un sport de vitesse. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 5, "type": "tf", "stem_html": "5. On peut faire de la luge sur la plage. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 6, "type": "tf", "stem_html": "6. Un nageur fait de la natation. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 7, "type": "tf", "stem_html": "7. On peut grimper le long d'une paroi. Vrai {{c:g}} Faux {{c:g}}" },
+        { "seq": 8, "type": "tf", "stem_html": "8. Un pilote participe à une course. Vrai {{c:g}} Faux {{c:g}}" }
+      ]
+    },
+    {
+      "page_no": 107, "seq": 15, "instruction_fr": "Éliminez l'intrus.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. {{o:foot|saut|volley|basket}}" },
+        { "seq": 2, "type": "choice", "stem_html": "2. {{o:raquette|balle|ballon|court}}" },
+        { "seq": 3, "type": "choice", "stem_html": "3. {{o:joueur|athlète|arbitre|champion}}" },
+        { "seq": 4, "type": "choice", "stem_html": "4. {{o:course|compétition|tournoi|ring}}" },
+        { "seq": 5, "type": "choice", "stem_html": "5. {{o:brasse|piste|natation|piscine}}" },
+        { "seq": 6, "type": "choice", "stem_html": "6. {{o:terrain|court|gradins|patinoire}}" },
+        { "seq": 7, "type": "choice", "stem_html": "7. {{o:paroi|circuit|grand prix|rallye}}" },
+        { "seq": 8, "type": "choice", "stem_html": "8. {{o:escalade|piste|alpinisme|paroi}}" }
+      ]
+    },
+    {
+      "page_no": 107, "seq": 16, "instruction_fr": "Choisissez les termes possibles.", "label": "", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "choice", "stem_html": "1. Mathieu fait {{o:de l'escalade|du ski nautique|les sports d'hiver|une station de ski}}." },
+        { "seq": 2, "type": "choice", "stem_html": "2. Clémence joue {{o:aux cartes|au ping-pong|du patinage|le marathon}}." },
+        { "seq": 3, "type": "choice", "stem_html": "3. À la mer, on peut {{o:descendre une piste|faire de la natation|faire de la voile|aller à la gym}}." },
+        { "seq": 4, "type": "choice", "stem_html": "4. Les joueurs participent à {{o:une compétition|un tournoi|un stade|une course}}." },
+        { "seq": 5, "type": "choice", "stem_html": "5. Valérie bat {{o:les cartes|l'escalade|le record du monde|le rallye}}." }
+      ]
+    },
+    {
+      "page_no": 107, "seq": 17, "instruction_fr": "Associez un nom de la colonne de gauche à un sport.", "label": "a. le volley | b. le ski | c. le judo | d. l'équitation | e. la course automobile | f. la natation | g. l'escalade | h. le tennis", "note_html": "",
+      "has_image": false, "scan_pages": [],
+      "questions": [
+        { "seq": 1, "type": "assoc", "stem_html": "1. un circuit → {{b}}" },
+        { "seq": 2, "type": "assoc", "stem_html": "2. un court → {{b}}" },
+        { "seq": 3, "type": "assoc", "stem_html": "3. la brasse → {{b}}" },
+        { "seq": 4, "type": "assoc", "stem_html": "4. la paroi → {{b}}" },
+        { "seq": 5, "type": "assoc", "stem_html": "5. le ballon → {{b}}" },
+        { "seq": 6, "type": "assoc", "stem_html": "6. la ceinture → {{b}}" },
+        { "seq": 7, "type": "assoc", "stem_html": "7. la piste → {{b}}" },
+        { "seq": 8, "type": "assoc", "stem_html": "8. le manège → {{b}}" }
+      ]
+    }
+  ]
+}
