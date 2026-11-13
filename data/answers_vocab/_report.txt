@@ -1,0 +1,39 @@
+tag | problem
+ch2 p13 | CELL UNUSED ex3 | [FIGURE] Gérard Nicole Sébastien Juliette Frédéric Laure Ari
+ch3 p19 | CELL UNUSED ex3 | Gaspard et Margot se sont rencontrés en 1996. Ça a été imméd
+ch4 p25 | CELL UNUSED ex2 | Très négatif : Elle est d'une méchanceté incroyable. Il est 
+ch5 p35 | CELL UNUSED ex3 | 1. Cet homme est très pressé et doit se dépêcher. Il n'a pas
+ch7 p47 | CELL UNUSED ex2 | 1. marée noire – 2. raz-de-marée – 3. séismes – 4. volcan – 
+ch8 p55 | CELL UNUSED ex1 | 1. se fait du mauvais sang, se faire opérer – 2. en très mau
+ch9 p57 | CELL UNUSED ex4 | 1. Elle est petite et un peu ronde. Elle se pèse sur une bal
+ch9 p61 | CELL UNUSED ex2 | 1. C'est une jeune femme d'environ trente-cinq ans. Elle a l
+ch10 p63 | CELL UNUSED ex4 | 1. Il porte un jean bleu foncé, un pull à col roulé bleu tur
+ch10 p65 | CELL UNUSED ex1 | [FIGURE] LAINE COTON NYLON DAIM DENTELLE SOIE CUIR LIN FOURR
+ch11 p71 | CELL UNUSED ex4 | La jeune femme fait des travaux dans sa chambre, située sous
+ch11 p73 | CELL UNUSED ex4 | Dans cette chambre bien rangée, on peut voir un grand lit av
+ch11 p75 | CELL UNUSED ex3 | 1. une femme soignée, élégante, ordonnée – 2. une petite fil
+ch12 p81 | CELL UNUSED ex1 | [FIGURE] 1 PEIGNE 2 SHAMPOOING 3 MOUSSE 4 COTON 5 VERNIS a R
+ch12 p83 | CELL UNUSED ex5 | 1. Ils sont arrivés dans la maison le matin à dix heures. – 
+ch13 p91 | CELL UNUSED ex2 | 1. Les fraises sont à combien ? – 2. Quel est le prix de ce 
+ch13 p91 | CELL UNUSED ex3 | 1. J'ai fait une bonne affaire. / Je les ai eues pour trois 
+ch14 p99 | CELL UNUSED ex4 | Ce gâteau est magnifique ! La décoration est splendide ! Ce 
+ch15 p105 | CELL UNUSED ex2 | [FIGURE] 1 SAUT 2 PATINOIRE 3 STADE 4 MAILLOT 5 LANCER 6 ARB
+ch16 p109 | CELL UNUSED ex1 | 1. Il s'agit d'un TGV. – 2. Oui, il comprend une réservation
+ch16 p113 | CELL UNUSED ex3 | 1. e – 2. a – 3. d – 4. c – 5. b.
+ch17 p117 | CELL UNUSED ex3 | 1. Elle prépare ses affaires pour partir en vacances à l'étr
+ch17 p119 | CELL UNUSED ex4 | La famille est en vacances à la campagne. Les parents se rep
+ch18 p125 | CELL UNUSED ex1 | [FIGURE] 1 CLASSEUR 2 CRAYON 3 GOMME 4 LIVRE 5 RÈGLE 6 CARTA
+ch18 p125 | CELL UNUSED ex2 | 1. Le cours d'anglais se passe dans une salle. – 2. Les élèv
+ch18 p127 | CELL UNUSED ex3 | Baptiste est entré à l'école maternelle à trois ans. À six a
+ch18 p129 | CELL UNUSED ex2 | 1. Kevin est attentif et vivant. – 2. Marie est distraite. –
+ch19 p131 | CELL UNUSED ex2 | 1. un coiffeur, une coiffeuse – 2. un maçon – 3. une femme d
+ch19 p133 | CELL UNUSED ex2 | [FIGURE] 1 COMMERÇANT 2 ARTISAN 3 STAGIAIRE 4 CHOMEUR 5 ÉTUD
+ch20 p141 | CELL UNUSED ex4 | 1. le téléphone, l'ordinateur, la télécommande – 2. une touc
+ch21 p145 ex1 q7 | OPT? un virement || ses comptes|ses intérêts|un solde
+ch21 p147 | CELL UNUSED ex3 | 1. Yaëlle et Antoine vont emprunter de l'argent / faire un e
+ch22 p155 ex1 q2 | OPT? l'actualité || la presse|l'abonnement
+ch22 p155 ex1 q3 | OPT? la presse || l'abonnement|en ligne
+ch23 p157 | CELL UNUSED ex4 | Exemples de réponses : 1. De la part de François Marel. – 2.
+ch23 p159 | CELL UNUSED ex4 | Exemples de réponses : 1. Oui, avec plaisir ! / Non, c'est d
+ch24 p163 | CELL UNUSED ex3 | Exemples de situations : 1. Un homme politique est interview
+ch25 p169 | CELL UNUSED ex4 | On peut voir un château médiéval. Les immeubles derrière ne 

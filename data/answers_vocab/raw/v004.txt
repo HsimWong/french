@@ -1,0 +1,28 @@
+@CH 1
+@PAGE 7
+@EX 1
+- 1. V → vous – 2. V → tu – 3. V → tu – 4. F → tu (s'ils sont amis) / vous (s'ils ne sont pas amis) – 5. F → vous – 6. F → tu.
+@EX 2
+- 1. Mathilde / madame – 2. Quentin / mon chéri – 3. Deux – 4. Bisous / Je vous embrasse / Grosses bises – 5. On peut se serrer la main – 6. vous.
+@EX 3
+- 1. F – 2. V – 3. V – 4. V – 5. V – 6. V.
+@PAGE 9
+@EX 1
+- 1. Je vous en prie, madame. – 2. Je t'en prie. – 3. Asseyez-vous, je vous en prie. – 4. Après vous, je vous en prie.
+@EX 2
+- 1. Je t'en prie. – 2. Oui, ça va mieux. / Je vais mieux, merci. / Non, pas vraiment. – 3. Je vous en prie, ce n'est pas grave. – 4. Oui, ça nous va (très bien) / Non, nous sommes déjà pris. – 5. Très bien, merci. / Ça peut aller. / Pas trop mal. Et vous ? – 6. Oui, ça a été, tout s'est bien passé. / Non, ça s'est (assez) mal passé. – 7. Il n'y a pas de quoi. / Je vous en prie. – 8. Mais oui, tout ira bien !
+@EX 3
+- 1. d – 2. e – 3. f – 4. b – 5. g – 6. c – 7. a.
+@PAGE 11
+@EX 1
+- 1. Noël – 2. Toutes mes félicitations ! / Tous mes vœux de bonheur ! – 3. À tes souhaits ! – 4. Bon anniversaire ! – 5. Tous mes vœux ! / Bonne année ! – 6. Bravo ! – 7. Bon courage ! / Bonne chance !
+@EX 2
+- 1. c – 2. d – 3. f – 4. b – 5. g – 6. a – 7. e.
+@EX 3
+- 1. À la tienne ! / À la vôtre ! / Tchin-tchin ! – 2. Bonne année ! / Tous mes vœux !
+@CH 2
+@PAGE 13
+@EX 1
+- 1. F – 2. V – 3. V – 4. V – 5. F – 6. F – 7. V – 8. V – 9. V – 10. F.
+@EX 2
+- 1. nièces et neveux – 2. filles – 3. parents – 4. cousin – 5. petite-fille – 6. cousine – 7. beau-frère – 8. beaux-parents – 9. tante – 10. belle-sœur.

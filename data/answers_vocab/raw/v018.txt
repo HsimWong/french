@@ -1,0 +1,27 @@
+@CH 15
+@PAGE 101
+@EX 2
+- 1. faire – 2. s'est déguisé – 3. battre – 4. sortent – 5. s'ennuie – 6. me suis reposé(e) – 7. consacre.
+@EX 3
+- 1. d – 2. e – 3. a – 4. c – 5. f – 6. b.
+@EX 4
+- 1. jouer aux échecs – 2. faire les magasins – 3. sortir en boîte – 4. faire du jardinage – 5. jouer à la poupée.
+@PAGE 103
+@EX 1
+- 1. le match, la compétition – 2. gagnante – 3. le record – 4. disputent, participent à – 5. une médaille – 6. battu – 7. dopés – 8. la championne.
+@EX 2
+- 1. f – 2. a – 3. e – 4. b – 5. d – 6. c.
+@EX 3
+- 1. joueur – 2. s'entraîne, entraîneur – 3. participe, tournois, chelem – 4. gagné – 5. raquette – 6. disputer – 7. adversaire.
+@EX 4
+- 1. une médaille – 2. le grand chelem – 3. le champion – 4. l'entraîneur – 5. le record du monde – 6. le filet.
+@PAGE 105
+@EX 1
+- 1. L'athlète – 2. respecter – 3. une faute – 4. stade – 5. Le cavalier – 6. maillot.
+@EX 2
+- [FIGURE] 1 SAUT 2 PATINOIRE 3 STADE 4 MAILLOT 5 LANCER 6 ARBITRE 7 BUT 8 EQUIPE
+@EX 3
+- 1. cycliste – 2. marathon – 3. joueurs / footballeurs – 4. gardien de but – 5. public – 6. supporters – 7. athlètes.
+@PAGE 107
+@EX 1
+- 1. V – 2. F – 3. V – 4. V – 5. F – 6. V – 7. V – 8. V.

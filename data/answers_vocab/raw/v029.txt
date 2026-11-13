@@ -1,0 +1,32 @@
+@CH 25
+@PAGE 173
+@EX 1
+- 1. F – 2. F – 3. V – 4. F – 5. V – 6. F – 7. V – 8. F.
+@EX 2
+- 1. e – 2. d – 3. a – 4. f – 5. b – 6. c.
+@EX 3
+- 1. pièce – 2. mise – 3. chef – 4. orchestre / groupe – 5. conservatoire – 6. metteur – 7. public.
+@EX 4
+- 1. un écrivain – 2. un(e) acteur(-trice), un(e) musicien(ne) – 3. un(e) spectateur(-trice) – 4. un(e) ministre de la Culture.
+@CH 0
+@PAGE 174
+@EX 1
+- 1. V – 2. F – 3. F – 4. F – 5. F – 6. F – 7. V – 8. V.
+@EX 2
+- 1. ont passé – 2. a traversé – 3. a perdu – 4. a fait – 5. a demandé.
+@EX 3
+- 1. relation, liaison – 2. répétition, tournage – 3. déprimée, enceinte – 4. divorcé, célibataire. – 5. mariés, séparés.
+@PAGE 175
+@EX 1
+- a. Carte postale n° 1 : 1, 3, 5, 6, 7 – b. Carte postale n° 2 : 2, 4, 8
+@EX 2
+- 1. crevé, fatigué, lessivé – 2. froide – 3. de chien, affreux, épouvantable, terrible – 4. terriblement chaud, une chaleur insupportable / torride – 5. antipathique – 6. marié.
+@EX 3
+- 1. sous – 2. de la planche à voile – 3. un coup de soleil – 4. un temps splendide – 5. bonne – 6. passent.
+@PAGE 176
+@EX 1
+- 1. F – 2. F – 3. V – 4. V – 5. V – 6. F – 7. V – 8. V.
+@EX 2
+- 1. cadre – 2. au chômage – 3. coupe – 4. fait – 5. point de vue – 6. gère.
+@EX 3
+- 1. d'intelligence – 2. patron – 3. chômage – 4. cadre – 5. la parole – 6. équipe.

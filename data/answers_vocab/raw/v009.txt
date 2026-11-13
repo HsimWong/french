@@ -1,0 +1,27 @@
+@PAGE 41
+@EX 1
+- 1. Il s'agit d'un ouragan accompagné d'une tornade. Les vents extrêmement violents et les pluies diluviennes emportent les maisons sur leur passage et provoquent des dégâts importants. – 2. C'est l'hiver, il fait très froid et il y a une tempête de neige. Il a gelé, les routes et les trottoirs sont glissants. – 3. Il fait grand soleil et très sec. Il fait une chaleur torride. – 4. C'est un orage d'été : le ciel est très chargé, il fait lourd. Il y a des éclairs et du tonnerre. Il y a beaucoup de vent et il pleut très fort.
+@EX 2
+- 1. climat méditerranéen – 2. climat polaire – 3. climat tropical humide – 4. climat océanique – 5. climat continental.
+@EX 3
+- 1. changements – 2. réchauffement – 3. fossiles – 4. environnement – 5. gaz à effet de serre – 6. réduire – 7. renouvelables.
+@CH 7
+@PAGE 43
+@EX 1
+- 1. légume – 2. arrosoir – 3. fruitier – 4. potager.
+@EX 2
+- 1. sur les roses – 2. fanées – 3. comme une rose – 4. cueilli – 5. jardinier – 6. une tomate / une pivoine – 7. le sapin / l'arbre.
+@EX 3
+- 1. campagne, rural, village, potager, verger, rivière, forêt, pelouse, bouquet, cueilli – 2. jardin, planté, pots / jardinières, arrose, arrosoir – 3. trèfle, gazon / jardin.
+@PAGE 45
+@EX 1
+- 1. F – 2. F – 3. V – 4. F – 5. V – 6. V – 7. V – 8. F – 9. V – 10. F.
+@EX 2
+- 1. d – 2. c – 3. h – 4. g – 5. a – 6. f – 7. b – 8. e.
+@PAGE 47
+@EX 1
+- 1. terre – 2. par terre – 3. de terre – 4. Terre – 5. terre – 6. par terre.
+@EX 2
+- 1. marée noire – 2. raz-de-marée – 3. séismes – 4. volcan – 5. déforestation.
+@EX 3
+- 1. pollution, installés, campagne, aboient, tondeuses, pelouse / gazon, centrale – 2. environnement, écologiste, accidents / catastrophes, nucléaires, renouvelables, solaires, éoliennes, agneaux.
