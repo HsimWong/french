@@ -41,6 +41,7 @@ func pathID(r *http.Request, name string) (int64, error) {
 }
 
 func registerRoutes(mux *http.ServeMux, db *sql.DB) {
+	handleAttemptRoutes(mux, db)
 	mux.HandleFunc("GET /api/health", func(w http.ResponseWriter, r *http.Request) {
 		writeJSON(w, 200, map[string]any{"ok": true, "time": time.Now().Format(time.RFC3339)})
 	})
@@ -129,8 +130,10 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 		}
 
 		var notesCount, attemptsCount, qTotal, qReady int
+		var chapterAttempts int
 		_ = db.QueryRow(`SELECT COUNT(*) FROM note n JOIN chapter c ON c.id=n.chapter_id WHERE c.course_id=?`, courseID).Scan(&notesCount)
 		_ = db.QueryRow(`SELECT COUNT(*) FROM attempt WHERE status='submitted' AND chapter_id IN (SELECT id FROM chapter WHERE course_id=?)`, courseID).Scan(&attemptsCount)
+		_ = db.QueryRow(`SELECT COUNT(DISTINCT chapter_id) FROM attempt WHERE user_id=1 AND chapter_id IN (SELECT id FROM chapter WHERE course_id=?)`, courseID).Scan(&chapterAttempts)
 		_ = db.QueryRow(`SELECT COUNT(*) FROM question q JOIN exercise e ON e.id=q.exercise_id JOIN chapter c ON c.id=e.chapter_id WHERE c.course_id=?`, courseID).Scan(&qTotal)
 		_ = db.QueryRow(`SELECT COUNT(*) FROM question q JOIN exercise e ON e.id=q.exercise_id JOIN chapter c ON c.id=e.chapter_id WHERE c.course_id=? AND q.answer_status='ready'`, courseID).Scan(&qReady)
 
@@ -138,9 +141,51 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 			"course": course, "chapters": chapters,
 			"stats": map[string]any{
 				"notes": notesCount, "attempts": attemptsCount,
-				"questions": qTotal, "answers_ready": qReady,
+				"questions": qTotal, "answers_ready": qReady, "chapters_with_attempts": chapterAttempts,
 			},
 		})
+	})
+
+	// The learning page's prominent 继续上次答题 card: the most recently
+	// touched chapter that still has a draft, or else the last submission.
+	mux.HandleFunc("GET /api/resume", func(w http.ResponseWriter, r *http.Request) {
+		courseID := 0
+		if s := r.URL.Query().Get("course_id"); s != "" {
+			courseID, _ = strconv.Atoi(s)
+		}
+		query := `SELECT a.id, a.chapter_id, a.status, a.updated_at, a.started_at,
+			a.submitted_version, a.score, a.total,
+			c.title_fr, c.seq, co.id, co.code,
+			(SELECT COUNT(*) FROM attempt_answer aa WHERE aa.attempt_id=a.id),
+			(SELECT COUNT(*) FROM question q JOIN exercise e ON e.id=q.exercise_id WHERE e.chapter_id=a.chapter_id)
+			FROM attempt a JOIN chapter c ON c.id=a.chapter_id JOIN course co ON co.id=c.course_id
+			WHERE a.user_id=1 AND ((a.status='in_progress' AND EXISTS (SELECT 1 FROM attempt_answer aa WHERE aa.attempt_id=a.id))
+			  OR (a.status='submitted' AND a.discarded_at IS NULL))`
+		args := []any{}
+		if courseID > 0 {
+			query += ` AND c.course_id=?`
+			args = append(args, courseID)
+		}
+		query += ` ORDER BY CASE WHEN a.status='in_progress' AND EXISTS (SELECT 1 FROM attempt_answer aa WHERE aa.attempt_id=a.id)
+			THEN 0 ELSE 1 END, a.updated_at DESC, a.id DESC LIMIT 1`
+		var attID, chID int64
+		var version sql.NullInt64
+		var status, updated, started, title, code string
+		var seq, course, answered, qTotal int64
+		var score, total sql.NullFloat64
+		err := db.QueryRow(query, args...).Scan(&attID, &chID, &status, &updated, &started, &version,
+			&score, &total, &title, &seq, &course, &code, &answered, &qTotal)
+		if err != nil {
+			writeJSON(w, 200, map[string]any{"resume": nil})
+			return
+		}
+		writeJSON(w, 200, map[string]any{"resume": map[string]any{
+			"attempt_id": attID, "chapter_id": chID, "chapter_seq": seq, "chapter_title": title,
+			"course_id": course, "course_code": code, "status": status,
+			"draft_version": version.Int64 + 1, "updated_at": updated, "started_at": started,
+			"answered": answered, "question_count": qTotal,
+			"score": nullFloat(score), "total": nullFloat(total),
+		}})
 	})
 
 	mux.HandleFunc("GET /api/chapters/{id}", func(w http.ResponseWriter, r *http.Request) {
@@ -229,9 +274,10 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 			return
 		}
 		var courseID int
+		var chapterSeq int
 		var courseCode, chapterTitle string
-		if err = db.QueryRow(`SELECT co.id, co.code, c.title_fr FROM chapter c JOIN course co ON co.id=c.course_id WHERE c.id=?`, id).
-			Scan(&courseID, &courseCode, &chapterTitle); err != nil {
+		if err = db.QueryRow(`SELECT co.id, co.code, c.title_fr, c.seq FROM chapter c JOIN course co ON co.id=c.course_id WHERE c.id=?`, id).
+			Scan(&courseID, &courseCode, &chapterTitle, &chapterSeq); err != nil {
 			writeErr(w, 404, "chapter not found")
 			return
 		}
@@ -242,8 +288,8 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 			return
 		}
 		type ex struct {
-			m        map[string]any
-			id       int64
+			m  map[string]any
+			id int64
 		}
 		var list []ex
 		for erows.Next() {
@@ -269,8 +315,21 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 		}
 		erows.Close()
 
+		// Question ids whose exercise already has a submission from this user.
+		released := map[int64]bool{}
+		if srows, serr := db.Query(`SELECT q.id FROM question q JOIN exercise e ON e.id=q.exercise_id
+			JOIN attempt a ON a.chapter_id=e.chapter_id AND a.scope='exercise:'||e.id AND a.user_id=1
+			WHERE e.chapter_id=? AND a.status='submitted' AND a.discarded_at IS NULL`, id); serr == nil {
+			for srows.Next() {
+				var qid int64
+				if srows.Scan(&qid) == nil {
+					released[qid] = true
+				}
+			}
+			srows.Close()
+		}
 		for i := range list {
-			qrows, qerr := db.Query(`SELECT id, seq, type, stem_html, source_ref, answer_status FROM question WHERE exercise_id=? ORDER BY seq`, list[i].id)
+			qrows, qerr := db.Query(`SELECT id, seq, type, stem_html, source_ref, answer_status, explanation, answer_json FROM question WHERE exercise_id=? ORDER BY seq`, list[i].id)
 			if qerr != nil {
 				continue
 			}
@@ -278,109 +337,39 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 			for qrows.Next() {
 				var qid, qseq int64
 				var qtype, stem, ref, astatus string
-				_ = qrows.Scan(&qid, &qseq, &qtype, &stem, &ref, &astatus)
-				qs = append(qs, map[string]any{
+				var explanation, answerJSON sql.NullString
+				_ = qrows.Scan(&qid, &qseq, &qtype, &stem, &ref, &astatus, &explanation, &answerJSON)
+				// Keys are sent only after this exercise has been submitted by
+				// this user. Drafts keep has_answer (a boolean), never values.
+				item := map[string]any{
 					"id": qid, "seq": qseq, "type": qtype,
 					"stem_html": stem, "source_ref": ref, "answer_status": astatus,
-				})
+					"has_answer": astatus == "ready", "explanation": explanation.String,
+				}
+				if released[qid] {
+					item["answer"] = answerValues(answerJSON.String)
+					item["ex_answer"] = item["answer"]
+					// The exercise-level page needs the raw key to compare
+					// variants exactly like the grader does.
+					item["answer_json"] = answerJSON.String
+				}
+				qs = append(qs, item)
 			}
 			qrows.Close()
 			list[i].m["questions"] = qs
 		}
 		out := []map[string]any{}
+		submitted, _ := sectionSubmissions(db, id)
 		for _, e := range list {
+			if s, ok := submitted[strconv.FormatInt(e.id, 10)]; ok {
+				e.m["submission"] = s
+			}
 			out = append(out, e.m)
 		}
 		writeJSON(w, 200, map[string]any{
 			"exercises": out, "course_id": courseID, "course_code": courseCode,
-			"chapter_title_fr": chapterTitle, "scan_base": scanBase(courseCode),
-		})
-	})
-
-	mux.HandleFunc("POST /api/attempts", func(w http.ResponseWriter, r *http.Request) {
-		var body struct {
-			ChapterID int64 `json:"chapter_id"`
-		}
-		if err := readJSON(r, &body); err != nil {
-			writeErr(w, 400, err.Error())
-			return
-		}
-		if body.ChapterID == 0 {
-			body.ChapterID = 1
-		}
-		res, err := db.Exec(`INSERT INTO attempt(user_id, chapter_id, scope, mode, started_at) VALUES(1,?,'chapter','lesson',?)`,
-			body.ChapterID, time.Now().Format(time.RFC3339))
-		if err != nil {
-			writeErr(w, 500, err.Error())
-			return
-		}
-		id, _ := res.LastInsertId()
-		writeJSON(w, 201, map[string]any{"attempt_id": id})
-	})
-
-	mux.HandleFunc("POST /api/attempts/{id}/submit", func(w http.ResponseWriter, r *http.Request) {
-		id, err := pathID(r, "id")
-		if err != nil {
-			writeErr(w, 400, err.Error())
-			return
-		}
-		var body struct {
-			Answers []struct {
-				QuestionID int64             `json:"question_id"`
-				Blanks     map[string]string `json:"blanks"`
-			} `json:"answers"`
-		}
-		if err = readJSON(r, &body); err != nil {
-			writeErr(w, 400, err.Error())
-			return
-		}
-		tx, err := db.Begin()
-		if err != nil {
-			writeErr(w, 500, err.Error())
-			return
-		}
-		defer tx.Rollback()
-		var state string
-		if err = tx.QueryRow(`SELECT status FROM attempt WHERE id=?`, id).Scan(&state); err != nil {
-			writeErr(w, 404, "attempt not found")
-			return
-		}
-		for _, a := range body.Answers {
-			if a.Blanks == nil {
-				a.Blanks = map[string]string{}
-			}
-			payload, _ := json.Marshal(a.Blanks)
-			if _, err = tx.Exec(`INSERT INTO attempt_answer(attempt_id, question_id, user_answer_json) VALUES(?,?,?)
-				ON CONFLICT(attempt_id, question_id) DO UPDATE SET user_answer_json=excluded.user_answer_json`,
-				id, a.QuestionID, string(payload)); err != nil {
-				writeErr(w, 500, err.Error())
-				return
-			}
-		}
-		score, total, allReady, err := gradeAttempt(tx, id)
-		if err != nil {
-			writeErr(w, 500, err.Error())
-			return
-		}
-		gradingStatus := "pending"
-		var scoreOut any
-		if allReady {
-			gradingStatus = "graded"
-			scoreOut = score
-		}
-		if _, err = tx.Exec(`UPDATE attempt SET status='submitted', submitted_at=?, score=?, total=?, grading_status=? WHERE id=?`,
-			time.Now().Format(time.RFC3339), scoreOut, total, gradingStatus, id); err != nil {
-			writeErr(w, 500, err.Error())
-			return
-		}
-		if err = tx.Commit(); err != nil {
-			writeErr(w, 500, err.Error())
-			return
-		}
-		writeJSON(w, 200, map[string]any{
-			"attempt_id": id, "grading_status": gradingStatus,
-			"score": scoreOut, "total": total,
-			"message": "作答已保存。标准答案尚未导入，暂不判分；导入后可一键重判。",
+			"chapter_id": id, "chapter_seq": chapterSeq, "chapter_title_fr": chapterTitle,
+			"scan_base": scanBase(courseCode),
 		})
 	})
 
@@ -394,37 +383,18 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 		var scope, mode, started, gradingStatus, status string
 		var submitted sql.NullString
 		var score, total sql.NullFloat64
-		if err = db.QueryRow(`SELECT chapter_id, scope, mode, started_at, submitted_at, score, total, grading_status, status FROM attempt WHERE id=?`, id).
-			Scan(&chapterID, &scope, &mode, &started, &submitted, &score, &total, &gradingStatus, &status); err != nil {
+		var submittedVersion sql.NullInt64
+		if err = db.QueryRow(`SELECT chapter_id, scope, mode, started_at, submitted_at, score, total, grading_status, status,
+			submitted_version FROM attempt WHERE id=?`, id).
+			Scan(&chapterID, &scope, &mode, &started, &submitted, &score, &total, &gradingStatus, &status,
+				&submittedVersion); err != nil {
 			writeErr(w, 404, "attempt not found")
 			return
 		}
-		items := []map[string]any{}
-		rows, err := db.Query(`SELECT aa.question_id, q.stem_html, q.source_ref, e.instruction_fr, e.page_no,
-			aa.user_answer_json, aa.is_correct, aa.feedback, q.answer_status
-			FROM attempt_answer aa
-			JOIN question q ON q.id=aa.question_id
-			JOIN exercise e ON e.id=q.exercise_id
-			WHERE aa.attempt_id = ?
-			ORDER BY e.page_no, e.seq, q.seq`, id)
-		if err == nil {
-			for rows.Next() {
-				var qid, page int64
-				var stem, ref, instr, userJSON, astatus string
-				var feedback sql.NullString
-				var correct sql.NullInt64
-				_ = rows.Scan(&qid, &stem, &ref, &instr, &page, &userJSON, &correct, &feedback, &astatus)
-				var blanks map[string]string
-				_ = json.Unmarshal([]byte(userJSON), &blanks)
-				items = append(items, map[string]any{
-					"question_id": qid, "stem_html": stem, "source_ref": ref,
-					"instruction_fr": instr, "page_no": page,
-					"blanks": blanks, "is_correct": nullInt(correct),
-					"feedback": feedback.String, "answer_status": astatus,
-				})
-			}
-			rows.Close()
-		}
+		// Submitted papers read from their frozen version; a draft reads its
+		// live answers. The old path read only attempt_answer, which is now
+		// cleared on submit, so a result page would otherwise be empty.
+		items := mapItemsToResult(frozenItems(db, id, status), gradingStatus)
 		var courseID sql.NullInt64
 		if chapterID.Valid {
 			_ = db.QueryRow(`SELECT course_id FROM chapter WHERE id=?`, chapterID.Int64).Scan(&courseID)
@@ -436,6 +406,7 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 				"started_at": started, "submitted_at": submitted.String,
 				"score": nullFloat(score), "total": nullFloat(total),
 				"grading_status": gradingStatus, "status": status,
+				"submitted_version": nullInt(submittedVersion),
 			},
 			"items": items,
 		})
@@ -569,9 +540,9 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 	mux.HandleFunc("PUT /api/admin/answers", func(w http.ResponseWriter, r *http.Request) {
 		var body struct {
 			Answers []struct {
-				QuestionID  int64             `json:"question_id"`
-				Blanks      map[string]any    `json:"blanks"`
-				Explanation string            `json:"explanation"`
+				QuestionID  int64          `json:"question_id"`
+				Blanks      map[string]any `json:"blanks"`
+				Explanation string         `json:"explanation"`
 			} `json:"answers"`
 		}
 		if err := readJSON(r, &body); err != nil {
@@ -612,49 +583,221 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 	})
 
 	mux.HandleFunc("POST /api/admin/regrade", func(w http.ResponseWriter, r *http.Request) {
-		rows, err := db.Query(`SELECT id FROM attempt WHERE status='submitted' ORDER BY id`)
+		// Every chapter's frozen versions are re-scored against the keys as
+		// they are now; no old paper is rewritten, only its score row.
+		rows, err := db.Query(`SELECT DISTINCT chapter_id FROM attempt WHERE status='submitted' AND chapter_id IS NOT NULL`)
 		if err != nil {
 			writeErr(w, 500, err.Error())
 			return
 		}
-		var ids []int64
+		var chapters []int64
 		for rows.Next() {
 			var id int64
-			_ = rows.Scan(&id)
-			ids = append(ids, id)
+			if err = rows.Scan(&id); err != nil {
+				rows.Close()
+				writeErr(w, 500, err.Error())
+				return
+			}
+			chapters = append(chapters, id)
 		}
 		rows.Close()
-		tx, err := db.Begin()
-		if err != nil {
-			writeErr(w, 500, err.Error())
-			return
-		}
-		defer tx.Rollback()
-		graded := 0
-		for _, id := range ids {
-			score, total, allReady, err := gradeAttempt(tx, id)
+		total, graded, changed := 0, 0, 0
+		for _, ch := range chapters {
+			out, err := regradeChapter(db, ch)
 			if err != nil {
 				writeErr(w, 500, err.Error())
 				return
 			}
-			status := "pending"
-			var s any
-			if allReady {
-				status = "graded"
-				s = score
-				graded++
+			total += out["revisions"].(int)
+			graded += out["graded"].(int)
+			changed += out["changed"].(int)
+		}
+		slog.Info("regrade finished", "revisions", total, "graded", graded, "changed", changed)
+		writeJSON(w, 200, map[string]any{"revisions": total, "graded": graded, "changed": changed})
+	})
+}
+
+// ---------------------------------------------------------------- dictionary
+
+func registerDictionaryRoutes(mux *http.ServeMux, db *sql.DB, lex *lexicon) {
+	mux.HandleFunc("GET /api/dict/lookup", func(w http.ResponseWriter, r *http.Request) {
+		q := r.URL.Query().Get("q")
+		if strings.TrimSpace(q) == "" || len([]rune(q)) > 160 {
+			writeErr(w, 400, "q is required (max 160 characters)")
+			return
+		}
+		result := lex.lookup(q, 20, false)
+		if result.Source == "none" {
+			guess := ""
+			if len(result.Suggestions) > 0 {
+				guess = result.Suggestions[0].Lemma
 			}
-			if _, err = tx.Exec(`UPDATE attempt SET score=?, total=?, grading_status=? WHERE id=?`, s, total, status, id); err != nil {
-				writeErr(w, 500, err.Error())
-				return
+			go lex.queuePending(result.Normalized, guess, "unresolved")
+		}
+		writeJSON(w, 200, result)
+	})
+
+	mux.HandleFunc("GET /api/dict/suggest", func(w http.ResponseWriter, r *http.Request) {
+		q := r.URL.Query().Get("q")
+		limit := 20
+		if s := r.URL.Query().Get("limit"); s != "" {
+			if n, err := strconv.Atoi(s); err == nil && n > 0 && n <= 50 {
+				limit = n
 			}
 		}
-		if err = tx.Commit(); err != nil {
+		writeJSON(w, 200, map[string]any{"suggestions": lex.suggest(normalizeSpelling(clipWords(q, 6)), limit)})
+	})
+
+	mux.HandleFunc("GET /api/dict/stats", func(w http.ResponseWriter, r *http.Request) {
+		writeJSON(w, 200, lex.stats())
+	})
+
+	// Paged course glossary for the dictionary browser. The list is derived
+	// from the same form index as lookups, never from a second copy of text.
+	mux.HandleFunc("GET /api/dict/words", func(w http.ResponseWriter, r *http.Request) {
+		q := normalizeSpelling(clipWords(r.URL.Query().Get("q"), 4))
+		letter := normalizeSpelling(r.URL.Query().Get("letter"))
+		pos := r.URL.Query().Get("pos")
+		// The source dump also contains symbols, braille and emoji "words".
+		// A French dictionary starts with a letter, not a digit or pictogram.
+		if letter != "" && !isFrenchLetter(letter) {
+			letter = ""
+		}
+		page, per := 1, 60
+		if n, err := strconv.Atoi(r.URL.Query().Get("page")); err == nil && n > 0 {
+			page = n
+		}
+		if n, err := strconv.Atoi(r.URL.Query().Get("per")); err == nil && n > 0 && n <= 200 {
+			per = n
+		}
+		pos = strings.TrimSpace(pos)
+		if len([]rune(pos)) > 24 {
+			pos = ""
+		}
+		where := []string{`e.lemma GLOB '[[A-Za-zÀ-ÖØ-öø-ÿŒœ]*'`}
+		args := []any{}
+		if q != "" {
+			where = append(where, "e.lemma LIKE ? ESCAPE '\\'")
+			args = append(args, escapeLike(q)+"%")
+		}
+		if letter != "" && len([]rune(letter)) == 1 {
+			where = append(where, "e.lemma LIKE ? ESCAPE '\\'")
+			args = append(args, escapeLike(letter)+"%")
+		}
+		if pos != "" {
+			where = append(where, "e.pos = ?")
+			args = append(args, pos)
+		}
+		cond := strings.Join(where, " AND ")
+		var total int
+		if err := db.QueryRow(`SELECT COUNT(*) FROM dict_entry e WHERE `+cond, args...).Scan(&total); err != nil {
 			writeErr(w, 500, err.Error())
 			return
 		}
-		slog.Info("regrade finished", "attempts", len(ids), "graded", graded)
-		writeJSON(w, 200, map[string]any{"attempts": len(ids), "graded": graded})
+		args = append(args, per, (page-1)*per)
+		rows, err := db.Query(`SELECT e.id, e.lemma, e.display, e.pos, e.gloss_zh FROM dict_entry e WHERE `+
+			cond+` ORDER BY e.lemma, e.pos LIMIT ? OFFSET ?`, args...)
+		if err != nil {
+			writeErr(w, 500, err.Error())
+			return
+		}
+		defer rows.Close()
+		words := []map[string]any{}
+		for rows.Next() {
+			var id int64
+			var lemma, display, posLabel, gloss string
+			if rows.Scan(&id, &lemma, &display, &posLabel, &gloss) == nil {
+				words = append(words, map[string]any{"entry_id": id, "lemma": lemma,
+					"display": display, "pos": posLabel, "gloss_zh": gloss})
+			}
+		}
+		writeJSON(w, 200, map[string]any{"words": words, "total": total,
+			"page": page, "per": per, "pages": (total + per - 1) / per})
+	})
+
+	mux.HandleFunc("GET /api/dictionary", func(w http.ResponseWriter, r *http.Request) {
+		chapter, err := strconv.Atoi(r.URL.Query().Get("chapter_id"))
+		if err != nil || chapter <= 0 {
+			writeErr(w, 400, "invalid chapter_id")
+			return
+		}
+		var text strings.Builder
+		rows, err := db.Query(`SELECT body_html FROM content_block WHERE chapter_id=? ORDER BY page_no, seq`, chapter)
+		if err != nil {
+			writeErr(w, 500, err.Error())
+			return
+		}
+		for rows.Next() {
+			var html string
+			if rows.Scan(&html) == nil {
+				text.WriteString(" " + html + " ")
+			}
+		}
+		rows.Close()
+		writeJSON(w, 200, map[string]any{"chapter_id": chapter, "glossary": lex.glossary(text.String())})
+	})
+
+	mux.HandleFunc("GET /api/dict/pending", func(w http.ResponseWriter, r *http.Request) {
+		rows, err := db.Query(`SELECT form, guess_lemma, reason, hits, first_seen, last_seen
+			FROM dict_pending WHERE resolved_entry_id IS NULL ORDER BY hits DESC, last_seen DESC LIMIT 200`)
+		if err != nil {
+			writeErr(w, 500, err.Error())
+			return
+		}
+		defer rows.Close()
+		out := []map[string]any{}
+		for rows.Next() {
+			var form, guess, reason, first, last string
+			var hits int
+			if rows.Scan(&form, &guess, &reason, &hits, &first, &last) == nil {
+				out = append(out, map[string]any{"form": form, "guess_lemma": guess,
+					"reason": reason, "hits": hits, "first_seen": first, "last_seen": last})
+			}
+		}
+		writeJSON(w, 200, map[string]any{"pending": out, "total": len(out)})
+	})
+
+	mux.HandleFunc("POST /api/dict/pending/{form}/resolve", func(w http.ResponseWriter, r *http.Request) {
+		form := normalizeSpelling(r.PathValue("form"))
+		var body struct {
+			EntryID int64  `json:"entry_id"`
+			Lemma   string `json:"lemma"`
+			Feat    string `json:"feat"`
+		}
+		if err := readJSON(r, &body); err != nil {
+			writeErr(w, 400, err.Error())
+			return
+		}
+		var entryID int64
+		var lemma string
+		if body.EntryID > 0 {
+			err := db.QueryRow(`SELECT id, lemma FROM dict_entry WHERE id=?`, body.EntryID).Scan(&entryID, &lemma)
+			if err != nil {
+				writeErr(w, 404, "entry not found")
+				return
+			}
+		} else {
+			lemma = normalizeSpelling(body.Lemma)
+			if lemma == "" {
+				writeErr(w, 400, "entry_id or lemma is required")
+				return
+			}
+			if err := db.QueryRow(`SELECT id, lemma FROM dict_entry WHERE lemma=? ORDER BY id LIMIT 1`, lemma).Scan(&entryID, &lemma); err != nil {
+				writeErr(w, 404, "entry not found")
+				return
+			}
+		}
+		if _, err := db.Exec(`INSERT INTO dict_form(form, entry_id, feat, lemma, source) VALUES(?,?,?,?,'manual')
+			ON CONFLICT(form, entry_id, feat) DO NOTHING`, form, entryID, body.Feat, lemma); err != nil {
+			writeErr(w, 500, err.Error())
+			return
+		}
+		if _, err := db.Exec(`UPDATE dict_pending SET resolved_entry_id=? WHERE form=?`, entryID, form); err != nil {
+			writeErr(w, 500, err.Error())
+			return
+		}
+		lex.invalidate()
+		writeJSON(w, 200, map[string]any{"ok": true, "form": form, "entry_id": entryID})
 	})
 }
 
@@ -683,4 +826,32 @@ func nullFloat(n sql.NullFloat64) any {
 		return nil
 	}
 	return n.Float64
+}
+
+// answerValues exposes an imported key as plain strings; arrays of accepted
+// variants collapse into " / " so a blank can be reviewed as one cell.
+func answerValues(raw string) map[string]string {
+	out := map[string]string{}
+	if raw == "" {
+		return out
+	}
+	var m map[string]json.RawMessage
+	if json.Unmarshal([]byte(raw), &m) != nil {
+		return out
+	}
+	for k, v := range m {
+		if k == "explanation" {
+			continue
+		}
+		var variants []string
+		if json.Unmarshal(v, &variants) == nil {
+			out[k] = strings.Join(variants, " / ")
+			continue
+		}
+		var s string
+		if json.Unmarshal(v, &s) == nil {
+			out[k] = s
+		}
+	}
+	return out
 }

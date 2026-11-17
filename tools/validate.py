@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate data/chapters/*.json against the verbatim-transcription schema.
+"""Validate data/courses/chapters/*.json against the verbatim-transcription schema.
 
 Run after each batch:  python tools/validate.py [--check-scans]
 """
@@ -11,7 +11,7 @@ from collections import Counter
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 META = json.load(open(os.path.join(ROOT, "tools", "chapter_pages.json"), encoding="utf-8"))
-CHAPTER_DIR = os.path.join(ROOT, "data", "chapters")
+CHAPTER_DIR = os.path.join(ROOT, "data", "courses", "chapters")
 PH = re.compile(r"\{\{([bLTco])(!?)(?::([^}]*))?\}\}")
 COURSE = {"g": "grammaire", "v": "vocabulaire"}
 FNAME = re.compile(r"^([gv])(\d{2})\.json$")

@@ -5,7 +5,7 @@ Each pack lists, for one grammar chapter, every still-unanswered question with
 its page / exercise order / question seq / number of blanks and the stem text,
 plus the Corrigés page images that carry the answers.
 
-The agent fills data/answers/over/gNN.json in the same shape as the parsed
+The agent fills data/import/answers/over/gNN.json in the same shape as the parsed
 files; tools/parse_corriges.py merges those overrides last and re-validates the
 blank count, so a bad guess is rejected instead of stored.
 
@@ -18,7 +18,7 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ANS = os.path.join(ROOT, "data", "answers")
+ANS = os.path.join(ROOT, "data", "import", "answers")
 TASKS = os.path.join(ANS, "tasks")
 LABELS = ("Réponses possibles", "Réponse possible", "Exemples", "Exemple",
           "Questions possibles", "Autres possibilités", "Plusieurs réponses",
@@ -119,7 +119,7 @@ def main():
                 "数据源：Corrigés 答案页 `C:/Users/WangXin/AppData/Local/Temp/corriges/pNNN.jpg`，",
                 "本章涉及的页：%s" % ", ".join(sorted(p.replace("p", "") for p in npages)),
                 "",
-                "输出文件：`data/answers/over/g%02d.json`，结构：" % ch,
+                "输出文件：`data/import/answers/over/g%02d.json`，结构：" % ch,
                 "```json",
                 '{"pages": {"<主书页>": {"<该页第几道大题>": {"<小题 seq>": "<单个空>=1 空时用字符串; 多空用字符串数组>"}}}}',
                 "```",

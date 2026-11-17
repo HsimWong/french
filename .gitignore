@@ -9,9 +9,28 @@ server.log
 # transient verification artifacts
 _dom-*.html
 web/selftest.html
+tmp_francais_*.exe
+tmp_*.py
+temp_compact.docx
+docs/preview_timing.docx
 # OS
 Thumbs.db
 .DS_Store
 
 # tool internals
 .workbuddy/
+
+# ---- 目录重组后（2026-11-17）----
+# 构建产物统一进 build/，不再落在项目根
+build/
+# 词典原始语料与下载碎片（可由 tools/fetch_kaikki.py 重新获取）
+data/source/
+data/source*/
+# 164MB 词典种子：编译期 embed 进二进制，不入库
+data/lexicon_seed.json
+# 导入中间产物：可由 tools/*.py 重新生成
+data/import/answers/raw/
+data/import/answers_vocab/raw/
+data/import/jianming/raw/
+# 教材页扫描图
+*.jpg

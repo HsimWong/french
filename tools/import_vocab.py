@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Import the vocabulary answer keys (data/answers_vocab/vNN.json) into french.db.
+"""Import the vocabulary answer keys (data/import/answers_vocab/vNN.json) into french.db.
 
 The vocabulary keys are *sparse* answer objects: only blanks with a meaningful
 value are present.  This is deliberate for {{c:g}} tick groups (the unticked
@@ -30,7 +30,7 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB = os.path.join(ROOT, "french.db")
-DIR = os.path.join(ROOT, "data", "answers_vocab")
+DIR = os.path.join(ROOT, "data", "import", "answers_vocab")
 PH = re.compile(r"\{\{([bLTco])(!?)(?::([^}]*))?\}\}")
 
 

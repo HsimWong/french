@@ -17,21 +17,24 @@ import (
 //go:embed schema.sql
 var schemaSQL string
 
-//go:embed data/chapter01.json
+//go:embed data/courses/chapter01.json
 var seedJSON []byte
 
-//go:embed data/vocabulaire01.json
+//go:embed data/courses/vocabulaire01.json
 var vocabSeedJSON []byte
 
 // One file per chapter for chapters 2+ of each course. Every one is a
 // verbatim transcription of the printed book pages; ID assignment is done
 // here so content files never carry database identifiers.
 //
-//go:embed data/chapters
+//go:embed data/courses/chapters
 var chapterFS embed.FS
 
 //go:embed web
 var webFS embed.FS
+
+//go:embed data/lexicon_seed.json
+var lexiconSeedJSON []byte
 
 func webAssets() (fs.FS, error) { return fs.Sub(webFS, "web") }
 
@@ -155,6 +158,10 @@ func openDB(path string) (*sql.DB, error) {
 		db.Close()
 		return nil, fmt.Errorf("seed: %w", err)
 	}
+	if _, _, err = importLexiconFile(db, lexiconSeedJSON); err != nil {
+		db.Close()
+		return nil, fmt.Errorf("lexicon seed: %w", err)
+	}
 	return db, nil
 }
 
@@ -187,6 +194,152 @@ func migrate(db *sql.DB) error {
 			}
 		}
 	}
+	err = addColumns(db, "attempt", []struct{ name, ddl string }{
+		{"updated_at", "ALTER TABLE attempt ADD COLUMN updated_at TEXT"},
+		{"submitted_version", "ALTER TABLE attempt ADD COLUMN submitted_version INTEGER"},
+		{"score_basis", "ALTER TABLE attempt ADD COLUMN score_basis TEXT"},
+		{"discarded_at", "ALTER TABLE attempt ADD COLUMN discarded_at TEXT"},
+	})
+	if err != nil {
+		return err
+	}
+	return migrateAttempts(db)
+}
+
+func tableColumns(q rowQuerier, table string) (map[string]bool, error) {
+	rows, err := q.Query(`PRAGMA table_info(` + table + `)`)
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+	have := map[string]bool{}
+	for rows.Next() {
+		var cid, notnull, pk int
+		var name, ctype string
+		var dflt sql.NullString
+		if err = rows.Scan(&cid, &name, &ctype, &notnull, &dflt, &pk); err != nil {
+			return nil, err
+		}
+		have[name] = true
+	}
+	return have, rows.Err()
+}
+
+func addColumns(q rowQuerier, table string, cols []struct{ name, ddl string }) error {
+	have, err := tableColumns(q, table)
+	if err != nil {
+		return err
+	}
+	for _, col := range cols {
+		if !have[col.name] {
+			if _, err = q.Exec(col.ddl); err != nil {
+				return err
+			}
+		}
+	}
+	return nil
+}
+
+// migrateAttempts adds the revision log plus the columns and indexes that keep
+// one live draft per chapter. Rows written before this feature are the first
+// submitted version, so their answers immediately become readable history.
+func migrateAttempts(db *sql.DB) error {
+	if _, err := db.Exec(`
+		CREATE TABLE IF NOT EXISTS attempt_revision (
+		  id           INTEGER PRIMARY KEY,
+		  attempt_id   INTEGER NOT NULL REFERENCES attempt(id),
+		  version      INTEGER NOT NULL,
+		  source       TEXT NOT NULL,
+		  answer_count INTEGER NOT NULL DEFAULT 0,
+		  answers_json TEXT NOT NULL,
+		  score        REAL,
+		  total        REAL,
+		  is_correct   INTEGER,
+		  created_at   TEXT NOT NULL,
+		  verdicts_json TEXT NOT NULL DEFAULT '{}',
+		  feedback     TEXT NOT NULL DEFAULT '',
+		  UNIQUE(attempt_id, version)
+		)`); err != nil {
+		return fmt.Errorf("attempt_revision: %w", err)
+	}
+	if err := addColumns(db, "attempt_revision", []struct{ name, ddl string }{
+		{"verdicts_json", "ALTER TABLE attempt_revision ADD COLUMN verdicts_json TEXT NOT NULL DEFAULT '{}'"},
+		{"feedback", "ALTER TABLE attempt_revision ADD COLUMN feedback TEXT NOT NULL DEFAULT ''"},
+	}); err != nil {
+		return err
+	}
+	_, err := db.Exec(`
+		CREATE INDEX IF NOT EXISTS idx_attempt_chapter ON attempt(chapter_id, status, id);
+		CREATE INDEX IF NOT EXISTS idx_revision_attempt ON attempt_revision(attempt_id, version);
+		CREATE UNIQUE INDEX IF NOT EXISTS idx_attempt_one_draft
+		  ON attempt(user_id, chapter_id) WHERE status='in_progress';
+		UPDATE attempt SET updated_at=COALESCE(submitted_at, started_at) WHERE updated_at IS NULL OR updated_at='';
+		UPDATE attempt SET submitted_version=1
+		  WHERE status='submitted' AND (submitted_version IS NULL OR submitted_version=0);`)
+	if err != nil {
+		return fmt.Errorf("attempt indexes: %w", err)
+	}
+	// Older builds allowed several open drafts per chapter. Retire the stale
+	// ones except the most recent, so the list stays truthful and the unique
+	// draft index is enforceable on the next open.
+	if _, err = db.Exec(`UPDATE attempt SET status='superseded' WHERE status='in_progress' AND id NOT IN (
+		SELECT MAX(id) FROM attempt WHERE status='in_progress' GROUP BY user_id, chapter_id)`); err != nil {
+		return fmt.Errorf("attempt draft cleanup: %w", err)
+	}
+	return backfillRevisions(db)
+}
+
+// backfillRevisions freezes the pre-existing submitted answers once, so the
+// version list is complete for papers written before it existed.
+func backfillRevisions(db *sql.DB) error {
+	rows, err := db.Query(`SELECT id, submitted_at, started_at, score, total, grading_status FROM attempt a
+		WHERE a.status='submitted' AND EXISTS (SELECT 1 FROM attempt_answer aa WHERE aa.attempt_id=a.id)
+		  AND NOT EXISTS (SELECT 1 FROM attempt_revision r WHERE r.attempt_id=a.id)`)
+	if err != nil {
+		return err
+	}
+	type old struct {
+		id      int64
+		at      string
+		score   sql.NullFloat64
+		total   sql.NullFloat64
+		grading string
+		started string
+		answers string
+	}
+	var list []old
+	for rows.Next() {
+		var o old
+		var sub, st sql.NullString
+		if err = rows.Scan(&o.id, &sub, &st, &o.score, &o.total, &o.grading); err != nil {
+			rows.Close()
+			return err
+		}
+		o.at, o.started = sub.String, st.String
+		list = append(list, o)
+	}
+	rows.Close()
+	for _, o := range list {
+		a, err := loadAnswers(db, o.id)
+		if err != nil {
+			return err
+		}
+		o.answers = answerJSON(a)
+		at := o.at
+		if at == "" {
+			at = o.started
+		}
+		var score, total, correct any
+		if o.grading == "graded" {
+			score, total, correct = round4(o.score.Float64), o.total.Float64, 1
+		}
+		_, err = db.Exec(`INSERT OR IGNORE INTO attempt_revision(attempt_id, version, source, answer_count, answers_json,
+			score, total, is_correct, created_at) VALUES(?,1,'legacy',?,?,?,?,?,?)`,
+			o.id, len(a), o.answers, score, total, correct, at)
+		if err != nil {
+			return err
+		}
+	}
 	return nil
 }
 
@@ -207,7 +360,7 @@ func seed(db *sql.DB) error {
 		return fmt.Errorf("vocabulaire: %w", err)
 	}
 
-	names, err := fs.Glob(chapterFS, "data/chapters/*.json")
+	names, err := fs.Glob(chapterFS, "data/courses/chapters/*.json")
 	if err != nil {
 		return err
 	}

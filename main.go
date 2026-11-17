@@ -21,6 +21,7 @@ func main() {
 
 	mux := http.NewServeMux()
 	registerRoutes(mux, db)
+	registerDictionaryRoutes(mux, db, newLexicon(db))
 
 	assets, err := webAssets()
 	if err != nil {

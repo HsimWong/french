@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Parse data/answers/raw/pNNN.txt (verbatim Corrigés transcriptions) into
-data/answers/gNN.json (importer input) and report every mismatch.
+"""Parse data/import/answers/raw/pNNN.txt (verbatim Corrigés transcriptions) into
+data/import/answers/gNN.json (importer input) and report every mismatch.
 
 Mapping: @CH n / @PAGE p / @EX k / "<printed>. <text>"  ->
   chapter seq n, exercise page_no p, exercise order k on that page,
@@ -25,7 +25,7 @@ equals the number of placeholders in the stem.
 Unnumbered blocks ("- " lines) are also tried, with several split hypotheses,
 keeping whichever total equals the number of missing blanks.
 
-Overrides in data/answers/over/gNN.json (same shape, keyed by DB seq) are
+Overrides in data/import/answers/over/gNN.json (same shape, keyed by DB seq) are
 applied last and validated the same way.
 """
 import glob
@@ -35,8 +35,8 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RAW = os.path.join(ROOT, "data", "answers", "raw")
-OUT = os.path.join(ROOT, "data", "answers")
+RAW = os.path.join(ROOT, "data", "import", "answers", "raw")
+OUT = os.path.join(ROOT, "data", "import", "answers")
 OVER = os.path.join(OUT, "over")
 SPEC = os.path.join(OUT, "_spec.json")
 

@@ -80,7 +80,11 @@ CREATE TABLE IF NOT EXISTS attempt (
   score          REAL,
   total          REAL,
   grading_status TEXT NOT NULL DEFAULT 'pending',
-  status         TEXT NOT NULL DEFAULT 'in_progress'
+  status         TEXT NOT NULL DEFAULT 'in_progress',
+  updated_at     TEXT,
+  submitted_version INTEGER,
+  score_basis    TEXT,
+  discarded_at   TEXT
 );
 
 CREATE TABLE IF NOT EXISTS attempt_answer (
@@ -112,6 +116,45 @@ CREATE INDEX IF NOT EXISTS idx_note_chapter ON note(chapter_id, block_id);
 CREATE TABLE IF NOT EXISTS meta (
   key   TEXT PRIMARY KEY,
   value TEXT NOT NULL
+);
+
+-- Dictionary data is independent from the course content. The reverse form
+-- index maps an inflected spelling back to one or more dictionary entries.
+CREATE TABLE IF NOT EXISTS dict_entry (
+  id          INTEGER PRIMARY KEY,
+  lemma       TEXT NOT NULL,
+  display     TEXT NOT NULL,
+  pos         TEXT NOT NULL,
+  gloss_zh    TEXT NOT NULL,
+  gloss_en    TEXT NOT NULL DEFAULT '',
+  ipa         TEXT NOT NULL DEFAULT '',
+  audio_url   TEXT NOT NULL DEFAULT '',
+  source      TEXT NOT NULL DEFAULT 'manual',
+  license     TEXT NOT NULL DEFAULT '',
+  level       TEXT NOT NULL DEFAULT '',
+  updated_at  TEXT NOT NULL DEFAULT '',
+  UNIQUE(lemma, pos)
+);
+CREATE INDEX IF NOT EXISTS idx_dict_entry_prefix ON dict_entry(lemma);
+
+CREATE TABLE IF NOT EXISTS dict_form (
+  form     TEXT NOT NULL,
+  entry_id INTEGER NOT NULL REFERENCES dict_entry(id),
+  feat     TEXT NOT NULL DEFAULT '',
+  lemma    TEXT NOT NULL,
+  source   TEXT NOT NULL DEFAULT 'manual',
+  PRIMARY KEY(form, entry_id, feat)
+) WITHOUT ROWID;
+CREATE INDEX IF NOT EXISTS idx_dict_form_lookup ON dict_form(form);
+
+CREATE TABLE IF NOT EXISTS dict_pending (
+  form             TEXT PRIMARY KEY,
+  guess_lemma      TEXT NOT NULL DEFAULT '',
+  reason           TEXT NOT NULL DEFAULT '',
+  hits             INTEGER NOT NULL DEFAULT 1,
+  first_seen       TEXT NOT NULL,
+  last_seen        TEXT NOT NULL,
+  resolved_entry_id INTEGER REFERENCES dict_entry(id)
 );
 
 INSERT OR IGNORE INTO meta(key, value) VALUES ('answer_import_hint', 'pending');

@@ -17,6 +17,7 @@
   </div>
   <nav class="nav" id="nav">
     <a href="#/" data-route="/">学习台</a>
+    <a href="#/dictionary" data-route="/dictionary">词典</a>
     <a href="#/chapters/1" data-route="/chapters">课程目录</a>
     <a href="#/chapter/1" data-route="/chapter">章节学习</a>
     <a href="#/exercise/1" data-route="/exercise">在线练习</a>
@@ -45,6 +46,50 @@
 
 <div id="toast" class="toast hidden"></div>
 
+<aside id="dict-drawer" class="dict-drawer hidden" aria-label="词典与笔记" aria-live="polite">
+  <div class="dict-head">
+    <div>
+      <div class="dict-kicker">DICTIONNAIRE · 查词与笔记</div>
+      <div class="dict-query" id="dict-query"></div>
+    </div>
+    <button type="button" class="icon-btn" id="dict-close" aria-label="关闭词典">×</button>
+  </div>
+  <div class="dict-body">
+    <section class="dict-result card">
+      <div class="dict-result-head"><span>词典</span><span id="dict-source" class="dict-badge">查询中…</span></div>
+      <div id="dict-result"></div>
+    </section>
+    <section class="note-panel">
+      <div class="dict-result-head"><span>我的笔记</span><span id="note-state" class="dict-badge note-state">未保存</span></div>
+      <div class="popover-quote" id="drawer-quote"></div>
+      <textarea id="drawer-text" rows="4" placeholder="写下你的笔记…（保存后原文保持高亮）"></textarea>
+      <div class="popover-actions">
+        <button type="button" class="btn btn-danger btn-sm hidden" id="drawer-delete">删除笔记</button>
+        <button type="button" class="btn btn-primary" id="drawer-save">保存笔记</button>
+      </div>
+    </section>
+  </div>
+</aside>
+
 <script type="module" src="/js/app.js"></script>
+<script>
+  window.__fpErrors = [];
+  window.addEventListener('error', e => {
+    if (window.__fpErrors.length < 5) window.__fpErrors.push(String(e.message || e.error || ''));
+  });
+  window.addEventListener('unhandledrejection', e => {
+    if (window.__fpErrors.length < 5) window.__fpErrors.push('rejection: ' + String(e.reason?.message || e.reason || ''));
+  });
+</script>
+<script>
+  // Keep the first uncaught module error visible for the #diag=1 health page.
+  window.__fpErrors = [];
+  window.addEventListener('error', e => {
+    if (window.__fpErrors.length < 5) window.__fpErrors.push(String(e.message || e.error || ''));
+  });
+  window.addEventListener('unhandledrejection', e => {
+    if (window.__fpErrors.length < 5) window.__fpErrors.push('rejection: ' + String(e.reason?.message || e.reason || ''));
+  });
+</script>
 </body>
 </html>

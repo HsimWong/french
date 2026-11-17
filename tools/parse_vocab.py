@@ -19,9 +19,9 @@ circled answers, and the 3 answers belong to exercises 4-6).  For each page we
 score every (answer cell, exercise) pair by how many questions can actually be
 encoded, then take the best order-preserving matching with a DP.
 
-Input : data/answers_vocab/raw/v*.txt   (see raw/FORMAT_VOCAB.md)
-Output: data/answers_vocab/vNN.json     {pages:{page:{ex:{qseq:{"1":[variants]}}}}}
-        data/answers_vocab/_report.txt
+Input : data/import/answers_vocab/raw/v*.txt   (see raw/FORMAT_VOCAB.md)
+Output: data/import/answers_vocab/vNN.json     {pages:{page:{ex:{qseq:{"1":[variants]}}}}}
+        data/import/answers_vocab/_report.txt
 """
 import collections
 import glob
@@ -32,8 +32,8 @@ import sqlite3
 import unicodedata
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RAW = os.path.join(ROOT, "data", "answers_vocab", "raw")
-OUTDIR = os.path.join(ROOT, "data", "answers_vocab")
+RAW = os.path.join(ROOT, "data", "import", "answers_vocab", "raw")
+OUTDIR = os.path.join(ROOT, "data", "import", "answers_vocab")
 DB = os.path.join(ROOT, "french.db")
 
 PH = re.compile(r"\{\{([bLTco])(!?)(?::([^}]*))?\}\}")

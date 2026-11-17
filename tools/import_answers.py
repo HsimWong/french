@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Import answer keys (from the scanned Corrigés) into the question table.
 
-Source-of-truth files live in data/answers/gNN.json (grammar) shaped like:
+Source-of-truth files live in data/import/answers/gNN.json (grammar) shaped like:
 
   {
     "pages": {
@@ -26,7 +26,7 @@ answers survive restarts and dev re-seeds. Old frozen attempts are re-scored by
 the Go server on demand.
 
 Usage:
-  python tools/import_answers.py                # all data/answers/g*.json
+  python tools/import_answers.py                # all data/import/answers/g*.json
   python tools/import_answers.py g02.json g03.json
 """
 import glob
@@ -38,7 +38,7 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB = os.path.join(ROOT, "french.db")
-ANSWERS_DIR = os.path.join(ROOT, "data", "answers")
+ANSWERS_DIR = os.path.join(ROOT, "data", "import", "answers")
 
 PLACEHOLDER = re.compile(r"\{\{([bLTco])(!?)(?::([^}]*))?\}\}")
 
