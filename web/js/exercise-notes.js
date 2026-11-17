@@ -19,7 +19,7 @@ export function stemExercise(key) {
 }
 
 export async function loadStemNotes(chapterID) {
-  const d = await api(`/api/notes?chapter_id=${chapterID}`);
+  const d = await api(`api/notes?chapter_id=${chapterID}`);
   const stems = (d.notes || []).filter(n => n.block_id && Number(n.block_id) >= EX_OFFSET);
   state.stemNotes = stems;
   return stems;

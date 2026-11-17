@@ -45,23 +45,29 @@ Wants=network-online.target
 
 [Service]
 Type=simple
-User=francais
-Group=francais
+User=root
 WorkingDirectory=/opt/francais
 ExecStart=/opt/francais/francais
 
 # --- 环境变量 ---
-# DB_PATH 必须指向真实的库文件；相对路径是相对于 WorkingDirectory 的。
-Environment=DB_PATH=/var/lib/francais/french.db
-Environment=PORT=8080
-# Go 堆软上限。配合下面的 MemoryHigh 一起用：这一条管 Go 自己的堆，
-# 那一条管整个进程（含 page cache 和 C 库分配）。
+# DB_PATH 指向真实的库文件。相对路径相对于 WorkingDirectory 解析，
+# 所以这里用绝对路径最省心。
+#
+# PORT 必须和 nginx 的 proxy_pass 一致。你现在的 nginx 写的是 8082，
+# 这里就必须是 8082；直接跑 ./bin/francais 而不设 PORT，会监听默认的 8080，
+# nginx 转 8082 就得到 502。
+Environment=DB_PATH=/opt/francais/french.db
+Environment=PORT=8082
+# Go 堆软上限。这一条管 Go 自己的堆，MemoryHigh 管整个进程。
 Environment=MEM_LIMIT_MB=420
-# 限制 Go 并行度。这是 Go 程序真正的 CPU 阀门：即使机器有 8 核，
+# Go 并行度。这是 Go 程序真正的 CPU 阀门：即使机器有 8 核，
 # 同时最多只有 2 个线程在跑 Go 代码。
 Environment=GOMAXPROCS=2
 # 让 GC 更早介入，配合 MEM_LIMIT_MB 效果更好。
 Environment=GOGC=50
+# 用 `-tags noseed` 构建（词典不进二进制）时，指定词典文件位置。
+# 用默认构建（词典已嵌入）时这一行可以删掉。
+Environment=LEXICON_SEED_FILE=/opt/francais/data/lexicon_seed.json
 
 # --- 内存限制 ---
 MemoryHigh=600M
@@ -73,18 +79,13 @@ CPUQuota=100%
 CPUWeight=50
 TasksMax=512
 
-# --- 其它加固 ---
+# --- 其它 ---
 Restart=always
 RestartSec=5
-# 给足时间优雅退出，别在它写 WAL 的时候强杀
+# 给足时间写完 WAL 再杀
 TimeoutStopSec=30
 KillSignal=SIGTERM
 LimitNOFILE=8192
-NoNewPrivileges=true
-PrivateTmp=true
-ProtectSystem=strict
-ProtectHome=true
-ReadWritePaths=/var/lib/francais
 
 StandardOutput=journal
 StandardError=journal

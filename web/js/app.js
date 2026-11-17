@@ -30,7 +30,7 @@ function parseHash() {
 }
 
 async function getCourses() {
-  return (await api('/api/courses')).courses;
+  return (await api('api/courses')).courses;
 }
 
 function courseShort(c) {
@@ -86,7 +86,7 @@ function setNav(path) {
 
 async function refreshAnswerBadge() {
   try {
-    const s = await api('/api/answers/status');
+    const s = await api('api/answers/status');
     const el = document.getElementById('answer-badge');
     if (s.ready > 0) {
       el.innerHTML = `<span class="badge ready">答案已导入 ${s.ready}/${s.total}</span>`;
@@ -151,11 +151,11 @@ async function viewHome() {
 /* ------------------------------ one course home ------------------------------ */
 async function viewCourse(courseId) {
   setCourse(courseId);
-  const d = await api(`/api/course?course_id=${courseId}`);
+  const d = await api(`api/course?course_id=${courseId}`);
   const courses = await getCourses();
   const cur = courses.find(c => c.id === Number(courseId));
   let resume = null;
-  try { resume = (await api(`/api/resume?course_id=${courseId}`)).resume; } catch (_) { resume = null; }
+  try { resume = (await api(`api/resume?course_id=${courseId}`)).resume; } catch (_) { resume = null; }
   const ready = d.chapters.filter(c => c.status === 'ready');
   const first = d.chapters[0];
   const isVocab = d.course.code.startsWith('vocabulaire');
@@ -251,7 +251,7 @@ async function loadResumeCard(slotId) {
   const slot = document.getElementById(slotId);
   if (!slot) return;
   try {
-    const r = (await api('/api/resume')).resume;
+    const r = (await api('api/resume')).resume;
     if (!r) {
       slot.innerHTML = '';
       return;
@@ -305,7 +305,7 @@ function chapterCard(c) {
 
 async function viewChapters(courseId) {
   setCourse(courseId);
-  const d = await api(`/api/course?course_id=${courseId}`);
+  const d = await api(`api/course?course_id=${courseId}`);
   app.innerHTML = `
     ${pageHead('课程目录', `${d.course.title_fr} — 原书 ${d.chapters.length} 章，标题与顺序一字未改`)}
     <div class="card" style="margin-bottom:16px;font-size:13px;color:var(--muted)">
@@ -330,7 +330,7 @@ function sheetHTML(pageNo, blocks, header, scanBase) {
 }
 
 async function viewChapter(id, params) {
-  const d = await api(`/api/chapters/${id}`);
+  const d = await api(`api/chapters/${id}`);
   state.insideReader = true;
   setCourse(d.chapter.course_id);
   if (d.chapter.status !== 'ready') {
@@ -582,7 +582,7 @@ async function loadSectionSolutions(chapterID, exercises) {
     const box = document.getElementById(`solution-${ex.id}`);
     if (!box) return;
     try {
-      const d = await api(`/api/chapters/${chapterID}/exercises/${ex.id}/submission`);
+      const d = await api(`api/chapters/${chapterID}/exercises/${ex.id}/submission`);
       box.innerHTML = d.submission ? solutionHTML(d.submission) : '';
     } catch (err) {
       box.innerHTML = `<div class="fb-pending">标准答案读取失败：${esc(err.message)}</div>`;
@@ -701,7 +701,7 @@ function exSolutionLoading(ex) {
 let submitting = false;
 async function viewExercise(id) {
   const [d, draft] = await Promise.all([
-    api(`/api/chapters/${id}/exercises`), api(`/api/chapters/${id}/attempt`),
+    api(`api/chapters/${id}/exercises`), api(`api/chapters/${id}/attempt`),
   ]);
   setCourse(d.course_id);
   const questionCount = d.exercises.reduce((n, e) => n + e.questions.length, 0);
@@ -842,7 +842,7 @@ async function viewExercise(id) {
     saving = true;
     setSaveState('正在保存草稿…', 'saving');
     try {
-      const r = await api(`/api/chapters/${id}/draft`, {
+      const r = await api(`api/chapters/${id}/draft`, {
         method: 'PUT', body: JSON.stringify({ answers: collect() }),
       });
       if (state.exercisePage !== pageToken) return true;
@@ -902,10 +902,10 @@ async function viewExercise(id) {
     btn.disabled = true;
     btn.textContent = '正在交卷…';
     try {
-      const created = await api('/api/attempts', {
+      const created = await api('api/attempts', {
         method: 'POST', body: JSON.stringify({ chapter_id: Number(id) }),
       });
-      const res = await api(`/api/attempts/${created.attempt_id}/submit`, {
+      const res = await api(`api/attempts/${created.attempt_id}/submit`, {
         method: 'POST', body: JSON.stringify({ answers: collect() }),
       });
       dirty = false;
@@ -939,7 +939,7 @@ async function viewExercise(id) {
         (byQuestion[w.dataset.q] ||= {})[w.dataset.idx] = widgetValue(w);
       });
       const answers = Object.entries(byQuestion).map(([question_id, blanks]) => ({ question_id: Number(question_id), blanks }));
-      const r = await api(`/api/chapters/${id}/exercises/${eid}/submit`, {
+      const r = await api(`api/chapters/${id}/exercises/${eid}/submit`, {
         method: 'POST', body: JSON.stringify({ answers }),
       });
       toast(`第 ${btn.dataset.seq} 大题已提交：${r.grading_status === 'graded' ? fmtFraction(r.score) + ' / ' + fmtFraction(r.total) : '待答案'}`);
@@ -959,7 +959,7 @@ async function viewResult(id) {
       <div class="card empty">从「在线练习」交卷后，这里会显示该次作答的版本与判分结果。</div>`;
     return;
   }
-  const d = await api(`/api/attempts/${id}`);
+  const d = await api(`api/attempts/${id}`);
   const a = d.attempt;
   if (a.course_id) setCourse(a.course_id);
   const graded = a.grading_status === 'graded';
@@ -968,10 +968,10 @@ async function viewResult(id) {
   let versionItems = d.items;
   if (a.submitted_version && a.grading_status) {
     try {
-      const h = (await api(`/api/chapters/${a.chapter_id}/history`)).history || [];
+      const h = (await api(`api/chapters/${a.chapter_id}/history`)).history || [];
       const cur = h.find(r => r.status === 'submitted' && !r.discarded && r.version === a.submitted_version);
       if (cur?.revision_id) {
-        const v = await api(`/api/revisions/${cur.revision_id}`);
+        const v = await api(`api/revisions/${cur.revision_id}`);
         if ((v.items || []).length) versionItems = v.items;
       }
     } catch (_) { /* fall back to the API result */ }
@@ -1015,9 +1015,9 @@ async function viewResult(id) {
 // Version pages are read-only. A version only becomes editable once it is
 // explicitly loaded into the live draft, so history can never be rewritten.
 async function viewRevision(revisionId) {
-  const d = await api(`/api/revisions/${revisionId}`);
+  const d = await api(`api/revisions/${revisionId}`);
   const r = d.revision;
-  const at = await api(`/api/attempts/${r.attempt_id}`);
+  const at = await api(`api/attempts/${r.attempt_id}`);
   const a = at.attempt;
   if (a.course_id) setCourse(a.course_id);
   const graded = r.grading_status === 'graded';
@@ -1081,7 +1081,7 @@ async function viewNotes() {
     const qs = new URLSearchParams();
     if (state.noteQuery) qs.set('q', state.noteQuery);
     if (state.noteCourse) qs.set('course_id', state.noteCourse);
-    const d = await api('/api/notes?' + qs.toString());
+    const d = await api('api/notes?' + qs.toString());
     const list = document.getElementById('note-list');
     if (!list) return;
     if (!d.notes.length) {
@@ -1201,13 +1201,13 @@ app.addEventListener('click', async e => {
       if (action === 'hist-regrade') {
         const ch = parseHash().path.split('/')[2];
         if (!confirm('按当前已导入的答案重新判分本章所有历史版本？作答内容不会改变，只更新分数。')) return;
-        const r = await api(`/api/chapters/${ch}/regrade`, { method: 'POST', body: '{}' });
+        const r = await api(`api/chapters/${ch}/regrade`, { method: 'POST', body: '{}' });
         toast(`已按当前答案重判 ${r.revisions} 个版本，${r.changed} 个分数有变化`);
         await render();
       } else if (action === 'restart') {
         if (!confirm('清空答题页并从头作答？当前草稿会作为「自动保存」版本留在版本记录中，可随时回看。')) return;
         const ch = parseHash().path.split('/')[2];
-        const r = await api(`/api/chapters/${ch}/restart`, { method: 'POST', body: '{}' });
+        const r = await api(`api/chapters/${ch}/restart`, { method: 'POST', body: '{}' });
         toast(r.message);
         await render();
       } else if (action === 'scroll-first-saved') {
@@ -1227,13 +1227,13 @@ app.addEventListener('click', async e => {
         const ch = parseHash().path.split('/')[2];
         const attemptId = Number(btn.dataset.attempt);
         if (!confirm(`把 ${btn.dataset.label || '这个版本'} 的答案载入答题页？将覆盖当前未交卷的草稿（原草稿会作为自动版本保存在记录中）。`)) return;
-        const r = await api(`/api/chapters/${ch}/load-version`, {
+        const r = await api(`api/chapters/${ch}/load-version`, {
           method: 'POST', body: JSON.stringify({ attempt_id: attemptId }),
         });
         location.hash = `#/exercise/${ch}?loaded=${encodeURIComponent(r.loaded_label)}`;
       } else if (action === 'rev-discard') {
         if (!confirm('作废这个版本？它不会参与后续判分，但仍可在历史记录中回看。')) return;
-        await api(`/api/revisions/${id}/discard`, { method: 'POST', body: '{}' });
+        await api(`api/revisions/${id}/discard`, { method: 'POST', body: '{}' });
         toast('该版本已作废');
         await render();
       } else if (action === 'key-save-ex') {
@@ -1249,11 +1249,11 @@ app.addEventListener('click', async e => {
         document.getElementById(`note-edit-${id}`).classList.add('hidden');
       } else if (action === 'note-save') {
         const text = document.getElementById(`note-edit-input-${id}`).value.trim();
-        await api(`/api/notes/${id}`, { method: 'PUT', body: JSON.stringify({ text }) });
+        await api(`api/notes/${id}`, { method: 'PUT', body: JSON.stringify({ text }) });
         toast('笔记已更新');
         await render();
       } else if (action === 'note-delete') {
-        await api(`/api/notes/${id}`, { method: 'DELETE' });
+        await api(`api/notes/${id}`, { method: 'DELETE' });
         toast('笔记已删除');
         await render();
       }

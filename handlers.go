@@ -807,9 +807,9 @@ func registerDictionaryRoutes(mux *http.ServeMux, db *sql.DB, lex *lexicon) {
 func scanBase(code string) string {
 	switch {
 	case strings.HasPrefix(code, "vocabulaire"):
-		return "/scans/vocab/p"
+		return "scans/vocab/p"
 	case strings.HasPrefix(code, "grammaire"):
-		return "/scans/grammaire/p"
+		return "scans/grammaire/p"
 	}
 	return ""
 }

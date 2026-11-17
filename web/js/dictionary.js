@@ -25,7 +25,7 @@ async function dictLookup(q, { fresh = false } = {}) {
   q = String(q || '').trim();
   if (!q) return null;
   if (!fresh && lookupCache.has(q)) return lookupCache.get(q);
-  const d = await api('/api/dict/lookup?q=' + encodeURIComponent(q));
+  const d = await api('api/dict/lookup?q=' + encodeURIComponent(q));
   lookupCache.set(q, d);
   if (lookupCache.size > 200) lookupCache.delete(lookupCache.keys().next().value);
   return d;
@@ -178,9 +178,9 @@ drawerSave.addEventListener('click', async () => {
     // Write exactly once. The notes module then pulls the chapter and rebuilds
     // every highlighted block from its original text.
     if (noteId) {
-      await api(`/api/notes/${noteId}`, { method: 'PUT', body: JSON.stringify({ text }) });
+      await api(`api/notes/${noteId}`, { method: 'PUT', body: JSON.stringify({ text }) });
     } else {
-      await api('/api/notes', { method: 'POST', body: JSON.stringify({ ...draft, text }) });
+      await api('api/notes', { method: 'POST', body: JSON.stringify({ ...draft, text }) });
     }
     const notes = await reloadChapterNotes();
     const current = (notes || []).find(n => (noteId ? n.id === noteId
@@ -247,13 +247,13 @@ export async function viewDictionary(params) {
   // session state; refetch only when the shell has not populated it yet.
   let all = state.courses;
   if (!all) {
-    all = (await (await fetch('/api/courses')).json()).courses || [];
+    all = (await (await fetch('api/courses')).json()).courses || [];
     state.courses = all;
   }
   const course = all.find(c => c.id === courseId) || all[0];
   let suggestions = [];
   if (q) {
-    suggestions = (await api('/api/dict/suggest?q=' + encodeURIComponent(q) + '&limit=30')).suggestions || [];
+    suggestions = (await api('api/dict/suggest?q=' + encodeURIComponent(q) + '&limit=30')).suggestions || [];
   }
   let lookup = null;
   if (q.trim()) lookup = await dictLookup(q.trim()).catch(() => null);
@@ -287,7 +287,7 @@ export async function viewDictionary(params) {
     if (!v) { box.classList.add('hidden'); return; }
     timer = setTimeout(async () => {
       try {
-        const s = (await api('/api/dict/suggest?q=' + encodeURIComponent(v))).suggestions || [];
+        const s = (await api('api/dict/suggest?q=' + encodeURIComponent(v))).suggestions || [];
         box.innerHTML = s.map(x => `<button type="button" class="dict-suggestion" data-dict-pick="${esc(x.lemma)}">
           <strong>${esc(x.display)}</strong> <span class="dict-pos">${esc(x.pos)}</span>
           <span class="dict-gloss">${esc(x.gloss_zh)}</span></button>`).join('') || '<div class="dict-empty" style="padding:10px 14px">没有前缀匹配，回车直接查询。</div>';
@@ -312,7 +312,7 @@ export async function viewDictionary(params) {
   // longer contributes digits, braille or emoji to this alphabet bar.
   let letters = [];
   try {
-    const s = await api('/api/dict/stats');
+    const s = await api('api/dict/stats');
     if (s && s.letters) letters = String(s.letters).split('');
   } catch (_) {}
   document.getElementById('dict-letters').innerHTML =
@@ -327,7 +327,7 @@ export async function viewDictionary(params) {
     list.innerHTML = '<div class="dict-empty">正在读取词条…</div>';
     pager.innerHTML = '';
     try {
-      const d = await api(`/api/dict/words?per=60&page=${page}&letter=${encodeURIComponent(l)}&pos=${encodeURIComponent(p)}`);
+      const d = await api(`api/dict/words?per=60&page=${page}&letter=${encodeURIComponent(l)}&pos=${encodeURIComponent(p)}`);
       status.textContent = `共 ${d.total} 个词条 · 第 ${d.page}/${d.pages || 1} 页`;
       list.innerHTML = (d.words || []).length
         ? d.words.map(w => `<a class="dict-word-row" href="#/dictionary?q=${encodeURIComponent(w.lemma)}&course=${course.id}&letter=${l}&pos=${p}&page=${page}">

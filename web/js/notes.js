@@ -69,7 +69,7 @@ export function applyHighlights(notes) {
 export async function reloadChapterNotes() {
   if (!state.chapter?.chapter?.id) return;
   const id = state.chapter.chapter.id;
-  const d = await api(`/api/chapters/${id}`);
+  const d = await api(`api/chapters/${id}`);
   state.chapter.notes = d.notes || [];
   // The chapter is re-read while this request was in flight only if the user
   // navigated; in that case never paint highlights into a newer chapter.
@@ -102,16 +102,16 @@ export function selectionOffsets(blockEl, range) {
 export async function saveNote({ draft, noteId, text }) {
   const body = { text };
   if (noteId) {
-    await api(`/api/notes/${noteId}`, { method: 'PUT', body: JSON.stringify(body) });
+    await api(`api/notes/${noteId}`, { method: 'PUT', body: JSON.stringify(body) });
     return noteId;
   }
   if (!draft) throw new Error('请重新选中原文后再保存笔记');
-  const r = await api('/api/notes', { method: 'POST', body: JSON.stringify({ ...draft, text }) });
+  const r = await api('api/notes', { method: 'POST', body: JSON.stringify({ ...draft, text }) });
   return r.id;
 }
 
 export async function deleteNote(noteId) {
-  await api(`/api/notes/${noteId}`, { method: 'DELETE' });
+  await api(`api/notes/${noteId}`, { method: 'DELETE' });
 }
 
 // The old floating note box and the right-hand drawer must never both hold

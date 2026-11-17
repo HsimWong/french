@@ -56,10 +56,10 @@ function keyCardHTML(ex, scanBase) {
 }
 
 export async function keyPage(chapterId) {
-  const d = await api(`/api/chapters/${chapterId}/exercises`);
-  const status = await api('/api/answers/status');
+  const d = await api(`api/chapters/${chapterId}/exercises`);
+  const status = await api('api/answers/status');
   setCourse(d.course_id);
-  const courseData = await api(`/api/course?course_id=${d.course_id}`);
+  const courseData = await api(`api/course?course_id=${d.course_id}`);
   keySession = { chapterId: Number(chapterId), dirty: false };
   const options = courseData.chapters.map(c =>
     `<option value="${c.id}" ${c.id === Number(chapterId) ? 'selected' : ''}>第 ${c.seq} 讲 · ${esc(c.title_fr)}</option>`).join('');
@@ -143,7 +143,7 @@ async function saveKeyAnswers(chapterId, whole, exerciseId = null) {
   if (whole && btn) { btn.disabled = true; btn.textContent = '正在保存…'; }
   try {
     if (!body.answers.length) throw new Error('没有可保存的答案，请至少填写一个空位或讲解');
-    const r = await api('/api/admin/answers', { method: 'PUT', body: JSON.stringify(body) });
+    const r = await api('api/admin/answers', { method: 'PUT', body: JSON.stringify(body) });
     keySession.dirty = false;
     toast(`已保存 ${r.updated} 题答案`);
     // Refreshing puts "已有答案" pills, the global count, and the saved
