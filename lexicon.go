@@ -8,7 +8,9 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"io"
 	"log/slog"
+	"os"
 	"regexp"
 	"strconv"
 	"strings"
@@ -414,48 +416,114 @@ type dictionarySeedFile struct {
 	Forms   []map[string]any `json:"forms"`
 }
 
-// lexiconSeedFingerprint identifies the embedded seed cheaply.
+// lexiconSeedSource exposes the dictionary seed to the importer.
 //
-// A full SHA-256 over the 160+ MB payload would be correct but would fault
-// every page of the embedded blob into the working set, leaving ~164 MB
-// resident for the whole life of the process. Hashing the length plus the
-// first and last 64 KB instead touches only 128 KB: a different seed file is
-// detected immediately, while a restart that has nothing to do pays almost
-// nothing.
-func lexiconSeedFingerprint(raw []byte) string {
+// The seed is 160+ MB. Whether it is compiled into the binary (default build)
+// or sits in a file beside it (`noseed` build), the importer reads it as a
+// stream, so peak memory never scales with the size of the dictionary.
+type lexiconSeedSource interface {
+	// Open returns a fresh, seekable reader over the seed.
+	Open() (io.ReadSeekCloser, error)
+	// Size is the byte length of the seed.
+	Size() int64
+	// Name identifies the source in log lines.
+	Name() string
+}
+
+// embeddedLexiconSeed serves the dictionary from the blob compiled into the
+// binary.
+type embeddedLexiconSeed struct{ data []byte }
+
+func (s embeddedLexiconSeed) Open() (io.ReadSeekCloser, error) {
+	return nopSeekCloser{bytes.NewReader(s.data)}, nil
+}
+func (s embeddedLexiconSeed) Size() int64  { return int64(len(s.data)) }
+func (s embeddedLexiconSeed) Name() string { return "embedded data/lexicon_seed.json" }
+
+// nopSeekCloser gives a bytes.Reader the Close method io.ReadSeekCloser wants.
+type nopSeekCloser struct{ *bytes.Reader }
+
+func (nopSeekCloser) Close() error { return nil }
+
+// fileLexiconSeed serves the dictionary from a file on disk.
+type fileLexiconSeed struct{ path string }
+
+func (s fileLexiconSeed) Open() (io.ReadSeekCloser, error) { return os.Open(s.path) }
+func (s fileLexiconSeed) Size() int64 {
+	info, err := os.Stat(s.path)
+	if err != nil {
+		return 0
+	}
+	return info.Size()
+}
+func (s fileLexiconSeed) Name() string { return s.path }
+
+// lexiconSeedFingerprint identifies a seed cheaply.
+//
+// A full SHA-256 over the 160+ MB payload is correct, but it faults every
+// page of the seed into the working set and leaves that memory resident.
+// Hashing the length plus the first and last 64 KB touches only 128 KB: a
+// changed seed is still detected immediately, while a restart with nothing to
+// do costs almost nothing.
+func lexiconSeedFingerprint(seed lexiconSeedSource) (string, error) {
+	r, err := seed.Open()
+	if err != nil {
+		return "", err
+	}
+	defer r.Close()
+
 	const window = 64 * 1024
 	h := sha256.New()
-	h.Write(raw[:min(window, len(raw))])
-	if len(raw) > window {
-		h.Write(raw[len(raw)-window:])
+	head := make([]byte, window)
+	n, err := io.ReadFull(r, head)
+	if err != nil && !errors.Is(err, io.EOF) && !errors.Is(err, io.ErrUnexpectedEOF) {
+		return "", err
 	}
-	h.Write([]byte(strconv.Itoa(len(raw))))
-	return hex.EncodeToString(h.Sum(nil))
+	h.Write(head[:n])
+
+	size := seed.Size()
+	if size > window {
+		if _, err := r.Seek(size-window, io.SeekStart); err == nil {
+			tail := make([]byte, window)
+			n, err := io.ReadFull(r, tail)
+			if err != nil && !errors.Is(err, io.EOF) && !errors.Is(err, io.ErrUnexpectedEOF) {
+				return "", err
+			}
+			h.Write(tail[:n])
+		}
+	}
+	h.Write([]byte(strconv.FormatInt(size, 10)))
+	return hex.EncodeToString(h.Sum(nil)), nil
 }
 
 // importLexiconIfChanged imports the dictionary only when the database does
 // not already hold this exact seed. The fingerprint lives in the `meta` table,
 // so a rebuilt seed is detected automatically and re-imported, while an
 // ordinary restart is a no-op.
-func importLexiconIfChanged(db *sql.DB, raw []byte) error {
-	if len(raw) == 0 {
+func importLexiconIfChanged(db *sql.DB, seed lexiconSeedSource) error {
+	if seed.Size() == 0 {
 		return nil
 	}
-	fp := lexiconSeedFingerprint(raw)
+	fp, err := lexiconSeedFingerprint(seed)
+	if err != nil {
+		return err
+	}
 	var stored string
-	err := db.QueryRow(`SELECT value FROM meta WHERE key='lexicon_seed_fingerprint'`).Scan(&stored)
+	err = db.QueryRow(`SELECT value FROM meta WHERE key='lexicon_seed_fingerprint'`).Scan(&stored)
 	if err != nil && !errors.Is(err, sql.ErrNoRows) {
 		return err
 	}
 	if stored == fp {
-		slog.Info("dictionary seed already present, skipping import", "fingerprint", fp[:12])
+		slog.Info("dictionary seed already present, skipping import",
+			"fingerprint", fp[:12], "source", seed.Name())
 		return nil
 	}
-	nEntries, nForms, err := importLexiconFile(db, raw)
+	nEntries, nForms, err := importLexiconFile(db, seed)
 	if err != nil {
 		return err
 	}
-	slog.Info("dictionary seed imported", "entries", nEntries, "forms", nForms)
+	slog.Info("dictionary seed imported",
+		"entries", nEntries, "forms", nForms, "source", seed.Name())
 	_, err = db.Exec(`INSERT INTO meta(key,value) VALUES('lexicon_seed_fingerprint',?)
 		ON CONFLICT(key) DO UPDATE SET value=excluded.value`, fp)
 	return err
@@ -464,7 +532,13 @@ func importLexiconIfChanged(db *sql.DB, raw []byte) error {
 // importLexiconFile streams the seed document: only one array element is
 // decoded at a time, so peak heap stays in the low megabytes no matter how
 // large the file is.
-func importLexiconFile(db *sql.DB, raw []byte) (int, int, error) {
+func importLexiconFile(db *sql.DB, seed lexiconSeedSource) (int, int, error) {
+	r, err := seed.Open()
+	if err != nil {
+		return 0, 0, err
+	}
+	defer r.Close()
+
 	tx, err := db.Begin()
 	if err != nil {
 		return 0, 0, err
@@ -473,7 +547,7 @@ func importLexiconFile(db *sql.DB, raw []byte) (int, int, error) {
 	now := time.Now().UTC().Format(time.RFC3339)
 	nEntries, nForms := 0, 0
 
-	dec := json.NewDecoder(bytes.NewReader(raw))
+	dec := json.NewDecoder(r)
 	tok, err := dec.Token()
 	if err != nil {
 		return 0, 0, err

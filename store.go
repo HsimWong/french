@@ -33,9 +33,6 @@ var chapterFS embed.FS
 //go:embed web
 var webFS embed.FS
 
-//go:embed data/lexicon_seed.json
-var lexiconSeedJSON []byte
-
 func webAssets() (fs.FS, error) { return fs.Sub(webFS, "web") }
 
 type seedCourse struct {
@@ -158,7 +155,7 @@ func openDB(path string) (*sql.DB, error) {
 		db.Close()
 		return nil, fmt.Errorf("seed: %w", err)
 	}
-	if err = importLexiconIfChanged(db, lexiconSeedJSON); err != nil {
+	if err = importLexiconIfChanged(db, defaultLexiconSeed()); err != nil {
 		db.Close()
 		return nil, fmt.Errorf("lexicon seed: %w", err)
 	}
