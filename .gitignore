@@ -27,6 +27,7 @@ build/
 data/source/
 data/source*/
 # 164MB 词典种子：编译期 embed 进二进制，不入库
+# GitHub 单文件上限 100MB，且该文件可用 tools/ 重新生成或手动上传
 data/lexicon_seed.json
 # 导入中间产物：可由 tools/*.py 重新生成
 data/import/answers/raw/
