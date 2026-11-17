@@ -4,10 +4,16 @@ import (
 	"log/slog"
 	"net/http"
 	"os"
+	"runtime"
+	"runtime/debug"
+	"strconv"
+	"strings"
 	"time"
 )
 
 func main() {
+	applyRuntimeLimits()
+
 	dbPath := os.Getenv("DB_PATH")
 	if dbPath == "" {
 		dbPath = "french.db"
@@ -53,4 +59,37 @@ func withLog(next http.Handler) http.Handler {
 		next.ServeHTTP(w, r)
 		slog.Debug("request", "method", r.Method, "path", r.URL.Path, "dur", time.Since(start).String())
 	})
+}
+
+// applyRuntimeLimits honours the two knobs that keep the process inside a
+// small box on a cheap VPS:
+//
+//	MEM_LIMIT_MB  soft ceiling on the Go heap. The collector then starts
+//	              working much earlier instead of letting the heap grow to
+//	              twice its live size, which is what used to exhaust a 2 GB
+//	              machine on every restart.
+//	GOMAXPROCS    how many OS threads may run Go code at once. This is the
+//	              real CPU limiter for a Go program; the OS scheduler can
+//	              still hand other cores to syscalls.
+//
+// Both are optional: unset means "no limit", i.e. the Go defaults.
+func applyRuntimeLimits() {
+	if raw := strings.TrimSpace(os.Getenv("MEM_LIMIT_MB")); raw != "" {
+		mb, err := strconv.Atoi(raw)
+		if err != nil || mb <= 0 {
+			slog.Warn("ignoring invalid MEM_LIMIT_MB", "value", raw)
+		} else {
+			debug.SetMemoryLimit(int64(mb) << 20)
+			slog.Info("go heap soft limit set", "limit_mb", mb)
+		}
+	}
+	if raw := strings.TrimSpace(os.Getenv("GOMAXPROCS")); raw != "" {
+		n, err := strconv.Atoi(raw)
+		if err != nil || n <= 0 {
+			slog.Warn("ignoring invalid GOMAXPROCS", "value", raw)
+		} else {
+			runtime.GOMAXPROCS(n)
+			slog.Info("go maxprocs set", "procs", n)
+		}
+	}
 }

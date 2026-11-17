@@ -142,7 +142,7 @@ func openDB(path string) (*sql.DB, error) {
 		return nil, err
 	}
 	db.SetMaxOpenConns(1)
-	if _, err = db.Exec("PRAGMA foreign_keys = ON; PRAGMA journal_mode = WAL;"); err != nil {
+	if _, err = db.Exec("PRAGMA foreign_keys = ON; PRAGMA journal_mode = WAL; PRAGMA cache_size = -32000;"); err != nil {
 		db.Close()
 		return nil, fmt.Errorf("pragma: %w", err)
 	}
@@ -158,7 +158,7 @@ func openDB(path string) (*sql.DB, error) {
 		db.Close()
 		return nil, fmt.Errorf("seed: %w", err)
 	}
-	if _, _, err = importLexiconFile(db, lexiconSeedJSON); err != nil {
+	if err = importLexiconIfChanged(db, lexiconSeedJSON); err != nil {
 		db.Close()
 		return nil, fmt.Errorf("lexicon seed: %w", err)
 	}

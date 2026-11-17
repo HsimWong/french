@@ -1,11 +1,16 @@
 package main
 
 import (
+	"bytes"
+	"crypto/sha256"
 	"database/sql"
+	"encoding/hex"
 	"encoding/json"
 	"errors"
 	"fmt"
+	"log/slog"
 	"regexp"
+	"strconv"
 	"strings"
 	"sync"
 	"time"
@@ -397,16 +402,69 @@ func (l *lexicon) queuePending(form, guess, reason string) {
 
 // dictionarySeedFile is emitted by tools/build_lexicon.py and embedded so a
 // fresh checkout starts with a usable French glossary (not just structure).
+//
+// The document is 160+ MB. Materialising it as []map[string]any used to cost
+// roughly 840 MB of heap (about 5x the file), and the collector doubled that
+// before it ran: on a 2 GB machine every single start was an out-of-memory
+// kill. The importer below therefore streams the file one element at a time,
+// and startup skips the import altogether when the database already carries
+// this exact seed.
 type dictionarySeedFile struct {
 	Entries []map[string]any `json:"entries"`
 	Forms   []map[string]any `json:"forms"`
 }
 
-func importLexiconFile(db *sql.DB, raw []byte) (int, int, error) {
-	var seed dictionarySeedFile
-	if err := json.Unmarshal(raw, &seed); err != nil {
-		return 0, 0, err
+// lexiconSeedFingerprint identifies the embedded seed cheaply.
+//
+// A full SHA-256 over the 160+ MB payload would be correct but would fault
+// every page of the embedded blob into the working set, leaving ~164 MB
+// resident for the whole life of the process. Hashing the length plus the
+// first and last 64 KB instead touches only 128 KB: a different seed file is
+// detected immediately, while a restart that has nothing to do pays almost
+// nothing.
+func lexiconSeedFingerprint(raw []byte) string {
+	const window = 64 * 1024
+	h := sha256.New()
+	h.Write(raw[:min(window, len(raw))])
+	if len(raw) > window {
+		h.Write(raw[len(raw)-window:])
 	}
+	h.Write([]byte(strconv.Itoa(len(raw))))
+	return hex.EncodeToString(h.Sum(nil))
+}
+
+// importLexiconIfChanged imports the dictionary only when the database does
+// not already hold this exact seed. The fingerprint lives in the `meta` table,
+// so a rebuilt seed is detected automatically and re-imported, while an
+// ordinary restart is a no-op.
+func importLexiconIfChanged(db *sql.DB, raw []byte) error {
+	if len(raw) == 0 {
+		return nil
+	}
+	fp := lexiconSeedFingerprint(raw)
+	var stored string
+	err := db.QueryRow(`SELECT value FROM meta WHERE key='lexicon_seed_fingerprint'`).Scan(&stored)
+	if err != nil && !errors.Is(err, sql.ErrNoRows) {
+		return err
+	}
+	if stored == fp {
+		slog.Info("dictionary seed already present, skipping import", "fingerprint", fp[:12])
+		return nil
+	}
+	nEntries, nForms, err := importLexiconFile(db, raw)
+	if err != nil {
+		return err
+	}
+	slog.Info("dictionary seed imported", "entries", nEntries, "forms", nForms)
+	_, err = db.Exec(`INSERT INTO meta(key,value) VALUES('lexicon_seed_fingerprint',?)
+		ON CONFLICT(key) DO UPDATE SET value=excluded.value`, fp)
+	return err
+}
+
+// importLexiconFile streams the seed document: only one array element is
+// decoded at a time, so peak heap stays in the low megabytes no matter how
+// large the file is.
+func importLexiconFile(db *sql.DB, raw []byte) (int, int, error) {
 	tx, err := db.Begin()
 	if err != nil {
 		return 0, 0, err
@@ -414,64 +472,135 @@ func importLexiconFile(db *sql.DB, raw []byte) (int, int, error) {
 	defer tx.Rollback()
 	now := time.Now().UTC().Format(time.RFC3339)
 	nEntries, nForms := 0, 0
-	for _, e := range seed.Entries {
-		lemma := normalizeSpelling(stringValue(e["lemma"]))
-		if lemma == "" {
-			continue
-		}
-		display := stringValue(e["display"])
-		if display == "" {
-			display = stringValue(e["lemma"])
-		}
-		pos := stringValue(e["pos"])
-		if _, err = tx.Exec(`INSERT INTO dict_entry(lemma, display, pos, gloss_zh, gloss_en, ipa, audio_url, source, license, level, updated_at)
-			VALUES(?,?,?,?,?,?,?,?,?,?,?)
-			ON CONFLICT(lemma, pos) DO UPDATE SET
-			  gloss_zh=CASE WHEN excluded.gloss_zh<>'' THEN excluded.gloss_zh ELSE dict_entry.gloss_zh END,
-			  gloss_en=CASE WHEN excluded.gloss_en<>'' THEN excluded.gloss_en ELSE dict_entry.gloss_en END,
-			  display=excluded.display,
-			  source=CASE WHEN excluded.source='manual' THEN 'manual' ELSE dict_entry.source END,
-			  updated_at=excluded.updated_at`,
-			lemma, display, pos, stringValue(e["gloss_zh"]), stringValue(e["gloss_en"]),
-			stringValue(e["ipa"]), stringValue(e["audio_url"]), stringValue(e["source"]),
-			stringValue(e["license"]), stringValue(e["level"]), now); err != nil {
-			return 0, 0, err
-		}
-		nEntries++
+
+	dec := json.NewDecoder(bytes.NewReader(raw))
+	tok, err := dec.Token()
+	if err != nil {
+		return 0, 0, err
 	}
-	for _, f := range seed.Forms {
-		lemma := normalizeSpelling(stringValue(f["lemma"]))
-		form := normalizeSpelling(stringValue(f["form"]))
-		feat := stringValue(f["feat"])
-		if form == "" || lemma == "" {
-			continue
-		}
-		var id int64
-		// A lemma may be a noun and a verb. Pick the form's part of speech when
-		// Kaikki supplies it so singulars/plurals do not land on the wrong entry.
-		// The canonical entry ranks above an inflected page that happens to use
-		// the same spelling, so être/suis attaches to the verb être, not être n.
-		pos := stringValue(f["pos"])
-		var errSel error
-		if pos != "" {
-			errSel = tx.QueryRow(`SELECT id FROM dict_entry WHERE lemma=? AND pos=? ORDER BY CASE source WHEN 'manual' THEN 0 ELSE 1 END, id LIMIT 1`, lemma, pos).Scan(&id)
-		}
-		if pos == "" || errors.Is(errSel, sql.ErrNoRows) {
-			errSel = tx.QueryRow(`SELECT id FROM dict_entry WHERE lemma=? ORDER BY CASE source WHEN 'manual' THEN 0 ELSE 1 END, id LIMIT 1`, lemma).Scan(&id)
-		}
-		if errSel != nil {
-			if errors.Is(errSel, sql.ErrNoRows) {
-				continue
-			}
-			return 0, 0, errSel
-		}
-		if _, err = tx.Exec(`INSERT INTO dict_form(form, entry_id, feat, lemma, source) VALUES(?,?,?,?,?)
-			ON CONFLICT(form, entry_id, feat) DO NOTHING`, form, id, feat, lemma, stringValue(f["source"])); err != nil {
+	if d, ok := tok.(json.Delim); !ok || d != '{' {
+		return 0, 0, fmt.Errorf("lexicon seed: expected a JSON object")
+	}
+	for dec.More() {
+		keyTok, err := dec.Token()
+		if err != nil {
 			return 0, 0, err
 		}
-		nForms++
+		key, ok := keyTok.(string)
+		if !ok {
+			return 0, 0, fmt.Errorf("lexicon seed: expected a field name")
+		}
+		valTok, err := dec.Token()
+		if err != nil {
+			return 0, 0, err
+		}
+		if d, ok := valTok.(json.Delim); !ok || d != '[' {
+			// A scalar field: its value has already been consumed.
+			continue
+		}
+		switch key {
+		case "entries":
+			for dec.More() {
+				var e map[string]any
+				if err := dec.Decode(&e); err != nil {
+					return 0, 0, err
+				}
+				inserted, err := insertDictEntry(tx, e, now)
+				if err != nil {
+					return 0, 0, err
+				}
+				if inserted {
+					nEntries++
+				}
+			}
+		case "forms":
+			for dec.More() {
+				var f map[string]any
+				if err := dec.Decode(&f); err != nil {
+					return 0, 0, err
+				}
+				inserted, err := insertDictForm(tx, f)
+				if err != nil {
+					return 0, 0, err
+				}
+				if inserted {
+					nForms++
+				}
+			}
+		default:
+			for dec.More() {
+				var skip json.RawMessage
+				if err := dec.Decode(&skip); err != nil {
+					return 0, 0, err
+				}
+			}
+		}
+		if _, err := dec.Token(); err != nil { // closing ']'
+			return 0, 0, err
+		}
 	}
 	return nEntries, nForms, tx.Commit()
+}
+
+// insertDictEntry upserts one dictionary headword.
+func insertDictEntry(tx *sql.Tx, e map[string]any, now string) (bool, error) {
+	lemma := normalizeSpelling(stringValue(e["lemma"]))
+	if lemma == "" {
+		return false, nil
+	}
+	display := stringValue(e["display"])
+	if display == "" {
+		display = stringValue(e["lemma"])
+	}
+	pos := stringValue(e["pos"])
+	if _, err := tx.Exec(`INSERT INTO dict_entry(lemma, display, pos, gloss_zh, gloss_en, ipa, audio_url, source, license, level, updated_at)
+		VALUES(?,?,?,?,?,?,?,?,?,?,?)
+		ON CONFLICT(lemma, pos) DO UPDATE SET
+		  gloss_zh=CASE WHEN excluded.gloss_zh<>'' THEN excluded.gloss_zh ELSE dict_entry.gloss_zh END,
+		  gloss_en=CASE WHEN excluded.gloss_en<>'' THEN excluded.gloss_en ELSE dict_entry.gloss_en END,
+		  display=excluded.display,
+		  source=CASE WHEN excluded.source='manual' THEN 'manual' ELSE dict_entry.source END,
+		  updated_at=excluded.updated_at`,
+		lemma, display, pos, stringValue(e["gloss_zh"]), stringValue(e["gloss_en"]),
+		stringValue(e["ipa"]), stringValue(e["audio_url"]), stringValue(e["source"]),
+		stringValue(e["license"]), stringValue(e["level"]), now); err != nil {
+		return false, err
+	}
+	return true, nil
+}
+
+// insertDictForm attaches one inflected form to its dictionary entry.
+func insertDictForm(tx *sql.Tx, f map[string]any) (bool, error) {
+	lemma := normalizeSpelling(stringValue(f["lemma"]))
+	form := normalizeSpelling(stringValue(f["form"]))
+	feat := stringValue(f["feat"])
+	if form == "" || lemma == "" {
+		return false, nil
+	}
+	// A lemma may be a noun and a verb. Pick the form's part of speech when
+	// Kaikki supplies it so singulars/plurals do not land on the wrong entry.
+	// The canonical entry ranks above an inflected page that happens to use
+	// the same spelling, so être/suis attaches to the verb être, not être n.
+	pos := stringValue(f["pos"])
+	var id int64
+	var errSel error
+	if pos != "" {
+		errSel = tx.QueryRow(`SELECT id FROM dict_entry WHERE lemma=? AND pos=? ORDER BY CASE source WHEN 'manual' THEN 0 ELSE 1 END, id LIMIT 1`, lemma, pos).Scan(&id)
+	}
+	if pos == "" || errors.Is(errSel, sql.ErrNoRows) {
+		errSel = tx.QueryRow(`SELECT id FROM dict_entry WHERE lemma=? ORDER BY CASE source WHEN 'manual' THEN 0 ELSE 1 END, id LIMIT 1`, lemma).Scan(&id)
+	}
+	if errSel != nil {
+		if errors.Is(errSel, sql.ErrNoRows) {
+			return false, nil
+		}
+		return false, errSel
+	}
+	if _, err := tx.Exec(`INSERT INTO dict_form(form, entry_id, feat, lemma, source) VALUES(?,?,?,?,?)
+		ON CONFLICT(form, entry_id, feat) DO NOTHING`, form, id, feat, lemma, stringValue(f["source"])); err != nil {
+		return false, err
+	}
+	return true, nil
 }
 
 func stringValue(v any) string {
