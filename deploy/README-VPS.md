@@ -294,3 +294,82 @@ scp /tmp/french-backup.db 你的机器:
 ```
 
 轻量应用服务器自带的**快照**是更省事的方案：整机回滚，数据库一起回滚。
+
+---
+
+## 七、线上实例（47.94.236.198，2026-11-17 起）
+
+| 项 | 值 |
+|---|---|
+| 服务器 | `47.94.236.198` |
+| 部署目录 | `/home/admin/maintain/french`（git clone 自 GitHub） |
+| 监听端口 | `8082`（nginx `location /french/` → `proxy_pass http://127.0.0.1:8082/`） |
+| 服务管理 | `systemctl restart francais` |
+| 日志 | `journalctl -u francais -f` |
+| 词典种子 | `/home/admin/maintain/french/data/lexicon_seed.json`（164MB，**不入库**，需手动上传） |
+| 扫描图 | `web/scans/`（410 张 jpg，被 `.gitignore` 的 `*.jpg` 排除，**需手动上传**） |
+
+### 日常运维
+
+```bash
+ssh root@47.94.236.198
+cd /home/admin/maintain/french
+git pull                      # 拉最新代码
+/usr/local/go/bin/go build -o bin/french .   # 重新编译（web/ 是 go:embed 的，必须重编译）
+systemctl restart francais
+```
+
+### 换库：从本地同步完整数据库
+
+服务器上的库只有语法册和词汇册（77 章），
+**《简明法语教程》8 章和全部答案都不在里面** —— 那些是脚本导入的，不在 embed 里。
+换库必须用本地的完整库：
+
+```bash
+# 本地（Windows）：做一致性备份（服务在跑也安全）
+python -c "
+import sqlite3
+src=sqlite3.connect('file:french.db?mode=ro',uri=True)
+dst=sqlite3.connect('french-new.db')
+src.backup(dst); dst.commit(); dst.close(); src.close()"
+
+scp french-new.db root@47.94.236.198:/tmp/french-new.db.gz   # 建议 gzip 后传，约 35MB
+
+# 服务器：停服、换库、删掉旧 WAL（关键！）
+systemctl stop francais
+cd /home/admin/maintain/french
+mv french.db french.db.old-$(date +%Y%m%d-%H%M%S)
+rm -f french.db-wal french.db-shm      # 旧 WAL 配新库会损坏数据库，必须删
+gunzip -c /tmp/french-new.db.gz > french.db
+systemctl start francais
+```
+
+### 坑：启动要 3 分钟，CPU 打满
+
+服务启动时会**重播一遍章节播种**（85 章、3534 个内容块、1045 道练习、4786 道题），
+日志刷屏 `chapter seeded ...`，这期间 CPU 打满 99%、RSS 涨到 250MB，
+**期间 nginx 一直 502**，因为 `ListenAndServe` 在播种之后才执行。
+
+这不是卡死，等它跑完就好。但如果连着重启多次，看着像死了。
+
+### 坑：词典指纹丢了 → 每次启动重灌 38 万词条
+
+词典靠 `meta` 表里的 `lexicon_seed_fingerprint` 判断是否已导入。
+**这个指纹是在词典导入成功后才写入的**。
+
+所以：从旧库（指纹功能上线前建的）直接部署时，
+每次启动都会把 164MB 的词典重新灌一遍 —— 多花 3 分钟 CPU 和大量 WAL 写入。
+日志长这样：
+
+```
+INFO dictionary seed imported entries=380616 forms=759450
+```
+
+跑完一次之后指纹就写进去了，之后重启是秒级：
+
+```
+INFO dictionary seed already present, skipping import fingerprint=c75516747377
+```
+
+实测：灌完之后 `systemctl restart francais` → **2 秒**就绪，内存 10MB。
+

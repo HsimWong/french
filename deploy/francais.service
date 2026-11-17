@@ -9,6 +9,18 @@
 #   journalctl -u francais -f
 #
 # ---------------------------------------------------------------------------
+# 当前线上实例（2026-11-17 起）
+# ---------------------------------------------------------------------------
+#   服务器   47.94.236.198
+#   部署目录 /home/admin/maintain/french
+#   监听端口 8082（nginx location /french/ → proxy_pass 127.0.0.1:8082）
+#   日志     journalctl -u francais -f
+#
+# 下面的路径按线上实际目录写死了。换目录部署时，这几行要一起改：
+#   WorkingDirectory / ExecStart / DB_PATH
+# ---------------------------------------------------------------------------
+
+# ---------------------------------------------------------------------------
 # 内存怎么限
 # ---------------------------------------------------------------------------
 #   MemoryMax=     硬上限。超过就触发 OOM killer，进程被内核杀掉（不是优雅退出）。
@@ -46,8 +58,8 @@ Wants=network-online.target
 [Service]
 Type=simple
 User=root
-WorkingDirectory=/opt/francais
-ExecStart=/opt/francais/francais
+WorkingDirectory=/home/admin/maintain/french
+ExecStart=/home/admin/maintain/french/bin/french
 
 # --- 环境变量 ---
 # DB_PATH 指向真实的库文件。相对路径相对于 WorkingDirectory 解析，
@@ -56,7 +68,7 @@ ExecStart=/opt/francais/francais
 # PORT 必须和 nginx 的 proxy_pass 一致。你现在的 nginx 写的是 8082，
 # 这里就必须是 8082；直接跑 ./bin/francais 而不设 PORT，会监听默认的 8080，
 # nginx 转 8082 就得到 502。
-Environment=DB_PATH=/opt/francais/french.db
+Environment=DB_PATH=/home/admin/maintain/french/french.db
 Environment=PORT=8082
 # Go 堆软上限。这一条管 Go 自己的堆，MemoryHigh 管整个进程。
 Environment=MEM_LIMIT_MB=420
@@ -66,8 +78,8 @@ Environment=GOMAXPROCS=2
 # 让 GC 更早介入，配合 MEM_LIMIT_MB 效果更好。
 Environment=GOGC=50
 # 用 `-tags noseed` 构建（词典不进二进制）时，指定词典文件位置。
-# 用默认构建（词典已嵌入）时这一行可以删掉。
-Environment=LEXICON_SEED_FILE=/opt/francais/data/lexicon_seed.json
+# 用默认构建（词典已嵌入）时这一行可以删掉 —— 线上当前用的是默认构建。
+Environment=LEXICON_SEED_FILE=/home/admin/maintain/french/data/lexicon_seed.json
 
 # --- 内存限制 ---
 MemoryHigh=600M
