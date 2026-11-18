@@ -12,6 +12,7 @@ import (
 )
 
 func main() {
+	loadDotEnv()
 	applyRuntimeLimits()
 
 	dbPath := os.Getenv("DB_PATH")
@@ -45,17 +46,13 @@ func main() {
 	}
 	mux.Handle("GET /", http.FileServer(http.FS(assets)))
 
-	addr := os.Getenv("PORT")
-	if addr == "" {
-		addr = "8080"
-	}
-	addr = ":" + addr
+	addr := listenAddr()
 	srv := &http.Server{
 		Addr:              addr,
 		Handler:           withLog(gate.wrap(mux)),
 		ReadHeaderTimeout: 10 * time.Second,
 	}
-	slog.Info("français progressif démarré", "addr", "http://localhost"+addr, "db", dbPath)
+	slog.Info("français progressif démarré", "addr", addrForLog(addr), "db", dbPath)
 	if err := srv.ListenAndServe(); err != nil {
 		slog.Error("server stopped", "error", err)
 		os.Exit(1)

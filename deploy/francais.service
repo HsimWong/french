@@ -61,28 +61,12 @@ User=root
 WorkingDirectory=/home/admin/maintain/french
 ExecStart=/home/admin/maintain/french/bin/french
 
-# --- 环境变量 ---
-# DB_PATH 指向真实的库文件。相对路径相对于 WorkingDirectory 解析，
-# 所以这里用绝对路径最省心。
-#
-# PORT 必须和 nginx 的 proxy_pass 一致。你现在的 nginx 写的是 8082，
-# 这里就必须是 8082；直接跑 ./bin/francais 而不设 PORT，会监听默认的 8080，
-# nginx 转 8082 就得到 502。
-Environment=DB_PATH=/home/admin/maintain/french/french.db
-Environment=PORT=8082
-# 访问口令。留空或删掉这一行 = 不启用口令（服务完全开放）。
-# 改口令后旧 cookie 自动失效，无需改代码；改完 systemctl restart francais。
-Environment=ACCESS_PASSCODE=french2026
-# Go 堆软上限。这一条管 Go 自己的堆，MemoryHigh 管整个进程。
-Environment=MEM_LIMIT_MB=420
-# Go 并行度。这是 Go 程序真正的 CPU 阀门：即使机器有 8 核，
-# 同时最多只有 2 个线程在跑 Go 代码。
-Environment=GOMAXPROCS=2
-# 让 GC 更早介入，配合 MEM_LIMIT_MB 效果更好。
-Environment=GOGC=50
-# 用 `-tags noseed` 构建（词典不进二进制）时，指定词典文件位置。
-# 用默认构建（词典已嵌入）时这一行可以删掉 —— 线上当前用的是默认构建。
-Environment=LEXICON_SEED_FILE=/home/admin/maintain/french/data/lexicon_seed.json
+# --- 配置统一放 .env ---
+# ADDR（监听地址，如 :8082 或 127.0.0.1:8082）、PORT、DB_PATH、
+# ACCESS_PASSCODE、MEM_LIMIT_MB、GOMAXPROCS、GOGC 都在那里。
+# 改完执行：sudo systemctl restart francais
+# 模板见项目根 .env.example；make install 会在目标目录生成 .env（已存在则不覆盖）。
+EnvironmentFile=/home/admin/maintain/french/.env
 
 # --- 内存限制 ---
 MemoryHigh=600M

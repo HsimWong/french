@@ -53,11 +53,15 @@ tcp  0  0 127.0.0.1:8081   0.0.0.0:*   LISTEN   617/finance
 
 ### 2. 端口不一致
 
-直接跑 `./bin/french` 而不设 `PORT` 环境变量时，程序监听**默认的 8080**
-（见 `main.go`：`addr := os.Getenv("PORT")`，为空则用 `"8080"`）。
-你的 nginx 转的是 8082。
+端口和绑定地址现在统一在 **`.env`** 里配（`ADDR` 是完整监听地址，`PORT` 是它的简写形式）：
 
-**要么 nginx 改 8080，要么启动时设 `PORT=8082`。**
+```bash
+cd /opt/francais && cat .env     # 应有 ADDR=:8082（或 127.0.0.1:8082）
+```
+
+程序启动时会先加载 `.env`（`config.go: loadDotEnv`），`ADDR` 为空才回退到 `PORT`，
+两者都没有才用默认 8080。你的 nginx 转的是 8082，所以 `.env` 里必须配成 8082。
+改完 `sudo systemctl restart francais`（或直接重跑二进制）即可。
 
 ### 3. 前端用了绝对路径（这个最隐蔽）
 
@@ -126,6 +130,9 @@ go build -tags noseed -o bin/french .
 ### 3. 配 systemd（带资源限制）
 
 ```bash
+# 先把项目根的 .env.example 复制成 .env 并改好 ADDR/PORT/DB_PATH/口令
+cp .env.example /opt/francais/.env
+$EDITOR /opt/francais/.env
 cp deploy/francais.service /etc/systemd/system/
 sudo systemctl daemon-reload
 sudo systemctl enable --now francais
@@ -133,16 +140,22 @@ sudo systemctl status francais
 sudo journalctl -u francais -f
 ```
 
-单元里已经设好：
+单元里只有 `EnvironmentFile=/opt/francais/.env`；下面这些**都在 `.env` 里**：
 
 | 项 | 值 | 作用 |
 |---|---|---|
-| `PORT` | 8082 | 和 nginx 对齐 |
+| `ADDR` | `:8082`（或 `127.0.0.1:8082`） | 完整监听地址，和 nginx 对齐 |
+| `PORT` | 8082 | `ADDR` 为空时的简写 |
 | `ACCESS_PASSCODE` | `french2026` | 访问口令；留空 = 不启用（服务完全开放） |
 | `DB_PATH` | `/opt/francais/french.db` | 绝对路径，不受工作目录影响 |
 | `MEM_LIMIT_MB` | 420 | Go 堆软上限（`debug.SetMemoryLimit`） |
 | `GOMAXPROCS` | 2 | Go 并行度，真正的 CPU 阀门 |
 | `GOGC` | 50 | 让 GC 更早介入 |
+
+单元文件自身只保留 cgroup 资源限制：
+
+| 项 | 值 | 作用 |
+|---|---|---|
 | `MemoryHigh` | 600M | 进程软上限（含 page cache） |
 | `MemoryMax` | 800M | 进程硬上限，超了 OOM kill |
 | `MemorySwapMax` | 0 | 禁用 swap |
@@ -396,13 +409,14 @@ INFO dictionary seed already present, skipping import fingerprint=c75516747377
 - 前端 `api()` 封装会在收到 401 + `auth_required` 时自动 `location.reload()` 到登录页。
 - 顶栏「退出」按钮仅在口令启用时出现（通过 `/api/auth/status` 判断）。
 
-线上改口令：
+线上改口令（和其它所有配置一样，只改 `.env`）：
 
 ```bash
-sudo systemctl edit francais      # 或改 /etc/systemd/system/francais.service 里的 Environment 行
-# Environment=ACCESS_PASSCODE=你的新口令
-sudo systemctl daemon-reload && sudo systemctl restart francais
+sudo $EDITOR /opt/francais/.env   # ACCESS_PASSCODE=你的新口令
+sudo systemctl restart francais    # 不需要 daemon-reload
 ```
+
+优先级：真实环境变量（shell / systemd / docker -e） > `.env` > 代码默认值。
 
 ### 学习时长统计口径
 
@@ -429,3 +443,40 @@ sudo systemctl daemon-reload && sudo systemctl restart francais
 - 顶部四个指标：累计学习、今日学习、连续打卡、活跃天数。
 
 热力格 `title` 里有当日明细（学习时长 / 交卷数 / 笔记数 / 工作量），鼠标悬停可看。
+
+---
+
+## 十一、用 Makefile 编译与安装（推荐）
+
+项目根有 `Makefile` 和 `french.service`，在 **Linux 服务器**的项目目录里执行：
+
+```bash
+make                    # 1. 编译 Linux amd64 二进制 → build/french（词典嵌入，单文件）
+sudo make install       # 2. 装到 /home/admin/maintain/french/bin/french
+                        #    + 首次生成 .env + 写 /etc/systemd/system/french.service
+                        #    + daemon-reload + enable --now + 启动
+make env                # 3. 看生效配置（口令打码）
+make status             # 4. 看状态（确认 active (running)）
+curl -s http://127.0.0.1:8082/api/health   # 冒烟：应返回 {"ok":true,...}
+```
+
+要点：
+
+- **配置只在 `.env`**：`ADDR`（绑定地址）、`PORT`、`DB_PATH`、`ACCESS_PASSCODE`、运行时参数。
+  `make install` 仅在目标目录还没有 `.env` 时按 `.env.example` 生成一份（权限 600），
+  **升级时绝不覆盖线上已改过的配置**。改配置直接编辑 `.env` + `sudo systemctl restart french`。
+- `make install` 里的 `check-root` 会检查 `id -u`，非 root 直接报错退出；用 `sudo make install`。
+- 安装单元只对 `french.service` 做 2 处 sed 替换（目录 / 二进制名），
+  端口和口令不再写进单元文件；单元通过 `EnvironmentFile=` 读 `.env`。
+- `french.service` 本身就是可用的单元文件：直接 `cp french.service /etc/systemd/system/` 也能用，
+  前提是目标目录已有 `.env`（用 `.env.example` 生成）。
+- 首次生成 `.env` 时的覆盖示例（**仅首次有效**，之后要改 `.env`）：
+  ```bash
+  sudo make install DEST=/opt/francais ADDR=127.0.0.1:9000 PASSCODE=我的口令
+  ```
+  注意 `DEST` 改变后，`$DEST/french.db` 必须已存在（先把库拷过去），否则服务会因空库启动但数据全无。
+- 其它目标：`make noseed`（不嵌词典，约 80MB，需磁盘上的 `data/lexicon_seed.json`）、
+  `make restart`、`make stop`、`make logs`、`make env`、`sudo make uninstall`、`make clean`。
+  `make uninstall` 保留 `.env`、二进制和数据库，只停服并删单元文件。
+- 交叉编译：Makefile 固定 `GOOS=linux GOARCH=amd64 CGO_ENABLED=0`，
+  所以即使在 Windows/macOS 上执行 `make` 也会产出 Linux amd64 二进制。

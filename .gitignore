@@ -1,4 +1,6 @@
 # runtime
+# 本机配置（含口令）；部署机由 make install 生成
+.env
 francais.exe
 francais.exe~
 *.db

@@ -1,0 +1,39 @@
+[Unit]
+Description=Français Progressif - cours de grammaire et vocabulaire
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+# 按线上实际目录写死；换目录时同步改 WorkingDirectory / ExecStart / EnvironmentFile。
+User=root
+WorkingDirectory=/home/admin/maintain/french
+ExecStart=/home/admin/maintain/french/bin/french
+
+# --- 配置统一放 .env ---
+# 端口、绑定地址 ADDR、数据库路径、访问口令、运行时参数全部在那个文件里。
+# 改完执行：sudo systemctl restart french
+# （ENV_FILE 也可以指向别处；程序自身同样会加载它。）
+EnvironmentFile=/home/admin/maintain/french/.env
+
+# --- 内存 / CPU 限制 ---
+MemoryHigh=600M
+MemoryMax=800M
+MemorySwapMax=0
+CPUQuota=100%
+CPUWeight=50
+TasksMax=512
+
+# --- 其它 ---
+Restart=always
+RestartSec=5
+TimeoutStopSec=30
+KillSignal=SIGTERM
+LimitNOFILE=8192
+
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=french
+
+[Install]
+WantedBy=multi-user.target

@@ -4,30 +4,37 @@
 
 ## 运行时配置在哪
 
-**不在本项目里。** 运行时配置在 `C:/Users/WangXin/WorkBuddy/french-daemon/.env`：
+**在项目根的 `.env`**（模板 `.env.example`，已提交；`.env` 本身含口令，已 gitignore）。
+`config.go: loadDotEnv()` 在 `main()` 最开始加载它，优先级：真实环境变量 > `.env` > 代码默认值。
+systemd 也用 `EnvironmentFile=` 指向同一文件，因此**端口、绑定地址、数据库、口令只改一处**：
 
 ```
-APP_ROOT="C:/Users/WangXin/WorkBuddy/Français Prograssive"
-APP_PORT=8080
-DB_PATH=french.db          # 相对 APP_ROOT，supervisor 会先 cd 到 APP_ROOT
-GATEWAY_URL=...            # WorkBuddy 网关固定入口
-GATEWAY_TOKEN=...
+ADDR=:8082                      # 完整监听地址；127.0.0.1:8082 = 只给 nginx 反代
+PORT=8082                       # ADDR 为空时的简写
+DB_PATH=/home/admin/maintain/french/french.db
+ACCESS_PASSCODE=french2026      # 留空 = 不启用口令
+MEM_LIMIT_MB=420 / GOMAXPROCS=2 / GOGC=50
 ```
 
-daemon 用 `cd "$APP_ROOT"` 后再执行，所以 **`french.db` 必须待在项目根**。
-误在别处启动服务会凭空建一个空库（本次重组时踩过：服务显示"答案 0 条"就是这个原因）。
+改完 `sudo systemctl restart french`。本地直接跑二进制时也读当前目录的 `.env`
+（可用 `ENV_FILE=/path/to/.env` 指定别处）。旧 Windows daemon 的 `.env`
+（`french-daemon/.env`，含 APP_PORT/GATEWAY_*）是宿主的调度配置，与本文件无关。
 
 ## 目录结构
 
 ```
 Français Prograssive/
 ├── main.go / store.go / handlers.go / lexicon.go / grading.go / attempts.go
+│   ├── config.go               .env 加载 + 监听地址解析（2026-11-18 新增）
 │   ├── stats.go                学习时长与每日工作量统计 API（2026-11-18 新增）
 │   ├── auth.go                 访问口令鉴权（ACCESS_PASSCODE，2026-11-18 新增）
 │   └── *_test.go               Go 源码（单包项目，源码必须在包根）
 ├── schema.sql              go:embed
 ├── go.mod / go.sum
 ├── french.db(+wal/shm)     ★ 唯一运行时数据库，必须在项目根
+├── .env.example            【模板】运行配置，提交进仓库
+├── .env                    本机配置（含口令，gitignore；VPS 由 make install 生成）
+├── Makefile / french.service   Linux 编译 + systemd 安装（配置走 EnvironmentFile=.env）
 ├── deploy.ps1 / 发布.ps1   发布脚本
 ├── PROGRESS.md             录入进度
 │
