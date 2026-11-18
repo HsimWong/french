@@ -43,7 +43,7 @@ Français Prograssive/
 │   │   ├── chapter01.json      语法第 1 讲
 │   │   ├── vocabulaire01.json  词汇第 1 讲
 │   │   └── chapters/           第 2 讲起每讲一个 json（gNN/vNN）
-│   ├── lexicon_seed.json    【编译期资源】164MB 词典种子，embed 进二进制
+│   ├── lexicon_seed.json    【运行时数据】164MB 词典种子，启动时流式导入数据库（不进二进制）
 │   ├── import/             【导入中间产物】不进二进制，可重新生成
 │   │   ├── answers/            语法答案（gNN.json + raw/ + over/）
 │   │   ├── answers_vocab/      词汇答案（vNN.json + raw/ + over/）
@@ -68,8 +68,10 @@ Français Prograssive/
 
 1. **`french.db` 只能在项目根。** `deploy.ps1` 的 `$Db = Join-Path $Project 'french.db'`
    和 daemon 的 `cd $APP_ROOT` 都写死了这个位置。
-2. **`data/courses/` 和 `data/lexicon_seed.json` 是编译期资源。**
-   改了目录必须同步 `store.go` 的 `//go:embed` 路径和 `fs.Glob` 路径，然后重新编译。
+2. **`data/courses/` 是编译期资源，`data/lexicon_seed.json` 不是。**
+   课程改目录要同步 `store.go` 的 `//go:embed` / `fs.Glob` 路径并重新编译；
+   词典是运行时文件，由 `.env` 的 `LEXICON_SEED_FILE` 指定，换路径不用重编译。
+   **绝不要把词典 embed 进二进制**（曾导致 243MB 二进制、VPS 冷编译超 5 分钟）。
 3. **改任何 data 下的路径，都要同步 `tools/*.py` 的引用**（共 7 个脚本）。
 
 ## 数据从哪来
@@ -81,7 +83,7 @@ Français Prograssive/
 
 Kaikki 原始语料 → data/source/kaikki.org-dictionary-French.jsonl
                 → tools/build_lexicon.py → data/lexicon_seed.json
-                → go:embed → 二进制 → 启动时导入 french.db
+                → 运行时由 LEXICON_SEED_FILE 指向 → 启动时流式导入 french.db
 ```
 
 ## 构建与发布
@@ -92,7 +94,8 @@ go build -o build/francais.exe .  # 产物进 build/
 ./deploy.ps1 -SkipTests           # 备份库 → 编译 → 换二进制 → 起服务 → 冒烟
 ```
 
-发布后二进制在 `french-daemon/bin/francais.exe`（约 243MB，含 164MB 词典）。
+发布后二进制在 `french-daemon/bin/francais.exe`（约 80MB；164MB 词典不进二进制，
+运行时从 `LEXICON_SEED_FILE` 指向的文件导入数据库）。
 
 **启动服务务必用 supervisor**（它会正确 cd 到 APP_ROOT）：
 

@@ -4,38 +4,25 @@
 
 ---
 
-## 一、你 Linux 上编译失败的原因
+## 一、词典不进二进制（2026-11-18 修正）
 
-```
-store.go:36:12: pattern data/lexicon_seed.json: no matching files found
-```
+早期版本把 164MB 的 `data/lexicon_seed.json` 用 `go:embed` 编进二进制，
+后果是：二进制 243MB、冷编译在小 VPS 上超过 5 分钟、编译期内存占用极高，
+而且源码里少了这个文件就直接编译失败。**这个设计已彻底删除。**
 
-`data/lexicon_seed.json`（164MB 词典种子）原本用 `go:embed` 硬编进二进制。
-这个文件**没有跟着源码传过去**（它同时也在 `.gitignore` 里，`git clone` 也不会带它），
-于是 `go:embed` 找不到匹配文件，编译直接失败。
-
-### 两种解法
-
-**A. 补齐词典文件**（保留 embed）
+现在只有一种构建方式：词典是**运行时数据文件**，放在
+`/home/admin/maintain/french/data/lexicon_seed.json`，由 `.env` 的
+`LEXICON_SEED_FILE` 指定路径。程序启动时**流式**导入数据库（每次只解一个数组元素，
+峰值内存只有几 MB），之后靠 meta 表里的指纹判断，重复启动不会重新导入。
 
 ```bash
-mkdir -p data
-scp 你的机器:Français\ Prograssive/data/lexicon_seed.json data/
-go build -o bin/french .
+cd /home/admin/maintain/french
+go build -o bin/french .        # 约 80MB，1 核 VPS 通常 1-3 分钟
+sudo make install               # 或直接覆盖 bin/french 后 systemctl restart french
 ```
 
-产物 **243MB**，词典在二进制里，单文件部署。
-
-**B. 词典走磁盘（推荐）**
-
-```bash
-go build -tags noseed -o bin/french .
-```
-
-产物 **71MB**。词典文件放在 `data/lexicon_seed.json`，
-程序启动时用 `LEXICON_SEED_FILE` 指定路径，**流式**读进数据库。
-
-两种构建在运行时行为完全一致，区别只是词典从哪来。
+`make` 的默认目标就是这种构建。项目里已经没有 `-tags noseed` / `-tags embed` 的区别，
+旧脚本里残留这两个标签也不影响编译。
 
 ---
 
@@ -56,12 +43,12 @@ tcp  0  0 127.0.0.1:8081   0.0.0.0:*   LISTEN   617/finance
 端口和绑定地址现在统一在 **`.env`** 里配（`ADDR` 是完整监听地址，`PORT` 是它的简写形式）：
 
 ```bash
-cd /opt/francais && cat .env     # 应有 ADDR=:8082（或 127.0.0.1:8082）
+cd /home/admin/maintain/french && cat .env     # 应有 ADDR=:8082（或 127.0.0.1:8082）
 ```
 
 程序启动时会先加载 `.env`（`config.go: loadDotEnv`），`ADDR` 为空才回退到 `PORT`，
 两者都没有才用默认 8080。你的 nginx 转的是 8082，所以 `.env` 里必须配成 8082。
-改完 `sudo systemctl restart francais`（或直接重跑二进制）即可。
+改完 `sudo systemctl restart french`（或直接重跑二进制）即可。
 
 ### 3. 前端用了绝对路径（这个最隐蔽）
 
@@ -95,11 +82,11 @@ CSS/JS/API 请求会打到 `https://你的域名/css/style.css` —— **绕过�
 
 ```bash
 # 服务器上建目录
-sudo mkdir -p /opt/francais/data
-sudo chown -R $USER /opt/francais
+sudo mkdir -p /home/admin/maintain/french/data
+sudo chown -R $USER /home/admin/maintain/french
 
 # 传源码、构建产物、词典、数据库
-rsync -av --exclude build --exclude .git ./ root@47.94.236.198:/opt/francais/
+rsync -av --exclude build --exclude .git ./ root@47.94.236.198:/home/admin/maintain/french/
 ```
 
 **最关键的是数据库文件**。不传的话，服务会新建一个空库，
@@ -107,47 +94,56 @@ rsync -av --exclude build --exclude .git ./ root@47.94.236.198:/opt/francais/
 **《简明法语教程》那 8 章会全部丢失**（它是走 Python 脚本导入的，不在 embed 里）。
 
 ```bash
-scp french.db root@47.94.236.198:/opt/francais/
+scp french.db root@47.94.236.198:/home/admin/maintain/french/
 ```
 
 传输时带上 WAL：
 
 ```bash
 # 停服后再拷最干净，或者用 sqlite3 的 .backup 命令做一致性备份
-sqlite3 french.db ".backup /tmp/french.db" && scp /tmp/french.db root@...:/opt/francais/
+sqlite3 french.db ".backup /tmp/french.db" && scp /tmp/french.db root@...:/home/admin/maintain/french/
 ```
 
 ### 2. 构建
 
 ```bash
-cd /opt/francais
-# 方式 B（词典走磁盘，二进制 71MB）
-go build -tags noseed -o bin/french .
-# 方式 A（词典嵌入，二进制 243MB）
-# go build -o bin/french .
+cd /home/admin/maintain/french
+go build -trimpath -o bin/french .   # 约 80MB，词典在 data/lexicon_seed.json
 ```
+
+VPS 上直接编译即可，不需要交叉编译。首次编译（Go 缓存为空）在 1 核 / 2G 机器上
+通常 1–3 分钟；如果超过 5 分钟，先确认机器没有在跑 `go test` 或内存被打满。
 
 ### 3. 配 systemd（带资源限制）
 
 ```bash
 # 先把项目根的 .env.example 复制成 .env 并改好 ADDR/PORT/DB_PATH/口令
-cp .env.example /opt/francais/.env
-$EDITOR /opt/francais/.env
-cp deploy/francais.service /etc/systemd/system/
+cp .env.example /home/admin/maintain/french/.env
+$EDITOR /home/admin/maintain/french/.env
+cp french.service /etc/systemd/system/
 sudo systemctl daemon-reload
-sudo systemctl enable --now francais
-sudo systemctl status francais
-sudo journalctl -u francais -f
+sudo systemctl enable --now french
+sudo systemctl status french
+sudo journalctl -u french -f
 ```
 
-单元里只有 `EnvironmentFile=/opt/francais/.env`；下面这些**都在 `.env` 里**：
+> **从旧版升级（服务名 `francais` → `french`）**：本仓库现在只有一个 `french.service`。
+> 如果 VPS 上还跑着旧的 `francais`，先停掉并删旧单元，再装新的；数据库、词典、`.env` 都不用动：
+>
+> ```bash
+> sudo systemctl disable --now francais
+> sudo rm -f /etc/systemd/system/francais.service
+> sudo systemctl daemon-reload
+> ```
+
+单元里只有 `EnvironmentFile=/home/admin/maintain/french/.env`；下面这些**都在 `.env` 里**：
 
 | 项 | 值 | 作用 |
 |---|---|---|
 | `ADDR` | `:8082`（或 `127.0.0.1:8082`） | 完整监听地址，和 nginx 对齐 |
 | `PORT` | 8082 | `ADDR` 为空时的简写 |
 | `ACCESS_PASSCODE` | `french2026` | 访问口令；留空 = 不启用（服务完全开放） |
-| `DB_PATH` | `/opt/francais/french.db` | 绝对路径，不受工作目录影响 |
+| `DB_PATH` | `/home/admin/maintain/french/french.db` | 绝对路径，不受工作目录影响 |
 | `MEM_LIMIT_MB` | 420 | Go 堆软上限（`debug.SetMemoryLimit`） |
 | `GOMAXPROCS` | 2 | Go 并行度，真正的 CPU 阀门 |
 | `GOGC` | 50 | 让 GC 更早介入 |
@@ -261,7 +257,7 @@ GOMAXPROCS=2        # Go 并行度，这才是 Go 程序的 CPU 阀门
 
 ### Linux / systemd（cgroup）
 
-见 `deploy/francais.service` 的注释。核心是 `MemoryHigh` / `MemoryMax` /
+见 `french.service` 的注释。核心是 `MemoryHigh` / `MemoryMax` /
 `MemorySwapMax` / `CPUQuota`。
 
 **一个必须知道的坑**：不要用 `ulimit -v` 给 Go 程序限内存。
@@ -301,7 +297,7 @@ SQLite 单文件，SQLite 的库就是一个普通文件：
 
 ```bash
 # 一致性备份（推荐，WAL 模式下也安全）
-sqlite3 /opt/francais/french.db ".backup /tmp/french-backup.db"
+sqlite3 /home/admin/maintain/french/french.db ".backup /tmp/french-backup.db"
 scp /tmp/french-backup.db 你的机器:
 
 # 或者直接拷（服务运行时 WIP 数据可能在 -wal 里，用上面的 .backup 更保险）
@@ -318,8 +314,8 @@ scp /tmp/french-backup.db 你的机器:
 | 服务器 | `47.94.236.198` |
 | 部署目录 | `/home/admin/maintain/french`（git clone 自 GitHub） |
 | 监听端口 | `8082`（nginx `location /french/` → `proxy_pass http://127.0.0.1:8082/`） |
-| 服务管理 | `systemctl restart francais` |
-| 日志 | `journalctl -u francais -f` |
+| 服务管理 | `systemctl restart french` |
+| 日志 | `journalctl -u french -f` |
 | 词典种子 | `/home/admin/maintain/french/data/lexicon_seed.json`（164MB，**不入库**，需手动上传） |
 | 扫描图 | `web/scans/`（410 张 jpg，被 `.gitignore` 的 `*.jpg` 排除，**需手动上传**） |
 
@@ -330,7 +326,7 @@ ssh root@47.94.236.198
 cd /home/admin/maintain/french
 git pull                      # 拉最新代码
 /usr/local/go/bin/go build -o bin/french .   # 重新编译（web/ 是 go:embed 的，必须重编译）
-systemctl restart francais
+systemctl restart french
 ```
 
 ### 换库：从本地同步完整数据库
@@ -350,12 +346,12 @@ src.backup(dst); dst.commit(); dst.close(); src.close()"
 scp french-new.db root@47.94.236.198:/tmp/french-new.db.gz   # 建议 gzip 后传，约 35MB
 
 # 服务器：停服、换库、删掉旧 WAL（关键！）
-systemctl stop francais
+systemctl stop french
 cd /home/admin/maintain/french
 mv french.db french.db.old-$(date +%Y%m%d-%H%M%S)
 rm -f french.db-wal french.db-shm      # 旧 WAL 配新库会损坏数据库，必须删
 gunzip -c /tmp/french-new.db.gz > french.db
-systemctl start francais
+systemctl start french
 ```
 
 ### 坑：启动要 3 分钟，CPU 打满
@@ -385,7 +381,7 @@ INFO dictionary seed imported entries=380616 forms=759450
 INFO dictionary seed already present, skipping import fingerprint=c75516747377
 ```
 
-实测：灌完之后 `systemctl restart francais` → **2 秒**就绪，内存 10MB。
+实测：灌完之后 `systemctl restart french` → **2 秒**就绪，内存 10MB。
 
 
 ---
@@ -412,8 +408,8 @@ INFO dictionary seed already present, skipping import fingerprint=c75516747377
 线上改口令（和其它所有配置一样，只改 `.env`）：
 
 ```bash
-sudo $EDITOR /opt/francais/.env   # ACCESS_PASSCODE=你的新口令
-sudo systemctl restart francais    # 不需要 daemon-reload
+sudo $EDITOR /home/admin/maintain/french/.env   # ACCESS_PASSCODE=你的新口令
+sudo systemctl restart french      # 不需要 daemon-reload
 ```
 
 优先级：真实环境变量（shell / systemd / docker -e） > `.env` > 代码默认值。
@@ -451,7 +447,7 @@ sudo systemctl restart francais    # 不需要 daemon-reload
 项目根有 `Makefile` 和 `french.service`，在 **Linux 服务器**的项目目录里执行：
 
 ```bash
-make                    # 1. 编译 Linux amd64 二进制 → build/french（词典嵌入，单文件）
+make                    # 1. 编译 Linux amd64 二进制 → build/french（约 80MB，词典外置）
 sudo make install       # 2. 装到 /home/admin/maintain/french/bin/french
                         #    + 首次生成 .env + 写 /etc/systemd/system/french.service
                         #    + daemon-reload + enable --now + 启动
@@ -472,11 +468,14 @@ curl -s http://127.0.0.1:8082/api/health   # 冒烟：应返回 {"ok":true,...}
   前提是目标目录已有 `.env`（用 `.env.example` 生成）。
 - 首次生成 `.env` 时的覆盖示例（**仅首次有效**，之后要改 `.env`）：
   ```bash
-  sudo make install DEST=/opt/francais ADDR=127.0.0.1:9000 PASSCODE=我的口令
+  sudo make install DEST=/home/admin/maintain/french ADDR=127.0.0.1:9000 PASSCODE=我的口令
   ```
   注意 `DEST` 改变后，`$DEST/french.db` 必须已存在（先把库拷过去），否则服务会因空库启动但数据全无。
-- 其它目标：`make noseed`（不嵌词典，约 80MB，需磁盘上的 `data/lexicon_seed.json`）、
-  `make restart`、`make stop`、`make logs`、`make env`、`sudo make uninstall`、`make clean`。
-  `make uninstall` 保留 `.env`、二进制和数据库，只停服并删单元文件。
-- 交叉编译：Makefile 固定 `GOOS=linux GOARCH=amd64 CGO_ENABLED=0`，
-  所以即使在 Windows/macOS 上执行 `make` 也会产出 Linux amd64 二进制。
+- **安装时自动处理词典**：`make install` 会建 `$(DEST)/data`，
+  若本地有 `data/lexicon_seed.json` 且目标位置还没有，就装过去（只装一次，不覆盖）。
+  目标位置由 `.env` 的 `LEXICON_SEED_FILE` 决定，默认 `$(DEST)/data/lexicon_seed.json`。
+- 其它目标：`make restart`、`make stop`、`make logs`、`make env`、
+  `sudo make uninstall`、`make clean`、`make dist`（本机交叉编译 + 打包，供没有 Go 的机器）。
+  `make uninstall` 保留 `.env`、二进制、词典和数据库，只停服并删单元文件。
+- Makefile 仍固定 `GOOS=linux GOARCH=amd64 CGO_ENABLED=0`；在 Linux 上就是原生编译，
+  在 Windows/macOS 上执行 `make dist` 也能产出 Linux 二进制。

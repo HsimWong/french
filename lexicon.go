@@ -1,7 +1,6 @@
 package main
 
 import (
-	"bytes"
 	"crypto/sha256"
 	"database/sql"
 	"encoding/hex"
@@ -429,21 +428,6 @@ type lexiconSeedSource interface {
 	// Name identifies the source in log lines.
 	Name() string
 }
-
-// embeddedLexiconSeed serves the dictionary from the blob compiled into the
-// binary.
-type embeddedLexiconSeed struct{ data []byte }
-
-func (s embeddedLexiconSeed) Open() (io.ReadSeekCloser, error) {
-	return nopSeekCloser{bytes.NewReader(s.data)}, nil
-}
-func (s embeddedLexiconSeed) Size() int64  { return int64(len(s.data)) }
-func (s embeddedLexiconSeed) Name() string { return "embedded data/lexicon_seed.json" }
-
-// nopSeekCloser gives a bytes.Reader the Close method io.ReadSeekCloser wants.
-type nopSeekCloser struct{ *bytes.Reader }
-
-func (nopSeekCloser) Close() error { return nil }
 
 // fileLexiconSeed serves the dictionary from a file on disk.
 type fileLexiconSeed struct{ path string }
