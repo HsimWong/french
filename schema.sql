@@ -118,6 +118,20 @@ CREATE TABLE IF NOT EXISTS meta (
   value TEXT NOT NULL
 );
 
+-- Active study time, bucketed per local day and course. The frontend reports
+-- a few seconds of *active* presence (tab visible + real interaction) rather
+-- than deriving duration from attempt timestamps: a draft may sit open for
+-- hours, so started_at -> submitted_at is not a usable measure of effort.
+CREATE TABLE IF NOT EXISTS study_log (
+  user_id   INTEGER NOT NULL DEFAULT 1,
+  day       TEXT NOT NULL,               -- local YYYY-MM-DD (Asia/Shanghai)
+  course_id INTEGER NOT NULL REFERENCES course(id),
+  seconds   INTEGER NOT NULL DEFAULT 0,
+  updated_at TEXT NOT NULL,
+  PRIMARY KEY (user_id, day, course_id)
+);
+CREATE INDEX IF NOT EXISTS idx_study_log_day ON study_log(user_id, day);
+
 -- Dictionary data is independent from the course content. The reverse form
 -- index maps an inflected spelling back to one or more dictionary entries.
 CREATE TABLE IF NOT EXISTS dict_entry (

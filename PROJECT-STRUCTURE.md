@@ -22,7 +22,9 @@ daemon 用 `cd "$APP_ROOT"` 后再执行，所以 **`french.db` 必须待在项�
 ```
 Français Prograssive/
 ├── main.go / store.go / handlers.go / lexicon.go / grading.go / attempts.go
-│   └── *_test.go           Go 源码（单包项目，源码必须在包根）
+│   ├── stats.go                学习时长与每日工作量统计 API（2026-11-18 新增）
+│   ├── auth.go                 访问口令鉴权（ACCESS_PASSCODE，2026-11-18 新增）
+│   └── *_test.go               Go 源码（单包项目，源码必须在包根）
 ├── schema.sql              go:embed
 ├── go.mod / go.sum
 ├── french.db(+wal/shm)     ★ 唯一运行时数据库，必须在项目根
@@ -48,6 +50,7 @@ Français Prograssive/
 │
 ├── web/                    【前端资源】go:embed + 运行时静态文件
 │   ├── index.html  css/  js/  scans/
+│   │   └── js/stats-view.js / study-tracker.js   首页热力图 / 活跃计时（新增）
 ├── tools/                  Python 导入与校验脚本
 ├── docs/                   设计文档
 ├── build/                  构建产物（不提交）

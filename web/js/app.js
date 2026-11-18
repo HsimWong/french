@@ -4,6 +4,8 @@ import {
 import { keyPage as viewAnswerKey, saveKeyExercise } from './answer-key.js';
 import { api, esc, pageHead, setCourse, state, toast, ui } from './ui-core.js';
 import { applyHighlights, deleteNote, reloadChapterNotes, selectionOffsets } from './notes.js';
+import { loadHomeStats } from './stats-view.js';
+import './study-tracker.js'; // side effect: active-time heartbeats
 export { app, api, esc, pageHead, scanBlock, setCourse, toast };
 
 const app = document.getElementById('app');
@@ -123,6 +125,7 @@ async function viewHome() {
       <div class="metric"><div class="label">已录入内容</div><div class="value">${totalReady}</div><div class="hint">${totalBlocks} 个讲解块</div></div>
       <div class="metric"><div class="label">笔记</div><div class="value">${totalNotes}</div><div class="hint">高亮笔记总数</div></div>
     </div>
+    <div id="home-stats"></div>
     <div class="section-label">选择课程</div>
     <div class="course-grid">
       ${d.map((c, i) => `
@@ -146,6 +149,7 @@ async function viewHome() {
       </div>
     </div>`;
   loadResumeCard('resume-slot');
+  loadHomeStats();
 }
 
 /* ------------------------------ one course home ------------------------------ */
@@ -1332,5 +1336,21 @@ async function render() {
   await refreshAnswerBadge();
 }
 
+// Show the logout control only when a passcode is configured, and wire it up.
+async function initAuth() {
+  const btn = document.getElementById('auth-logout');
+  if (!btn) return;
+  try {
+    const st = await api('api/auth/status');
+    if (!st.enabled) return;
+    btn.classList.remove('hidden');
+    btn.addEventListener('click', async () => {
+      try { await api('api/auth/logout', { method: 'POST' }); } catch (_) { /* ignore */ }
+      location.reload();
+    });
+  } catch (_) { /* ignore */ }
+}
+
 window.addEventListener('hashchange', render);
 render();
+initAuth();

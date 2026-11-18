@@ -2,12 +2,23 @@
 // Keeping them in their own module avoids the circular import that a page
 // would create by reaching back into app.js for api(), esc() and toast().
 
+let authRedirecting = false;
+
 export async function api(path, opts = {}) {
   const res = await fetch(path, {
     headers: { 'Content-Type': 'application/json' },
     ...opts,
   });
   const data = await res.json().catch(() => ({}));
+  if (res.status === 401 && data.auth_required) {
+    // Session expired: a page reload reaches the self-contained login screen
+    // at the same URL, so this works under any mount prefix.
+    if (!authRedirecting) {
+      authRedirecting = true;
+      location.reload();
+    }
+    throw new Error(data.error || '需要访问口令');
+  }
   if (!res.ok) throw new Error(data.error || `HTTP ${res.status}`);
   return data;
 }

@@ -28,6 +28,15 @@ func main() {
 	mux := http.NewServeMux()
 	registerRoutes(mux, db)
 	registerDictionaryRoutes(mux, db, newLexicon(db))
+	registerStatsRoutes(mux, db)
+
+	gate := newAuthGate()
+	gate.registerAuthRoutes(mux)
+	if gate.enabled {
+		slog.Info("access passcode enabled")
+	} else {
+		slog.Info("access passcode not set — server is open")
+	}
 
 	assets, err := webAssets()
 	if err != nil {
@@ -43,7 +52,7 @@ func main() {
 	addr = ":" + addr
 	srv := &http.Server{
 		Addr:              addr,
-		Handler:           withLog(mux),
+		Handler:           withLog(gate.wrap(mux)),
 		ReadHeaderTimeout: 10 * time.Second,
 	}
 	slog.Info("français progressif démarré", "addr", "http://localhost"+addr, "db", dbPath)

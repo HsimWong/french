@@ -138,6 +138,7 @@ sudo journalctl -u francais -f
 | 项 | 值 | 作用 |
 |---|---|---|
 | `PORT` | 8082 | 和 nginx 对齐 |
+| `ACCESS_PASSCODE` | `french2026` | 访问口令；留空 = 不启用（服务完全开放） |
 | `DB_PATH` | `/opt/francais/french.db` | 绝对路径，不受工作目录影响 |
 | `MEM_LIMIT_MB` | 420 | Go 堆软上限（`debug.SetMemoryLimit`） |
 | `GOMAXPROCS` | 2 | Go 并行度，真正的 CPU 阀门 |
@@ -373,3 +374,58 @@ INFO dictionary seed already present, skipping import fingerprint=c75516747377
 
 实测：灌完之后 `systemctl restart francais` → **2 秒**就绪，内存 10MB。
 
+
+---
+
+## 十、访问口令、学习时长与打卡墙（2026-11-18 新增）
+
+### 访问口令
+
+服务可选口令保护，由环境变量 `ACCESS_PASSCODE` 控制：
+
+- **设了值**（如当前 `french2026`）：未登录访问任何页面会看到登录页；API 返回 401。
+  输入口令后签发一个 HMAC 签名的 HttpOnly Cookie（`fp_auth`），30 天内免登录。
+- **留空 / 删掉该行**：服务完全开放，和老版本行为一致。
+
+要点：
+
+- 口令即签名密钥：改口令后**旧 Cookie 全部自动失效**，无需改代码。
+- `/api/health` 不受保护（给探针和探针脚本用）；`/api/auth/*` 三个端点也不需要登录。
+- nginx 反代下页面路径是 `/french/`：登录页是自包含的单文件 HTML（内联 CSS/JS），
+  相对路径提交 `api/auth/login`，因此不依赖任何 Mount 前缀，登录成功用 `location.replace('./')` 回首页。
+- 前端 `api()` 封装会在收到 401 + `auth_required` 时自动 `location.reload()` 到登录页。
+- 顶栏「退出」按钮仅在口令启用时出现（通过 `/api/auth/status` 判断）。
+
+线上改口令：
+
+```bash
+sudo systemctl edit francais      # 或改 /etc/systemd/system/francais.service 里的 Environment 行
+# Environment=ACCESS_PASSCODE=你的新口令
+sudo systemctl daemon-reload && sudo systemctl restart francais
+```
+
+### 学习时长统计口径
+
+数据库里旧的 `attempt.started_at → submitted_at` **不能**当学习时长：
+草稿可能挂十几个小时，相减会严重失真。因此改成前端**活跃计时**：
+
+- 页面可见、当前是学习路由（章节 / 练习 / 课程 / 笔记页）、且 1 分钟内有真实交互
+  （鼠标 / 键盘 / 滚动 / 触摸）时，每 5 秒累加一次；
+- 攒够 20 秒或页面隐藏 / 离开时上报 `POST /api/study/ping`（`sendBeacon` 保证离开时也能送达）；
+- 后端按 `Asia/Shanghai (+08:00)` 存到新表 `study_log(user_id, day, course_id, seconds)`，
+  同一天同一课程累加，单次上限 600 秒防止异常客户端灌水。
+
+**含义：时长从本版本部署后开始累计，旧数据不补。** 数据库 schema 由 `db.Exec(schemaSQL)`
+在启动时执行 `CREATE TABLE IF NOT EXISTS`，老库无需手动迁移。
+
+### 首页两个可视化
+
+`GET /api/stats/activity?days=371` 一次返回首页所需全部数据：
+
+- **每本书学习时长**：三张 GitHub 风格热力条，显示每门课的每日学习秒数和总时长；
+- **每日工作量打卡墙**：53 周 × 7 天的热力格，强度 = 活跃分钟数 + 交卷次数 + 笔记条数。
+  工作量把历史数据也算进去了：交卷来自 `attempt_revision.created_at`，笔记来自 `note.created_at`，
+  都用固定 +08:00 归一到「本地日」（旧记录里 UTC 与 +08:00 混用，必须归一）。
+- 顶部四个指标：累计学习、今日学习、连续打卡、活跃天数。
+
+热力格 `title` 里有当日明细（学习时长 / 交卷数 / 笔记数 / 工作量），鼠标悬停可看。

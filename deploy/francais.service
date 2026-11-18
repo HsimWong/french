@@ -70,6 +70,9 @@ ExecStart=/home/admin/maintain/french/bin/french
 # nginx 转 8082 就得到 502。
 Environment=DB_PATH=/home/admin/maintain/french/french.db
 Environment=PORT=8082
+# 访问口令。留空或删掉这一行 = 不启用口令（服务完全开放）。
+# 改口令后旧 cookie 自动失效，无需改代码；改完 systemctl restart francais。
+Environment=ACCESS_PASSCODE=french2026
 # Go 堆软上限。这一条管 Go 自己的堆，MemoryHigh 管整个进程。
 Environment=MEM_LIMIT_MB=420
 # Go 并行度。这是 Go 程序真正的 CPU 阀门：即使机器有 8 核，
