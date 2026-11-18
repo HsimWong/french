@@ -129,8 +129,12 @@ function openDrawer({ quote, draft = null, note = null, query, findExisting = fa
   drawerQuote.textContent = quote || note?.quote || q;
   let existing = note;
   if (!existing && draft && findExisting) {
-    existing = (state.chapter?.notes || []).find(n =>
-      n.block_id === draft.block_id && n.start_offset === draft.start_offset && n.end_offset === draft.end_offset) || null;
+    existing = (state.chapter?.notes || []).find(n => {
+      const sameAnchor = draft.exercise_id
+        ? Number(n.exercise_id) === Number(draft.exercise_id) && Number(n.question_id) === Number(draft.question_id)
+        : n.block_id === draft.block_id;
+      return sameAnchor && n.start_offset === draft.start_offset && n.end_offset === draft.end_offset;
+    }) || null;
   }
   state.editingNoteId = existing?.id ?? null;
   drawerText.value = existing?.text || '';
@@ -184,12 +188,17 @@ drawerSave.addEventListener('click', async () => {
     }
     const notes = await reloadChapterNotes();
     const current = (notes || []).find(n => (noteId ? n.id === noteId
-      : draft && n.block_id === draft.block_id && n.start_offset === draft.start_offset));
+      : draft && (draft.exercise_id
+        ? Number(n.exercise_id) === Number(draft.exercise_id) && Number(n.question_id) === Number(draft.question_id)
+        : n.block_id === draft.block_id) && n.start_offset === draft.start_offset));
     if (current) {
       state.editingNoteId = current.id;
       state.pendingSelection = {
         chapter_id: current.chapter_id || state.chapter.chapter.id,
-        block_id: current.block_id, page_no: current.page_no,
+        block_id: current.block_id,
+        exercise_id: current.exercise_id,
+        question_id: current.question_id,
+        page_no: current.page_no,
         start_offset: current.start_offset, end_offset: current.end_offset, quote: current.quote,
       };
       drawerDelete.classList.remove('hidden');

@@ -1,4 +1,5 @@
 import { api, state, ui } from './ui-core.js';
+import { paintStemNotes } from './exercise-notes.js';
 
 // Note persistence and the yellow highlights in the reading view.
 // The dictionary drawer imports these directly, so updating a note never
@@ -69,6 +70,15 @@ export function applyHighlights(notes) {
 export async function reloadChapterNotes() {
   if (!state.chapter?.chapter?.id) return;
   const id = state.chapter.chapter.id;
+  // On the exercise sheet the anchors live in question stems, not content
+  // blocks. Repaint marks in place so typed answers and widgets survive.
+  if (state.exercisePage) {
+    const nd = await api(`api/notes?chapter_id=${id}`);
+    state.stemNotes = (nd.notes || []).filter(n => n.question_id && Number(n.question_id) > 0);
+    state.chapter.notes = state.stemNotes;
+    paintStemNotes(ui.app || document.querySelector('#app'), state.stemNotes);
+    return state.stemNotes;
+  }
   const d = await api(`api/chapters/${id}`);
   state.chapter.notes = d.notes || [];
   // The chapter is re-read while this request was in flight only if the user

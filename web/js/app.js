@@ -4,6 +4,7 @@ import {
 import { keyPage as viewAnswerKey, saveKeyExercise } from './answer-key.js';
 import { api, esc, pageHead, setCourse, state, toast, ui } from './ui-core.js';
 import { applyHighlights, deleteNote, reloadChapterNotes, selectionOffsets } from './notes.js';
+import { draftFromSelection, exerciseStemKey, loadStemNotes, paintStemNotes } from './exercise-notes.js';
 import { loadHomeStats } from './stats-view.js';
 import './study-tracker.js'; // side effect: active-time heartbeats
 export { app, api, esc, pageHead, scanBlock, setCourse, toast };
@@ -96,6 +97,20 @@ async function refreshAnswerBadge() {
       el.innerHTML = `<span class="badge">答案待导入 · ${s.total} 题</span>`;
     }
   } catch (_) { /* ignore */ }
+}
+
+// Jump from the notes list back to the exact highlight. Restarting the
+// animation matters when the same note is opened twice in a row.
+function flashNote(noteId) {
+  const mark = app.querySelector(`mark.hl[data-note-id="${noteId}"]`);
+  if (!mark) return false;
+  mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  mark.classList.remove('flash');
+  void mark.offsetWidth;
+  mark.classList.add('flash');
+  clearTimeout(mark._flashTimer);
+  mark._flashTimer = setTimeout(() => mark.classList.remove('flash'), 4200);
+  return true;
 }
 
 function scanBlock(scanBase, pageNo) {
@@ -378,14 +393,7 @@ async function viewChapter(id, params) {
 
   applyHighlights(d.notes);
   const noteId = params.get('note');
-  if (noteId) {
-    const mark = app.querySelector(`mark.hl[data-note-id="${noteId}"]`);
-    if (mark) {
-      mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      mark.classList.add('flash');
-      setTimeout(() => mark.classList.remove('flash'), 3000);
-    }
-  }
+  if (noteId) flashNote(noteId);
 }
 
 function showPopover(rect, draft, existing) {
@@ -418,6 +426,24 @@ document.addEventListener('mouseup', e => {
   const anchor = range.commonAncestorContainer.nodeType === 1
     ? range.commonAncestorContainer
     : range.commonAncestorContainer.parentElement;
+  // Exercise stems use a different anchor: the note is tied to the blank's
+  // question, and offsets exclude the input widgets.
+  const stemEl = anchor && anchor.closest ? anchor.closest('.stem-text[data-block-id]') : null;
+  if (stemEl && app.contains(stemEl) && state.exercisePage) {
+    const draft = draftFromSelection(stemEl, range, {
+      chapter_id: state.chapter.chapter.id,
+      exercise_id: Number(stemEl.dataset.exercise),
+      question_id: Number(stemEl.dataset.question),
+    });
+    if (draft) {
+      try {
+        showSelectionDrawer(range.getBoundingClientRect(), draft);
+      } catch (err) {
+        toast('查词面板出错：' + err.message);
+      }
+      return;
+    }
+  }
   const blockEl = anchor && anchor.closest ? anchor.closest('.block') : null;
   if (!blockEl || !app.contains(blockEl)) return;
   const quote = sel.toString();
@@ -524,9 +550,15 @@ function widgetValue(el) {
   return el.value || '';
 }
 
-function questionHTML(q) {
-  return `<div class="question ${esc(q.type)}" data-question="${q.id}">
-    <div class="stem-text">${renderStem(q.stem_html, q.id)}</div>
+function questionHTML(q, ex) {
+  // data-block-id turns the stem into a note anchor: the dictionary drawer and
+  // note editor use the same handlers as reading blocks.
+  const key = ex ? exerciseStemKey(ex.id, q.id) : 0;
+  const anchor = ex
+    ? ` data-block-id="${key}" data-exercise="${ex.id}" data-question="${q.id}"`
+    : '';
+  return `<div class="question ${esc(q.type)}" data-question="${q.id}" data-exercise="${ex?.id || ''}">
+    <div class="stem-text"${anchor}>${renderStem(q.stem_html, q.id)}</div>
     ${questionSolution(q)}
   </div>`;
 }
@@ -660,10 +692,12 @@ function exerciseHTML(ex, scanBase) {
   let inner;
   if (twoCols) {
     inner = `<div class="blue-box two-cols"><span class="tab">${esc(ex.label)}</span>
-      ${ex.questions.map(q => `<div class="question" data-question="${q.id}" style="border:0;padding:0">${renderStem(q.stem_html, q.id)}</div>`).join('')}
+      ${ex.questions.map(q => `<div class="question" data-question="${q.id}" data-exercise="${ex.id}" style="border:0;padding:0">
+        <div class="stem-text" data-block-id="${exerciseStemKey(ex.id, q.id)}" data-exercise="${ex.id}" data-question="${q.id}">${renderStem(q.stem_html, q.id)}</div>
+      </div>`).join('')}
     </div>`;
   } else {
-    inner = `<div>${ex.questions.map(questionHTML).join('')}</div>`;
+    inner = `<div>${ex.questions.map(q => questionHTML(q, ex)).join('')}</div>`;
   }
   const note = ex.note_html
     ? (ex.id === 10
@@ -708,6 +742,17 @@ async function viewExercise(id) {
     api(`api/chapters/${id}/exercises`), api(`api/chapters/${id}/attempt`),
   ]);
   setCourse(d.course_id);
+  // The exercise sheet is a reading surface too: selection must open the
+  // dictionary/note drawer, and note anchors live on question stems.
+  state.exercisePage = { chapterId: Number(id) };
+  state.insideReader = true;
+  state.blocksById = {};
+  state.stemNotes = [];
+  state.chapter = {
+    // Route params are strings; the notes API declares chapter_id as int.
+    chapter: { id: Number(id), course_id: d.course_id, title_fr: d.chapter_title_fr },
+    notes: [],
+  };
   const questionCount = d.exercises.reduce((n, e) => n + e.questions.length, 0);
   const widgetCount = d.exercises.reduce((n, e) =>
     n + e.questions.reduce((m, q) => m + (q.stem_html.match(/\{\{[^}]+\}\}/g) || []).length, 0), 0);
@@ -784,6 +829,13 @@ async function viewExercise(id) {
   // Every already-submitted exercise shows its own key and verdicts; before
   // that the API omits the key values entirely.
   await loadSectionSolutions(id, d.exercises);
+
+  // Paint notes that were written against question stems in earlier visits.
+  const stems = await loadStemNotes(id);
+  state.chapter.notes = stems;
+  paintStemNotes(app, stems);
+  const noteId = parseHash().params.get('note');
+  if (noteId) flashNote(noteId);
 
   const widgets = [...app.querySelectorAll('[data-q][data-idx]')];
   const info = document.getElementById('fill-info');
@@ -1105,10 +1157,10 @@ async function viewNotes() {
             </div>
           </div>
           <div class="note-meta">
-            <span>${n.course_id === 2 ? '词汇' : '语法'} · ${esc(n.chapter_title)} · p. ${n.page_no ?? '—'}</span>
+            <span>${n.course_id === 2 ? '词汇' : '语法'} · ${esc(n.chapter_title)}${n.question_id ? ' · 练习' : ` · p. ${n.page_no ?? '—'}`}</span>
             <span>${esc((n.created_at || '').slice(0, 16).replace('T', ' '))}</span>
             <span class="spacer"></span>
-            <button class="btn btn-sm" data-action="note-goto" data-id="${n.id}" data-chapter="${n.chapter_id}">跳转原文</button>
+            <button class="btn btn-sm" data-action="note-goto" data-id="${n.id}" data-chapter="${n.chapter_id}" data-stem="${n.question_id ? 1 : 0}">跳转原文</button>
             <button class="btn btn-sm" data-action="note-edit" data-id="${n.id}">编辑</button>
             <button class="btn btn-sm btn-danger" data-action="note-delete" data-id="${n.id}">删除</button>
           </div>
@@ -1244,7 +1296,10 @@ app.addEventListener('click', async e => {
         await saveKeyExercise(Number(btn.dataset.ex));
       } else if (action === 'note-goto') {
         setCourseByChapter(btn.dataset.chapter);
-        location.hash = `#/chapter/${btn.dataset.chapter}?note=${id}`;
+        // Stem notes belong to the exercise sheet, not the reading page.
+        location.hash = btn.dataset.stem === '1'
+          ? `#/exercise/${btn.dataset.chapter}?note=${id}`
+          : `#/chapter/${btn.dataset.chapter}?note=${id}`;
       } else if (action === 'note-edit') {
         document.getElementById(`note-text-${id}`).classList.add('hidden');
         document.getElementById(`note-edit-${id}`).classList.remove('hidden');

@@ -142,7 +142,8 @@ sudo journalctl -u french -f
 |---|---|---|
 | `ADDR` | `:8082`（或 `127.0.0.1:8082`） | 完整监听地址，和 nginx 对齐 |
 | `PORT` | 8082 | `ADDR` 为空时的简写 |
-| `ACCESS_PASSCODE` | `french2026` | 访问口令；留空 = 不启用（服务完全开放） |
+| `ACCESS_PASSCODE` | `french2026` | 访问口令（模板已带值；留空会拒绝启动） |
+| `REQUIRE_PASSCODE` | 1 | fail-closed；只有明确公开访问时才改 0 |
 | `DB_PATH` | `/home/admin/maintain/french/french.db` | 绝对路径，不受工作目录影响 |
 | `MEM_LIMIT_MB` | 420 | Go 堆软上限（`debug.SetMemoryLimit`） |
 | `GOMAXPROCS` | 2 | Go 并行度，真正的 CPU 阀门 |
@@ -390,11 +391,15 @@ INFO dictionary seed already present, skipping import fingerprint=c75516747377
 
 ### 访问口令
 
-服务可选口令保护，由环境变量 `ACCESS_PASSCODE` 控制：
+服务由 `.env` 里的 `ACCESS_PASSCODE` 控制：
 
 - **设了值**（如当前 `french2026`）：未登录访问任何页面会看到登录页；API 返回 401。
   输入口令后签发一个 HMAC 签名的 HttpOnly Cookie（`fp_auth`），30 天内免登录。
-- **留空 / 删掉该行**：服务完全开放，和老版本行为一致。
+- **留空**：默认 **拒绝启动**（`REQUIRE_PASSCODE=1`，fail-closed），日志会打印
+  `ACCESS_PASSCODE is empty — refusing to start`。只有显式 `REQUIRE_PASSCODE=0` 才允许开放访问。
+
+> 之前 `.env.example` 模板里的 `ACCESS_PASSCODE=` 是空的，照文档 `cp .env.example .env`
+> 会得到一个无口令实例——这就是“口令没起作用”的原因。模板现已带非空默认值。
 
 要点：
 
@@ -413,6 +418,17 @@ sudo systemctl restart french      # 不需要 daemon-reload
 ```
 
 优先级：真实环境变量（shell / systemd / docker -e） > `.env` > 代码默认值。
+
+**没弹口令时按顺序查：**
+
+```bash
+make env                                  # ACCESS_PASSCODE 是否为空（会明确标出）
+journalctl -u french -n 50 | grep -i passcode
+curl -s http://127.0.0.1:8082/api/auth/status   # 应返回 {"enabled":true,...}
+```
+
+空口令现在会让服务直接退出，所以“没弹口令还能进”只可能是旧进程还在跑：
+`systemctl status french` 看启动时间，必要时 `systemctl restart french`。
 
 ### 学习时长统计口径
 

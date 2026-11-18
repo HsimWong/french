@@ -416,7 +416,8 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 		q := r.URL.Query().Get("q")
 		chapter := r.URL.Query().Get("chapter_id")
 		courseFilter := r.URL.Query().Get("course_id")
-		query := `SELECT n.id, n.chapter_id, c.title_fr, co.id, co.title_fr, n.block_id, n.page_no,
+		query := `SELECT n.id, n.chapter_id, c.title_fr, co.id, co.title_fr, n.block_id,
+			n.exercise_id, n.question_id, n.page_no,
 			n.start_offset, n.end_offset, n.quote, n.text, n.created_at, n.updated_at
 			FROM note n JOIN chapter c ON c.id=n.chapter_id JOIN course co ON co.id=c.course_id WHERE 1=1`
 		args := []any{}
@@ -443,15 +444,17 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 		for rows.Next() {
 			var nid, cid, courseID, start, end int
 			var chapterTitle, courseTitle, quote, text, created, updated string
-			var blockID, pageNo sql.NullInt64
-			if err = rows.Scan(&nid, &cid, &chapterTitle, &courseID, &courseTitle, &blockID, &pageNo,
+			var blockID, exerciseID, questionID, pageNo sql.NullInt64
+			if err = rows.Scan(&nid, &cid, &chapterTitle, &courseID, &courseTitle, &blockID,
+				&exerciseID, &questionID, &pageNo,
 				&start, &end, &quote, &text, &created, &updated); err != nil {
 				continue
 			}
 			out = append(out, map[string]any{
 				"id": nid, "chapter_id": cid, "chapter_title": chapterTitle,
 				"course_id": courseID, "course_title_fr": courseTitle,
-				"block_id": nullInt(blockID), "page_no": nullInt(pageNo),
+				"block_id": nullInt(blockID), "exercise_id": nullInt(exerciseID),
+				"question_id": nullInt(questionID), "page_no": nullInt(pageNo),
 				"start_offset": start, "end_offset": end, "quote": quote, "text": text,
 				"created_at": created, "updated_at": updated,
 			})
@@ -463,6 +466,8 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 		var body struct {
 			ChapterID   int    `json:"chapter_id"`
 			BlockID     *int   `json:"block_id"`
+			ExerciseID  *int   `json:"exercise_id"`
+			QuestionID  *int   `json:"question_id"`
 			PageNo      *int   `json:"page_no"`
 			StartOffset int    `json:"start_offset"`
 			EndOffset   int    `json:"end_offset"`
@@ -485,9 +490,9 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 			return
 		}
 		now := time.Now().Format(time.RFC3339)
-		res, err := db.Exec(`INSERT INTO note(user_id, chapter_id, block_id, page_no, start_offset, end_offset, quote, text, created_at, updated_at)
-			VALUES(1,?,?,?,?,?,?,?,?,?)`, body.ChapterID, body.BlockID, body.PageNo,
-			body.StartOffset, body.EndOffset, body.Quote, body.Text, now, now)
+		res, err := db.Exec(`INSERT INTO note(user_id, chapter_id, block_id, exercise_id, question_id, page_no, start_offset, end_offset, quote, text, created_at, updated_at)
+			VALUES(1,?,?,?,?,?,?,?,?,?,?,?)`, body.ChapterID, body.BlockID, body.ExerciseID,
+			body.QuestionID, body.PageNo, body.StartOffset, body.EndOffset, body.Quote, body.Text, now, now)
 		if err != nil {
 			writeErr(w, 500, err.Error())
 			return

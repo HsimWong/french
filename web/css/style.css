@@ -156,7 +156,12 @@ mark.hl{
   background:#FFE9A8;color:inherit;border-bottom:2px solid #E0A72B;
   padding:1px 0;cursor:pointer;border-radius:2px;
 }
-mark.hl.flash{background:#F6C453;box-shadow:0 0 0 3px rgba(246,196,83,.45)}
+@keyframes noteFlash{
+  0%,100%{background:#FFE9A8;box-shadow:0 0 0 0 rgba(246,196,83,0)}
+  50%{background:#F6C453;box-shadow:0 0 0 4px rgba(246,196,83,.45)}
+}
+mark.hl.flash{animation:noteFlash .8s ease-in-out 4}
+@media(prefers-reduced-motion:reduce){mark.hl.flash{animation:none;background:#F6C453;box-shadow:0 0 0 3px rgba(246,196,83,.45)}}
 
 .note-popover{
   position:absolute;z-index:60;width:320px;background:var(--surface);
@@ -247,14 +252,21 @@ body.dict-open .toc .tip{display:none}
 .search-bar input:focus{border-color:var(--blue)}
 .note-item{
   background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
-  padding:15px 18px;margin-bottom:10px;
+  padding:14px 18px;margin-bottom:10px;
+  display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);
+  column-gap:16px;row-gap:9px;align-items:start;
 }
 .note-quote{
   border-left:3px solid #E0A72B;background:#FFFBF0;padding:7px 11px;
-  font-size:13px;color:#6B5A30;margin-bottom:9px;border-radius:0 6px 6px 0;
+  font-size:13px;color:#6B5A30;border-radius:0 6px 6px 0;
+  overflow-wrap:anywhere;
 }
-.note-text{font-size:14px;white-space:pre-wrap;margin-bottom:10px}
-.note-meta{font-size:11px;color:var(--faint);display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+.note-text{font-size:14px;white-space:pre-wrap;overflow-wrap:anywhere}
+.note-item>[id^="note-edit-"]{grid-column:1/-1}
+.note-meta{font-size:11px;color:var(--faint);display:flex;gap:14px;align-items:center;flex-wrap:wrap;grid-column:1/-1}
+@media(max-width:760px){
+  .note-item{grid-template-columns:1fr;row-gap:8px}
+}
 .empty{padding:40px;text-align:center;color:var(--faint);font-size:13px}
 
 /* ---------- exercises ---------- */

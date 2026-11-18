@@ -12,7 +12,10 @@ const IDLE_MS = 60_000;     // stop counting after 1 min without interaction
 const FLUSH_AT = 20;        // send when a course has 20+ pending seconds
 const MAX_TICK = 8;         // ignore long timer suspensions (sleep / background)
 
-const LEARNING = /^\/(chapter|exercise|course|chapters|notes)(\/|$)/;
+// Everything that is actual study work: reading, exercises, reviewing a
+// submitted attempt, revision pages, and looking words up. The old list only
+// covered the reading pages, so time spent on the answer sheet was lost.
+const LEARNING = /^\/(chapter|exercise|course|chapters|notes|attempt|result|revision|dictionary)(\/|$)/;
 
 let lastActivity = Date.now();
 let lastTick = Date.now();
@@ -29,7 +32,10 @@ document.addEventListener('visibilitychange', () => {
 window.addEventListener('pagehide', () => flush(true, true));
 
 function currentCourse() {
-  const id = Number(state.courseId);
+  let id = Number(state.courseId);
+  if (!Number.isFinite(id) || id <= 0) {
+    id = Number(sessionStorage.getItem('fp.courseId'));
+  }
   return Number.isFinite(id) && id > 0 ? id : 0;
 }
 
@@ -40,6 +46,10 @@ function isLearningRoute() {
 }
 
 function add(courseId, seconds) {
+  // The API takes an integer number of seconds. A fractional value makes
+  // encoding/json reject the whole request with 400, which is what silently
+  // threw away every heartbeat before.
+  seconds = Math.round(seconds);
   if (!courseId || seconds <= 0) return;
   pending.set(courseId, (pending.get(courseId) || 0) + seconds);
 }

@@ -13,6 +13,11 @@ import (
 
 func main() {
 	loadDotEnv()
+	if passcodeRequired() && strings.TrimSpace(os.Getenv("ACCESS_PASSCODE")) == "" {
+		slog.Error("ACCESS_PASSCODE is empty — refusing to start with an open server",
+			"hint", "set ACCESS_PASSCODE in .env, or REQUIRE_PASSCODE=0 to allow open access")
+		os.Exit(1)
+	}
 	applyRuntimeLimits()
 
 	dbPath := os.Getenv("DB_PATH")

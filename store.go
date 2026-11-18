@@ -200,6 +200,14 @@ func migrate(db *sql.DB) error {
 	if err != nil {
 		return err
 	}
+	// Exercise notes used to borrow block_id and immediately failed the
+	// content_block foreign key. They now carry their own anchors.
+	if err = addColumns(db, "note", []struct{ name, ddl string }{
+		{"exercise_id", "ALTER TABLE note ADD COLUMN exercise_id INTEGER REFERENCES exercise(id)"},
+		{"question_id", "ALTER TABLE note ADD COLUMN question_id INTEGER REFERENCES question(id)"},
+	}); err != nil {
+		return err
+	}
 	return migrateAttempts(db)
 }
 

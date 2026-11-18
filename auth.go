@@ -31,6 +31,19 @@ type authGate struct {
 	loginHTML []byte
 }
 
+// passcodeRequired makes the gate fail closed. An empty ACCESS_PASSCODE used
+// to mean "run wide open", which is exactly how a missing .env silently
+// disabled protection in production. Open access must now be explicit:
+// REQUIRE_PASSCODE=0.
+func passcodeRequired() bool {
+	switch strings.ToLower(strings.TrimSpace(os.Getenv("REQUIRE_PASSCODE"))) {
+	case "0", "false", "no", "off":
+		return false
+	default:
+		return true
+	}
+}
+
 func newAuthGate() *authGate {
 	passcode := strings.TrimSpace(os.Getenv("ACCESS_PASSCODE"))
 	g := &authGate{loginHTML: []byte(loginPage)}

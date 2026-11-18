@@ -20,30 +20,74 @@ export function stemExercise(key) {
 
 export async function loadStemNotes(chapterID) {
   const d = await api(`api/notes?chapter_id=${chapterID}`);
-  const stems = (d.notes || []).filter(n => n.block_id && Number(n.block_id) >= EX_OFFSET);
+  const stems = (d.notes || []).filter(n => n.question_id && Number(n.question_id) > 0);
   state.stemNotes = stems;
   return stems;
 }
 
+// The noteable text of a stem is the concatenation of its text nodes with the
+// widgets left out. Offsets must use exactly this view of the DOM: a Range's
+// toString() also contains button labels ("□", option text), which would shift
+// every offset after the first blank.
+function noteTextMap(root) {
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+  const nodes = [];
+  let text = '';
+  let node;
+  while ((node = walker.nextNode())) {
+    // Existing highlights still occupy characters in the anchor space; only
+    // widgets are excluded. Skipping mark.hl here would shift every new note
+    // that starts after an earlier highlight.
+    if (node.parentElement?.closest('input, textarea, button, .opt-group')) continue;
+    nodes.push({ node, start: text.length, end: text.length + node.nodeValue.length });
+    text += node.nodeValue;
+  }
+  return { nodes, text };
+}
+
+function boundaryOffset(container, offset, nodes) {
+  if (container.nodeType === 3) {
+    const rec = nodes.find(r => r.node === container);
+    return rec ? rec.start + Math.max(0, Math.min(offset, rec.node.nodeValue.length)) : null;
+  }
+  if (container.nodeType === 1) {
+    const child = container.childNodes[offset];
+    if (!child) {
+      let last = 0;
+      for (const rec of nodes) if (container.contains(rec.node)) last = rec.end;
+      return last;
+    }
+    const rec = nodes.find(r => r.node === child || child.contains?.(r.node));
+    return rec ? rec.start : null;
+  }
+  return null;
+}
+
+export function stemSelectionOffsets(blockEl, range) {
+  const { nodes, text } = noteTextMap(blockEl);
+  const start = boundaryOffset(range.startContainer, range.startOffset, nodes);
+  const end = boundaryOffset(range.endContainer, range.endOffset, nodes);
+  if (start == null || end == null || end <= start) return null;
+  return { start, end, text: text.slice(start, end) };
+}
+
 // A selection inside an exercise statement becomes a normal note draft.
 export function draftFromSelection(blockEl, range, extra) {
-  const pre = document.createRange();
-  pre.selectNodeContents(blockEl);
-  try {
-    pre.setEnd(range.startContainer, range.startOffset);
-  } catch (_) {
-    return null;
-  }
-  const start = pre.toString().length;
-  const end = start + range.toString().length;
-  if (end <= start) return null;
+  const off = stemSelectionOffsets(blockEl, range);
+  if (!off) return null;
+  const quote = off.text || range.toString();
+  if (!quote.trim()) return null;
   return {
-    chapter_id: extra.chapter_id,
-    block_id: exerciseStemKey(extra.exercise_id, extra.question_id),
-    page_no: extra.question_id,
-    start_offset: start,
-    end_offset: end,
-    quote: range.toString(),
+    chapter_id: Number(extra.chapter_id),
+    // block_id is reserved for content_block rows (foreign key); exercise
+    // anchors use their own columns.
+    block_id: null,
+    exercise_id: Number(extra.exercise_id),
+    question_id: Number(extra.question_id),
+    page_no: null,
+    start_offset: off.start,
+    end_offset: off.end,
+    quote,
   };
 }
 
@@ -52,6 +96,7 @@ export function draftFromSelection(blockEl, range, extra) {
 export function paintStemNote(stemEl, note) {
   if (!stemEl || !note) return;
   const start = Number(note.start_offset), end = Number(note.end_offset);
+  if (!Number.isFinite(start) || !Number.isFinite(end) || end <= start) return;
   const walker = document.createTreeWalker(stemEl, NodeFilter.SHOW_TEXT);
   const targets = [];
   let pos = 0, node;
@@ -73,6 +118,30 @@ export function paintStemNote(stemEl, note) {
       m.dataset.noteId = note.id;
       r.surroundContents(m);
     } catch (_) { /* boundaries spanning elements are skipped */ }
+  }
+}
+
+// Repaint every stem note without rebuilding the question markup: inputs keep
+// whatever the learner has typed. Existing marks are unwrapped first so an
+// edited or deleted note cannot leave a stale highlight behind.
+export function paintStemNotes(root, notes) {
+  const host = root || document.querySelector('#app');
+  if (!host) return;
+  const byKey = new Map();
+  (notes || []).forEach(n => {
+    if (!n.exercise_id || !n.question_id) return;
+    const key = `${n.exercise_id}:${n.question_id}`;
+    if (!byKey.has(key)) byKey.set(key, []);
+    byKey.get(key).push(n);
+  });
+  for (const [key, list] of byKey) {
+    const [exID, qID] = key.split(':');
+    const el = host.querySelector(`.stem-text[data-exercise="${exID}"][data-question="${qID}"]`);
+    if (!el) continue;
+    el.querySelectorAll('mark.hl').forEach(m => m.replaceWith(...m.childNodes));
+    el.normalize();
+    list.slice().sort((a, b) => b.start_offset - a.start_offset)
+      .forEach(n => paintStemNote(el, n));
   }
 }
 

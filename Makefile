@@ -129,7 +129,9 @@ logs:
 env:
 	@echo "配置文件: $(ENV_FILE)"
 	@if [ -f "$(ENV_FILE)" ]; then \
-		sed -e 's|^ACCESS_PASSCODE=.*|ACCESS_PASSCODE=***|' $(ENV_FILE); \
+		awk -F= '/^ACCESS_PASSCODE=/{ \
+			if (length($$2)==0) print "ACCESS_PASSCODE=(空 — 服务会拒绝启动)"; \
+			else print "ACCESS_PASSCODE=***"; next } {print}' $(ENV_FILE); \
 	else \
 		echo "(尚未生成；sudo make install 会按 .env.example 生成)"; \
 	fi

@@ -103,6 +103,8 @@ CREATE TABLE IF NOT EXISTS note (
   user_id      INTEGER NOT NULL DEFAULT 1,
   chapter_id   INTEGER NOT NULL REFERENCES chapter(id),
   block_id     INTEGER REFERENCES content_block(id),
+  exercise_id  INTEGER REFERENCES exercise(id),
+  question_id  INTEGER REFERENCES question(id),
   page_no      INTEGER,
   start_offset INTEGER NOT NULL,
   end_offset   INTEGER NOT NULL,
