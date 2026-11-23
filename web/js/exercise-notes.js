@@ -20,7 +20,9 @@ export function stemExercise(key) {
 
 export async function loadStemNotes(chapterID) {
   const d = await api(`api/notes?chapter_id=${chapterID}`);
-  const stems = (d.notes || []).filter(n => n.question_id && Number(n.question_id) > 0);
+  // Anchor by exercise_id so instruction-line notes (question_id null) are
+  // kept alongside per-question ones.
+  const stems = (d.notes || []).filter(n => n.exercise_id && Number(n.exercise_id) > 0);
   state.stemNotes = stems;
   return stems;
 }
@@ -83,7 +85,7 @@ export function draftFromSelection(blockEl, range, extra) {
     // anchors use their own columns.
     block_id: null,
     exercise_id: Number(extra.exercise_id),
-    question_id: Number(extra.question_id),
+    question_id: extra.question_id == null ? null : Number(extra.question_id),
     page_no: null,
     start_offset: off.start,
     end_offset: off.end,
@@ -101,9 +103,16 @@ export function paintStemNote(stemEl, note) {
   const targets = [];
   let pos = 0, node;
   while ((node = walker.nextNode())) {
+    // Offsets are computed by noteTextMap(), which drops widget text entirely
+    // before counting. A highlight painted over the same stem must use the
+    // identical anchor space, so widget text is skipped BEFORE pos advances;
+    // otherwise every note after a button/option lands on the wrong characters.
+    if (node.parentElement?.closest('input, textarea, button, .opt-group')) continue;
     const ns = pos, ne = pos + node.nodeValue.length;
     pos = ne;
-    if (node.parentElement?.closest('mark.hl, input, textarea, button, .opt-group')) continue;
+    // An earlier note's highlight still occupies anchor characters (exactly as
+    // when the note was saved), so count it but never wrap the same text twice.
+    if (node.parentElement?.closest('mark.hl')) continue;
     if (ne > start && ns < end) targets.push({ node, from: Math.max(0, start - ns), to: Math.min(node.nodeValue.length, end - ns) });
   }
   for (let i = targets.length - 1; i >= 0; i--) {
@@ -129,14 +138,21 @@ export function paintStemNotes(root, notes) {
   if (!host) return;
   const byKey = new Map();
   (notes || []).forEach(n => {
-    if (!n.exercise_id || !n.question_id) return;
-    const key = `${n.exercise_id}:${n.question_id}`;
+    if (!n.exercise_id) return;
+    // question_id null anchors the exercise instruction line (data-question="").
+    const q = n.question_id == null ? 0 : Number(n.question_id);
+    const key = `${Number(n.exercise_id)}:${q}`;
     if (!byKey.has(key)) byKey.set(key, []);
     byKey.get(key).push(n);
   });
   for (const [key, list] of byKey) {
     const [exID, qID] = key.split(':');
-    const el = host.querySelector(`.stem-text[data-exercise="${exID}"][data-question="${qID}"]`);
+    // qID 0 maps to the empty data-question attribute of the instruction line;
+    // real questions use a positive id.
+    const sel = qID === '0'
+      ? `.stem-text[data-exercise="${exID}"][data-question=""]`
+      : `.stem-text[data-exercise="${exID}"][data-question="${qID}"]`;
+    const el = host.querySelector(sel) || host.querySelector(`.stem-text[data-exercise="${exID}"][data-question="${qID}"]`);
     if (!el) continue;
     el.querySelectorAll('mark.hl').forEach(m => m.replaceWith(...m.childNodes));
     el.normalize();

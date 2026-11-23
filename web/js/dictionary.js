@@ -140,7 +140,7 @@ function openDrawer({ quote, draft = null, note = null, query, findExisting = fa
   if (!existing && draft && findExisting) {
     existing = (state.chapter?.notes || []).find(n => {
       const sameAnchor = draft.exercise_id
-        ? Number(n.exercise_id) === Number(draft.exercise_id) && Number(n.question_id) === Number(draft.question_id)
+        ? Number(n.exercise_id) === Number(draft.exercise_id) && Number(n.question_id ?? 0) === Number(draft.question_id ?? 0)
         : n.block_id === draft.block_id;
       return sameAnchor && n.start_offset === draft.start_offset && n.end_offset === draft.end_offset;
     }) || null;
@@ -199,7 +199,7 @@ drawerSave.addEventListener('click', async () => {
     const notes = await reloadChapterNotes();
     const current = (notes || []).find(n => (noteId ? n.id === noteId
       : draft && (draft.exercise_id
-        ? Number(n.exercise_id) === Number(draft.exercise_id) && Number(n.question_id) === Number(draft.question_id)
+        ? Number(n.exercise_id) === Number(draft.exercise_id) && Number(n.question_id ?? 0) === Number(draft.question_id ?? 0)
         : n.block_id === draft.block_id) && n.start_offset === draft.start_offset));
     if (current) {
       state.editingNoteId = current.id;

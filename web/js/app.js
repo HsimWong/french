@@ -432,10 +432,13 @@ document.addEventListener('mouseup', e => {
   // question, and offsets exclude the input widgets.
   const stemEl = anchor && anchor.closest ? anchor.closest('.stem-text[data-block-id]') : null;
   if (stemEl && app.contains(stemEl) && state.exercisePage) {
+    const qRaw = stemEl.dataset.question;
     const draft = draftFromSelection(stemEl, range, {
       chapter_id: state.chapter.chapter.id,
       exercise_id: Number(stemEl.dataset.exercise),
-      question_id: Number(stemEl.dataset.question),
+      // An empty question marks the exercise instruction line: q0 is a real
+      // foreign key, so null (not 0) is required to store that note.
+      question_id: (qRaw === '' || qRaw == null) ? null : Number(qRaw),
     });
     if (draft) {
       try {
@@ -713,7 +716,7 @@ function exerciseHTML(ex, scanBase) {
       <div class="exercise-head">
         <div class="ex-num">${ex.seq}</div>
         <div>
-          <div class="ex-instruction">${esc(ex.instruction_fr)}</div>
+          <div class="ex-instruction stem-text" data-block-id="${exerciseStemKey(ex.id, 0)}" data-exercise="${ex.id}" data-question="">${esc(ex.instruction_fr)}</div>
           <div class="ex-source">EXERCICES · ${esc(ex.source_ref)}</div>
         </div>
         ${exSectionBadge(ex)}
