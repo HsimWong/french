@@ -37,3 +37,6 @@ data/import/answers_vocab/raw/
 data/import/jianming/raw/
 # 教材页扫描图
 *.jpg
+
+# 口语练习录音（本地留存，不入库）
+audio/

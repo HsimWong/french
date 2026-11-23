@@ -30,11 +30,13 @@ func main() {
 		os.Exit(1)
 	}
 	defer db.Close()
+	pruneNoteImages(db)
 
 	mux := http.NewServeMux()
 	registerRoutes(mux, db)
 	registerDictionaryRoutes(mux, db, newLexicon(db))
 	registerStatsRoutes(mux, db)
+	registerNoteImageRoutes(mux, db)
 
 	gate := newAuthGate()
 	gate.registerAuthRoutes(mux)

@@ -115,6 +115,16 @@ CREATE TABLE IF NOT EXISTS note (
 );
 CREATE INDEX IF NOT EXISTS idx_note_chapter ON note(chapter_id, block_id);
 
+-- Images attached to notes. Stored as BLOB so a single french.db file is the
+-- complete backup; note.text references them as ![图片](api/note-images/<id>).
+CREATE TABLE IF NOT EXISTS note_image (
+  id         INTEGER PRIMARY KEY AUTOINCREMENT,
+  data       BLOB NOT NULL,
+  mime       TEXT NOT NULL,
+  size       INTEGER NOT NULL,
+  created_at TEXT NOT NULL
+);
+
 CREATE TABLE IF NOT EXISTS meta (
   key   TEXT PRIMARY KEY,
   value TEXT NOT NULL

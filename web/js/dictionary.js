@@ -1,5 +1,6 @@
 import { api, esc, pageHead, state, toast } from './ui-core.js';
 import { deleteNote, reloadChapterNotes, saveNote } from "./notes.js";
+import { bindImagePicker } from './note-images.js';
 
 // Dictionary lookup and the combined note/dictionary drawer.
 // Notes stay on the existing /api/notes endpoints and keep their text offsets;
@@ -14,6 +15,14 @@ const drawerText = document.getElementById('drawer-text');
 const drawerSave = document.getElementById('drawer-save');
 const drawerDelete = document.getElementById('drawer-delete');
 const drawerClose = document.getElementById('dict-close');
+
+const refreshDrawerImages = bindImagePicker({
+  textarea: drawerText,
+  button: document.getElementById('drawer-add-image'),
+  input: document.getElementById('drawer-image-file'),
+  preview: document.getElementById('drawer-images'),
+  onChange: () => setNoteMode('editing'),
+});
 
 const lookupCache = new Map();
 let lookupSeq = 0;
@@ -138,6 +147,7 @@ function openDrawer({ quote, draft = null, note = null, query, findExisting = fa
   }
   state.editingNoteId = existing?.id ?? null;
   drawerText.value = existing?.text || '';
+  refreshDrawerImages();
   drawerDelete.classList.toggle('hidden', !existing);
   drawerSave.textContent = existing ? '更新笔记' : '保存笔记';
   setNoteMode(existing ? 'saved' : 'idle');
@@ -223,6 +233,7 @@ drawerDelete.addEventListener('click', async () => {
     await deleteNote(state.editingNoteId);
     state.editingNoteId = null;
     drawerText.value = '';
+    refreshDrawerImages();
     drawerDelete.classList.add('hidden');
     drawerSave.textContent = '保存笔记';
     setNoteMode('idle');

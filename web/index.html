@@ -64,7 +64,10 @@
       <div class="dict-result-head"><span>我的笔记</span><span id="note-state" class="dict-badge note-state">未保存</span></div>
       <div class="popover-quote" id="drawer-quote"></div>
       <textarea id="drawer-text" rows="4" placeholder="写下你的笔记…（保存后原文保持高亮）"></textarea>
+      <div class="drawer-images" id="drawer-images"></div>
+      <input type="file" id="drawer-image-file" accept="image/*" class="hidden">
       <div class="popover-actions">
+        <button type="button" class="btn btn-sm" id="drawer-add-image" title="插入截图（自动压缩）">＋ 图片</button>
         <button type="button" class="btn btn-danger btn-sm hidden" id="drawer-delete">删除笔记</button>
         <button type="button" class="btn btn-primary" id="drawer-save">保存笔记</button>
       </div>

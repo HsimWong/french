@@ -518,6 +518,7 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 			writeErr(w, 500, err.Error())
 			return
 		}
+		pruneNoteImages(db)
 		writeJSON(w, 200, map[string]any{"ok": true})
 	})
 
@@ -531,6 +532,7 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 			writeErr(w, 500, err.Error())
 			return
 		}
+		pruneNoteImages(db)
 		writeJSON(w, 200, map[string]any{"ok": true})
 	})
 

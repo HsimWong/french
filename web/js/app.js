@@ -5,6 +5,7 @@ import { keyPage as viewAnswerKey, saveKeyExercise } from './answer-key.js';
 import { api, esc, pageHead, setCourse, state, toast, ui } from './ui-core.js';
 import { applyHighlights, deleteNote, reloadChapterNotes, selectionOffsets } from './notes.js';
 import { draftFromSelection, exerciseStemKey, loadStemNotes, paintStemNotes } from './exercise-notes.js';
+import { renderNoteText } from './note-images.js';
 import { loadHomeStats } from './stats-view.js';
 import './study-tracker.js'; // side effect: active-time heartbeats
 export { app, api, esc, pageHead, scanBlock, setCourse, toast };
@@ -74,6 +75,7 @@ async function updateChrome(courseId) {
 }
 
 function setNav(path) {
+  app.classList.toggle('notes-page', path === '/notes');
   document.querySelectorAll('.nav a[data-route]').forEach(a => {
     const r = a.dataset.route;
     let active = r === path;
@@ -1144,25 +1146,25 @@ async function viewNotes() {
       list.innerHTML = `<div class="card empty">${state.noteQuery || state.noteCourse ? '没有匹配的笔记' : '还没有笔记。到章节学习页选中一段文字即可添加。'}</div>`;
       return;
     }
-    list.innerHTML = `<div style="font-size:12px;color:var(--muted);margin-bottom:10px">共 ${d.total} 条笔记</div>` +
+    list.innerHTML = `<div class="note-count">共 ${d.total} 条笔记</div>` +
       d.notes.map(n => `
-        <div class="note-item" data-note="${n.id}">
-          <div class="note-quote">${esc(n.quote)}</div>
-          <div class="note-text" id="note-text-${n.id}">${esc(n.text)}</div>
-          <div id="note-edit-${n.id}" class="hidden">
-            <textarea rows="3" style="width:100%;border:1px solid var(--line);border-radius:8px;padding:9px;font-size:13px" id="note-edit-input-${n.id}">${esc(n.text)}</textarea>
-            <div style="margin-top:8px;display:flex;gap:8px">
+        <div class="note-item" data-note="${n.id}" title="${esc(`${n.course_id === 2 ? '词汇' : '语法'} · ${n.chapter_title}${n.question_id ? ' · 练习' : ` · p. ${n.page_no ?? '—'}`} · ${n.created_at || ''}`)}">
+          <div class="note-row">
+            <span class="note-quote" title="${esc(n.quote)}">${esc(n.quote)}</span>
+            <span class="note-text" id="note-text-${n.id}" title="${esc(n.text)}">${renderNoteText(n.text)}</span>
+            <span class="note-meta">${n.course_id === 2 ? '词汇' : '语法'} · ${esc(n.chapter_title)}${n.question_id ? ' · 练习' : ` · p. ${n.page_no ?? '—'}`} · ${esc((n.created_at || '').slice(5, 16).replace('T', ' '))}</span>
+            <span class="note-actions">
+              <button class="btn btn-sm" title="跳转原文" data-action="note-goto" data-id="${n.id}" data-chapter="${n.chapter_id}" data-stem="${n.question_id ? 1 : 0}">跳转</button>
+              <button class="btn btn-sm" data-action="note-edit" data-id="${n.id}">编辑</button>
+              <button class="btn btn-sm btn-danger" data-action="note-delete" data-id="${n.id}">删除</button>
+            </span>
+          </div>
+          <div id="note-edit-${n.id}" class="note-editor hidden">
+            <textarea rows="3" id="note-edit-input-${n.id}">${esc(n.text)}</textarea>
+            <div class="note-editor-actions">
               <button class="btn btn-primary btn-sm" data-action="note-save" data-id="${n.id}">保存</button>
               <button class="btn btn-sm" data-action="note-cancel" data-id="${n.id}">取消</button>
             </div>
-          </div>
-          <div class="note-meta">
-            <span>${n.course_id === 2 ? '词汇' : '语法'} · ${esc(n.chapter_title)}${n.question_id ? ' · 练习' : ` · p. ${n.page_no ?? '—'}`}</span>
-            <span>${esc((n.created_at || '').slice(0, 16).replace('T', ' '))}</span>
-            <span class="spacer"></span>
-            <button class="btn btn-sm" data-action="note-goto" data-id="${n.id}" data-chapter="${n.chapter_id}" data-stem="${n.question_id ? 1 : 0}">跳转原文</button>
-            <button class="btn btn-sm" data-action="note-edit" data-id="${n.id}">编辑</button>
-            <button class="btn btn-sm btn-danger" data-action="note-delete" data-id="${n.id}">删除</button>
           </div>
         </div>`).join('');
   };
