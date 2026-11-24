@@ -107,7 +107,7 @@ func pruneNoteImages(db *sql.DB) {
 		return
 	}
 	var sb strings.Builder
-	textRows, err := db.Query(`SELECT text FROM note`)
+	textRows, err := db.Query(`SELECT text FROM note UNION ALL SELECT text FROM chapter_summary`)
 	if err != nil {
 		return
 	}

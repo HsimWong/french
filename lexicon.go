@@ -54,6 +54,7 @@ type suggestion struct {
 	Display string `json:"display"`
 	Pos     string `json:"pos"`
 	GlossZH string `json:"gloss_zh"`
+	GlossEN string `json:"gloss_en"`
 }
 
 var (
@@ -313,7 +314,7 @@ func (l *lexicon) suggest(q string, limit int) []suggestion {
 	if q == "" || limit <= 0 {
 		return nil
 	}
-	rows, err := l.db.Query(`SELECT lemma, display, pos, gloss_zh FROM dict_entry
+	rows, err := l.db.Query(`SELECT lemma, display, pos, gloss_zh, gloss_en FROM dict_entry
 		WHERE lemma LIKE ? ESCAPE '\' AND lemma GLOB '[[A-Za-zÀ-ÖØ-öø-ÿŒœ]*'
 		ORDER BY length(lemma), lemma LIMIT ?`, escapeLike(q)+"%", limit)
 	if err != nil {
@@ -323,7 +324,7 @@ func (l *lexicon) suggest(q string, limit int) []suggestion {
 	out := []suggestion{}
 	for rows.Next() {
 		var s suggestion
-		if err = rows.Scan(&s.Lemma, &s.Display, &s.Pos, &s.GlossZH); err != nil {
+		if err = rows.Scan(&s.Lemma, &s.Display, &s.Pos, &s.GlossZH, &s.GlossEN); err != nil {
 			continue
 		}
 		out = append(out, s)

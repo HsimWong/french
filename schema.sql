@@ -125,6 +125,17 @@ CREATE TABLE IF NOT EXISTS note_image (
   created_at TEXT NOT NULL
 );
 
+-- One free-form summary per chapter. Kept separate from `note` so it never
+-- takes part in selection offsets/highlights; markdown text references the
+-- same note_image BLOBs via ![图片](api/note-images/<id>).
+CREATE TABLE IF NOT EXISTS chapter_summary (
+  chapter_id INTEGER PRIMARY KEY REFERENCES chapter(id),
+  user_id    INTEGER NOT NULL DEFAULT 1,
+  text       TEXT NOT NULL DEFAULT '',
+  created_at TEXT NOT NULL,
+  updated_at TEXT NOT NULL
+);
+
 CREATE TABLE IF NOT EXISTS meta (
   key   TEXT PRIMARY KEY,
   value TEXT NOT NULL

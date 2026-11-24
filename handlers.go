@@ -4,6 +4,7 @@ import (
 	"database/sql"
 	"encoding/json"
 	"errors"
+	"fmt"
 	"io"
 	"log/slog"
 	"net/http"
@@ -255,6 +256,8 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 
 		var exCount int
 		_ = db.QueryRow(`SELECT COUNT(*) FROM exercise WHERE chapter_id=?`, id).Scan(&exCount)
+		summaryText, summaryUpdated := "", ""
+		_ = db.QueryRow(`SELECT text, updated_at FROM chapter_summary WHERE chapter_id=?`, id).Scan(&summaryText, &summaryUpdated)
 		writeJSON(w, 200, map[string]any{
 			"chapter": map[string]any{
 				"id": id, "seq": seq, "title_fr": title,
@@ -264,6 +267,7 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 				"course_title_fr": courseTitle, "scan_base": scanBase(courseCode),
 			},
 			"sections": sections, "blocks": blocks, "notes": notes, "exercise_count": exCount,
+			"summary": map[string]any{"text": summaryText, "updated_at": summaryUpdated},
 		})
 	})
 
@@ -315,6 +319,9 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 		}
 		erows.Close()
 
+		// The answer-entry page needs to see every key it can edit; the
+		// exercise sheet only receives keys after its own submission.
+		withKeys := r.URL.Query().Get("with_keys") == "1"
 		// Question ids whose exercise already has a submission from this user.
 		released := map[int64]bool{}
 		if srows, serr := db.Query(`SELECT q.id FROM question q JOIN exercise e ON e.id=q.exercise_id
@@ -346,7 +353,7 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 					"stem_html": stem, "source_ref": ref, "answer_status": astatus,
 					"has_answer": astatus == "ready", "explanation": explanation.String,
 				}
-				if released[qid] {
+				if released[qid] || withKeys {
 					item["answer"] = answerValues(answerJSON.String)
 					item["ex_answer"] = item["answer"]
 					// The exercise-level page needs the raw key to compare
@@ -410,6 +417,76 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 			},
 			"items": items,
 		})
+	})
+
+	// Per-chapter free-form summary (markdown + note-image references).
+	mux.HandleFunc("GET /api/summaries", func(w http.ResponseWriter, r *http.Request) {
+		query := `SELECT s.chapter_id, c.title_fr, co.id, co.title_fr, co.code, s.text, s.updated_at
+			FROM chapter_summary s JOIN chapter c ON c.id=s.chapter_id JOIN course co ON co.id=c.course_id WHERE s.text<>''`
+		args := []any{}
+		if ch := r.URL.Query().Get("chapter_id"); ch != "" {
+			query += ` AND s.chapter_id=?`
+			args = append(args, ch)
+		}
+		if cid := r.URL.Query().Get("course_id"); cid != "" {
+			query += ` AND co.id=?`
+			args = append(args, cid)
+		}
+		if q := r.URL.Query().Get("q"); q != "" {
+			query += ` AND (s.text LIKE ? OR c.title_fr LIKE ?)`
+			args = append(args, "%"+q+"%", "%"+q+"%")
+		}
+		query += ` ORDER BY co.id, c.seq`
+		rows, err := db.Query(query, args...)
+		if err != nil {
+			writeErr(w, 500, err.Error())
+			return
+		}
+		defer rows.Close()
+		out := []map[string]any{}
+		for rows.Next() {
+			var cid, courseID int
+			var title, courseTitle, courseCode, text, updated string
+			if err = rows.Scan(&cid, &title, &courseID, &courseTitle, &courseCode, &text, &updated); err != nil {
+				continue
+			}
+			out = append(out, map[string]any{
+				"chapter_id": cid, "chapter_title": title,
+				"course_id": courseID, "course_title_fr": courseTitle, "course_code": courseCode,
+				"text": text, "updated_at": updated,
+			})
+		}
+		writeJSON(w, 200, map[string]any{"summaries": out, "total": len(out)})
+	})
+
+	mux.HandleFunc("PUT /api/chapters/{id}/summary", func(w http.ResponseWriter, r *http.Request) {
+		id, err := pathID(r, "id")
+		if err != nil {
+			writeErr(w, 400, err.Error())
+			return
+		}
+		var body struct {
+			Text string `json:"text"`
+		}
+		if err = readJSON(r, &body); err != nil {
+			writeErr(w, 400, err.Error())
+			return
+		}
+		now := time.Now().Format(time.RFC3339)
+		if body.Text == "" {
+			_, err = db.Exec(`DELETE FROM chapter_summary WHERE chapter_id=?`, id)
+		} else {
+			_, err = db.Exec(`INSERT INTO chapter_summary(chapter_id,user_id,text,created_at,updated_at)
+				VALUES(?,1,?,?,?)
+				ON CONFLICT(chapter_id) DO UPDATE SET text=excluded.text, updated_at=excluded.updated_at`,
+				id, body.Text, now, now)
+		}
+		if err != nil {
+			writeErr(w, 500, err.Error())
+			return
+		}
+		pruneNoteImages(db)
+		writeJSON(w, 200, map[string]any{"ok": true})
 	})
 
 	mux.HandleFunc("GET /api/notes", func(w http.ResponseWriter, r *http.Request) {
@@ -562,31 +639,64 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 			return
 		}
 		defer tx.Rollback()
-		count := 0
+		count, cleared := 0, 0
 		for _, a := range body.Answers {
+			if a.QuestionID <= 0 {
+				continue
+			}
 			m := map[string]any{}
 			for k, v := range a.Blanks {
-				m[k] = v
+				switch val := v.(type) {
+				case string:
+					if strings.TrimSpace(val) != "" {
+						m[k] = val
+					}
+				case []any:
+					variants := []string{}
+					for _, item := range val {
+						if s, ok := item.(string); ok && strings.TrimSpace(s) != "" {
+							variants = append(variants, strings.TrimSpace(s))
+						}
+					}
+					if len(variants) > 0 {
+						m[k] = variants
+					}
+				}
 			}
 			if a.Explanation != "" {
 				m["explanation"] = a.Explanation
 			}
-			payload, _ := json.Marshal(m)
-			res, err := tx.Exec(`UPDATE question SET answer_json=?, answer_status='ready', explanation=? WHERE id=?`,
-				string(payload), a.Explanation, a.QuestionID)
+			var res sql.Result
+			if len(m) == 0 {
+				// Emptying every blank and the explanation is an explicit
+				// clear, not a no-op: drop the stored key so the paper stops
+				// claiming this question has an answer.
+				res, err = tx.Exec(`UPDATE question SET answer_json=NULL, answer_status='pending', explanation='' WHERE id=?`, a.QuestionID)
+			} else {
+				payload, _ := json.Marshal(m)
+				res, err = tx.Exec(`UPDATE question SET answer_json=?, answer_status='ready', explanation=? WHERE id=?`,
+					string(payload), a.Explanation, a.QuestionID)
+			}
 			if err != nil {
 				writeErr(w, 500, err.Error())
 				return
 			}
 			if n, _ := res.RowsAffected(); n > 0 {
 				count++
+				if len(m) == 0 {
+					cleared++
+				}
 			}
 		}
 		if err = tx.Commit(); err != nil {
 			writeErr(w, 500, err.Error())
 			return
 		}
-		writeJSON(w, 200, map[string]any{"updated": count, "message": "答案已导入，可调用 /api/admin/regrade 重判历史作答"})
+		msg := "答案已导入，可调用 /api/admin/regrade 重判历史作答"
+		if cleared > 0 {
+			msg = fmt.Sprintf("已更新 %d 题，清空 %d 题答案；历史版本可调用 /api/admin/regrade 重判", count, cleared)
+		}
+		writeJSON(w, 200, map[string]any{"updated": count, "cleared": cleared, "message": msg})
 	})
 
 	mux.HandleFunc("POST /api/admin/regrade", func(w http.ResponseWriter, r *http.Request) {
@@ -702,7 +812,7 @@ func registerDictionaryRoutes(mux *http.ServeMux, db *sql.DB, lex *lexicon) {
 			return
 		}
 		args = append(args, per, (page-1)*per)
-		rows, err := db.Query(`SELECT e.id, e.lemma, e.display, e.pos, e.gloss_zh FROM dict_entry e WHERE `+
+		rows, err := db.Query(`SELECT e.id, e.lemma, e.display, e.pos, e.gloss_zh, e.gloss_en FROM dict_entry e WHERE `+
 			cond+` ORDER BY e.lemma, e.pos LIMIT ? OFFSET ?`, args...)
 		if err != nil {
 			writeErr(w, 500, err.Error())
@@ -712,10 +822,10 @@ func registerDictionaryRoutes(mux *http.ServeMux, db *sql.DB, lex *lexicon) {
 		words := []map[string]any{}
 		for rows.Next() {
 			var id int64
-			var lemma, display, posLabel, gloss string
-			if rows.Scan(&id, &lemma, &display, &posLabel, &gloss) == nil {
+			var lemma, display, posLabel, gloss, glossEN string
+			if rows.Scan(&id, &lemma, &display, &posLabel, &gloss, &glossEN) == nil {
 				words = append(words, map[string]any{"entry_id": id, "lemma": lemma,
-					"display": display, "pos": posLabel, "gloss_zh": gloss})
+					"display": display, "pos": posLabel, "gloss_zh": gloss, "gloss_en": glossEN})
 			}
 		}
 		writeJSON(w, 200, map[string]any{"words": words, "total": total,

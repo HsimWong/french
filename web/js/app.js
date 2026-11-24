@@ -6,6 +6,7 @@ import { api, esc, pageHead, setCourse, state, toast, ui } from './ui-core.js';
 import { applyHighlights, deleteNote, reloadChapterNotes, selectionOffsets } from './notes.js';
 import { draftFromSelection, exerciseStemKey, loadStemNotes, paintStemNotes } from './exercise-notes.js';
 import { renderNoteText } from './note-images.js';
+import { summaryEditorHTML, initSummaryEditor, summaryCardHTML, bindSummaryList } from './chapter-summary.js';
 import { loadHomeStats } from './stats-view.js';
 import './study-tracker.js'; // side effect: active-time heartbeats
 export { app, api, esc, pageHead, scanBlock, setCourse, toast };
@@ -390,12 +391,15 @@ async function viewChapter(id, params) {
             <a class="btn btn-primary" href="#/exercise/${id}">开始本章练习</a>
           </div>
         </div>
+        ${summaryEditorHTML()}
       </div>
     </div>`;
 
   applyHighlights(d.notes);
+  initSummaryEditor(id, app.querySelector('#chapter-summary'), d.summary?.text || '');
   const noteId = params.get('note');
   if (noteId) flashNote(noteId);
+  if (params.get('summary')) app.querySelector('#chapter-summary')?.scrollIntoView({ block: 'start' });
 }
 
 function showPopover(rect, draft, existing) {
@@ -1128,7 +1132,7 @@ async function viewRevision(revisionId) {
 async function viewNotes() {
   const courses = await getCourses();
   app.innerHTML = `
-    ${pageHead('笔记汇总', '支持按笔记内容或选中原文检索，点击「跳转原文」回到高亮位置')}
+    ${pageHead('笔记汇总', '章节总结与选中文本笔记分区展示 · 支持按内容或章节检索')}
     <div class="search-bar">
       <input id="note-search" type="search" placeholder="搜索笔记内容或高亮原文…" value="${esc(state.noteQuery)}">
       <select id="note-course-filter" class="filter-select" aria-label="按课程筛选">
@@ -1142,15 +1146,20 @@ async function viewNotes() {
     const qs = new URLSearchParams();
     if (state.noteQuery) qs.set('q', state.noteQuery);
     if (state.noteCourse) qs.set('course_id', state.noteCourse);
-    const d = await api('api/notes?' + qs.toString());
+    const [d, sd] = await Promise.all([
+      api('api/notes?' + qs.toString()),
+      api('api/summaries?' + qs.toString()),
+    ]);
     const list = document.getElementById('note-list');
     if (!list) return;
-    if (!d.notes.length) {
-      list.innerHTML = `<div class="card empty">${state.noteQuery || state.noteCourse ? '没有匹配的笔记' : '还没有笔记。到章节学习页选中一段文字即可添加。'}</div>`;
-      return;
-    }
-    list.innerHTML = `<div class="note-count">共 ${d.total} 条笔记</div>` +
-      d.notes.map(n => `
+    const summaries = sd.summaries || [];
+    const notes = d.notes || [];
+    const filtered = !!(state.noteQuery || state.noteCourse);
+    const summaryBlock = summaries.length
+      ? summaries.map(summaryCardHTML).join('')
+      : `<div class="card empty">${filtered ? '没有匹配的章节总结' : '还没有章节总结。到章节学习页底部即可撰写。'}</div>`;
+    const noteBlock = notes.length
+      ? notes.map(n => `
         <div class="note-item" data-note="${n.id}" title="${esc(`${n.course_id === 2 ? '词汇' : '语法'} · ${n.chapter_title}${n.question_id ? ' · 练习' : ` · p. ${n.page_no ?? '—'}`} · ${n.created_at || ''}`)}">
           <div class="note-row">
             <span class="note-quote" title="${esc(n.quote)}">${esc(n.quote)}</span>
@@ -1169,7 +1178,18 @@ async function viewNotes() {
               <button class="btn btn-sm" data-action="note-cancel" data-id="${n.id}">取消</button>
             </div>
           </div>
-        </div>`).join('');
+        </div>`).join('')
+      : `<div class="card empty">${filtered ? '没有匹配的笔记' : '还没有笔记。到章节学习页选中一段文字即可添加。'}</div>`;
+    list.innerHTML = `
+      <section class="notes-section">
+        <h2 class="notes-section-title">章节总结<span class="sec-count">${summaries.length}</span></h2>
+        ${summaryBlock}
+      </section>
+      <section class="notes-section">
+        <h2 class="notes-section-title">选中文本笔记<span class="sec-count">${d.total}</span></h2>
+        ${noteBlock}
+      </section>`;
+    bindSummaryList(list);
   };
   await load();
   const input = document.getElementById('note-search');

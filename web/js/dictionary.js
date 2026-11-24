@@ -30,6 +30,16 @@ let lookupSeq = 0;
 // Shared, dependency-free page helpers (escaping, headings, toasts).
 
 /* ---------- lookup and rendering ---------- */
+// The imported Kaikki data has Chinese glosses for only a handful of entries;
+// almost everything else carries an English gloss. Show a meaning either way,
+// clearly labelled when it has not been translated yet.
+function glossLabel(m) {
+  const zh = (m && m.gloss_zh) || '';
+  if (zh) return esc(zh);
+  const en = (m && m.gloss_en) || '';
+  return en ? '<span class="dict-untl">待译 · </span>' + esc(en) : '';
+}
+
 async function dictLookup(q, { fresh = false } = {}) {
   q = String(q || '').trim();
   if (!q) return null;
@@ -76,7 +86,7 @@ function renderLookup(d, q) {
     const suggestions = (d.suggestions || []).map(s =>
       '<button type="button" class="dict-suggestion" data-dict-query="' + esc(s.display || s.lemma) + '">' +
       '<strong>' + esc(s.display || s.lemma) + '</strong> <span class="dict-pos">' + esc(s.pos || '') + '</span> ' +
-      '<span class="dict-gloss">' + esc(s.gloss_zh || '') + '</span></button>').join('');
+      '<span class="dict-gloss">' + glossLabel(s) + '</span></button>').join('');
     let html = '<div class="dict-empty"><div>没有找到 <strong>' + esc(q) + '</strong> 的词典记录。</div>' +
       '<div style="margin-top:4px">可能是专名、拼写变体，或尚未收录；已加入待确认词形。</div></div>';
     if (suggestions) html += '<div style="margin-top:8px;font-size:11px;color:var(--faint)">相近词条</div>' + suggestions;
@@ -310,7 +320,7 @@ export async function viewDictionary(params) {
         const s = (await api('api/dict/suggest?q=' + encodeURIComponent(v))).suggestions || [];
         box.innerHTML = s.map(x => `<button type="button" class="dict-suggestion" data-dict-pick="${esc(x.lemma)}">
           <strong>${esc(x.display)}</strong> <span class="dict-pos">${esc(x.pos)}</span>
-          <span class="dict-gloss">${esc(x.gloss_zh)}</span></button>`).join('') || '<div class="dict-empty" style="padding:10px 14px">没有前缀匹配，回车直接查询。</div>';
+          <span class="dict-gloss">${glossLabel(x)}</span></button>`).join('') || '<div class="dict-empty" style="padding:10px 14px">没有前缀匹配，回车直接查询。</div>';
         box.classList.remove('hidden');
       } catch (_) { box.classList.add('hidden'); }
     }, 180);
@@ -353,7 +363,7 @@ export async function viewDictionary(params) {
         ? d.words.map(w => `<a class="dict-word-row" href="#/dictionary?q=${encodeURIComponent(w.lemma)}&course=${course.id}&letter=${l}&pos=${p}&page=${page}">
             <span class="lemma">${esc(w.display || w.lemma)}</span>
             <span class="pos dict-pos">${esc(w.pos || '')}</span>
-            <span class="gloss">${esc(w.gloss_zh || '')}</span></a>`).join('')
+            <span class="gloss">${glossLabel(w)}</span></a>`).join('')
         : '<div class="dict-empty">这个字母下没有词条。</div>';
       pager.innerHTML = d.pages > 1
         ? `<button type="button" class="btn btn-sm" data-page="${page - 1}" ${page <= 1 ? 'disabled' : ''}>上一页</button>

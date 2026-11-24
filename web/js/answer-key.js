@@ -4,9 +4,18 @@
 import { api, esc, pageHead, scanBlock, setCourse, toast } from './ui-core.js';
 
 let keySession = null;
+let inputBound = false;
 
 function kq(sel, root = document) { return root.querySelector(sel); }
 function kqa(sel, root = document) { return [...root.querySelectorAll(sel)]; }
+
+// The key editor shows several accepted variants as "a / b"; send them back
+// as an array so a round trip cannot turn them into one literal string.
+function keyValue(raw) {
+  const s = String(raw ?? '').trim();
+  if (!s) return '';
+  return s.includes(' / ') ? s.split(' / ').map(x => x.trim()).filter(Boolean) : s;
+}
 
 function plainStem(html) {
   return String(html || '').replace(/\{\{[^}]*\}\}/g, ' ____ ').replace(/<[^>]*>/g, ' ')
@@ -26,6 +35,13 @@ function keyBlankSlots(q) {
 
 function keyCardHTML(ex, scanBase) {
   const head = scanBase ? scanBlock(scanBase, ex.page_no) : '';
+  // Keep a snapshot of the stored key: an input the user emptied must still
+  // be sent to the API, otherwise a "save" silently keeps the old answer.
+  const initial = q => ({
+    blanks: Object.fromEntries(Object.entries(q.ex_answer || {})
+      .map(([k, v]) => [k, keyValue(v)]).filter(([, v]) => Array.isArray(v) || v)),
+    explanation: q.explanation || '',
+  });
   return `
     <section class="exercise-card key-card" data-key-ex="${ex.id}">
       <div class="exercise-head">
@@ -40,7 +56,7 @@ function keyCardHTML(ex, scanBase) {
       </div>
       ${head}
       ${ex.questions.map(q => `
-        <div class="key-q" data-key-q="${q.id}">
+        <div class="key-q" data-key-q="${q.id}" data-initial="${esc(JSON.stringify(initial(q)))}">
           <div class="key-stem">
             <span class="pill ${q.has_answer ? 'ok' : ''}">${q.has_answer ? '已有答案' : '待录入'}</span>
             <span class="key-stem-text">${esc(plainStem(q.stem_html))}</span>
@@ -56,7 +72,9 @@ function keyCardHTML(ex, scanBase) {
 }
 
 export async function keyPage(chapterId) {
-  const d = await api(`api/chapters/${chapterId}/exercises`);
+  // with_keys makes the API return every stored key, not just the ones the
+  // learner already submitted; this page is the key editor.
+  const d = await api(`api/chapters/${chapterId}/exercises?with_keys=1`);
   const status = await api('api/answers/status');
   setCourse(d.course_id);
   const courseData = await api(`api/course?course_id=${d.course_id}`);
@@ -92,13 +110,17 @@ export async function keyPage(chapterId) {
     keySession.dirty = false;
     location.hash = `#/admin/answers/${e.target.value}`;
   });
-  app.addEventListener('input', e => {
-    if (!keySession) return;
-    if (e.target.closest('.key-input, .key-explanation')) {
-      keySession.dirty = true;
-      updateKeyProgress();
-    }
-  });
+  // Bound once: re-rendering this page must not stack duplicate listeners.
+  if (!inputBound) {
+    inputBound = true;
+    app.addEventListener('input', e => {
+      if (!keySession) return;
+      if (e.target.closest('.key-input, .key-explanation')) {
+        keySession.dirty = true;
+        updateKeyProgress();
+      }
+    });
+  }
 }
 
 // Bound once; the delegated handler lives with the router, so reloading the
@@ -124,13 +146,22 @@ function collectKeyAnswers(exerciseId) {
     const ex = qEl.closest('[data-key-ex]')?.dataset.keyEx;
     if (exerciseId && ex !== String(exerciseId)) return;
     const qid = Number(qEl.dataset.keyQ);
+    let initial = {};
+    try { initial = JSON.parse(qEl.dataset.initial || '{}'); } catch { /* ignore bad snapshot */ }
     const blanks = {};
     kqa('.key-input', qEl).forEach(inp => {
       const k = inp.dataset.blank;
-      if (k && inp.value.trim()) blanks[k] = inp.value.trim();
+      const v = keyValue(inp.value);
+      if (k && v) blanks[k] = v;
     });
     const explanation = kq('.key-explanation', qEl)?.value.trim() || '';
-    if (!Object.keys(blanks).length && !explanation) return;
+    const had = Object.keys(initial.blanks || {}).length || initial.explanation;
+    const has = Object.keys(blanks).length || explanation;
+    const changed = JSON.stringify(blanks) !== JSON.stringify(initial.blanks || {})
+      || explanation !== (initial.explanation || '');
+    // An emptied question still has to be sent: an empty payload means
+    // "remove this key", while skipping it would leave the old answer live.
+    if (!has && !changed && !had) return;
     answers.push({ question_id: qid, blanks, explanation });
   });
   return { answers };
@@ -145,10 +176,11 @@ async function saveKeyAnswers(chapterId, whole, exerciseId = null) {
     if (!body.answers.length) throw new Error('没有可保存的答案，请至少填写一个空位或讲解');
     const r = await api('api/admin/answers', { method: 'PUT', body: JSON.stringify(body) });
     keySession.dirty = false;
-    toast(`已保存 ${r.updated} 题答案`);
-    // Refreshing puts "已有答案" pills, the global count, and the saved
-    // values back in sync instead of leaving stale inputs on screen.
-    await render();
+    const cleared = Number(r.cleared || 0);
+    toast(`已保存 ${r.updated} 题答案${cleared ? `，清空 ${cleared} 题` : ''}`);
+    // Re-render this page (app.js's render() is module-private): refreshes
+    // the "已有答案" pills, the global count and the saved input values.
+    await keyPage(chapterId);
   } catch (err) {
     toast('保存失败：' + err.message);
   } finally {
