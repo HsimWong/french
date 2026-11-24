@@ -2,6 +2,8 @@ package main
 
 import (
 	"encoding/json"
+	"net/http"
+	"net/http/httptest"
 	"path/filepath"
 	"strings"
 	"testing"
@@ -184,4 +186,85 @@ func TestAnswerJSONStable(t *testing.T) {
 	if !strings.Contains(answerJSON(a), `"blanks":{"a":"y","b":"x"}`) {
 		t.Fatal("blank keys must be ordered")
 	}
+}
+
+// A restarted paper is a fresh sheet: section submissions of the old paper
+// must stop releasing their answer keys until that section is resubmitted.
+func TestRestartHidesReleasedKeys(t *testing.T) {
+	db, err := openDB(*newTestDB(t))
+	if err != nil {
+		t.Fatal(err)
+	}
+	defer db.Close()
+	const ch int64 = 1
+	var exID int64
+	if err = db.QueryRow(`SELECT exercise_id FROM question WHERE id=1`).Scan(&exID); err != nil {
+		t.Fatal(err)
+	}
+	if _, err = db.Exec(`UPDATE question SET answer_json=?, answer_status='ready' WHERE id=1`, `{"1":["êtes"]}`); err != nil {
+		t.Fatal(err)
+	}
+	mux := http.NewServeMux()
+	registerRoutes(mux, db)
+	answers := answerMap{1: {"1": "êtes"}}
+	released := func(want bool, stage string) {
+		t.Helper()
+		rr := httptest.NewRecorder()
+		mux.ServeHTTP(rr, httptest.NewRequest("GET", "/api/chapters/1/exercises", nil))
+		if rr.Code != 200 {
+			t.Fatalf("%s: status %d: %s", stage, rr.Code, rr.Body.String())
+		}
+		var d struct {
+			Exercises []struct {
+				ID         int64          `json:"id"`
+				Submission map[string]any `json:"submission"`
+				Questions  []struct {
+					ID     int64             `json:"id"`
+					Answer map[string]string `json:"answer"`
+				} `json:"questions"`
+			} `json:"exercises"`
+		}
+		if err := json.Unmarshal(rr.Body.Bytes(), &d); err != nil {
+			t.Fatal(err)
+		}
+		got := false
+		for _, ex := range d.Exercises {
+			if ex.ID != exID {
+				continue
+			}
+			if ex.Submission != nil {
+				got = true
+			}
+			for _, q := range ex.Questions {
+				if q.ID == 1 && len(q.Answer) > 0 {
+					got = true
+				}
+			}
+		}
+		if got != want {
+			t.Fatalf("%s: key released = %v, want %v", stage, got, want)
+		}
+	}
+
+	draft, err := saveDraft(db, ch, answers)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if _, err = submitExercise(db, ch, exID, answers, "submit"); err != nil {
+		t.Fatal(err)
+	}
+	released(true, "after section submit")
+
+	if _, err = submitAttempt(db, draft.ID, answerMap{}, "auto"); err != nil {
+		t.Fatal(err)
+	}
+	if _, err = saveDraft(db, ch, answerMap{}); err != nil {
+		t.Fatal(err)
+	}
+	released(false, "after restart")
+
+	if _, err = submitExercise(db, ch, exID, answers, "submit"); err != nil {
+		t.Fatal(err)
+	}
+	released(true, "after resubmitting the section")
 }

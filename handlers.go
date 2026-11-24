@@ -322,11 +322,18 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 		// The answer-entry page needs to see every key it can edit; the
 		// exercise sheet only receives keys after its own submission.
 		withKeys := r.URL.Query().Get("with_keys") == "1"
-		// Question ids whose exercise already has a submission from this user.
+		// A restart opens a fresh paper. Older section submissions belong to
+		// the previous paper, so they must not release its keys again.
+		epoch, err := findDraft(db, id)
+		if err != nil {
+			writeErr(w, 500, err.Error())
+			return
+		}
+		// Question ids whose exercise has a submission on the current paper.
 		released := map[int64]bool{}
 		if srows, serr := db.Query(`SELECT q.id FROM question q JOIN exercise e ON e.id=q.exercise_id
 			JOIN attempt a ON a.chapter_id=e.chapter_id AND a.scope='exercise:'||e.id AND a.user_id=1
-			WHERE e.chapter_id=? AND a.status='submitted' AND a.discarded_at IS NULL`, id); serr == nil {
+			WHERE e.chapter_id=? AND a.status='submitted' AND a.discarded_at IS NULL AND a.id>?`, id, epoch); serr == nil {
 			for srows.Next() {
 				var qid int64
 				if srows.Scan(&qid) == nil {
@@ -369,7 +376,9 @@ func registerRoutes(mux *http.ServeMux, db *sql.DB) {
 		submitted, _ := sectionSubmissions(db, id)
 		for _, e := range list {
 			if s, ok := submitted[strconv.FormatInt(e.id, 10)]; ok {
-				e.m["submission"] = s
+				if sid, ok := s["attempt_id"].(int64); ok && sid > epoch && s["discarded"] != true {
+					e.m["submission"] = s
+				}
 			}
 			out = append(out, e.m)
 		}

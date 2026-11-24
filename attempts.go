@@ -1315,9 +1315,16 @@ func sectionSubmissions(db *sql.DB, chapterID int64) (map[string]map[string]any,
 // latestSectionSubmission returns one exercise's latest answers, key and
 // verdicts so the page can show the correct answers after submission.
 func latestSectionSubmission(db *sql.DB, chapterID, exerciseID int64) (map[string]any, error) {
+	// Only submissions made on the current paper may reveal the key. A
+	// restarted chapter has a newer draft id, so older sections stay hidden.
+	epoch, err := findDraft(db, chapterID)
+	if err != nil {
+		return nil, err
+	}
 	var attemptID int64
-	err := db.QueryRow(`SELECT id FROM attempt WHERE chapter_id=? AND user_id=1 AND scope=? AND status='submitted'
-		ORDER BY submitted_at DESC, id DESC LIMIT 1`, chapterID, sectionScopePrefix+strconv.FormatInt(exerciseID, 10)).
+	err = db.QueryRow(`SELECT id FROM attempt WHERE chapter_id=? AND user_id=1 AND scope=? AND status='submitted'
+		AND discarded_at IS NULL AND id>?
+		ORDER BY submitted_at DESC, id DESC LIMIT 1`, chapterID, sectionScopePrefix+strconv.FormatInt(exerciseID, 10), epoch).
 		Scan(&attemptID)
 	if errors.Is(err, sql.ErrNoRows) {
 		return nil, nil
