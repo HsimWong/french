@@ -65,8 +65,8 @@ func TestStreaks(t *testing.T) {
 }
 
 func TestAuthToken(t *testing.T) {
-	g := &authGate{enabled: true, passcode: "french2026"}
-	sum := sha256Sum("francais-passcode-v1|french2026")
+	g := &authGate{enabled: true, passcode: "test-passcode-only"}
+	sum := sha256Sum("francais-passcode-v1|test-passcode-only")
 	g.secret = sum[:]
 
 	token := g.issue()
@@ -79,7 +79,7 @@ func TestAuthToken(t *testing.T) {
 	if g.valid("123.bad") {
 		t.Fatal("bad signature should be rejected")
 	}
-	if !g.checkPasscode("french2026") || g.checkPasscode("wrong") {
+	if !g.checkPasscode("test-passcode-only") || g.checkPasscode("wrong") {
 		t.Fatal("passcode comparison failed")
 	}
 }

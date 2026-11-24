@@ -8,6 +8,7 @@ import { draftFromSelection, exerciseStemKey, loadStemNotes, paintStemNotes } fr
 import { renderNoteText } from './note-images.js';
 import { summaryEditorHTML, initSummaryEditor, summaryCardHTML, bindSummaryList } from './chapter-summary.js';
 import { loadHomeStats } from './stats-view.js';
+import { viewSpeaking } from './speaking.js';
 import './study-tracker.js'; // side effect: active-time heartbeats
 export { app, api, esc, pageHead, scanBlock, setCourse, toast };
 
@@ -84,6 +85,7 @@ function setNav(path) {
     if (r === '/chapter') active = path.startsWith('/chapter/');
     if (r === '/exercise') active = path.startsWith('/exercise/');
     if (r === '/notes') active = path.startsWith('/notes');
+    if (r === '/speaking') active = path.startsWith('/speaking');
     if (r === '/dictionary') active = path.startsWith('/dictionary');
     if (r === '/') active = path === '/' || path.startsWith('/course/');
     a.classList.toggle('active', active);
@@ -1407,6 +1409,7 @@ async function render() {
     else if (path.startsWith('/revision/')) await viewRevision(path.split('/')[2] || 0);
     else if (path.startsWith('/admin/answers')) await viewAnswerKey(path.split('/')[3] || 1);
     else if (path === '/notes') await viewNotes();
+    else if (path.startsWith('/speaking')) await viewSpeaking(app);
     else if (path === '/dictionary') await viewDictionary(params);
     else await viewHome();
   } catch (err) {

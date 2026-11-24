@@ -687,6 +687,51 @@ textarea.blank.essay:focus{background:#E6F1FB}
 .hm-legend{display:flex;align-items:center;gap:3px;justify-content:flex-end;margin-top:8px;font-size:10px;color:var(--faint)}
 .hm-legend .heat-cell{width:10px;height:10px}
 
+/* ---------------- camera-speaking practice ---------------- */
+.speaking-card{margin-top:14px}
+.speaking-card-head{display:flex;justify-content:space-between;gap:16px;align-items:flex-start}
+.speaking-card-head h2{font-size:17px;margin:3px 0 4px;color:var(--blue-dark)}
+.speaking-kicker{font-size:11px;color:var(--blue);letter-spacing:.3px}
+.speaking-focus{font-size:12px;color:var(--muted)}
+.speaking-counts{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.speaking-counts span{
+  font-size:11px;color:var(--muted);background:var(--page);border:1px solid var(--line);
+  border-radius:20px;padding:3px 9px;white-space:nowrap;
+}
+.speaking-source{margin:12px 0 6px;font-size:13px;color:var(--muted)}
+.speaking-source summary{cursor:pointer}
+.speaking-source .speaking-text{
+  margin-top:8px;padding:12px 14px;background:var(--page);border:1px solid var(--line);
+  border-radius:8px;color:var(--ink);
+}
+.speaking-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:14px}
+.speaking-pane{min-width:0;border-top:1px solid var(--line);padding-top:12px}
+.speaking-pane-head{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.speaking-pane-head h3{font-size:14px;margin:0;color:var(--blue-dark)}
+.speaking-pane-head span{font-size:11px;color:var(--faint)}
+.speaking-revs{max-height:360px;overflow:auto;margin:10px 0}
+.speaking-rev{border:1px solid var(--line);border-radius:8px;padding:10px 12px;margin-bottom:8px;background:var(--surface)}
+.speaking-rev-head{display:flex;justify-content:space-between;gap:8px;align-items:center}
+.speaking-kind{
+  display:inline-block;font-size:11px;border-radius:20px;padding:2px 9px;
+  background:var(--blue-50);color:var(--blue-dark);
+}
+.speaking-kind.kind-correction{background:#FFF7DC;color:#8A6100}
+.speaking-kind.kind-final{background:#E8F5EE;color:var(--green)}
+.speaking-time{font-size:10px;color:var(--faint)}
+.speaking-text{font-size:13px;white-space:pre-wrap;word-break:break-word;margin-top:6px}
+.speaking-note{font-size:12px;color:var(--muted);border-left:2px solid var(--blue-100);padding-left:8px;margin-top:6px}
+.speaking-empty{font-size:12px;color:var(--faint);padding:16px 0}
+.speaking-form{display:grid;gap:8px}
+.speaking-form select,.speaking-form textarea,.speaking-form input[type=text]{
+  width:100%;border:1px solid var(--line);border-radius:8px;padding:8px 10px;background:var(--surface);color:var(--ink);
+}
+.speaking-form textarea{resize:vertical;line-height:1.55}
+.speaking-form button{justify-self:start}
+.speaking-videos{display:grid;gap:10px;margin:10px 0}
+.speaking-video video{width:100%;max-height:300px;background:#000;border-radius:8px;display:block}
+.speaking-video-meta{display:flex;justify-content:space-between;gap:10px;font-size:11px;color:var(--muted);margin-top:4px}
+
 @media(max-width:860px){
   .topbar{flex-wrap:wrap;height:auto;padding:10px 16px;gap:10px}
   .nav{order:3;width:100%;overflow-x:auto}
@@ -695,7 +740,7 @@ textarea.blank.essay:focus{background:#E6F1FB}
   .read-layout{grid-template-columns:1fr}
   .toc{position:static}
   .metrics{grid-template-columns:repeat(2,minmax(0,1fr))}
-  .two-col,.blue-box.two-cols,.course-grid{grid-template-columns:1fr}
+  .two-col,.blue-box.two-cols,.course-grid,.speaking-grid{grid-template-columns:1fr}
   .blue-box.two-cols::after{display:none}
   .sheet-body{padding:18px 16px}
   .assoc-options{columns:1}

@@ -16,7 +16,7 @@
 # make install 只在目标目录还没有 .env 时按下面的变量生成一份；已存在就保留，
 # 之后改配置直接编辑 .env + sudo systemctl restart french。
 # 变量覆盖示例：
-#   make install DEST=/opt/francais ADDR=127.0.0.1:9000 PASSCODE=另一个口令
+#   make install DEST=/opt/francais ADDR=127.0.0.1:9000 PASSCODE=另一个口令 INGEST_TOKEN=专用发布令牌
 
 SHELL      := /bin/sh
 GO         ?= go
@@ -24,7 +24,9 @@ DEST       ?= /home/admin/maintain/french
 BIN_NAME   ?= french
 ADDR       ?= :8082
 PORT       ?= 8082
-PASSCODE   ?= french2026
+PASSCODE   ?= CHANGE_ME_TO_A_LONG_RANDOM_PASSCODE
+# 仅用于每日练习发布；留空则禁用该接口。不要写进公开命令历史/文档。
+INGEST_TOKEN ?=
 BUILD_DIR  ?= bin
 BIN        ?= $(BUILD_DIR)/$(BIN_NAME)
 SERVICE    ?= $(BIN_NAME).service
@@ -91,6 +93,7 @@ install: build check-root
 		sed -e 's|^ADDR=.*|ADDR=$(ADDR)|' \
 		    -e 's|^PORT=.*|PORT=$(PORT)|' \
 		    -e 's|^ACCESS_PASSCODE=.*|ACCESS_PASSCODE=$(PASSCODE)|' \
+		    -e 's|^SPEAKING_INGEST_TOKEN=.*|SPEAKING_INGEST_TOKEN=$(INGEST_TOKEN)|' \
 		    -e 's|/home/admin/maintain/french|$(DEST)|g' \
 		    $(ENV_EXAMPLE) > $(ENV_FILE); \
 		chmod 600 $(ENV_FILE); \
@@ -129,9 +132,9 @@ logs:
 env:
 	@echo "配置文件: $(ENV_FILE)"
 	@if [ -f "$(ENV_FILE)" ]; then \
-		awk -F= '/^ACCESS_PASSCODE=/{ \
-			if (length($$2)==0) print "ACCESS_PASSCODE=(空 — 服务会拒绝启动)"; \
-			else print "ACCESS_PASSCODE=***"; next } {print}' $(ENV_FILE); \
+		awk -F= '/^(ACCESS_PASSCODE|SPEAKING_INGEST_TOKEN)=/{ \
+			if (length($$2)==0) print $$1 "=(空)"; \
+			else print $$1 "=***"; next } {print}' $(ENV_FILE); \
 	else \
 		echo "(尚未生成；sudo make install 会按 .env.example 生成)"; \
 	fi

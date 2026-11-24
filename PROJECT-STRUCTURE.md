@@ -12,7 +12,8 @@ systemd 也用 `EnvironmentFile=` 指向同一文件，因此**端口、绑定�
 ADDR=:8082                      # 完整监听地址；127.0.0.1:8082 = 只给 nginx 反代
 PORT=8082                       # ADDR 为空时的简写
 DB_PATH=/home/admin/maintain/french/french.db
-ACCESS_PASSCODE=french2026      # 留空 = 不启用口令
+ACCESS_PASSCODE=<强口令>         # 公开仓库只放占位符；留空 = 拒绝启动
+SPEAKING_INGEST_TOKEN=<随机串>   # 每日练习发布专用，留空则禁用发布接口
 MEM_LIMIT_MB=420 / GOMAXPROCS=2 / GOGC=50
 ```
 

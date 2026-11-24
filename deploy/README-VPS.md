@@ -142,7 +142,8 @@ sudo journalctl -u french -f
 |---|---|---|
 | `ADDR` | `:8082`（或 `127.0.0.1:8082`） | 完整监听地址，和 nginx 对齐 |
 | `PORT` | 8082 | `ADDR` 为空时的简写 |
-| `ACCESS_PASSCODE` | `french2026` | 访问口令（模板已带值；留空会拒绝启动） |
+| `ACCESS_PASSCODE` | 自行设置的强口令 | 访问口令；公开仓库的模板只有占位符，留空会拒绝启动 |
+| `SPEAKING_INGEST_TOKEN` | 自行生成的随机串（可留空） | 每日练习发布专用令牌；留空则禁用发布接口，且与访问口令不同 |
 | `REQUIRE_PASSCODE` | 1 | fail-closed；只有明确公开访问时才改 0 |
 | `DB_PATH` | `/home/admin/maintain/french/french.db` | 绝对路径，不受工作目录影响 |
 | `MEM_LIMIT_MB` | 420 | Go 堆软上限（`debug.SetMemoryLimit`） |
@@ -393,13 +394,13 @@ INFO dictionary seed already present, skipping import fingerprint=c75516747377
 
 服务由 `.env` 里的 `ACCESS_PASSCODE` 控制：
 
-- **设了值**（如当前 `french2026`）：未登录访问任何页面会看到登录页；API 返回 401。
+- **设了值**（请务必用自己生成的强口令，不要用公开模板里的占位符）：未登录访问任何页面会看到登录页；API 返回 401。
   输入口令后签发一个 HMAC 签名的 HttpOnly Cookie（`fp_auth`），30 天内免登录。
 - **留空**：默认 **拒绝启动**（`REQUIRE_PASSCODE=1`，fail-closed），日志会打印
   `ACCESS_PASSCODE is empty — refusing to start`。只有显式 `REQUIRE_PASSCODE=0` 才允许开放访问。
 
-> 之前 `.env.example` 模板里的 `ACCESS_PASSCODE=` 是空的，照文档 `cp .env.example .env`
-> 会得到一个无口令实例——这就是“口令没起作用”的原因。模板现已带非空默认值。
+> 仓库是公开的：`.env.example` / `Makefile` 里现在只放占位符，真实口令只写 `.env`（已 gitignore）。
+> 部署时必须改成自己的强口令；照抄占位符等于没有防护。
 
 要点：
 
@@ -416,6 +417,15 @@ INFO dictionary seed already present, skipping import fingerprint=c75516747377
 sudo $EDITOR /home/admin/maintain/french/.env   # ACCESS_PASSCODE=你的新口令
 sudo systemctl restart french      # 不需要 daemon-reload
 ```
+
+### 每日练习发布令牌（镜头练习）
+
+定时任务只调用 `POST /api/speaking/ingest`，不需要网站口令：
+
+- 在服务器 `.env` 里设置 `SPEAKING_INGEST_TOKEN=<随机串>`（与 `ACCESS_PASSCODE` 不同）；留空则接口返回 503。
+- 本地自动化把同一个令牌存在工作区的 `.speaking_ingest_token`（不在公开仓库里），发布脚本用 `Authorization: Bearer <令牌>` 调用。
+- 该令牌**只能新增/更新每日练习稿件**，不能登录网站、读取笔记、提交修改或上传视频。
+- 视频文件写在 `SPEAKING_VIDEO_DIR`（默认 `data/speaking-videos`），确保运行用户有写权限。
 
 优先级：真实环境变量（shell / systemd / docker -e） > `.env` > 代码默认值。
 

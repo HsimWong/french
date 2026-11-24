@@ -136,7 +136,8 @@ func (g *authGate) registerAuthRoutes(mux *http.ServeMux) {
 	})
 }
 
-// wrap protects everything except the auth endpoints and the health probe.
+// wrap protects everything except the auth endpoints, the health probe and
+// the token-protected speaking-practice ingress.
 // Unauthenticated API calls get a JSON 401 that the frontend turns into a
 // login screen; page requests are served the self-contained login document
 // directly, which keeps it working under any nginx sub-path prefix.
@@ -146,7 +147,10 @@ func (g *authGate) wrap(next http.Handler) http.Handler {
 	}
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		p := r.URL.Path
-		if p == "/api/health" || strings.HasPrefix(p, "/api/auth/") {
+		// /api/speaking/ingest is the only non-auth endpoint outside the gate:
+		// it carries its own scoped token (SPEAKING_INGEST_TOKEN) and is used
+		// by the daily automation. It cannot read or modify anything else.
+		if p == "/api/health" || p == "/api/speaking/ingest" || strings.HasPrefix(p, "/api/auth/") {
 			next.ServeHTTP(w, r)
 			return
 		}

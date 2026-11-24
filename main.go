@@ -37,6 +37,7 @@ func main() {
 	registerDictionaryRoutes(mux, db, newLexicon(db))
 	registerStatsRoutes(mux, db)
 	registerNoteImageRoutes(mux, db)
+	registerSpeakingRoutes(mux, db)
 
 	gate := newAuthGate()
 	gate.registerAuthRoutes(mux)

@@ -194,4 +194,47 @@ CREATE TABLE IF NOT EXISTS dict_pending (
   resolved_entry_id INTEGER REFERENCES dict_entry(id)
 );
 
+-- Daily camera-speaking practice. These tables are additive: no existing
+-- table is altered, so older french.db files keep working unchanged.
+-- One prompt per episode/day; revisions and videos are append-only history.
+CREATE TABLE IF NOT EXISTS speaking_practice (
+  id           INTEGER PRIMARY KEY AUTOINCREMENT,
+  episode      INTEGER NOT NULL UNIQUE,
+  practice_date TEXT NOT NULL UNIQUE,
+  title_zh     TEXT NOT NULL,
+  source_zh    TEXT NOT NULL,
+  focus_zh     TEXT NOT NULL DEFAULT '',
+  level        TEXT NOT NULL DEFAULT 'A2-B1',
+  status       TEXT NOT NULL DEFAULT 'active',
+  created_at   TEXT NOT NULL,
+  updated_at   TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_speaking_practice_date ON speaking_practice(practice_date DESC);
+
+CREATE TABLE IF NOT EXISTS speaking_revision (
+  id          INTEGER PRIMARY KEY AUTOINCREMENT,
+  practice_id INTEGER NOT NULL REFERENCES speaking_practice(id),
+  version     INTEGER NOT NULL,
+  kind        TEXT NOT NULL DEFAULT 'draft',
+  text        TEXT NOT NULL DEFAULT '',
+  note        TEXT NOT NULL DEFAULT '',
+  created_at  TEXT NOT NULL,
+  UNIQUE(practice_id, version)
+);
+CREATE INDEX IF NOT EXISTS idx_speaking_revision_practice ON speaking_revision(practice_id, version DESC);
+
+-- Video bytes live under SPEAKING_VIDEO_DIR (default data/speaking-videos),
+-- not in french.db: a single 1-minute clip can be larger than all notes and
+-- BLOB images combined. The DB keeps only metadata + a generated file name.
+CREATE TABLE IF NOT EXISTS speaking_video (
+  id            INTEGER PRIMARY KEY AUTOINCREMENT,
+  practice_id   INTEGER NOT NULL REFERENCES speaking_practice(id),
+  stored_name   TEXT NOT NULL UNIQUE,
+  original_name TEXT NOT NULL,
+  mime          TEXT NOT NULL,
+  size          INTEGER NOT NULL,
+  created_at    TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_speaking_video_practice ON speaking_video(practice_id, created_at DESC);
+
 INSERT OR IGNORE INTO meta(key, value) VALUES ('answer_import_hint', 'pending');
