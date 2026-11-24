@@ -41,3 +41,9 @@ data/import/jianming/raw/
 # 口语练习录音 / 镜头视频（本地留存，不入库）
 audio/
 data/speaking-videos/
+
+# ---- 本机辅助物（2026-11-24）----
+# 终稿网页的早期本机预览版：已被 speaking 页面内的播放器取代，仅本机留档
+scripts-site/
+# WorkBuddy 应用卡：记录本机绝对路径
+.wbapp_*.genie
