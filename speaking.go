@@ -20,10 +20,15 @@ import (
 // bytes on disk. Nothing in the existing course/attempt/note/lexicon schema
 // is changed, so an old french.db keeps all of its data and behaviour.
 const (
-	maxSpeakingVideoBytes  = 60 << 20 // 60 MB is plenty for a 1-minute clip
-	defaultSpeakingDir     = "data/speaking-videos"
-	speakingRevisionMaxLen = 200000
+	maxSpeakingVideoBytes   = 60 << 20 // 60 MB is plenty for a 1-minute clip
+	defaultSpeakingDir      = "data/speaking-videos"
+	defaultSpeakingAudioDir = "data/speaking-audio"
+	speakingRevisionMaxLen  = 200000
 )
+
+// 终稿的法语音频：由 tools/gen_speaking_audio.py 生成，按
+// p{练习ID}-v{版本号}-{音色}.mp3 存磁盘，库里不存 BLOB。
+var speakingAudioVoices = []string{"henri", "denise"}
 
 type speakingRevision struct {
 	ID        int64  `json:"id"`
@@ -43,6 +48,12 @@ type speakingVideo struct {
 	CreatedAt    string `json:"created_at"`
 }
 
+type speakingAudio struct {
+	Version int    `json:"version"`
+	Voice   string `json:"voice"`
+	URL     string `json:"url"`
+}
+
 type speakingPractice struct {
 	ID        int64              `json:"id"`
 	Episode   int                `json:"episode"`
@@ -56,6 +67,33 @@ type speakingPractice struct {
 	UpdatedAt string             `json:"updated_at"`
 	Revisions []speakingRevision `json:"revisions"`
 	Videos    []speakingVideo    `json:"videos"`
+	Audio     []speakingAudio    `json:"audio"`
+}
+
+func speakingAudioDir() string {
+	dir := strings.TrimSpace(os.Getenv("SPEAKING_AUDIO_DIR"))
+	if dir == "" {
+		dir = defaultSpeakingAudioDir
+	}
+	return dir
+}
+
+func speakingAudioName(practiceID int64, version int, voice string) string {
+	return "p" + strconv.FormatInt(practiceID, 10) + "-v" + strconv.Itoa(version) + "-" + voice + ".mp3"
+}
+
+func speakingAudioURL(practiceID int64, version int, voice string) string {
+	return "api/speaking/audio/" + strconv.FormatInt(practiceID, 10) +
+		"/" + strconv.Itoa(version) + "/" + voice
+}
+
+func validSpeakingAudioVoice(voice string) bool {
+	for _, v := range speakingAudioVoices {
+		if v == voice {
+			return true
+		}
+	}
+	return false
 }
 
 func speakingVideoDir() string {
@@ -70,6 +108,10 @@ func registerSpeakingRoutes(mux *http.ServeMux, db *sql.DB) {
 	dir := speakingVideoDir()
 	if err := os.MkdirAll(dir, 0o755); err != nil {
 		slog.Warn("speaking video directory unavailable", "dir", dir, "error", err)
+	}
+	audioDir := speakingAudioDir()
+	if err := os.MkdirAll(audioDir, 0o755); err != nil {
+		slog.Warn("speaking audio directory unavailable", "dir", audioDir, "error", err)
 	}
 
 	mux.HandleFunc("GET /api/speaking/practices", func(w http.ResponseWriter, r *http.Request) {
@@ -91,6 +133,7 @@ func registerSpeakingRoutes(mux *http.ServeMux, db *sql.DB) {
 			}
 			p.Revisions = []speakingRevision{}
 			p.Videos = []speakingVideo{}
+			p.Audio = []speakingAudio{}
 			out = append(out, p)
 		}
 		rows.Close()
@@ -115,6 +158,26 @@ func registerSpeakingRoutes(mux *http.ServeMux, db *sql.DB) {
 				out[i].Revisions = append(out[i].Revisions, v)
 			}
 			revRows.Close()
+
+			// 只给终稿挂音频：磁盘上真有对应 mp3 才出现在列表里，
+			// 没生成时前端不会渲染出点了没反应的按钮。
+			for _, v := range out[i].Revisions {
+				if v.Kind != "final" {
+					continue
+				}
+				for _, voice := range speakingAudioVoices {
+					name := speakingAudioName(out[i].ID, v.Version, voice)
+					st, statErr := os.Stat(filepath.Join(audioDir, name))
+					if statErr != nil || st.Size() == 0 {
+						continue
+					}
+					out[i].Audio = append(out[i].Audio, speakingAudio{
+						Version: v.Version,
+						Voice:   voice,
+						URL:     speakingAudioURL(out[i].ID, v.Version, voice),
+					})
+				}
+			}
 
 			vidRows, err := db.Query(`SELECT id, original_name, mime, size, created_at
 				FROM speaking_video WHERE practice_id=? ORDER BY created_at DESC, id DESC`, out[i].ID)
@@ -375,6 +438,59 @@ func registerSpeakingRoutes(mux *http.ServeMux, db *sql.DB) {
 		w.Header().Set("Cache-Control", "private, max-age=3600")
 		// ServeContent handles Range requests, so browsers can seek in long clips.
 		http.ServeContent(w, r, originalName, time.Time{}, f)
+	})
+
+	// 终稿音频。和视频一样走会话门禁，支持 Range，方便拖进度条。
+	mux.HandleFunc("GET /api/speaking/audio/{id}/{version}/{voice}", func(w http.ResponseWriter, r *http.Request) {
+		id, err := pathID(r, "id")
+		if err != nil {
+			writeErr(w, 400, err.Error())
+			return
+		}
+		version, err := strconv.Atoi(r.PathValue("version"))
+		if err != nil || version <= 0 {
+			writeErr(w, 400, "版本号不合法")
+			return
+		}
+		voice := strings.TrimSpace(r.PathValue("voice"))
+		if !validSpeakingAudioVoice(voice) {
+			writeErr(w, 400, "音色只能是 henri / denise")
+			return
+		}
+		var kind string
+		if err := db.QueryRow(`SELECT kind FROM speaking_revision WHERE practice_id=? AND version=?`,
+			id, version).Scan(&kind); err != nil {
+			if errors.Is(err, sql.ErrNoRows) {
+				writeErr(w, 404, "版本不存在")
+			} else {
+				writeErr(w, 500, err.Error())
+			}
+			return
+		}
+		if kind != "final" {
+			writeErr(w, 404, "只有终稿有音频")
+			return
+		}
+		name := speakingAudioName(id, version, voice)
+		if filepath.Base(name) != name {
+			writeErr(w, 500, "音频文件名非法")
+			return
+		}
+		f, err := os.Open(filepath.Join(audioDir, name))
+		if err != nil {
+			writeErr(w, 404, "音频还没生成")
+			return
+		}
+		defer f.Close()
+		st, err := f.Stat()
+		if err != nil {
+			writeErr(w, 500, err.Error())
+			return
+		}
+		w.Header().Set("Content-Type", "audio/mpeg")
+		w.Header().Set("X-Content-Type-Options", "nosniff")
+		w.Header().Set("Cache-Control", "private, max-age=86400")
+		http.ServeContent(w, r, name, st.ModTime(), f)
 	})
 }
 

@@ -22,7 +22,21 @@ function humanSize(n) {
   return `${(bytes / (1024 * 1024)).toFixed(1)} MB`;
 }
 
-function revisionHTML(rev) {
+function audioHTML(p, rev) {
+  if (rev.kind !== 'final') return '';
+  const list = (p.audio || []).filter(a => a.version === rev.version);
+  if (!list.length) return '';
+  const first = list.find(a => a.voice === 'henri') || list[0];
+  const voices = list.map(a => `<button type="button"
+      class="speaking-audio-voice${a === first ? ' on' : ''}"
+      data-voice-src="${esc(a.url)}">${a.voice === 'henri' ? '男声' : '女声'}</button>`).join('');
+  return `<div class="speaking-audio">
+    <audio controls preload="none" data-speaking-audio src="${esc(first.url)}"></audio>
+    <div class="speaking-audio-voices">${voices}</div>
+  </div>`;
+}
+
+function revisionHTML(p, rev) {
   const label = KIND_LABELS[rev.kind] || rev.kind;
   return `<div class="speaking-rev">
     <div class="speaking-rev-head">
@@ -30,6 +44,7 @@ function revisionHTML(rev) {
       <span class="speaking-time">${when(rev.created_at)}</span>
     </div>
     <div class="speaking-text">${esc(rev.text)}</div>
+    ${audioHTML(p, rev)}
     ${rev.note ? `<div class="speaking-note">${esc(rev.note)}</div>` : ''}
   </div>`;
 }
@@ -46,7 +61,7 @@ function videoHTML(v) {
 
 function practiceHTML(p) {
   const revs = p.revisions.length
-    ? p.revisions.map(revisionHTML).join('')
+    ? p.revisions.map(rev => revisionHTML(p, rev)).join('')
     : '<div class="speaking-empty">还没有提交记录。先写你的法语译文，再提交修改。</div>';
   const videos = p.videos.length
     ? p.videos.map(videoHTML).join('')
@@ -101,6 +116,25 @@ function practiceHTML(p) {
 }
 
 function bind(app) {
+  // 男声/女声切换：换 src 但保留播放位置
+  app.querySelectorAll('[data-voice-src]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const wrap = btn.closest('.speaking-audio');
+      const audio = wrap.querySelector('[data-speaking-audio]');
+      if (!audio || audio.dataset.pending === btn.dataset.voiceSrc) return;
+      const pos = audio.currentTime || 0;
+      const wasPlaying = !audio.paused;
+      audio.dataset.pending = btn.dataset.voiceSrc;
+      wrap.querySelectorAll('[data-voice-src]').forEach(b => b.classList.toggle('on', b === btn));
+      audio.addEventListener('loadedmetadata', () => {
+        if (pos > 0 && pos < audio.duration) audio.currentTime = pos;
+      }, { once: true });
+      audio.src = btn.dataset.voiceSrc;
+      audio.load();
+      if (wasPlaying) audio.play().catch(() => {});
+    });
+  });
+
   app.querySelectorAll('[data-speaking-submit]').forEach(btn => {
     btn.addEventListener('click', async () => {
       const card = btn.closest('[data-practice]');
