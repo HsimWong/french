@@ -407,6 +407,48 @@ func registerSpeakingRoutes(mux *http.ServeMux, db *sql.DB) {
 		})
 	})
 
+	// Delete one recording: remove its metadata row and the file on disk.
+	// This route sits behind the normal site session (only the ingest endpoint
+	// is exempt), so the scoped publishing token can never delete videos.
+	mux.HandleFunc("DELETE /api/speaking/practices/{id}/videos/{videoID}", func(w http.ResponseWriter, r *http.Request) {
+		practiceID, err := pathID(r, "id")
+		if err != nil {
+			writeErr(w, 400, err.Error())
+			return
+		}
+		videoID, err := pathID(r, "videoID")
+		if err != nil {
+			writeErr(w, 400, err.Error())
+			return
+		}
+		var storedName string
+		err = db.QueryRow(`SELECT stored_name FROM speaking_video WHERE id=? AND practice_id=?`,
+			videoID, practiceID).Scan(&storedName)
+		if errors.Is(err, sql.ErrNoRows) {
+			writeErr(w, 404, "视频不存在")
+			return
+		}
+		if err != nil {
+			writeErr(w, 500, err.Error())
+			return
+		}
+		if filepath.Base(storedName) != storedName {
+			writeErr(w, 500, "视频文件名非法")
+			return
+		}
+		if _, err := db.Exec(`DELETE FROM speaking_video WHERE id=? AND practice_id=?`,
+			videoID, practiceID); err != nil {
+			writeErr(w, 500, err.Error())
+			return
+		}
+		// The DB row is gone first; a failed file cleanup only leaves an
+		// unreferenced file behind, never a broken listing entry.
+		if err := os.Remove(filepath.Join(dir, storedName)); err != nil && !errors.Is(err, os.ErrNotExist) {
+			slog.Warn("speaking video file cleanup failed", "id", videoID, "error", err)
+		}
+		writeJSON(w, 200, map[string]any{"deleted": true, "id": videoID})
+	})
+
 	mux.HandleFunc("GET /api/speaking/videos/{id}", func(w http.ResponseWriter, r *http.Request) {
 		id, err := pathID(r, "id")
 		if err != nil {

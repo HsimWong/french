@@ -49,12 +49,15 @@ function revisionHTML(p, rev) {
   </div>`;
 }
 
-function videoHTML(v) {
+function videoHTML(practiceID, v) {
   return `<div class="speaking-video">
     <video controls preload="metadata" playsinline src="${esc(v.url)}"></video>
     <div class="speaking-video-meta">
       <span>${esc(v.original_name)}</span>
       <span>${humanSize(v.size)} · ${when(v.created_at)}</span>
+      <button type="button" class="btn btn-sm btn-danger speaking-video-delete"
+        data-speaking-delete="${practiceID}" data-video-id="${v.id}"
+        aria-label="删除视频 ${esc(v.original_name)}">删除</button>
     </div>
   </div>`;
 }
@@ -64,7 +67,7 @@ function practiceHTML(p) {
     ? p.revisions.map(rev => revisionHTML(p, rev)).join('')
     : '<div class="speaking-empty">还没有提交记录。先写你的法语译文，再提交修改。</div>';
   const videos = p.videos.length
-    ? p.videos.map(videoHTML).join('')
+    ? p.videos.map(v => videoHTML(p.id, v)).join('')
     : '<div class="speaking-empty">还没有上传视频。</div>';
   return `<section class="card speaking-card" data-practice="${p.id}">
     <div class="speaking-card-head">
@@ -191,6 +194,22 @@ function bind(app) {
         toast(`上传失败：${err.message}`);
         btn.disabled = false;
         btn.textContent = '上传视频';
+      }
+    });
+  });
+
+  app.querySelectorAll('[data-speaking-delete]').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      if (!confirm('确定删除这个视频吗？删除后无法恢复。')) return;
+      btn.disabled = true;
+      try {
+        await api(`api/speaking/practices/${btn.dataset.speakingDelete}/videos/${btn.dataset.videoId}`,
+          { method: 'DELETE' });
+        toast('视频已删除');
+        await viewSpeaking(app);
+      } catch (err) {
+        toast(`删除失败：${err.message}`);
+        btn.disabled = false;
       }
     });
   });

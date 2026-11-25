@@ -7,7 +7,9 @@ import (
 	"mime/multipart"
 	"net/http"
 	"net/http/httptest"
+	"os"
 	"path/filepath"
+	"strconv"
 	"strings"
 	"testing"
 )
@@ -154,6 +156,75 @@ func TestSpeakingVideoUploadAndServe(t *testing.T) {
 	mux.ServeHTTP(rec, req)
 	if rec.Code != http.StatusPartialContent || len(rec.Body.Bytes()) != 10 {
 		t.Fatalf("range: %d %d bytes", rec.Code, rec.Body.Len())
+	}
+}
+
+func TestSpeakingVideoDelete(t *testing.T) {
+	db, mux := speakingTestDB(t)
+	for _, episode := range []int{1, 2} {
+		payload := []byte(`{"episode":` + strconv.Itoa(episode) +
+			`,"date":"2026-11-` + strconv.Itoa(24+episode) + `","title":"练习","source":"中文原稿"}`)
+		if code, body := speakingRequest(t, mux, "POST", "/api/speaking/practices", payload, "application/json"); code != http.StatusOK {
+			t.Fatalf("create practice %d: %d %s", episode, code, body)
+		}
+	}
+
+	clip := make([]byte, 2048)
+	copy(clip, []byte{0, 0, 0, 24, 'f', 't', 'y', 'p', 'i', 's', 'o', 'm'})
+	var buf bytes.Buffer
+	mw := multipart.NewWriter(&buf)
+	part, err := mw.CreateFormFile("video", "junk.mp4")
+	if err != nil {
+		t.Fatal(err)
+	}
+	if _, err := part.Write(clip); err != nil {
+		t.Fatal(err)
+	}
+	mw.Close()
+
+	code, body := speakingRequest(t, mux, "POST", "/api/speaking/practices/1/videos", buf.Bytes(), mw.FormDataContentType())
+	if code != http.StatusCreated {
+		t.Fatalf("upload: %d %s", code, body)
+	}
+	var up struct {
+		ID int64 `json:"id"`
+	}
+	if err := json.Unmarshal(body, &up); err != nil {
+		t.Fatal(err)
+	}
+	var stored string
+	if err := db.QueryRow(`SELECT stored_name FROM speaking_video WHERE id=?`, up.ID).Scan(&stored); err != nil {
+		t.Fatal(err)
+	}
+	path := filepath.Join(os.Getenv("SPEAKING_VIDEO_DIR"), stored)
+
+	// A video cannot be deleted through a different practice's URL.
+	if code, body := speakingRequest(t, mux, "DELETE",
+		"/api/speaking/practices/2/videos/"+strconv.FormatInt(up.ID, 10), nil, ""); code != http.StatusNotFound {
+		t.Fatalf("cross-practice delete: %d %s", code, body)
+	}
+	if _, err := os.Stat(path); err != nil {
+		t.Fatalf("file removed by rejected delete: %v", err)
+	}
+
+	code, body = speakingRequest(t, mux, "DELETE",
+		"/api/speaking/practices/1/videos/"+strconv.FormatInt(up.ID, 10), nil, "")
+	if code != http.StatusOK || !strings.Contains(string(body), `"deleted":true`) {
+		t.Fatalf("delete: %d %s", code, body)
+	}
+	if _, err := os.Stat(path); !os.IsNotExist(err) {
+		t.Fatalf("video file still present: %v", err)
+	}
+	var count int
+	if err := db.QueryRow(`SELECT COUNT(*) FROM speaking_video WHERE id=?`, up.ID).Scan(&count); err != nil || count != 0 {
+		t.Fatalf("video row count = %d, err = %v", count, err)
+	}
+	if code, body := speakingRequest(t, mux, "GET", "/api/speaking/videos/"+strconv.FormatInt(up.ID, 10), nil, ""); code != http.StatusNotFound {
+		t.Fatalf("serve deleted video: %d %s", code, body)
+	}
+	if code, body := speakingRequest(t, mux, "DELETE",
+		"/api/speaking/practices/1/videos/"+strconv.FormatInt(up.ID, 10), nil, ""); code != http.StatusNotFound {
+		t.Fatalf("second delete: %d %s", code, body)
 	}
 }
 
