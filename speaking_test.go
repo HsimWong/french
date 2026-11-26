@@ -278,3 +278,76 @@ func TestSpeakingIngressDisabledWithoutToken(t *testing.T) {
 		t.Fatalf("disabled ingest = %d %s", code, body)
 	}
 }
+
+func TestSpeakingStatusProbe(t *testing.T) {
+	t.Setenv("ACCESS_PASSCODE", "site-passcode")
+	t.Setenv("SPEAKING_INGEST_TOKEN", "ingest-token-123")
+	_, mux := speakingTestDB(t)
+	h := newAuthGate().wrap(mux)
+
+	tokenStatus := func() (int, []byte) {
+		req := httptest.NewRequest("GET", "/api/speaking/status", nil)
+		req.Header.Set("Authorization", "Bearer ingest-token-123")
+		rec := httptest.NewRecorder()
+		h.ServeHTTP(rec, req)
+		return rec.Code, rec.Body.Bytes()
+	}
+
+	// Empty database: latest is null, not an error.
+	if code, body := tokenStatus(); code != http.StatusOK ||
+		!strings.Contains(string(body), `"latest":null`) {
+		t.Fatalf("empty status = %d %s", code, body)
+	}
+
+	for _, episode := range []int{1, 2} {
+		payload := []byte(`{"episode":` + strconv.Itoa(episode) +
+			`,"date":"2026-11-2` + strconv.Itoa(episode-1) + `","title":"练习","source":"中文原稿"}`)
+		req := httptest.NewRequest("POST", "/api/speaking/ingest", bytes.NewReader(payload))
+		req.Header.Set("Content-Type", "application/json")
+		req.Header.Set("Authorization", "Bearer ingest-token-123")
+		rec := httptest.NewRecorder()
+		h.ServeHTTP(rec, req)
+		if rec.Code != http.StatusOK {
+			t.Fatalf("ingest practice %d: %d %s", episode, rec.Code, rec.Body.String())
+		}
+	}
+
+	// The probe reports the newest episode with has_video=false.
+	code, body := tokenStatus()
+	if code != http.StatusOK {
+		t.Fatalf("status = %d %s", code, body)
+	}
+	var out struct {
+		Latest *struct {
+			Episode     int    `json:"episode"`
+			Date        string `json:"date"`
+			Title       string `json:"title"`
+			VideoCount  int    `json:"video_count"`
+			HasVideo    bool   `json:"has_video"`
+			VideoURL    string `json:"video_url"`
+			SourceText  string `json:"source"`
+			RevisionAll []any  `json:"revisions"`
+		} `json:"latest"`
+	}
+	if err := json.Unmarshal(body, &out); err != nil {
+		t.Fatal(err)
+	}
+	if out.Latest == nil || out.Latest.Episode != 2 || out.Latest.HasVideo || out.Latest.VideoCount != 0 {
+		t.Fatalf("unexpected status: %s", body)
+	}
+	if strings.Contains(string(body), `"source"`) || strings.Contains(string(body), `中文原稿`) {
+		t.Fatalf("status leaked prompt text: %s", body)
+	}
+
+	// No token (or a wrong one) means no probe, same as the ingress.
+	if code, _ := speakingRequest(t, h, "GET", "/api/speaking/status", nil, ""); code != http.StatusUnauthorized {
+		t.Fatalf("status without token = %d", code)
+	}
+	bad := httptest.NewRequest("GET", "/api/speaking/status", nil)
+	bad.Header.Set("Authorization", "Bearer wrong-token")
+	rec := httptest.NewRecorder()
+	h.ServeHTTP(rec, bad)
+	if rec.Code != http.StatusUnauthorized {
+		t.Fatalf("status with wrong token = %d", rec.Code)
+	}
+}

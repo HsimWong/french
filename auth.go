@@ -147,10 +147,12 @@ func (g *authGate) wrap(next http.Handler) http.Handler {
 	}
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		p := r.URL.Path
-		// /api/speaking/ingest is the only non-auth endpoint outside the gate:
-		// it carries its own scoped token (SPEAKING_INGEST_TOKEN) and is used
-		// by the daily automation. It cannot read or modify anything else.
-		if p == "/api/health" || p == "/api/speaking/ingest" || strings.HasPrefix(p, "/api/auth/") {
+		// /api/speaking/ingest (upsert prompts) and /api/speaking/status
+		// (read-only latest-episode probe) are the only non-auth endpoints
+		// outside the gate: both carry their own scoped token
+		// (SPEAKING_INGEST_TOKEN) and are used by the daily automation.
+		// They cannot read or modify anything else.
+		if p == "/api/health" || p == "/api/speaking/ingest" || p == "/api/speaking/status" || strings.HasPrefix(p, "/api/auth/") {
 			next.ServeHTTP(w, r)
 			return
 		}

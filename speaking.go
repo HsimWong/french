@@ -220,6 +220,54 @@ func registerSpeakingRoutes(mux *http.ServeMux, db *sql.DB) {
 		upsertSpeakingPractice(w, r, db)
 	})
 
+	// Read-only status probe for the daily automation, guarded by the same
+	// dedicated token as /api/speaking/ingest. It exposes only coarse facts
+	// about the newest episode — its number, date, title and whether a video
+	// has been uploaded — never prompt text, revisions or video bytes.
+	mux.HandleFunc("GET /api/speaking/status", func(w http.ResponseWriter, r *http.Request) {
+		if !speakingIngestConfigured() {
+			writeErr(w, 503, "服务器未配置 SPEAKING_INGEST_TOKEN")
+			return
+		}
+		if !validSpeakingIngestToken(r) {
+			writeErr(w, 401, "发布令牌无效")
+			return
+		}
+		var id int64
+		var episode int
+		var date, title string
+		err := db.QueryRow(`SELECT id, episode, practice_date, title_zh FROM speaking_practice
+			ORDER BY episode DESC LIMIT 1`).Scan(&id, &episode, &date, &title)
+		if errors.Is(err, sql.ErrNoRows) {
+			writeJSON(w, 200, map[string]any{"latest": nil})
+			return
+		}
+		if err != nil {
+			writeErr(w, 500, err.Error())
+			return
+		}
+		var videos, revisions int
+		if err := db.QueryRow(`SELECT COUNT(*) FROM speaking_video WHERE practice_id=?`, id).Scan(&videos); err != nil {
+			writeErr(w, 500, err.Error())
+			return
+		}
+		if err := db.QueryRow(`SELECT COUNT(*) FROM speaking_revision WHERE practice_id=?`, id).Scan(&revisions); err != nil {
+			writeErr(w, 500, err.Error())
+			return
+		}
+		writeJSON(w, 200, map[string]any{
+			"latest": map[string]any{
+				"id":             id,
+				"episode":        episode,
+				"date":           date,
+				"title":          title,
+				"video_count":    videos,
+				"has_video":      videos > 0,
+				"revision_count": revisions,
+			},
+		})
+	})
+
 	// Append-only revisions: every "submit correction" creates a new version,
 	// so the history of drafts / feedback / final scripts is never overwritten.
 	mux.HandleFunc("POST /api/speaking/practices/{id}/revisions", func(w http.ResponseWriter, r *http.Request) {
